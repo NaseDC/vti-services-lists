@@ -9,10 +9,10 @@ Every folder contains a services list. For every services list the following fil
 - lamedb
 - settings.info
 
-The settings.info file has this structure:
-name:THE NAME OF THE SERVICES LIST
-position:THE AVAILABLE SAT POSITIONS OF THE SERVICES LIST
-date:DATE OF LAST UPDATE OF SERVICES LIST
+The settings.info file has this structure:</br>
+name:THE NAME OF THE SERVICES LIST</br>
+position:THE AVAILABLE SAT POSITIONS OF THE SERVICES LIST</br>
+date:DATE OF LAST UPDATE OF SERVICES LIST</br>
 
 Following files will be ingored:
 - satellite.xml
