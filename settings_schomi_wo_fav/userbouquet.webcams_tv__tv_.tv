@@ -1,0 +1,91 @@
+#NAME Webcams TV (TV)
+#SERVICE 1:64:28B:0:0:0:0:0:0:0::--- WorldWebCams ---
+#DESCRIPTION --- WorldWebCams ---
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4098.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Amsterdam Netherlands HD
+#DESCRIPTION Amsterdam Netherlands HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/philippinesHD1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Boracay Philippines HD
+#DESCRIPTION Boracay Philippines HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3847fairmont.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Hamburg Germany HD
+#DESCRIPTION Hamburg Germany HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/AbbeyRoadHD1.flv.flv pageUrl=http%3a//earthcam.com swfUrl=http%3a//earthcam.com/swf/cam_player_v2/abbeyroad_player.swf?20120504_a live=1:London Abbey Road UK HD
+#DESCRIPTION London Abbey Road UK HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/anguilla.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Meads Bay Anguilla HD
+#DESCRIPTION Meads Bay Anguilla HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/moscowHD1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Moscow HD
+#DESCRIPTION Moscow HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/terraco.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Sao Paulo Terraco Brazil HD
+#DESCRIPTION Sao Paulo Terraco Brazil HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3644newscafe.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Miami Caffe live
+#DESCRIPTION Miami Caffe live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4049sonesta.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Cambridge Boston United States HD
+#DESCRIPTION Cambridge Boston United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4135.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Hillsboro Beach FL United States HD
+#DESCRIPTION Hillsboro Beach FL United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/miamivishd5.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Downtown Miami FL United States HD
+#DESCRIPTION Downtown Miami FL United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3819lakehamilton.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Hot Springs AR United States HD
+#DESCRIPTION Hot Springs AR United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/lacitytours1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Los Angeles CA United States HD
+#DESCRIPTION Los Angeles CA United States HD
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Diverse
+#DESCRIPTION Diverse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//petra.kitvox.net%3a1935/live1/cam2.stream:Petra Live Cam (Khazneh)
+#DESCRIPTION Petra Live Cam (Khazneh)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//petra.kitvox.net%3a1935/live1/cam1.stream:Petra Live Cam (Petra Mountains)
+#DESCRIPTION Petra Live Cam (Petra Mountains)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/miamivishd3.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Miami Marina FL United States HD
+#DESCRIPTION Miami Marina FL United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4017timessquare.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:New York Times Square United States HD
+#DESCRIPTION New York Times Square United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/pinewill.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Panama City FL United States HD
+#DESCRIPTION Panama City FL United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3635.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Myrtle Beach United States HD
+#DESCRIPTION Myrtle Beach United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4017timessquare.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Times Square New York City LIVE3 HD
+#DESCRIPTION Times Square New York City LIVE3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/breakerhd.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Palm Beach FL United States HD
+#DESCRIPTION Palm Beach FL United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4282.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:New Orleans Cats Meow Balcony LA United States HD
+#DESCRIPTION New Orleans Cats Meow Balcony LA United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/tokyo1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Tokyo Japan HD
+#DESCRIPTION Tokyo Japan HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/miamivishd2.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Sunny Isles Beach FL United States HD
+#DESCRIPTION Sunny Isles Beach FL United States HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::USA
+#DESCRIPTION USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/paradiseon6.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Austin TX United States HD
+#DESCRIPTION Austin TX United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3644newscafe.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Miami News Cafe FL United States HD
+#DESCRIPTION Miami News Cafe FL United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/eclasvegas.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Las Vegas NV United States HD
+#DESCRIPTION Las Vegas NV United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4369.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Negril Rick's Cafe Jamaica HD
+#DESCRIPTION Negril Rick's Cafe Jamaica HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/interactoneHDCam1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Sanibel Island Beach FL United States HD
+#DESCRIPTION Sanibel Island Beach FL United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/miamivishd4.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Miami Biscayne Bay FL United States HD
+#DESCRIPTION Miami Biscayne Bay FL United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3983.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Brooklyn Bridge New York City United States HD
+#DESCRIPTION Brooklyn Bridge New York City United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/diamondhead.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Fort Myers Beach The Palms United States HD
+#DESCRIPTION Fort Myers Beach The Palms United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4280.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:New Orleans Bourbon Street United States HD
+#DESCRIPTION New Orleans Bourbon Street United States HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3698sanjuan1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:San Juan Hotel & Casino Puerto Rico HD
+#DESCRIPTION San Juan Hotel & Casino Puerto Rico HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3700sanjuan3.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Conrad San Juan Condado Plaza Hotel Puerto Rico HD
+#DESCRIPTION Conrad San Juan Condado Plaza Hotel Puerto Rico HD
+#SERVICE 1:64:2:0:0:0:0:0:0:0::Tiere - saisonal
+#DESCRIPTION Tiere - saisonal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/hiireviu:Bussard 1
+#DESCRIPTION Bussard 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/hiireviu2:Bussard 2
+#DESCRIPTION Bussard 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/juras-erglis:Seeadler
+#DESCRIPTION Seeadler
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/kalakotkas2:Seeadler-Horst
+#DESCRIPTION Seeadler-Horst
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/kalakotkas:Seeadler-Horst 1
+#DESCRIPTION Seeadler-Horst 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/zivju-erglis:Seeadler-Horst 2
+#DESCRIPTION Seeadler-Horst 2

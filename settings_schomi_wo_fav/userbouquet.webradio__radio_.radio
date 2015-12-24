@@ -1,0 +1,7 @@
+#NAME Webradio (Radio)
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//party.bmr-radio.de%3A8100:Ballermann_Radio
+#DESCRIPTION Ballermann-Radio
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//mp3stream9.apasf.apa.at%3A8000:Radio_Steiermark
+#DESCRIPTION Radio-Steiermark
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//mp3stream7.apasf.apa.at%3A8000:Hitradio_OE3
+#DESCRIPTION Hitradio OE3
