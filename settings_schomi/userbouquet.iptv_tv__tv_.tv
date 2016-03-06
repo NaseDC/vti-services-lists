@@ -1,0 +1,47 @@
+#NAME IP TV (TV)
+#SERVICE 4097:0:19:5274:41D:1:C00000:0:0:0:http%3a//n24-live.hls.adaptive.level3.net/hls-live/n24-pssimn24live/_definst_/live/stream1.m3u8?sd=10&rebase=on:N24
+#DESCRIPTION N24
+#SERVICE 4097:0:1:332F:45B:1:C00000:0:0:0:rtmp%3a//mf.weltderwunder.c.nmdn.net%3a1935/wdw_pc playpath=wdwpc.sdp swfUrl=http%3a//medianac.nacamar.de/p/249/sp/24900/flash/kdp3/v3.4.10.1/kdp3.swf pageUrl=http%3a//www.weltderwunder.tv/live.html live=1:Welt der Wunder TV
+#DESCRIPTION Welt der Wunder TV
+#SERVICE 4097:0:19:286E:425:1:C00000:0:0:0:http%3a//rbb_live-lh.akamaihd.net/i/rbb_brandenburg@107638/index_1728_av-p.m3u8?rebase=on:RBB Brandenburg
+#DESCRIPTION RBB Brandenburg
+#SERVICE 4097:0:19:2870:425:1:C00000:0:0:0:http%3a//mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/index_1728_av-p.m3u8?rebase=on:MDR Sachsen
+#DESCRIPTION MDR Sachsen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/index_3776_av-p.m3u8:NDR Spezial 1
+#DESCRIPTION NDR Spezial 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/index_3776_av-p.m3u8:NDR Spezial 2
+#DESCRIPTION NDR Spezial 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/index_3776_av-p.m3u8:NDR Spezial 3
+#DESCRIPTION NDR Spezial 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_events-lh.akamaihd.net/i/ndrevent_1@119220/index_3776_av-p.m3u8:NDR Event 1
+#DESCRIPTION NDR Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_events-lh.akamaihd.net/i/ndrevent_2@119221/index_3776_av-p.m3u8:NDR Event 2
+#DESCRIPTION NDR Event 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_events-lh.akamaihd.net/i/ndrevent_3@119222/index_3776_av-p.m3u8:NDR Event 3
+#DESCRIPTION NDR Event 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/index_3776_av-p.m3u8:WDR Event 2
+#DESCRIPTION WDR Event 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/index_3776_av-p.m3u8:WDR Event 3
+#DESCRIPTION WDR Event 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_3776_av-p.m3u8:WDR Event 4
+#DESCRIPTION WDR Event 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdr_event1_hls-lh.akamaihd.net/i/livetvmdrevent1_de@106904/index_1728_av-p.m3u8:MDR Event 1
+#DESCRIPTION MDR Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveevent2.mdr.de/i/livetvmdrevent2_de@106905/index_1728_av-p.m3u8:MDR Event 2
+#DESCRIPTION MDR Event 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8:BR Event 1
+#DESCRIPTION BR Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8:BR Event 2
+#DESCRIPTION BR Event 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8:BR Event 3
+#DESCRIPTION BR Event 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/index_1_av-p.m3u8:BR Event 4
+#DESCRIPTION BR Event 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/index_1728_av-p.m3u8:RBB Event
+#DESCRIPTION RBB Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hrevent-lh.akamaihd.net/i/hr_event@309239/index_3128_av-p.m3u8:HR Event
+#DESCRIPTION HR Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//37.220.108.122%3a20000/2:BBC One
+#DESCRIPTION BBC One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//178.248.241.121/iptv/tectime.ts:tectime
+#DESCRIPTION Tectime

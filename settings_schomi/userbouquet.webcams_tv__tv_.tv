@@ -1,5 +1,5 @@
 #NAME Webcams TV (TV)
-#SERVICE 1:64:28B:0:0:0:0:0:0:0::--- WorldWebCams ---
+#SERVICE 1:64:1:0:0:0:0:0:0:0::--- WorldWebCams ---
 #DESCRIPTION --- WorldWebCams ---
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4098.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Amsterdam Netherlands HD
 #DESCRIPTION Amsterdam Netherlands HD
@@ -27,7 +27,7 @@
 #DESCRIPTION Hot Springs AR United States HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/lacitytours1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Los Angeles CA United States HD
 #DESCRIPTION Los Angeles CA United States HD
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Diverse
+#SERVICE 1:64:2:0:0:0:0:0:0:0::Diverse
 #DESCRIPTION Diverse
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//petra.kitvox.net%3a1935/live1/cam2.stream:Petra Live Cam (Khazneh)
 #DESCRIPTION Petra Live Cam (Khazneh)
@@ -51,7 +51,7 @@
 #DESCRIPTION Tokyo Japan HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/miamivishd2.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Sunny Isles Beach FL United States HD
 #DESCRIPTION Sunny Isles Beach FL United States HD
-#SERVICE 1:64:0:0:0:0:0:0:0:0::USA
+#SERVICE 1:64:3:0:0:0:0:0:0:0::USA
 #DESCRIPTION USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/paradiseon6.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Austin TX United States HD
 #DESCRIPTION Austin TX United States HD
@@ -75,7 +75,7 @@
 #DESCRIPTION San Juan Hotel & Casino Puerto Rico HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3700sanjuan3.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Conrad San Juan Condado Plaza Hotel Puerto Rico HD
 #DESCRIPTION Conrad San Juan Condado Plaza Hotel Puerto Rico HD
-#SERVICE 1:64:2:0:0:0:0:0:0:0::Tiere - saisonal
+#SERVICE 1:64:4:0:0:0:0:0:0:0::Tiere - saisonal
 #DESCRIPTION Tiere - saisonal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/hiireviu:Bussard 1
 #DESCRIPTION Bussard 1
