@@ -1,4 +1,20 @@
 #NAME Webcams TV (TV)
+#SERVICE 1:64:2:0:0:0:0:0:0:0::Tiere - saisonal
+#DESCRIPTION Tiere - saisonal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/hiireviu/playlist.m3u8:Bussard
+#DESCRIPTION Bussard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/kalakotkas2/playlist.m3u8:Seeadler-Horst
+#DESCRIPTION Seeadler-Horst
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/kalakotkas/playlist.m3u8:Seeadler-Horst 1
+#DESCRIPTION Seeadler-Horst 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/merikotkas/playlist.m3u8:Seeadler-Horst 2
+#DESCRIPTION Seeadler-Horst 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/kakk/playlist.m3u8:Steinkautz
+#DESCRIPTION Steinkautz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/mager/playlist.m3u8:Dachs
+#DESCRIPTION Dachs
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/hyljes/playlist.m3u8:Kegelrobben
+#DESCRIPTION Kegelrobben
 #SERVICE 1:64:28B:0:0:0:0:0:0:0::--- WorldWebCams ---
 #DESCRIPTION --- WorldWebCams ---
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4098.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Amsterdam Netherlands HD
@@ -75,32 +91,10 @@
 #DESCRIPTION San Juan Hotel & Casino Puerto Rico HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3700sanjuan3.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Conrad San Juan Condado Plaza Hotel Puerto Rico HD
 #DESCRIPTION Conrad San Juan Condado Plaza Hotel Puerto Rico HD
-#SERVICE 1:64:2:0:0:0:0:0:0:0::Tiere - saisonal
-#DESCRIPTION Tiere - saisonal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/hiireviu:Bussard 1
-#DESCRIPTION Bussard 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/hiireviu2:Bussard 2
-#DESCRIPTION Bussard 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/juras-erglis:Seeadler
-#DESCRIPTION Seeadler
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/kalakotkas2:Seeadler-Horst
-#DESCRIPTION Seeadler-Horst
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/kalakotkas:Seeadler-Horst 1
-#DESCRIPTION Seeadler-Horst 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live/zivju-erglis:Seeadler-Horst 2
-#DESCRIPTION Seeadler-Horst 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/kakk/playlist.m3u8:Steinkautz
-#DESCRIPTION Steinkautz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/mager/playlist.m3u8:Dachs
-#DESCRIPTION Dachs
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/hirv/playlist.m3u8:Futterplatz
-#DESCRIPTION Futterplatz
 #SERVICE 1:64:0:0:0:0:0:0:0:0::BRD
 #DESCRIPTION BRD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv102_720p.stream:DE Aachen - Drehturm Belvedere Lousberg
 #DESCRIPTION DE Aachen - Drehturm Belvedere Lousberg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv39_450p.stream:DE Augsburg
-#DESCRIPTION DE Augsburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv73_720p.stream:DE Augsburg - Hotel Augusta
 #DESCRIPTION DE Augsburg - Hotel Augusta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv39_450p.stream:DE Augsburg - Koenigsplatz
@@ -125,18 +119,10 @@
 #DESCRIPTION DE Bonn - Hausverwaltung Uwe Brodesser
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv134_720p.stream:DE Bremen - Kontorhaus
 #DESCRIPTION DE Bremen - Kontorhaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv106_720p.stream:DE Bremerhaven
-#DESCRIPTION DE Bremerhaven
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv106_720p.stream:DE Bremerhaven - Hotel Atlantic Sail City
 #DESCRIPTION DE Bremerhaven - Hotel Atlantic Sail City
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv37_720p.stream:DE Brunsbuettel
-#DESCRIPTION DE Brunsbuettel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv37_720p.stream:DE Brunsbuettel - Schleuse
 #DESCRIPTION DE Brunsbuettel - Schleuse
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv42_720p.stream:DE Buesum
-#DESCRIPTION DE Buesum
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv32_720p.stream:DE Buesum
-#DESCRIPTION DE Buesum
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv42_720p.stream:DE Buesum - Familienlagune
 #DESCRIPTION DE Buesum - Familienlagune
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv32_720p.stream:DE Buesum - Hauptstrand
@@ -145,12 +131,8 @@
 #DESCRIPTION DE Buesum - Museumshafen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv93_720p.stream:DE Chemnitz - HeiBe
 #DESCRIPTION DE Chemnitz - HeiBe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv95_720p.stream:DE Dortmund
-#DESCRIPTION DE Dortmund
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv95_720p.stream:DE Dortmund - Neues Stadthaus
 #DESCRIPTION DE Dortmund - Neues Stadthaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv59_720p.stream:DE Dresden
-#DESCRIPTION DE Dresden
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv59_720p.stream:DE Dresden - Dresdner Aussicht
 #DESCRIPTION DE Dresden - Dresdner Aussicht
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dus0600.stream:Duesseldorf Airport cam1
@@ -163,20 +145,14 @@
 #DESCRIPTION Duesseldorf Airport cam4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dusbc0c.stream:Duesseldorf Airport cam5
 #DESCRIPTION Duesseldorf Airport cam5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv61_720p.stream:DE Duisburg
-#DESCRIPTION DE Duisburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv61_720p.stream:DE Duisburg - Sportschule Wedau
 #DESCRIPTION DE Duisburg - Sportschule Wedau
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv46_720p.stream:DE Eckernfoerde
-#DESCRIPTION DE Eckernfoerde
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv46_720p.stream:DE Eckernfoerde - Hafen
 #DESCRIPTION DE Eckernfoerde - Hafen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv45_720p.stream:DE Eckernfoerde - Strand
 #DESCRIPTION DE Eckernfoerde - Strand
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv101_720p.stream:DE Erfurt - KoWo
 #DESCRIPTION DE Erfurt - KoWo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv60_720p.stream:DE Essen
-#DESCRIPTION DE Essen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv60_720p.stream:DE Essen - Ruhrturm
 #DESCRIPTION DE Essen - Ruhrturm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv17_720p.stream:DE Flensburg - Fjord Tourismus
@@ -193,16 +169,10 @@
 #DESCRIPTION DE Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv123_720p.stream:DE Gehlberg - Michael Gebser
 #DESCRIPTION DE Gehlberg - Michael Gebser
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv40_720p.stream:DE Haffkrug
-#DESCRIPTION DE Haffkrug
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv40_720p.stream:DE Haffkrug - Luebecker Bucht
 #DESCRIPTION DE Haffkrug - Luebecker Bucht
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv115_720p.stream?sa=wetter.com?sa=wetter.com:DE Halle
-#DESCRIPTION DE Halle
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv115_720p.stream:DE Halle - Mitteldeutsches Multimediazentrum
 #DESCRIPTION DE Halle - Mitteldeutsches Multimediazentrum
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv74_720p.stream:DE Hamburg
-#DESCRIPTION DE Hamburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv34_720p.stream:DE Hamburg - Empire Riverside
 #DESCRIPTION DE Hamburg - Empire Riverside
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv47_720p.stream:DE Hamburg - Emporio
@@ -211,28 +181,16 @@
 #DESCRIPTION DE Hamburg – Michel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv74_720p.stream:DE Hamburg - Unileverhaus
 #DESCRIPTION DE Hamburg - Unileverhaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/fecnetwork/3847fairmont.flv/HasBahCa.m3u8:DE Hamburg -Deutschland
-#DESCRIPTION DE Hamburg -Deutschland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv47_720p.stream:DE Hamburg_2
-#DESCRIPTION DE Hamburg_2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv34_720p.stream:DE Hamburg_3
-#DESCRIPTION DE Hamburg_3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/LS_b5586_720p.stream:DE Hamburg_4
-#DESCRIPTION DE Hamburg_4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv71_720p.stream:DE Hannover
-#DESCRIPTION DE Hannover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/fecnetwork/3847fairmont.flv/HasBahCa.m3u8:DE Hamburg - Binnenalster
+#DESCRIPTION DE Hamburg - Binnenalster
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv71_720p.stream:DE Hannover - Congress Hotel
 #DESCRIPTION DE Hannover - Congress Hotel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv75_720p.stream:DE Heidelberg
-#DESCRIPTION DE Heidelberg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv75_720p.stream:DE Heidelberg - Hotel Panorama
 #DESCRIPTION DE Heidelberg - Hotel Panorama
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv122_720p.stream:DE Heidelberg - PundM
 #DESCRIPTION DE Heidelberg - PundM
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv105_720p.stream:DE Horn
 #DESCRIPTION DE Horn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv7_720p.stream:DE Hoernum
-#DESCRIPTION DE Hoernum
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv7_720p.stream:DE Hoernum - Sylt
 #DESCRIPTION DE Hoernum - Sylt
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv157_720p.stream:DE Ischgl – Pardatschgrat Seilbahn
@@ -243,24 +201,16 @@
 #DESCRIPTION DE Juist - Inselgemeinde Juist
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv146_720p.stream:DE Juister Hof - Juist
 #DESCRIPTION DE Juister Hof - Juist
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv49_720p.stream:DE Kampen
-#DESCRIPTION DE Kampen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv49_720p.stream:DE Kampen - Sylt
 #DESCRIPTION DE Kampen - Sylt
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv125_720p.stream:DE Kassel - Best Western
 #DESCRIPTION DE Kassel - Best Western
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv38_720p.stream:DE Kiel
-#DESCRIPTION DE Kiel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv77_720p.stream:DE Kiel
-#DESCRIPTION DE Kiel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv28_720p.stream:DE Kiel – Ostufer
 #DESCRIPTION DE Kiel – Ostufer
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv77_720p.stream:DE Kiel - Port of Kiel
 #DESCRIPTION DE Kiel - Port of Kiel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv38_720p.stream:DE Kiel - Schleuse
 #DESCRIPTION DE Kiel - Schleuse
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv28_720p.stream:DE Kiel_2
-#DESCRIPTION DE Kiel_2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv143_720p.stream:DE Kitzbuehel - Hotel Rasmushof
 #DESCRIPTION DE Kitzbuehel - Hotel Rasmushof
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv36_720p.stream:DE Koblenz - Hotel Continental
@@ -271,12 +221,8 @@
 #DESCRIPTION DE Koeln - Pullman Cologne
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream:DE Koeln Heumarkt (Rhein- Domblick)
 #DESCRIPTION DE Koeln Heumarkt (Rhein- Domblick)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv67_720p.stream:DE Krefeld
-#DESCRIPTION DE Krefeld
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv67_720p.stream:DE Krefeld - Garden Hotel
 #DESCRIPTION DE Krefeld - Garden Hotel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv35_450p.stream:DE Kuehlungsborn - Strand
-#DESCRIPTION DE Kuehlungsborn - Strand
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv35_450p.stream:DE Kuehlungsborn – Strand
 #DESCRIPTION DE Kuehlungsborn – Strand
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv82_720p.stream:DE Laboe – Ehrenmal
@@ -285,8 +231,6 @@
 #DESCRIPTION DE Lech am Arlberg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv120_720p.stream:DE Lermoos - Zugspitze
 #DESCRIPTION DE Lermoos - Zugspitze
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv50_720p.stream:DE Lindau
-#DESCRIPTION DE Lindau
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv50_720p.stream:DE Lindau - Bodensee
 #DESCRIPTION DE Lindau - Bodensee
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv113_720p.stream:DE Lindau - Lindauer Hof
@@ -297,34 +241,22 @@
 #DESCRIPTION DE Luebeck - Radisson Blu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv135_720p.stream:DE Lueneburg - Hotel Bergstroem
 #DESCRIPTION DE Lueneburg - Hotel Bergstroem
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv94_720p.stream:DE Meißen
-#DESCRIPTION DE Meißen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv94_720p.stream:DE Meißen - Fa. Huebner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv94_720p.stream:DE Meißen - Fa. Huebner
 #DESCRIPTION DE Meißen - Fa. Huebner
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv118_720p.stream:DE Moenchengladbach - Best Western Crown
 #DESCRIPTION DE Moenchengladbach - Best Western Crown
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv72_720p.stream:DE Muenchen
-#DESCRIPTION DE Muenchen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv72_720p.stream:DE Muenchen - Deutsche Eiche
 #DESCRIPTION DE Muenchen - Deutsche Eiche
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv55_450p.stream:DE Muenchen - wetter.com-Redaktion
 #DESCRIPTION DE Muenchen - wetter.com-Redaktion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv55_450p.stream:DE Muenchen_2
-#DESCRIPTION DE Muenchen_2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv63_720p.stream:DE Muenster
-#DESCRIPTION DE Muenster
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv116_720p.stream:DE Muenster - Raphaelsklinik
 #DESCRIPTION DE Muenster - Raphaelsklinik
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv63_720p.stream:DE Muenster - Stadthaus
 #DESCRIPTION DE Muenster - Stadthaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv12_450p.stream:DE Neuharlingersiel
-#DESCRIPTION DE Neuharlingersiel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv12_450p.stream:DE Neuharlingersiel - Hafen Ost
 #DESCRIPTION DE Neuharlingersiel - Hafen Ost
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv13_450p.stream:DE Neuharlingersiel - Hafen West
 #DESCRIPTION DE Neuharlingersiel - Hafen West
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv13_450p.stream:DE Neuharlingersiel_2
-#DESCRIPTION DE Neuharlingersiel_2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv14_450p.stream:DE Neuharlingersiel_3
 #DESCRIPTION DE Neuharlingersiel_3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv81_720p.stream:DE Niendorf - Meerwasserhallenbad
@@ -335,8 +267,6 @@
 #DESCRIPTION DE Oberstdorf - Hotel Exquisit
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv30_720p.stream:DE Oberwiesenthal - Hotel Fichtelberghaus
 #DESCRIPTION DE Oberwiesenthal - Hotel Fichtelberghaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv91_720p.stream:DE Oldenburg
-#DESCRIPTION DE Oldenburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv91_720p.stream:DE Oldenburg - Nordwest-Zeitung
 #DESCRIPTION DE Oldenburg - Nordwest-Zeitung
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv98_720p.stream:DE Passau - Hotel Koenig
@@ -351,18 +281,12 @@
 #DESCRIPTION DE Rostock - Apartment LIVING HOTEL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv119_720p.stream:DE Rostock - Hotel Sportforum
 #DESCRIPTION DE Rostock - Hotel Sportforum
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv87_720p.stream:DE Rust
-#DESCRIPTION DE Rust
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv87_720p.stream:DE Rust - Apollon Hotel
 #DESCRIPTION DE Rust - Apollon Hotel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv68_720p.stream:DE Saarbruecken
-#DESCRIPTION DE Saarbruecken
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv68_720p.stream:DE Saarbruecken - La Residence
 #DESCRIPTION DE Saarbruecken - La Residence
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv129_720p.stream:DE Sankt Peter-Ording - Beach Motel
 #DESCRIPTION DE Sankt Peter-Ording - Beach Motel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv41_720p.stream:DE Scharbeutz
-#DESCRIPTION DE Scharbeutz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv41_720p.stream:DE Scharbeutz - Luebecker Bucht
 #DESCRIPTION DE Scharbeutz - Luebecker Bucht
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv108_720p.stream:DE Schwangau - Schloss Neuschwanstein
@@ -375,50 +299,30 @@
 #DESCRIPTION DE Stralsund - Hotel Hafenresidenz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv9_450p.stream:DE Timmendorfer Strand
 #DESCRIPTION DE Timmendorfer Strand
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv9_450p.stream:DE Timmendorfer Strand
-#DESCRIPTION DE Timmendorfer Strand
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv52_720p.stream:DE Torfhaus
-#DESCRIPTION DE Torfhaus
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv52_720p.stream:DE Torfhaus - Harz
 #DESCRIPTION DE Torfhaus - Harz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv54_450p.stream:DE Travemuende
-#DESCRIPTION DE Travemuende
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv54_450p.stream:DE Travemuende - Strand
 #DESCRIPTION DE Travemuende - Strand
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv109_720p.stream:DE Tuebingen - Casino am Neckar
 #DESCRIPTION DE Tuebingen - Casino am Neckar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv104_720p.stream:DE Tuebingen - Heindl Internet AG
 #DESCRIPTION DE Tuebingen - Heindl Internet AG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv66_720p.stream:DE Ulm
-#DESCRIPTION DE Ulm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv66_720p.stream:DE Ulm - Hotel Blaubeurer Tor
 #DESCRIPTION DE Ulm - Hotel Blaubeurer Tor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv4_450p.stream:DE Warnemuende
-#DESCRIPTION DE Warnemuende
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv16_720p.stream:DE Warnemuende - Am Strom 72
 #DESCRIPTION DE Warnemuende - Am Strom 72
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv20_450p.stream:DE Warnemuende - Best Western Hotel
 #DESCRIPTION DE Warnemuende - Best Western Hotel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv4_450p.stream:DE Warnemuende - Yachthafen
 #DESCRIPTION DE Warnemuende - Yachthafen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv92_720p.stream:DE Weimar
-#DESCRIPTION DE Weimar
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv92_720p.stream:DE Weimar - HotelPension am Goethehaus
 #DESCRIPTION DE Weimar - HotelPension am Goethehaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv43_720p.stream:DE Westerland
-#DESCRIPTION DE Westerland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv43_720p.stream:DE Westerland - Sylt
 #DESCRIPTION DE Westerland - Sylt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv25_450p.stream:DE Wiek
-#DESCRIPTION DE Wiek
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv25_450p.stream:DE Wiek - Ruegen
-#DESCRIPTION DE Wiek - Ruegen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv25_450p.stream:DE Wiek - Ruegen
 #DESCRIPTION DE Wiek - Ruegen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv88_720p.stream:DE Wolfsburg - Stadt Wolfsburg
 #DESCRIPTION DE Wolfsburg - Stadt Wolfsburg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv117_720p.stream:DE Wuppertal - Barmenia
-#DESCRIPTION DE Wuppertal - Barmenia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv117_720p.stream:DE Wuppertal - Barmenia
 #DESCRIPTION DE Wuppertal - Barmenia
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv70_720p.stream:DE Wuerzburg - Hotel Alter Kranen
