@@ -1,6 +1,7 @@
 <?xml version="1.0" ?>
 <satellites>
 	<sat name="Astra 1KR/1L/1M/1N (19.2E)" flags="1" position="192">
+		<transponder frequency="10715000" symbol_rate="23500000" polarization="0" fec_inner="3" system="1" modulation="2" onid="1" tsid="1049"/>
 		<transponder frequency="10729000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2" onid="1" tsid="1050"/>
 		<transponder frequency="10743750" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1" onid="1" tsid="1051"/>
 		<transponder frequency="10758500" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1" onid="1" tsid="1052"/>
@@ -105,7 +106,6 @@
 		<transponder frequency="12603750" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1" onid="1" tsid="1111"/>
 		<transponder frequency="12610500" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2" onid="1" tsid="1112"/>
 		<transponder frequency="12633250" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1" onid="1" tsid="1113"/>
-		<transponder frequency="12640000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2" onid="1" tsid="1114"/>
 		<transponder frequency="12662750" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1" onid="1" tsid="1115"/>
 		<transponder frequency="12669500" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2" onid="1" tsid="1116"/>
 		<transponder frequency="12692250" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1" onid="1" tsid="1117"/>
