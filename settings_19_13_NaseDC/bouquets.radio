@@ -1,4 +1,4 @@
-#NAME User - bouquets (Radio)
+#NAME
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ARD_Radio.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.Oesterreich.radio" ORDER BY bouquet
 #SERVICE 1:7:2:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.Schweiz.radio" ORDER BY bouquet
