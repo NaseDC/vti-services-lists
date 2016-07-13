@@ -24,9 +24,9 @@
 #SERVICE 1:0:19:286E:425:1:C00000:0:0:0:
 #SERVICE 1:0:19:2872:425:1:C00000:0:0:0:
 #SERVICE 1:0:19:2859:401:1:C00000:0:0:0:
-#SERVICE 4097:0:16:1523:455:1:C00000:0:0:0:http%3a//tectime.iptv-playoutcenter.de%3a1935/tectime/tectime.stream_hbb/playlist.m3u8 :TecTime Tv Mediathek (IPTV 720p)
+#SERVICE 1:0:16:1523:455:1:C00000:0:0:0:http%3a//tectime.iptv-playoutcenter.de%3a1935/tectime/tectime.stream_hbb/playlist.m3u8 :TecTime Tv Mediathek (IPTV 720p)
 #DESCRIPTION TecTime Tv Mediathek (IPTV 720p)
-#SERVICE 4097:0:16:1523:455:1:C00000:0:0:0:http%3a//tectime.iptv-playoutcenter.de%3a1935/tectime/tectime.stream/playlist.m3u8 :TecTime Tv Mediathek (IPTV 1080p)
+#SERVICE 1:0:16:1523:455:1:C00000:0:0:0:http%3a//tectime.iptv-playoutcenter.de%3a1935/tectime/tectime.stream/playlist.m3u8 :TecTime Tv Mediathek (IPTV 1080p)
 #DESCRIPTION TecTime Tv Mediathek (IPTV 1080p)
 #SERVICE 1:0:19:526C:41D:1:C00000:0:0:0:
 #SERVICE 1:0:19:1332:3EF:1:C00000:0:0:0:
