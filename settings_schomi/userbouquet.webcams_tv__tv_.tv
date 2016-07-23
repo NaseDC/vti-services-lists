@@ -181,8 +181,6 @@
 #DESCRIPTION DE Hamburg – Michel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv74_720p.stream:DE Hamburg - Unileverhaus
 #DESCRIPTION DE Hamburg - Unileverhaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/fecnetwork/3847fairmont.flv/HasBahCa.m3u8:DE Hamburg - Binnenalster
-#DESCRIPTION DE Hamburg - Binnenalster
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv71_720p.stream:DE Hannover - Congress Hotel
 #DESCRIPTION DE Hannover - Congress Hotel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv75_720p.stream:DE Heidelberg - Hotel Panorama
