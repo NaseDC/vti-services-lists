@@ -67,7 +67,7 @@
 #DESCRIPTION BR Süd HD
 #SERVICE 4097:0:19:2856:401:1:C00000:0:0:0:http%3a//livestreams.br.de/i/bfsnord_germany@119898/master.m3u8:BR Nord HD
 #DESCRIPTION BR Nord HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//http%3a//brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/master.m3u8:BR Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/master.m3u8:BR Event 1
 #DESCRIPTION BR Event 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/master.m3u8:BR Event 2
 #DESCRIPTION BR Event 2
@@ -87,6 +87,10 @@
 #DESCRIPTION MDR Event 2
 #SERVICE 4097:0:1:6D68:437:1:C00000:0:0:0:http%3a//kika_geo-lh.akamaihd.net/i/livetvkika_de@75114/master.m3u8:KIKA
 #DESCRIPTION KIKA
+#SERVICE 4097:0:1:7034:41B:1:C00000:0:0:0:http%3a//artelive-lh.akamaihd.net/i/artelive_de@393591/index_5_av-p.m3u8?sd=10&rebase=on:arte
+#DESCRIPTION arte
+#SERVICE 4097:0:1:7034:41B:199:C00000:0:0:0:http%3a//arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8?sd=10&rebase=on:arte event
+#DESCRIPTION arte event
 #SERVICE 1:64:1:0:0:0:0:0:0:0::---- Webcam´s ----
 #DESCRIPTION ---- Webcam´s ----
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//win11.yayin.com.tr/marmarisbel/uzunyali:Marmaris Belediyesi - Uzunyalı
