@@ -1,10 +1,16 @@
 #NAME IPTV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/master.m3u8:Olympia 2016 Livetream 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/index_3776_av-p.m3u8?sd=10&rebase=on:Olympia 2016 Livetream 1
 #DESCRIPTION Olympia 2016 Livetream 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/master.m3u8:Olympia 2016 Livetream 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/index_3776_av-p.m3u8?sd=10&rebase=on:Olympia 2016 Livetream 2
 #DESCRIPTION Olympia 2016 Livetream 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/master.m3u8:Olympia 2016 Livetream 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/index_3776_av-p.m3u8?sd=10&rebase=on:Olympia 2016 Livetream 3
 #DESCRIPTION Olympia 2016 Livetream 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/index_3776_av-p.m3u8?sd=10&rebase=on:Olympia 2016 Livetream 4
+#DESCRIPTION Olympia 2016 Livetream 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/index_3776_av-p.m3u8?sd=10&rebase=on:Olympia 2016 Livetream 5
+#DESCRIPTION Olympia 2016 Livetream 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/index_3776_av-p.m3u8?sd=10&rebase=on:Olympia 2016 Livetream 6
+#DESCRIPTION Olympia 2016 Livetream 6
 #SERVICE 4097:0:16:1523:455:1:C00000:0:0:0:http%3a//tectime.iptv-playoutcenter.de%3a1935/tectime/tectime.stream/playlist.m3u8 :TecTime Tv Mediathek (1080p)
 #DESCRIPTION TecTime Tv Mediathek (1080p)
 #SERVICE 4097:0:16:1523:455:1:C00000:0:0:0:http%3a//tectime.iptv-playoutcenter.de%3a1935/tectime/tectime.stream_hbb/playlist.m3u8 :TecTime Tv Mediathek (720p)
