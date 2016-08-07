@@ -47,6 +47,10 @@
 #DESCRIPTION NDR Spezial 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/index_3776_av-p.m3u8:NDR Spezial 3
 #DESCRIPTION NDR Spezial 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/index_3776_av-p.m3u8:NDR Spezial 4
+#DESCRIPTION NDR Spezial 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/index_3776_av-p.m3u8:NDR Spezial 5
+#DESCRIPTION NDR Spezial 5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_events-lh.akamaihd.net/i/ndrevent_1@119220/index_3776_av-p.m3u8:NDR Event 1
 #DESCRIPTION NDR Event 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_events-lh.akamaihd.net/i/ndrevent_2@119221/index_3776_av-p.m3u8:NDR Event 2
@@ -87,3 +91,5 @@
 #DESCRIPTION Antenne_Steiermark
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3stream9.apasf.apa.at%3a8000:Radio_Steiermark
 #DESCRIPTION Radio_Steiermark
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//party.bmr-radio.de%3a8100:Ballermann-Radio
+#DESCRIPTION Ballermann-Radio
