@@ -99,7 +99,7 @@
 #DESCRIPTION Marmaris Belediyesi - Uzunyalı
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/mager/playlist.m3u8:Dachs
 #DESCRIPTION Dachs
-#SERVICE 1:64:1:0:0:0:0:0:0:0::---- Ungarn TV ----
+#SERVICE 1:64:2:0:0:0:0:0:0:0::---- Ungarn TV ----
 #DESCRIPTION ---- Ungarn TV ----
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.82.85.44%3a1935/liveios851739io/_definst_/bptv.sdp:Budapest
 #DESCRIPTION Budapest
