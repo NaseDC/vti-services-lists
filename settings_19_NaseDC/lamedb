@@ -1470,7 +1470,7 @@ p:TQ2
 M. DEP 1
 p:Movistar+
 7690:00c00000:041e:0001:1:0
-BEINLALIGA8.
+BEINLALIGA8
 p:Movistar+
 7790:00c00000:0424:0001:1:0
 CALLE 13
@@ -2922,7 +2922,7 @@ p:BetaDigital
 Romance TV
 p:SKY,C:1833,C:1830
 0029:00c00000:0002:0085:22:0
-Sky Cinema Hits
+Sky Cinema Harry Potter
 p:SKY,C:1861
 002a:00c00000:0002:0085:22:0
 13th Street
@@ -3604,7 +3604,7 @@ CANAL+ SERIES
 p:CSAT
 2b66:00c00000:03f3:0001:25:0
 ZDF HD
-p:ZDFvision
+p:ZDFvision,c:0017de,c:0217f2,c:0317de,c:0417ea,c:050001
 1967:00c00000:044e:0001:25:0
 M6 MUSIC
 p:CSAT
@@ -3636,7 +3636,7 @@ p:CSAT
 iTELE
 p:CSAT
 006b:00c00000:000c:0085:25:0
-Sky Cinema Hits HD
+Sky Cinema Harry Potter HD
 p:SKY,C:1861
 196b:00c00000:044e:0001:25:0
 MAN X
@@ -4801,7 +4801,7 @@ p:,C:1861,C:1810
 p:,C:1861,C:1810
 00fb:00c00000:0003:0085:211:0
 Sky Select 1
-p:,C:1861
+p:
 00fc:00c00000:0003:0085:211:0
 Sky Sport Bundesliga 10
 p:
@@ -4810,9 +4810,9 @@ p:
 p:
 00fe:00c00000:0003:0085:211:0
 Sky Select Event A
-p:
+p:,C:1861
 1c1e:00c00000:0451:0035:212:0
 EPG Nagra
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.1.0.0 on 01Nov2016 17:48:44
+Edited with dreamboxEDIT 7.1.0.0 on 06Nov2016 12:22:03
