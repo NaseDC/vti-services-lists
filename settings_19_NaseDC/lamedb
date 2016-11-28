@@ -488,12 +488,12 @@ p:STN PLC
 7b16:00c00000:0415:0001:1:0
 STN Test 10
 p:STN PLC
+101c:00c00000:0451:0035:1:0
+kabel eins classics
+p:M7 Group
 2f1c:00c00000:0441:0001:1:0
 VOX
 p:CBC
-101d:00c00000:0451:0035:1:0
-TESTCH64
-p:M7 Group
 2f1d:00c00000:0441:0001:1:0
 RTLNITRO
 p:CBC
@@ -522,7 +522,7 @@ p:ProSiebenSat.1
 Kabel 1 Austria
 p:ProSiebenSat.1
 0025:00c00000:000f:0085:1:0
-.
+Sky Sport News
 p:SKY
 4e25:00c00000:043a:0001:1:0
 SAT.1 A
@@ -736,7 +736,7 @@ MDR S-Anhalt
 p:ARD
 7a45:00c00000:0410:0001:1:0
 TV Record SD
-p:Telefonica Servicios Audiovisuales
+p:TSA
 0046:00c00000:0007:0085:1:0
 BB-MV Lokal-TV
 p:BetaDigital
@@ -772,7 +772,7 @@ Juwelo TV
 p:MEDIA BROADCAST
 7a48:00c00000:0410:0001:1:0
 TELESUR
-p:Telefonica Servicios Audiovisuales
+p:TSA
 0049:00c00000:0007:0085:1:0
 DMAX Austria
 p:BetaDigital
@@ -823,7 +823,7 @@ TecTime TV
 p:Media Broadcast Satellite
 7a4d:00c00000:0410:0001:1:0
 L EQUIPE 21
-p:Telefonica Servicios Audiovisuales
+p:TSA
 114e:00c00000:0404:0001:1:0
 DW
 p:DW
@@ -835,7 +835,7 @@ Maennersache TV
 p:MEDIA BROADCAST
 7a4e:00c00000:0410:0001:1:0
 SEXYSAT TV
-p:Telefonica Servicios Audiovisuales
+p:TSA
 264f:00c00000:0460:0001:1:0
 F3 CHAMP ARDENNE
 p:CSAT
@@ -1314,7 +1314,7 @@ p:Playboy TV
 CHASSE ET PECHE
 p:AB SAT,C:0500,C:0100
 778c:00c00000:0424:0001:1:0
-TESTBL
+BEIN LALIGA
 p:Movistar+
 778d:00c00000:0424:0001:1:0
 NAT GEOGRAPH
@@ -1553,9 +1553,6 @@ p:ORS
 75af:00c00000:0422:0001:1:0
 
 p:DIGITAL+
-0fb0:00c00000:0451:0035:1:0
-CD/TVV info&nieuws
-p:M7 Group
 33b0:00c00000:03eb:0001:1:0
 Service 13232
 p:ORS
@@ -1573,7 +1570,7 @@ BAR+
 p:DIGITAL+
 7ab1:00c00000:0410:0001:1:0
 L EQUIPE 21
-p:Telefonica Serviciosn Audiovisuales
+p:TSA
 18b2:00c00000:03f4:0001:1:0
 beIN Sports 2 HD
 p:GLOBECAST
@@ -2006,6 +2003,9 @@ p:ARD MDR
 6f11:00c00000:0445:0001:2:0
 MDR SPUTNIK
 p:ARD MDR
+1012:00c00000:0451:0035:2:0
+Nostalgie
+p:M7 Group
 6f12:00c00000:0445:0001:2:0
 MDR AKTUELL
 p:ARD MDR
@@ -2027,9 +2027,15 @@ p:ARD NDR
 6f19:00c00000:0445:0001:2:0
 NDR 90,3
 p:ARD NDR
+101a:00c00000:0451:0035:2:0
+VRT Radio1
+p:M7 Group
 6f1a:00c00000:0445:0001:2:0
 NDR1WelleNord
 p:ARD NDR
+101b:00c00000:0451:0035:2:0
+VRT Radio2
+p:M7 Group
 6f1b:00c00000:0445:0001:2:0
 NDR 1 Radio MV
 p:ARD NDR
@@ -2706,26 +2712,29 @@ p:SKY,C:1861
 Sky Cinema Action
 p:SKY,C:1861
 1009:00c00000:0451:0035:22:0
-TESTCH37
+Brazzers TV
 p:M7 Group
 000a:00c00000:0004:0085:22:0
 Sky Cinema
 p:SKY,C:1861
 100a:00c00000:0451:0035:22:0
-TESTCH34
-p:M7 Group
-320a:00c00000:045f:0035:22:0
-Infokanaal TVV
+Eurosport2 ger
 p:M7 Group
 000b:00c00000:0003:0085:22:0
 Sky Cinema +1
 p:SKY,C:1861
+100b:00c00000:0451:0035:22:0
+Hustler TV
+p:M7 Group
 000c:00c00000:0002:0085:22:0
 NatGeo Wild
 p:SKY,C:1861
 000d:00c00000:0004:0085:22:0
 National Geographic
 p:SKY,C:1861
+100d:00c00000:0451:0035:22:0
+Hustler TV CZ
+p:M7 Group
 000e:00c00000:0004:0085:22:0
 Discovery Channel
 p:SKY,C:1861
@@ -2741,6 +2750,9 @@ p:SKY
 0013:00c00000:0003:0085:22:0
 Junior
 p:SKY,C:1861
+1013:00c00000:0451:0035:22:0
+Planet
+p:M7 Group
 0014:00c00000:0004:0085:22:0
 Sky Cinema Emotion
 p:SKY,C:1861
@@ -2771,6 +2783,9 @@ p:SKY,C:1861
 001d:00c00000:0004:0085:22:0
 RTL Passion
 p:SKY,C:1861,C:1837
+101d:00c00000:0451:0035:22:0
+AXN Deutschland
+p:M7 Group
 001e:00c00000:0002:0085:22:0
 Sky Sport Austria
 p:SKY,C:1861
@@ -2790,7 +2805,7 @@ p:BetaDigital
 Romance TV
 p:SKY,C:1833,C:1830
 0029:00c00000:0002:0085:22:0
-Sky Cinema Harry Potter
+Sky Cinema Hits
 p:SKY,C:1861
 002a:00c00000:0002:0085:22:0
 13th Street
@@ -2802,7 +2817,7 @@ p:SKY,C:1861
 LT1-OOE
 p:-
 1031:00c00000:0451:0035:22:0
-TESTCH37 CZ
+Brazzers TV CZ
 p:M7 Group
 0032:00c00000:0002:0085:22:0
 TNT Serie
@@ -2939,9 +2954,6 @@ p:SES,C:1867
 11ca:00c00000:0406:0001:22:0
 Dopool Drama
 p:SES,C:1867
-0fda:00c00000:0451:0035:22:0
-Test 1105
-p:M7 Group
 11da:00c00000:0406:0001:22:0
 Colors
 p:SES,C:1867
@@ -2984,9 +2996,6 @@ p:SES,C:1867
 15e1:00c00000:0403:0001:22:0
 TWOJ
 p:BetaDigital
-0fe2:00c00000:0451:0035:22:0
-TESTVDT
-p:M7 Group
 11e2:00c00000:0406:0001:22:0
 Aaj Tak UK
 p:SES,C:1867
@@ -3003,7 +3012,7 @@ p:CSAT
 R9 Oesterreich HD
 p:ORS
 7500:00c00000:0420:0001:25:0
-TESTBL HD
+BEIN LALIGA
 p:Movistar+
 0101:00c00000:000e:0085:25:0
 Sky Sport Bundesliga 10 HD
@@ -3110,6 +3119,9 @@ p:SKY
 0118:00c00000:000d:0085:25:0
 Eurosport360HD 2
 p:SKY
+1018:00c00000:0451:0035:25:0
+sportdigital HD
+p:M7 Group
 1518:00c00000:0455:0001:25:0
 sonnenklar.TV HD
 p:BetaDigital
@@ -3295,7 +3307,7 @@ p:M7 Group
 p:SKY
 283d:00c00000:03fb:0001:25:0
 Das Erste HD
-p:ARD,c:0013ed,c:0213f0,c:0313ed,c:0413f2,c:050001
+p:ARD
 013e:00c00000:000e:0085:25:0
 Sky Sport 8 HD
 p:SKY
@@ -3484,7 +3496,7 @@ CANAL+ SERIES
 p:CSAT
 2b66:00c00000:03f3:0001:25:0
 ZDF HD
-p:ZDFvision,c:0017de,c:0217f2,c:0317de,c:0417ea,c:050001
+p:ZDFvision
 1967:00c00000:044e:0001:25:0
 M6 MUSIC
 p:CSAT
@@ -3516,7 +3528,7 @@ p:CSAT
 iTELE
 p:CSAT
 006b:00c00000:000c:0085:25:0
-Sky Cinema Harry Potter HD
+Sky Cinema Hits HD
 p:SKY,C:1861
 196b:00c00000:044e:0001:25:0
 MAN X
@@ -4197,8 +4209,8 @@ p:SKY
 HLG teststream
 p:
 012e:00c00000:0419:0001:31:0
-HDR test 2
-p:
+Test technique UHD NRJ
+p:NRJTV
 07d0:00c00000:0449:0001:31:0
 INSIGHT TV UHD
 p:SES ASTRA
@@ -4695,4 +4707,4 @@ p:
 EPG Nagra
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.1.0.0 on 15Nov2016 20:37:07
+Edited with dreamboxEDIT 7.1.0.0 on 28Nov2016 20:23:57
