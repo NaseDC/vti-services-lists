@@ -347,6 +347,9 @@ p:BetaDigital
 1b00:00c00000:03fe:0001:1:0
 CCTV9 Documentary
 p:GLOBECAST
+7d00:00c00000:0405:0001:1:0
+TWOJ
+p:
 0301:00c00000:0007:0085:1:0
 Channel21
 p:BetaDigital
@@ -1987,7 +1990,7 @@ MDR S-ANHALT
 p:ARD MDR
 6f0e:00c00000:0445:0001:2:0
 MDR THÜRINGEN
-p:ARD MDR,c:010209,c:030209
+p:ARD MDR
 6f0f:00c00000:0445:0001:2:0
 MDR KULTUR
 p:ARD MDR
@@ -2224,10 +2227,10 @@ Inselradio
 p:MEDIA BROADCAST
 6d6c:00c00000:0437:0001:2:0
 DKULTUR
-p:ZDFvision
+p:ZDFvision,c:0302c6,c:0402c7
 6d6d:00c00000:0437:0001:2:0
 DLF
-p:ZDFvision
+p:ZDFvision,c:01032a,c:03032a
 316e:00c00000:0459:0001:2:0
 ffn
 p:MEDIA BROADCAST
@@ -2266,7 +2269,7 @@ Radio Regenbogen
 p:MEDIA BROADCAST
 3178:00c00000:0459:0001:2:0
 radioB2  SCHLAGER
-p:Media Broadcast Satelitte
+p:Media Broadcast Satelitte,c:01016c,c:03016c
 1c79:00c00000:0457:0001:2:0
 Radio Horeb
 p:Eurociel
@@ -2675,9 +2678,6 @@ p:M7 Group
 0fff:00c00000:0451:0035:12:0
 M7 DL DSR7141
 p:M7 Group
-7d00:00c00000:0405:0001:22:0
-TWOJ
-p:BetaDigital
 0201:00c00000:0004:0085:22:0
 Blue Movie
 p:SKY
@@ -3298,7 +3298,7 @@ p:M7 Group
 p:SKY
 283d:00c00000:03fb:0001:25:0
 Das Erste HD
-p:ARD
+p:ARD,c:0013ed,c:0213f0,c:0313ed,c:0413f2,c:050001
 013e:00c00000:000e:0085:25:0
 Sky Sport 8 HD
 p:SKY
@@ -4192,7 +4192,7 @@ SES UHD Demo Channel
 p:SES
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1830
+p:SES ASTRA
 0228:00c00000:0010:0085:31:0
 Sky Sport Bundesliga UHD
 p:SKY
@@ -4698,4 +4698,4 @@ p:
 EPG Nagra
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.1.0.0 on 02Dez2016 21:44:53
+Edited with dreamboxEDIT 7.1.0.0 on 10Dez2016 20:25:58
