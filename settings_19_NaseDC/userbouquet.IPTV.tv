@@ -19,18 +19,16 @@
 #DESCRIPTION WDR Event 4
 #SERVICE 4097:0:19:1332:3EF:1:C00000:0:0:0:http%3a//player.hdiosstv-f.akamaihd.net/i/servustvhdde_1@75540/master.m3u8:ServusTV HD
 #DESCRIPTION ServusTV HD
+#SERVICE 4097:0:1:6D70:437:1:C00000:0:0:0:http%3a//livestreams.br.de/i/bralpha_germany@119899/master.m3u8:ARD alpha
+#DESCRIPTION ARD alpha
 #SERVICE 4097:0:1:6D6E:437:1:C00000:0:0:0:http%3a//zdf1314-lh.akamaihd.net/i/de13_v1@392877/master.m3u8:zdf.neo
 #DESCRIPTION zdf.neo
 #SERVICE 4097:0:1:6D6B:437:1:C00000:0:0:0:http%3a//zdf1112-lh.akamaihd.net/i/de12_v1@392882/master.m3u8:zdf.info
 #DESCRIPTION zdf.info
-#SERVICE 4097:0:1:332F:45B:1:C00000:0:0:0:http%3a//mf.weltderwunder.c.nmdn.net/wdwlive/WDW-HQ.stream/chunklist.m3u8:Welt der Wunder
-#DESCRIPTION Welt der Wunder
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ooyalahd2-f.akamaihd.net/i/joizgerm01_delivery@324125/master.m3u8:joiz
-#DESCRIPTION joiz
 #SERVICE 4097:0:1:7031:41B:1:C00000:0:0:0:http%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-p.m3u8:Tagesschau 24
 #DESCRIPTION Tagesschau 24
-#SERVICE 4097:0:19:5274:41D:1:C00000:0:0:0:http%3a//bsn246u6-i.akamaihd.net/hls/live/237201/Live2N24CMS/02.m3u8:N24
-#DESCRIPTION N24
+#SERVICE 4097:0:19:5274:41D:1:C00000:0:0:0:http%3a//bsn246u6-i.akamaihd.net/hls/live/237201/Live2N24CMS/index.m3u8:N24 HD
+#DESCRIPTION N24 HD
 #SERVICE 4097:0:1:6E2E:431:1:C00000:0:0:0:http%3a//rbb_live-lh.akamaihd.net/i/rbb_berlin@108248/master.m3u8:rbb Berlin
 #DESCRIPTION rbb Berlin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/master.m3u8:rbb Event 1
@@ -71,8 +69,6 @@
 #DESCRIPTION BR Event 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/master.m3u8:BR Event 3
 #DESCRIPTION BR Event 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/master.m3u8:BR Event 4
-#DESCRIPTION BR Event 4
 #SERVICE 4097:0:1:6E46:431:1:C00000:0:0:0:http%3a//mdr_th_hls-lh.akamaihd.net/i/livetvmdrthueringen_de@106903/master.m3u8:MDR Thüringen
 #DESCRIPTION MDR Thüringen
 #SERVICE 4097:0:1:6E44:431:1:C00000:0:0:0:http%3a//mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/master.m3u8:MDR Sachsen
@@ -91,11 +87,11 @@
 #DESCRIPTION arte event
 #SERVICE 4097:0:19:1331:3EF:1:C00000:0:0:0:http%3a//hdiosstv-f.akamaihd.net/i/servustvhd_1@51229/index_2592_av-p.m3u8?sd=10&rebase=on:Servus TV Austria
 #DESCRIPTION Servus TV Austria
-#SERVICE 1:64:5:0:0:0:0:0:0:0::---- Webcam´s ----
+#SERVICE 1:64:1:0:0:0:0:0:0:0::---- Webcam´s ----
 #DESCRIPTION ---- Webcam´s ----
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//win11.yayin.com.tr/marmarisbel/uzunyali:Marmaris Belediyesi - Uzunyalı
 #DESCRIPTION Marmaris Belediyesi - Uzunyalı
-#SERVICE 1:64:6:0:0:0:0:0:0:0::---- Ungarn TV ----
+#SERVICE 1:64:1:0:0:0:0:0:0:0::---- Ungarn TV ----
 #DESCRIPTION ---- Ungarn TV ----
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//91.82.85.44%3a1935/liveios851739io/_definst_/bptv.sdp:Budapest
 #DESCRIPTION Budapest
@@ -105,5 +101,9 @@
 #DESCRIPTION Williems Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streamer1.streamhost.org%3a1935/salive/hungarian:Light Channel TV
 #DESCRIPTION Light Channel TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//91.82.85.71%3a1935/liverelay/dstv.sdp/HasBahCa.m3u8:Dunaujvaros DSTV_MX
+#DESCRIPTION Dunaujvaros DSTV_MX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//monitorpress.eu%3a9092/moranet.flv:Móra-Net Tv
 #DESCRIPTION Móra-Net Tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//62.113.221.3/tv38-live/livestream:TV38
+#DESCRIPTION tv-38
