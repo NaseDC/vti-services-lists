@@ -1198,19 +1198,19 @@ MULTI-X (1)
 p:DIGITAL+
 1072:00c00000:03ee:0001:1:0
 Rai HD
-p:Telespazio,c:000712,c:030712,c:040714,c:050001,C:183d,C:183e
+p:Telespazio
 7572:00c00000:0412:0001:1:0
 MULTI-X (3)
 p:DIGITAL+
 1073:00c00000:03ee:0001:1:0
 Rai 2 HD
-p:Telespazio,c:00071c,c:03071c,c:04071f,c:050001,C:183d,C:183e
+p:Telespazio
 7573:00c00000:0412:0001:1:0
 MULTIDEP.3
 p:Digital+
 1074:00c00000:03ee:0001:1:0
 Rai 3 HD
-p:Telespazio,c:000726,c:030726,c:040729,c:050001,C:183d,C:183e
+p:Telespazio
 7575:00c00000:0412:0001:1:0
 MULTIDEP.4
 p:Digital+
@@ -4195,7 +4195,7 @@ SES UHD Demo Channel
 p:SES
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA,C:1830,C:1843,C:1860,C:186a,C:186d
+p:SES ASTRA
 0228:00c00000:0010:0085:31:0
 Sky Sport Bundesliga UHD
 p:SKY
@@ -4701,4 +4701,4 @@ p:
 EPG Nagra
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.1.0.0 on 18Dez2016 18:08:04
+Edited with dreamboxEDIT 7.1.0.0 on 26Dez2016 15:29:39
