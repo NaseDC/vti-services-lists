@@ -2154,7 +2154,7 @@ p:RTVE
 Musiq 3
 p:M7 Group
 6f40:00c00000:0445:0001:2:0
-WDR Funkhaus Europa
+WDRCosmo
 p:ARD WDR
 3241:00c00000:045f:0035:2:0
 La Premiere
@@ -2272,7 +2272,7 @@ Radio Regenbogen
 p:MEDIA BROADCAST
 3178:00c00000:0459:0001:2:0
 radioB2  SCHLAGER
-p:Media Broadcast Satelitte,c:01016c,c:03016c
+p:Media Broadcast Satelitte
 1c79:00c00000:0457:0001:2:0
 Radio Horeb
 p:Eurociel
@@ -2684,6 +2684,9 @@ p:M7 Group
 0201:00c00000:0004:0085:22:0
 Blue Movie
 p:SKY
+3401:00c00000:03ed:0001:22:0
+SCHWEIZ 5
+p:ORF
 3202:00c00000:045f:0035:22:0
 AB3
 p:M7 Group
@@ -2843,9 +2846,6 @@ p:M7 Group
 003b:00c00000:000f:0085:22:0
 .
 p:BetaDigital
-274f:00c00000:0402:0001:22:0
-M6 BOUTIQUE LA CHAINE
-p:Groupe M6
 3251:00c00000:045f:0035:22:0
 Planet
 p:M7 Group
@@ -3011,9 +3011,6 @@ p:SKY
 2201:00c00000:044c:0001:25:0
 TV BREIZH
 p:CSAT
-3401:00c00000:03ed:0001:25:0
-SCHWEIZ 5
-p:ORF
 0102:00c00000:000e:0085:25:0
 Sky Sport 11 HD
 p:SKY
@@ -3301,7 +3298,7 @@ p:M7 Group
 p:SKY
 283d:00c00000:03fb:0001:25:0
 Das Erste HD
-p:ARD
+p:ARD,c:0013ed,c:0213f0,c:0313ed,c:0413f2,c:050001
 013e:00c00000:000e:0085:25:0
 Sky Sport 8 HD
 p:SKY
@@ -4701,4 +4698,4 @@ p:
 EPG Nagra
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.1.0.0 on 26Dez2016 15:29:39
+Edited with dreamboxEDIT 7.1.0.0 on 01Jan2017 16:07:36
