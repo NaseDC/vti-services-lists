@@ -105,5 +105,5 @@
 #DESCRIPTION Dunaujvaros DSTV_MX
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//monitorpress.eu%3a9092/moranet.flv:Móra-Net Tv
 #DESCRIPTION Móra-Net Tv
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//62.113.221.3/tv38-live/livestream:TV38
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//62.113.221.3/tv38-live/livestream:tv-38
 #DESCRIPTION tv-38
