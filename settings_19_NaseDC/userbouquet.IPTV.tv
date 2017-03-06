@@ -1,8 +1,4 @@
 #NAME IPTV
-#SERVICE 4097:0:16:1523:455:1:C00000:0:0:0:http%3a//tectime.iptv-playoutcenter.de%3a1935/tectime/tectime.stream/playlist.m3u8 :TecTime Tv Mediathek (1080p)
-#DESCRIPTION TecTime Tv Mediathek (1080p)
-#SERVICE 4097:0:16:1523:455:1:C00000:0:0:0:http%3a//tectime.iptv-playoutcenter.de%3a1935/tectime/tectime.stream_hbb/playlist.m3u8 :TecTime Tv Mediathek (720p)
-#DESCRIPTION TecTime Tv Mediathek (720p)
 #SERVICE 4097:0:1:6DCA:44D:1:C00000:0:0:0:http%3a//daserste_live-lh.akamaihd.net/i/daserste_de@91204/master.m3u8:Das Erste
 #DESCRIPTION Das Erste
 #SERVICE 4097:0:19:2B66:3F3:1:C00000:0:0:0:http%3a//zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8:ZDF HD
