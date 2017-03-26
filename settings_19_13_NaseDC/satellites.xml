@@ -2,7 +2,7 @@
 <!-- 
 ################################################
 ### satellites.xml by NaseDC VTi Kanallisten ###
-###             date: 25.01.2017             ###
+###             date: 16.03.2017             ###
 ################################################
 
 # <sat name="Eutelsat Hot Bird 13B/13C/13E (13.0E)" flags="0" position="130">
@@ -77,6 +77,7 @@ fec_inner=8: FEC 8/9
 		<transponder frequency="11393000" symbol_rate="27500000" polarization="1" fec_inner="4" system="1" modulation="2"/>
 		<transponder frequency="11411000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="11449000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
+		<transponder frequency="11470000" symbol_rate="27500000" polarization="1" fec_inner="5" system="0" modulation="1"/>		
 		<transponder frequency="11471000" symbol_rate="27500000" polarization="1" fec_inner="4" system="0" modulation="1"/>
 		<transponder frequency="11488000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="11508000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
@@ -151,6 +152,7 @@ fec_inner=8: FEC 8/9
 		<transponder frequency="10818000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="10832000" symbol_rate="22000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="10847000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1"/>
+		<transponder frequency="10862000" symbol_rate="23500000" polarization="0" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="10876000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1"/>
 		<transponder frequency="10891000" symbol_rate="22000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="10906000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2"/>

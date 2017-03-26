@@ -103,3 +103,12 @@
 #DESCRIPTION Móra-Net Tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//62.113.221.3/tv38-live/livestream:tv-38
 #DESCRIPTION tv-38
+
+#SERVICE 4097:0:1:384:21:85:C00000:0:0:0:http%3a//event02-lh.streaming.sport1.de/i/EVENT02_1@140377/index_1200_av-p.m3u8:sport1 PLD Glasgow
+#DESCRIPTION sport1 PLD Glasgow
+
+#SERVICE 4097:0:1:384:21:85:C00000:0:0:0:http%3a//event02-lh.streaming.sport1.de/i/EVENT02_1@140377/index_1200_av-p.m3u8:sport1 PLD Glasgow
+#DESCRIPTION sport1 PLD Glasgow
+
+
+
