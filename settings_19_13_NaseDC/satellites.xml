@@ -2,7 +2,7 @@
 <!-- 
 ################################################
 ### satellites.xml by NaseDC VTi Kanallisten ###
-###             date: 16.03.2017             ###
+###             date: 05.04.2017             ###
 ################################################
 
 # <sat name="Eutelsat Hot Bird 13B/13C/13E (13.0E)" flags="0" position="130">
@@ -40,7 +40,7 @@ fec_inner=8: FEC 8/9
 -->
 <satellites>
 	<sat name="Eutelsat Hot Bird 13B/13C/13E (13.0E)" flags="0" position="130">
-		<transponder frequency="10719000" symbol_rate="27500000" polarization="1" fec_inner="4" system="0" modulation="1"/>
+		<transponder frequency="10719000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="10727000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="10758000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="10775000" symbol_rate="27500000" polarization="0" fec_inner="4" system="0" modulation="1"/>
@@ -49,7 +49,7 @@ fec_inner=8: FEC 8/9
 		<transponder frequency="10834000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="10853000" symbol_rate="29900000" polarization="0" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="10873000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1"/>
-		<transponder frequency="10892000" symbol_rate="27500000" polarization="0" fec_inner="3" system="0" modulation="1"/>
+		<transponder frequency="10892000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="10911000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="10930000" symbol_rate="30000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="10949000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1"/>
@@ -138,7 +138,7 @@ fec_inner=8: FEC 8/9
 		<transponder frequency="12654000" symbol_rate="27500000" polarization="0" fec_inner="4" system="0" modulation="1"/>
 		<transponder frequency="12673000" symbol_rate="29900000" polarization="1" fec_inner="4" system="0" modulation="1"/>
 		<transponder frequency="12692000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
-		<transponder frequency="12713000" symbol_rate="29900000" polarization="1" fec_inner="4" system="0" modulation="1"/>
+		<transponder frequency="12713000" symbol_rate="29900000" polarization="1" fec_inner="5" system="0" modulation="1"/>
 		<transponder frequency="12731000" symbol_rate="29900000" polarization="0" fec_inner="3" system="1" modulation="2"/>
 	</sat>
 	<sat name="Astra 1KR/1L/1M/1N (19.2E)" flags="0" position="192">
