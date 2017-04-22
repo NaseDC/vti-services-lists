@@ -1,383 +1,723 @@
 #NAME Webcams TV (TV)
-#SERVICE 1:64:2:0:0:0:0:0:0:0::Tiere - saisonal
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Tiere - saisonal
 #DESCRIPTION Tiere - saisonal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/hiireviu/playlist.m3u8:Bussard
-#DESCRIPTION Bussard
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/kalakotkas2/playlist.m3u8:Seeadler-Horst
-#DESCRIPTION Seeadler-Horst
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/kalakotkas/playlist.m3u8:Seeadler-Horst 1
-#DESCRIPTION Seeadler-Horst 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/merikotkas/playlist.m3u8:Seeadler-Horst 2
-#DESCRIPTION Seeadler-Horst 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/kakk/playlist.m3u8:Steinkautz
-#DESCRIPTION Steinkautz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/mager/playlist.m3u8:Dachs
-#DESCRIPTION Dachs
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//193.40.133.138/live/hyljes/playlist.m3u8:Kegelrobben
-#DESCRIPTION Kegelrobben
-#SERVICE 1:64:28B:0:0:0:0:0:0:0::--- WorldWebCams ---
-#DESCRIPTION --- WorldWebCams ---
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4098.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Amsterdam Netherlands HD
-#DESCRIPTION Amsterdam Netherlands HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/philippinesHD1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Boracay Philippines HD
-#DESCRIPTION Boracay Philippines HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3847fairmont.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Hamburg Germany HD
-#DESCRIPTION Hamburg Germany HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/AbbeyRoadHD1.flv.flv pageUrl=http%3a//earthcam.com swfUrl=http%3a//earthcam.com/swf/cam_player_v2/abbeyroad_player.swf?20120504_a live=1:London Abbey Road UK HD
-#DESCRIPTION London Abbey Road UK HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/anguilla.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Meads Bay Anguilla HD
-#DESCRIPTION Meads Bay Anguilla HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/moscowHD1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Moscow HD
-#DESCRIPTION Moscow HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/terraco.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Sao Paulo Terraco Brazil HD
-#DESCRIPTION Sao Paulo Terraco Brazil HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3644newscafe.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Miami Caffe live
-#DESCRIPTION Miami Caffe live
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4049sonesta.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Cambridge Boston United States HD
-#DESCRIPTION Cambridge Boston United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4135.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Hillsboro Beach FL United States HD
-#DESCRIPTION Hillsboro Beach FL United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/miamivishd5.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Downtown Miami FL United States HD
-#DESCRIPTION Downtown Miami FL United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3819lakehamilton.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Hot Springs AR United States HD
-#DESCRIPTION Hot Springs AR United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/lacitytours1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Los Angeles CA United States HD
-#DESCRIPTION Los Angeles CA United States HD
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Diverse
-#DESCRIPTION Diverse
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//petra.kitvox.net%3a1935/live1/cam2.stream:Petra Live Cam (Khazneh)
-#DESCRIPTION Petra Live Cam (Khazneh)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//petra.kitvox.net%3a1935/live1/cam1.stream:Petra Live Cam (Petra Mountains)
-#DESCRIPTION Petra Live Cam (Petra Mountains)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/miamivishd3.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Miami Marina FL United States HD
-#DESCRIPTION Miami Marina FL United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4017timessquare.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:New York Times Square United States HD
-#DESCRIPTION New York Times Square United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/pinewill.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Panama City FL United States HD
-#DESCRIPTION Panama City FL United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3635.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Myrtle Beach United States HD
-#DESCRIPTION Myrtle Beach United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4017timessquare.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Times Square New York City LIVE3 HD
-#DESCRIPTION Times Square New York City LIVE3 HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/breakerhd.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Palm Beach FL United States HD
-#DESCRIPTION Palm Beach FL United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4282.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:New Orleans Cats Meow Balcony LA United States HD
-#DESCRIPTION New Orleans Cats Meow Balcony LA United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/tokyo1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Tokyo Japan HD
-#DESCRIPTION Tokyo Japan HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/miamivishd2.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Sunny Isles Beach FL United States HD
-#DESCRIPTION Sunny Isles Beach FL United States HD
-#SERVICE 1:64:0:0:0:0:0:0:0:0::USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Bijen_Binnen.stream/playlist.m3u8:Bienen - innen
+#DESCRIPTION Bienen - innen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Bijen_Buiten.stream/playlist.m3u8:Bienen - aussen
+#DESCRIPTION Bienen - aussen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Koolmees2.stream/playlist.m3u8:Kohlmeise 1
+#DESCRIPTION Kohlmeise 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Koolmees4.stream/playlist.m3u8:Kohlmeise 2
+#DESCRIPTION Kohlmeise 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Kerkuil1Binnen.stream/playlist.m3u8:Schleiereule - innen
+#DESCRIPTION Schleiereule - innen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Kerkuil1Buiten.stream/playlist.m3u8:Schleiereule - aussen
+#DESCRIPTION Schleiereule - aussen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Steenuil2Buiten.stream/playlist.m3u8:Steinkauz - innen
+#DESCRIPTION Steinkauz - innen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Steenuil2Binnen.stream/playlist.m3u8:Steinkauz - aussen
+#DESCRIPTION Steinkauz - aussen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Spreeuw2Binnen.stream/playlist.m3u8:Star - innen
+#DESCRIPTION Star - innen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Spreeuw2Buiten.stream/playlist.m3u8:Star - aussen
+#DESCRIPTION Star - aussen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Torenvalk2.stream/playlist.m3u8:Turmfalke
+#DESCRIPTION Turmfalke
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Slechtvalk1Buiten.stream/playlist.m3u8:Wanderfalke
+#DESCRIPTION Wanderfalke
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/amersfoort1/amersfoort1.stream:Amersfoort Tierpark 1
+#DESCRIPTION Amersfoort Tierpark 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/amersfoort2/amersfoort2.stream:Amersfoort Tierpark 2
+#DESCRIPTION Amersfoort Tierpark 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/amersfoort3/amersfoort3.stream:Amersfoort Tierpark 3
+#DESCRIPTION Amersfoort Tierpark 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/amersfoort4/amersfoort4.stream:Amersfoort Tierpark 4
+#DESCRIPTION Amersfoort Tierpark 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Kerkuil3&type=live&service=wowza&protocol=https&output=playlist.m3u8:Schleiereule 2017
+#DESCRIPTION Schleiereule 2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Koolmees1&type=live&service=wowza&protocol=https&output=playlist.m3u8:Kohlmeise Innen 2017
+#DESCRIPTION Kohlmeise Innen 2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Koolmees2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Kohlmeise Aussen 2017
+#DESCRIPTION Kohlmeise Aussen 2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rrr.sz.xlcdn.com/?account=omroepgelderland&file=webcam3&type=live&service=wowza&protocol=http&output=playlist.m3u8:Storch 2017
+#DESCRIPTION Storch 2017
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Reiger1&type=live&service=wowza&protocol=https&output=playlist.m3u8:Fischreiher
+#DESCRIPTION Fischreiher
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Reiger2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Fischreiher2
+#DESCRIPTION Fischreiher2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkGemert1&type=live&service=wowza&protocol=https&output=playlist.m3u8:Wanderfalke1
+#DESCRIPTION Wanderfalke1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkGemert2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Wanderfalke2
+#DESCRIPTION Wanderfalke2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SteenuilWW2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Steinkauz
+#DESCRIPTION Steinkauz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SteenuilDongen1&type=live&service=wowza&protocol=https&output=playlist.m3u8:Steinkauz Innen
+#DESCRIPTION Steinkauz Innen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SteenuilDongen2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Steinkauz Aussen
+#DESCRIPTION Steinkauz Aussen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live playpath=kalakotkas2 swfUrl=http%3a//pontu.eenet.ee/player/player.swf pageUrl=http%3a//pontu.eenet.ee/player/kalakotkas2.html:Tartu - Fischadler Nest
+#DESCRIPTION Tartu - Fischadler Nest
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Fischadler - Kalakotkas
+#DESCRIPTION Fischadler - Kalakotkas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hiireviu.m3u8:Bussard - Hiireviu
+#DESCRIPTION Bussard - Hiireviu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kakk.m3u8:Waldkauz - Kaak
+#DESCRIPTION Waldkauz - Kaak
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/must-toonekurg.m3u8:Schwarzer Storch - Must Tooneburg
+#DESCRIPTION Schwarzer Storch - Must Tooneburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hirv.m3u8:Rothirsch - Hirv
+#DESCRIPTION Rothirsch - Hirv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kasmu.m3u8:Kasmu Meeresmuseum
+#DESCRIPTION Kasmu Meeresmuseum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//webcam.tt.ee/live/pesakast:Baumstamm Nest - Pesakast
+#DESCRIPTION Baumstamm Nest - Pesakast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.29.18.68/live playpath=camera.stream swfUrl=http%3a//www.strzalowo.eu/plugins/system/flowplayerreloaded/flowplayer_r/players/flowplayer-3.2.15.swf pageUrl=http%3a//www.strzalowo.eu:Polen - Strzalowo - Schwarzwild
+#DESCRIPTION Strzalowo - Schwarzwild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//80.78.116.125/rtplive/ playpath=zoo_ek_hd.stream swfUrl=http%3a//myttk.ru/media/webcam/uppod/uppod.swf pageUrl=http%3a//myttk.ru/media/webcam/cathedral_square/ live=1:Jekaterinburg - Zoo Elefanten
+#DESCRIPTION Jekaterinburg - Zoo Elefanten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4798.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20130322_a live=1:Greenville - Zoo Giraffe Barn
+#DESCRIPTION Greenville - Zoo Giraffe Barn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4597.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20130322_a live=1:Greenville - Zoo Giraffe Outdoor
+#DESCRIPTION Greenville - Zoo Giraffe Outdoor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork playpath=woodmenHD.flv swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf pageUrl=http%3a//www.earthcam.com/usa/nebraska/omaha/falconcam/:Omaha - Falcon Nest on Woodmen Tower
+#DESCRIPTION Omaha - Falcon Nest on Woodmen Tower
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/tm playpath=tm.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.7.swf pageUrl=http%3a//www.africam.com/wildlife/tembe_webcam:Afrika - Tembe - Elefant Park
+#DESCRIPTION Tembe - Elefant Park
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/id playpath=id.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.10.swf pageUrl=http%3a//www.africam.com/wildlife/idube_webcam:Afrika - Idube Game Reserve - Mpumalanga
+#DESCRIPTION Idube Game Reserve - Mpumalanga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/be playpath=be.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.7.swf pageUrl=http%3a//www.africam.com/wildlife/black_eagle_webcam:Afrika - Johannesburg - Walter Sisulu Botanical Garden
+#DESCRIPTION Johannesburg - Walter Sisulu Botanical Garden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo playpath=cam1286 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/oja.html:Zoo Amur-Leopard I
+#DESCRIPTION Zoo Amur-Leopard I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee%3a80/tlnzoo playpath=cam7626 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/kannu.html:Zoo Amur-Leopard II
+#DESCRIPTION Zoo Amur-Leopard II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo2 playpath=cam8189 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/lume1.html:Zoo Schneeleopard I
+#DESCRIPTION Zoo Schneeleopard I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo2 playpath=cam2937 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/lume2.html:Zoo Schneeleopard II
+#DESCRIPTION Zoo Schneeleopard II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo2 playpath=cam1618 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/lume3.html:Zoo Schneeleopard III
+#DESCRIPTION Zoo Schneeleopard III
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo3 playpath=cam4880 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/elevant1.html:Zoo Elefant I
+#DESCRIPTION Zoo Elefant I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo3 playpath=cam1976 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/elevant2.html:Zoo Elefant II
+#DESCRIPTION Zoo Elefant II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo3 playpath=cam3338 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/elevant3.html:Zoo Elefant III
+#DESCRIPTION Zoo Elefant III
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo3 playpath=cam1968 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/elevant4.html:Zoo Elefant IV
+#DESCRIPTION Zoo Elefant IV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo3 playpath=cam4378 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/elevant5.html:Zoo Elefant V
+#DESCRIPTION Zoo Elefant V
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo3 playpath=cam8884 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/elevant6.html:Zoo Elefant VI
+#DESCRIPTION Zoo Elefant VI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo3 playpath=cam5128 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/elevant7.html:Zoo Elefant VII
+#DESCRIPTION Zoo Elefant VII
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo3 playpath=cam8944 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/elevant8.html:Zoo Elefant VIII
+#DESCRIPTION Zoo Elefant VIII
+#SERVICE 1:64:1:0:0:0:0:0:0:0::DE
+#DESCRIPTION DE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.221.6/stadtverwaltungWernigerrode-live/_definst_/mp4%3alivestream/chunklist_w1752229283.m3u8:Marktplatz Wernigerode
+#DESCRIPTION Marktplatz Wernigerode
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv102.stream/master.m3u8:Aachen - Drehturm Belvedere 
+#DESCRIPTION Aachen - Drehturm Belvedere 
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv148.stream/master.m3u8:Achensee - Christlum
+#DESCRIPTION Achensee - Christlum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv126_720p.stream/.m3u8:Achensee - Pertisau, Zwölferkopf
+#DESCRIPTION Achensee - Pertisau, Zwölferkopf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv155.stream/master.m3u8:Ahlbeck
+#DESCRIPTION Ahlbeck
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv73.stream/master.m3u8:Augsburg - Hotel Augusta
+#DESCRIPTION Augsburg - Hotel Augusta
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv140.stream/master.m3u8:Bad Brückenau - Kurverwaltung
+#DESCRIPTION Bad Brückenau - Kurverwaltung
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv124_720p.stream/master.m3u8:Baden-Baden - Hotel Magnetberg
+#DESCRIPTION Baden-Baden - Hotel Magnetberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv79.stream/master.m3u8:Bamberg - Klein Venedig
+#DESCRIPTION Bamberg - Klein Venedig
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv107.stream/master.m3u8:Bayreuth - Neues Rathaus
+#DESCRIPTION Bayreuth - Neues Rathaus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv131.stream/master.m3u8:Berlin - 40 Seconds
+#DESCRIPTION Berlin - 40 Seconds
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv133_720p.stream/master.m3u8:Berlin - Hotel InterContinental
+#DESCRIPTION Berlin - Hotel InterContinental
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveonearth.com%3a1935/edge0/BER/chunklist_w1592564031.m3u8?5842ba6cbbf0479c3de0a48f:Berlin-BrandenburgerTor
+#DESCRIPTION Berlin-BrandenburgerTor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv86_720p.stream/master.m3u8:Bielefeld - Stadthalle
+#DESCRIPTION Bielefeld - Stadthalle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv103.stream/master.m3u8:Binz - HOTEL AM MEER
+#DESCRIPTION Binz - HOTEL AM MEER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv114.stream/master.m3u8:Bonn
+#DESCRIPTION Bonn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv134.stream/master.m3u8:Bremen - Kontorhaus
+#DESCRIPTION Bremen - Kontorhaus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv106.stream/master.m3u8:Bremerhaven - Hotel Atlantic Sail City
+#DESCRIPTION Bremerhaven - Hotel Atlantic Sail City
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv37.stream/master.m3u8:Brunsbüttel - Schleuse
+#DESCRIPTION Brunsbüttel - Schleuse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv33.stream/master.m3u8:Büsum - Museumshafen
+#DESCRIPTION Büsum - Museumshafen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv32.stream/master.m3u8:Büsum - Hauptstrand
+#DESCRIPTION Büsum - Hauptstrand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv42.stream/master.m3u8:Büsum - Familienlagune
+#DESCRIPTION Büsum - Familienlagune
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv93.stream/master.m3u8:Chemnitz
+#DESCRIPTION Chemnitz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv95.stream/master.m3u8:Dortmund - Neues Stadthaus
+#DESCRIPTION Dortmund - Neues Stadthaus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv59.stream/master.m3u8:Dresden Randgebiet
+#DESCRIPTION Dresden Randgebiet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv100.stream/master.m3u8:Dresden Zentrum
+#DESCRIPTION Dresden Zentrum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv59.stream/master.m3u8:Dresden - Dresdner Aussicht
+#DESCRIPTION Dresden - Dresdner Aussicht
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv61.stream/master.m3u8:Duisburg - Sportschule Wedau
+#DESCRIPTION Duisburg - Sportschule Wedau
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv46.stream/master.m3u8:Eckernförde - Hafen
+#DESCRIPTION Eckernförde - Hafen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv45.stream/master.m3u8:Eckernförde - Strand
+#DESCRIPTION Eckernförde - Strand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv101.stream/master.m3u8:Erfurt - KoWo
+#DESCRIPTION Erfurt - KoWo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv60.stream/master.m3u8:Essen - Ruhrturm
+#DESCRIPTION Essen - Ruhrturm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv17.stream/master.m3u8:Flensburg
+#DESCRIPTION Flensburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv100.stream/master.m3u8:Frankfurt
+#DESCRIPTION Frankfurt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv112.stream/master.m3u8:Freiburg - Volksbank
+#DESCRIPTION Freiburg - Volksbank
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv62_720p.stream/master.m3u8:Fulda - Schlossstraße
+#DESCRIPTION Fulda - Schlossstraße
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv105.stream/master.m3u8:Gaienhofen - Hotel Gasthaus Hirschen
+#DESCRIPTION Gaienhofen - Hotel Gasthaus Hirschen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv111.stream/master.m3u8:Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
+#DESCRIPTION Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv123_720p.stream/master.m3u8:Gehlberg
+#DESCRIPTION Gehlberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv40.stream/master.m3u8:Haffkrug - Lübecker Bucht
+#DESCRIPTION Haffkrug - Lübecker Bucht
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv115.stream/master.m3u8:Halle - Mitteldeutsches Multimediazentrum
+#DESCRIPTION Halle - Mitteldeutsches Multimediazentrum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv74.stream/master.m3u8:Hamburg - Unileverhaus
+#DESCRIPTION Hamburg - Unileverhaus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv166b_720p.stream/chunklist_w626961965.m3u8:Hamburg - Empire Riverside
+#DESCRIPTION Hamburg - Empire Riverside
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv47.stream/master.m3u8:Hamburg - Emporio
+#DESCRIPTION Hamburg - Emporio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/LS_b5586.stream/master.m3u8:Hamburg - Michel
+#DESCRIPTION Hamburg - Michel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv71.stream/master.m3u8:Hannover - Congress Hotel
+#DESCRIPTION Hannover - Congress Hotel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv52.stream/master.m3u8:Harz - Brocken Torfhaus
+#DESCRIPTION Harz - Brocken Torfhaus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv122.stream/master.m3u8:Heidelberg - PundM
+#DESCRIPTION Heidelberg - PundM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv75.stream/master.m3u8:Heidelberg
+#DESCRIPTION Heidelberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv24.stream/master.m3u8:Helgoland - Am Falm
+#DESCRIPTION Helgoland - Am Falm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv51.stream/master.m3u8:Juist - Inselgemeinde Juist
+#DESCRIPTION Juist - Inselgemeinde Juist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv146.stream/master.m3u8:Juister Hof - Juist
+#DESCRIPTION Juister Hof - Juist
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv28.stream/master.m3u8:Kiel - Ostufer
+#DESCRIPTION Kiel - Ostufer
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv77.stream/master.m3u8:Kiel - Port of Kiel
+#DESCRIPTION Kiel - Port of Kiel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv38.stream/master.m3u8:Kiel - Schleuse
+#DESCRIPTION Kiel - Schleuse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream/master.m3u8:Köln
+#DESCRIPTION Köln
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv69.stream/master.m3u8:Köln - Kölnturm
+#DESCRIPTION Köln - Kölnturm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv99.stream/master.m3u8:Köln - Pullman Cologne
+#DESCRIPTION Köln - Pullman Cologne
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv67.stream/master.m3u8:Krefeld - Garden Hotel
+#DESCRIPTION Krefeld - Garden Hotel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv35.stream/master.m3u8:Kühlungsborn - Strand
+#DESCRIPTION Kühlungsborn - Strand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv82.stream/master.m3u8:Laboe - Ehrenmal
+#DESCRIPTION Laboe - Ehrenmal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv136.stream/master.m3u8:Langeness - TU Harburg
+#DESCRIPTION Langeness - TU Harburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv50.stream/master.m3u8:Lindau - Bodensee
+#DESCRIPTION Lindau - Bodensee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv113.stream/master.m3u8:Lindau - Lindauer Hof
+#DESCRIPTION Lindau - Lindauer Hof
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv8.stream/master.m3u8:Luebeck - Bucht
+#DESCRIPTION Luebeck - Bucht
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv64.stream/master.m3u8:Luebeck - Radisson Blu
+#DESCRIPTION Luebeck - Radisson Blu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv135.stream/master.m3u8:Lüneburg - Hotel Bergström
+#DESCRIPTION Lüneburg - Hotel Bergström
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv94.stream/master.m3u8:Meißen
+#DESCRIPTION Meißen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv118.stream/master.m3u8:Mönchengladbach
+#DESCRIPTION Mönchengladbach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//lb-sn1.livespotting.tv/windit-edge/vv55.stream/master.m3u8:München
+#DESCRIPTION München
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv72.stream/master.m3u8:München - Deutsche Eiche
+#DESCRIPTION München - Deutsche Eiche
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv116.stream/master.m3u8:Münster - Raphaelsklinik
+#DESCRIPTION Münster - Raphaelsklinik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv63.stream/master.m3u8:Münster - Stadthaus
+#DESCRIPTION Münster - Stadthaus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv12.stream/master.m3u8:Neuharlingersiel - Hafen Ost
+#DESCRIPTION Neuharlingersiel - Hafen Ost
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv13.stream/master.m3u8:Neuharlingersiel - Hafen West
+#DESCRIPTION Neuharlingersiel - Hafen West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv14.stream/master.m3u8:Neuharlingersiel - Panorama
+#DESCRIPTION Neuharlingersiel - Panorama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv81.stream/master.m3u8:Niendorf - Meerwasserhallenbad
+#DESCRIPTION Niendorf - Meerwasserhallenbad
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv147.stream/master.m3u8:Norderney - Zimmerservice - Norderney
+#DESCRIPTION Norderney - Zimmerservice - Norderney
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv137.stream/master.m3u8:Oberstdorf - Hotel Exquisit
+#DESCRIPTION Oberstdorf - Hotel Exquisit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv30.stream/master.m3u8:Oberwiesenthal - Hotel Fichtelberghaus
+#DESCRIPTION Oberwiesenthal - Hotel Fichtelberghaus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv91.stream/master.m3u8:Oldenburg - Nordwest-Zeitung
+#DESCRIPTION Oldenburg - Nordwest-Zeitung
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv98.stream/master.m3u8:Passau - Hotel König
+#DESCRIPTION Passau - Hotel König
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv8.stream/master.m3u8:Pelzerhaken - Lübecker Bucht
+#DESCRIPTION Pelzerhaken - Lübecker Bucht
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv126.stream/master.m3u8:Pertisau am Achensee - Bergstation
+#DESCRIPTION Pertisau am Achensee - Bergstation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv110.stream/master.m3u8:Potsdam - Hotel Am Luisenplatz
+#DESCRIPTION Potsdam - Hotel Am Luisenplatz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv89.stream/master.m3u8:Rostock - Apartment LIVING HOTEL
+#DESCRIPTION Rostock - Apartment LIVING HOTEL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv119.stream/master.m3u8:Rostock - Hotel Sportforum
+#DESCRIPTION Rostock - Hotel Sportforum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv87.stream/master.m3u8:Rust - Apollon Hotel
+#DESCRIPTION Rust - Apollon Hotel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv25.stream/master.m3u8:Rügen - Wiek
+#DESCRIPTION Rügen - Wiek
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge30.fms.stream24.net%3a443/osltv2/goehren.stream/master.m3u8:Rügen - Goeren
+#DESCRIPTION Rügen - Goeren
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv129.stream/master.m3u8:Sankt Peter-Ording - Beach Motel
+#DESCRIPTION Sankt Peter-Ording - Beach Motel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv41.stream/master.m3u8:Scharbeutz - Lübecker Bucht
+#DESCRIPTION Scharbeutz - Lübecker Bucht
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv108.stream/master.m3u8:Schwangau - Schloss Neuschwanstein
+#DESCRIPTION Schwangau - Schloss Neuschwanstein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv97.stream/master.m3u8:Schwerin
+#DESCRIPTION Schwerin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv132.stream/master.m3u8:Stralsund - Hotel Hafenresidenz
+#DESCRIPTION Stralsund - Hotel Hafenresidenz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv142.stream/master.m3u8:Stralsund - Schweriner Hof
+#DESCRIPTION Stralsund - Schweriner Hof
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv7.stream/master.m3u8:Sylt - Hörnum
+#DESCRIPTION Sylt - Hörnum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv43.stream/master.m3u8:Sylt - Westerland
+#DESCRIPTION Sylt - Westerland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv49.stream/master.m3u8:Sylt - Kampen
+#DESCRIPTION Sylt - Kampen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv81.stream/master.m3u8:Timmendorfer Strand
+#DESCRIPTION Timmendorfer Strand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv54.stream/master.m3u8:Travemünde
+#DESCRIPTION Travemünde
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv104.stream/master.m3u8:Tübingen - Heindl Internet AG
+#DESCRIPTION Tübingen - Heindl Internet AG
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv66.stream/master.m3u8:Ulm - Hotel Blaubeurer Tor
+#DESCRIPTION Ulm - Hotel Blaubeurer Tor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv16.stream/master.m3u8:Warnemuende
+#DESCRIPTION Warnemuende
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv20.stream/master.m3u8:Warnemünde - Best Western Hotel
+#DESCRIPTION Warnemünde - Best Western Hotel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv92.stream/master.m3u8:Weimar - HotelPension am Goethehaus
+#DESCRIPTION Weimar - HotelPension am Goethehaus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv88.stream/master.m3u8:Wolfsburg - Stadt Wolfsburg
+#DESCRIPTION Wolfsburg - Stadt Wolfsburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv117.stream/master.m3u8:Wuppertal - Barmenia
+#DESCRIPTION Wuppertal - Barmenia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv70.stream/master.m3u8:Würzburg - Hotel Alter Kranen
+#DESCRIPTION Würzburg - Hotel Alter Kranen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge30.fms.stream24.net/osltv3/_definst_/mp4%3azinnowitz.stream/master.m3u8:Zinnowitz
+#DESCRIPTION Zinnowitz
+#SERVICE 1:64:1:0:0:0:0:0:0:0::AUS
+#DESCRIPTION AUS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//23.227.163.183/live/kirribilli.stream:Sidney
+#DESCRIPTION Sidney
+#SERVICE 1:64:1:0:0:0:0:0:0:0::AUT
+#DESCRIPTION AUT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//linz.it-wms.com/clip_current_720p.mp4:Linz, Donaulände
+#DESCRIPTION Linz, Donaulände
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv157.stream/master.m3u8:Ischgl - Pardatschgrat Seilbahn
+#DESCRIPTION Ischgl - Pardatschgrat Seilbahn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv121.stream/master.m3u8:Kitzbühel - Hahnenkamm Bergstation
+#DESCRIPTION Kitzbühel - Hahnenkamm Bergstation
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv143.stream/master.m3u8:Kitzbühel - Hotel Rasmushof
+#DESCRIPTION Kitzbühel - Hotel Rasmushof
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv22.stream/master.m3u8:Lech am Arlberg
+#DESCRIPTION Lech am Arlberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv120.stream/master.m3u8:Lermoos - Zugspitze
+#DESCRIPTION Lermoos - Zugspitze
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv21.stream/master.m3u8:St. Anton am Arlberg
+#DESCRIPTION St. Anton am Arlberg
+#SERVICE 1:64:1:0:0:0:0:0:0:0::BL
+#DESCRIPTION BL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamcloud.be/webbxl_live/webcam.stream/playlist.m3u8:Bruessel - Grote Markt
+#DESCRIPTION Bruessel - Grote Markt
+#SERVICE 1:64:1:0:0:0:0:0:0:0::BR
+#DESCRIPTION BR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/santuario_aparecida/canal5.stream/live.m3u8:Brasilien - SANTUARIO DE APARECIDA - ALTAR CENTRAL
+#DESCRIPTION Brasilien - SANTUARIO DE APARECIDA - ALTAR CENTRAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/santuario_aparecida/canal6.stream/live.m3u8:Brasilien - SANTUARIO DE APARECIDA - SANTUARIO NACIONAL
+#DESCRIPTION Brasilien - SANTUARIO DE APARECIDA - SANTUARIO NACIONAL
+#SERVICE 1:64:1:0:0:0:0:0:0:0::CZ
+#DESCRIPTION CZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.silesnet.net/webcams/jablunkov.m3u8:Jablunkov
+#DESCRIPTION Jablunkov
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.mediawork.cz/avonet playpath=kam9.stream swfUrl=http%3a//playlist.mediawork.cz/zlin/playerCisty.swf?17013 pageUrl=http%3a//www.luhacovice.cz/5289-webova-kamera-nam.-28.-rijna:Luhacovice - Centrum
+#DESCRIPTION Luhacovice - Centrum
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.mediawork.cz/avonet playpath=kam1.stream swfUrl=http%3a//playlist.mediawork.cz/zlin/playerCisty.swf?17000 pageUrl=http%3a//www.luhacovice.cz/24796-webova-kamera-lazenske-namesti:Luhacovice - Hotel Miramar (Lazenske) - Czech Repu
+#DESCRIPTION Luhacovice - Hotel Miramar (Lazenske) - Czech Repu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.mediawork.cz/avonet playpath=kam4.stream swfUrl=http%3a//playlist.mediawork.cz/zlin/playerCisty.swf pageUrl=http%3a//www.zlin.cz/495020-webova-kamera-otrokovice-travniky:Otrokovice - Sidliste Travniky
+#DESCRIPTION Otrokovice - Sidliste Travniky
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.mediawork.cz/avonet playpath=kam8.stream swfUrl=http%3a//playlist.mediawork.cz/zlin/playerCisty.swf pageUrl=http%3a//www.zlin.cz/495067-webova-kamera-vizovice:Vizovice
+#DESCRIPTION Vizovice
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.mediawork.cz/avonet playpath=kam3.stream swfUrl=http%3a//playlist.mediawork.cz/zlin/playerCisty.swf pageUrl=http%3a//www.zlin.cz/74979-webova-kamera-zlin-namesti-miru:Zlin - Friedensplatz
+#DESCRIPTION Zlin - Friedensplatz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.mediawork.cz/avonet playpath=kam5.stream swfUrl=http%3a//playlist.mediawork.cz/zlin/playerCisty.swf pageUrl=http%3a//www.zlin.cz/494988-webova-kamera-zlin-namesti-prace:Zlin - Prace
+#DESCRIPTION Zlin - Prace
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.mediawork.cz/avonet playpath=kam2.stream swfUrl=http%3a//playlist.mediawork.cz/zlin/playerCisty.swf pageUrl=http%3a//www.zlin.cz/74950-webova-kamera-zlin-kvitkova-ulice:Zlin - Ulice Kvitkova
+#DESCRIPTION Zlin - Ulice Kvitkova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.mediawork.cz/avonet playpath=kam6.stream swfUrl=http%3a//playlist.mediawork.cz/zlin/playerCisty.swf pageUrl=http%3a//www.zlin.cz/495040-webova-kamera-na-krizovatce-tr-t.-bati-a-ul-osvobozeni-ve-zline:Zlin - Ulice Osvobozeni
+#DESCRIPTION Zlin - Ulice Osvobozeni
+#SERVICE 1:64:1:0:0:0:0:0:0:0::FR
+#DESCRIPTION FR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam2.stream/playlist.m3u8:Paris - Seine
+#DESCRIPTION Paris - Seine
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam3.stream/playlist.m3u8:Paris - Eiffelturm
+#DESCRIPTION Paris - Eiffelturm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam1.stream/playlist.m3u8:Paris 1
+#DESCRIPTION Paris 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam4.stream/playlist.m3u8:Paris 4
+#DESCRIPTION Paris 4
+#SERVICE 1:64:1:0:0:0:0:0:0:0::HU
+#DESCRIPTION HU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streamer1.borsodweb.hu/rtplive playpath=minor1 swfUrl=http%3a//webcam.minorita.hu/flowplayer-3.2.7.swf pageUrl=http%3a//webcam.minorita.hu/oltar/:Eger - Minoritenkirche
+#DESCRIPTION Eger - Minoritenkirche
+#SERVICE 1:64:1:0:0:0:0:0:0:0::ISR
+#DESCRIPTION ISR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//EU40.cast-tv.com%3a1935/23595_LIVE_Kotel_Live/23595_LIVE_Kotel_Live:Klagemauer
+#DESCRIPTION Klagemauer
+#SERVICE 1:64:1:0:0:0:0:0:0:0::JAM
+#DESCRIPTION JAM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4369.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Ricks Cafe (Negril)
+#DESCRIPTION Ricks Cafe (Negril)
+#SERVICE 1:64:1:0:0:0:0:0:0:0::NL
+#DESCRIPTION NL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/vvv-ameland/vvv-ameland.stream swfUrl=http%3a//hdtv.webcam.nl/vvv-ameland/player.swf pageUrl=http%3a//www.vvvameland.nl/webcam-vvv-ameland/webcam-1:Ameland
+#DESCRIPTION Ameland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/ameland/ameland.stream swfUrl=http%3a//hdtv.webcam.nl/website/page1/page7/player.swf pageUrl=http%3a//hdtv.webcam.nl/website/page1/page7/live_ameland_webcam_II.html:Ameland strand
+#DESCRIPTION Ameland strand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video4.earthcam.com/fecnetwork/4098.flv/playlist.m3u8:Netherlands - Amsterdam Cam
+#DESCRIPTION Netherlands - Amsterdam Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/artesis/artesis.stream swfUrl=http%3a//bouw.webcam.nl/artesis/player.swf pageUrl=http%3a//bouw.webcam.nl/artesis/:Antwerpen - Artesis Campus Noord
+#DESCRIPTION Antwerpen - Artesis Campus Noord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/sealife/sealife.stream swfUrl=http%3a//hdtv.webcam.nl/sealife/player.swf pageUrl=http%3a//hdtv.webcam.nl/sealife/:Blankenberge - Sealife 1
+#DESCRIPTION Blankenberge - Sealife 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/sealife2/sealife2.stream swfUrl=http%3a//hdtv.webcam.nl/sealife/cam02/player.swf pageUrl=http%3a//hdtv.webcam.nl/sealife/cam02/:Blankenberge - Sealife 2
+#DESCRIPTION Blankenberge - Sealife 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/flevoland/flevoland.stream swfUrl=http%3a//hdtv.webcam.nl/flevoland/player.swf pageUrl=http%3a//hdtv.webcam.nl/flevoland/:Dronten
+#DESCRIPTION Dronten
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/vencogroep/vencogroep.stream swfUrl=http%3a//hdtv.webcam.nl/vencogroep/player.swf pageUrl=http%3a//hdtv.webcam.nl/vencogroep/:Eersel - Rondeel kippenstal
+#DESCRIPTION Eersel - Rondeel kippenstal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/flevoland4/flevoland4.stream:Emmeloord
+#DESCRIPTION Emmeloord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/18sp.stream:Eindhoven - Centrum: 18 Septemberplein
+#DESCRIPTION Eindhoven - Centrum: 18 Septemberplein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/curegml.stream:Eindhoven - Milieustraat Gabriël Metsulaan
+#DESCRIPTION Eindhoven - Milieustraat Gabriël Metsulaan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/cureldst.stream:Eindhoven - Milieustraat Lodewijkstraat
+#DESCRIPTION Eindhoven - Milieustraat Lodewijkstraat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/klokgebouw.stream:Eindhoven - Strijp-S: Klokgebouw
+#DESCRIPTION Eindhoven - Strijp-S: Klokgebouw
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/torenallee.stream:Eindhoven - Strijp-S: Torenallee
+#DESCRIPTION Eindhoven - Strijp-S: Torenallee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/elburg/elburg.stream:Elburg haven
+#DESCRIPTION Elburg haven
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/flevoweer/flevoweer.stream swfUrl=http%3a//hdtv.webcam.nl/flevoweer/player.swf pageUrl=http%3a//hdtv.webcam.nl/flevoweer/:Flevoland
+#DESCRIPTION Flevoland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/genemuiden/genemuiden.stream swfUrl=http%3a//hdtv.webcam.nl/genemuiden/player.swf pageUrl=http%3a//hdtv.webcam.nl/genemuiden/:Genemuiden - havenplein
+#DESCRIPTION Genemuiden - havenplein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//mediaserv20.live-streams.nl%3a80/beachclubroyal playpath=beachclubroyal.stream swfUrl=http%3a//www.video-streams.nl/flow/flowplayer-3.2.11.swf pageUrl=http%3a//gobefore.me/cams/beach_club_royal/:Hoek van Holland - Beach Club Royal
+#DESCRIPTION Hoek van Holland - Beach Club Royal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/hoekvanholland/hoekvanholland.stream swfUrl=http%3a//hdtv.webcam.nl/hoekvanholland/player.swf pageUrl=http%3a//hdtv.webcam.nl/hoekvanholland/:Hoek van Holland - Dechi Beach
+#DESCRIPTION Hoek van Holland - Dechi Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming4.webcam.nl%3a1935/ijmuiden01/ijmuiden01.stream:IJmuiden Marina seaport
+#DESCRIPTION IJmuiden Marina seaport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//srv13.arkasis.nl%3a/566/default.stream:IJmuiden zeesluis
+#DESCRIPTION IJmuiden zeesluis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//88.159.1.72%3a1935/lon/De_koppelaar.stream_720p/playlist.m3u8:Nuenen - De Koppelaar
+#DESCRIPTION Nuenen - De Koppelaar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/koeksebelt/koeksebelt.stream swfUrl=http%3a//bouw.webcam.nl/koeksebelt/player.swf pageUrl=http%3a//bouw.webcam.nl/koeksebelt/:Ommen - Koeksebelt
+#DESCRIPTION Ommen - Koeksebelt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//livestream.oolderplas.nl%3a1935/live/camera.stream/playlist.m3u8:Roermond - Herten, Oolderplas
+#DESCRIPTION Roermond - Herten, Oolderplas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/cofely/cofely.stream swfUrl=http%3a//bouw.webcam.nl/cofely/player.swf pageUrl=http%3a//bouw.webcam.nl/cofely/:Rotterdam - Cofely West Industrie
+#DESCRIPTION Rotterdam - Cofely West Industrie
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//live.streamink.nl%3a80/live/sys1.stream:Scheveningen Boulevard
+#DESCRIPTION Scheveningen Boulevard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream1.streamink.nl%3a80/live/sys8.stream:Scheveningen Golf Surf
+#DESCRIPTION Scheveningen Golf Surf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream1.streamink.nl%3a80/live/sys5.stream:Scheveningen Havenhoofd Noord
+#DESCRIPTION Scheveningen Havenhoofd Noord
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream1.streamink.nl%3a80/live/sys4.stream:Scheveningen Havenhoofd Zuid
+#DESCRIPTION Scheveningen Havenhoofd Zuid
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream1.streamink.nl%3a80/live/sys19.stream:Scheveningen KiteSurf
+#DESCRIPTION Scheveningen KiteSurf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//live.streamink.nl%3a80/live/sys2.stream:Scheveningen Strand
+#DESCRIPTION Scheveningen Strand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream1.streamink.nl%3a80/live/sys7.stream:Scheveningen Sportstrand
+#DESCRIPTION Scheveningen Sportstrand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webcamserverdh.dyndns-remote.com%3a1935/live/ehtx.stream/&mp4%3aplaylist.m3u8:Texel airport
+#DESCRIPTION Texel airport
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/flevoland2/flevoland2.stream swfUrl=http%3a//hdtv.webcam.nl/flevoland2/player.swf pageUrl=http%3a//hdtv.webcam.nl/flevoland2/:Urk
+#DESCRIPTION Urk
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming3.webcam.nl/nprc/nprc.stream swfUrl=http%3a//hdtv.webcam.nl/vaart/flash/player.swf pageUrl=http%3a//hdtv.webcam.nl/vaart/flash/:Zwijndrecht
+#DESCRIPTION Zwijndrecht
+#SERVICE 1:64:1:0:0:0:0:0:0:0::PL
+#DESCRIPTION PL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kamera.task.gda.pl/rtplive playpath=k109.sdp swfUrl=http%3a//task.gda.pl/tech/uslugi/stream/kamera_player/player.swf?362 pageUrl=http%3a//www.task.gda.pl/uslugi/stream/kamera_gdansk_glowne_miasto live=1:Gdansk - Glowne Miasto
+#DESCRIPTION Gdansk - Glowne Miasto
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.silesnet.net/webcams/cieszyn.m3u8:Cieszyn
+#DESCRIPTION Cieszyn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kamera.task.gda.pl/rtplive playpath=k015.sdp swfUrl=http%3a//task.gda.pl/tech/uslugi/stream/kamera_player/player.swf?213 pageUrl=http%3a//www.task.gda.pl/uslugi/stream/kamera_gdynia_skwer_kosciuszki live=1:Gdynia - Hafen
+#DESCRIPTION Gdynia - Hafen
+#SERVICE 1:64:1:0:0:0:0:0:0:0::PRT
+#DESCRIPTION PRT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/espinho.stream/livestream.m3u8:Praia de Espinho
+#DESCRIPTION Praia de Espinho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/saotorpes.stream/livestream.m3u8:Praia de Sao Torpes
+#DESCRIPTION Praia de Sao Torpes
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/carvalhal.stream/livestream.m3u8:Praia do Carvalhal
+#DESCRIPTION Praia do Carvalhal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/guincho.stream/livestream.m3u8:Praia do Guincho
+#DESCRIPTION Praia do Guincho
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/leca.stream/livestream.m3u8:Praia Leca da Palmeria
+#DESCRIPTION Praia Leca da Palmeria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/jardim.stream/livestream.m3u8:Praia Madeira Jardim do Mar
+#DESCRIPTION Praia Madeira Jardim do Mar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/matosinhos.stream/livestream.m3u8:Praia Matosinhos
+#DESCRIPTION Praia Matosinhos
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/ribeira.stream/livestream.m3u8:Praia Ribeira
+#DESCRIPTION Praia Ribeira
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santacruz.stream/livestream.m3u8:Praia Santa Cruz
+#DESCRIPTION Praia Santa Cruz
+#SERVICE 1:64:1:0:0:0:0:0:0:0::RU
+#DESCRIPTION RU
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//80.78.116.125/rtplive/ playpath=5goda_hd.stream swfUrl=http%3a//myttk.ru/media/webcam/uppod/uppod.swf pageUrl=http%3a//myttk.ru/media/webcam/cathedral_square/ live=1:Jekaterinburg - 1905 Platz
+#DESCRIPTION Jekaterinburg - 1905 Platz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//80.78.116.125/rtplive/ playpath=plot_hd.stream swfUrl=http%3a//myttk.ru/media/webcam/uppod/uppod.swf pageUrl=http%3a//myttk.ru/media/webcam/cathedral_square/ live=1:Jekaterinburg - Prospect Lenina & Plotinka
+#DESCRIPTION Jekaterinburg - Prospect Lenina & Plotinka
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//mediasrv.uralttk.ru%3a1935/rtplive playpath=solikamsk_hd.stream swfUrl=http%3a//myttk.ru/media/webcam/uppod/uppod.swf pageUrl=http%3a//myttk.ru/media/webcam/cathedral_square/ live=1:Solikamsk - Kathedral Platz
+#DESCRIPTION Solikamsk - Kathedral Platz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kamera.task.gda.pl/rtplive playpath=molo.sdp swfUrl=http%3a//task.gda.pl/tech/uslugi/stream/kamera_player/player.swf?550 pageUrl=http%3a//www.task.gda.pl/uslugi/stream/kamera_sopot_molo live=1:Sopot - Molo
+#DESCRIPTION Sopot - Molo
+#SERVICE 1:64:A:0:0:0:0:0:0:0::SRB
+#DESCRIPTION SRB
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//TrgSlobode.stream:NoviSad - Trg Slobode
+#DESCRIPTION NoviSad - Trg Slobode
+#SERVICE 1:64:1:0:0:0:0:0:0:0::SVN
+#DESCRIPTION SVN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cdn-01.whatsupcams.com/live//si_hse1_2:HE Krsko
+#DESCRIPTION HE Krsko
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cdn-01.whatsupcams.com/live/si_golte2:Skijalište Golte - Uspinjaca
+#DESCRIPTION Skijalište Golte - Uspinjaca
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cdn-01.whatsupcams.com/live/si_mostnasoci:Most na Soci - Pogled na jezero
+#DESCRIPTION Most na Soci - Pogled na jezero
+#SERVICE 1:64:1:0:0:0:0:0:0:0::UKR
+#DESCRIPTION UKR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//85.90.192.233/rtplive2 playpath=veltonMedium49.stream swfUrl=http%3a//velton.ua/ru/webcams/VeltonKhSquareNew.swf pageUrl=http%3a//velton.ua/ru/webcams/Wide1HQ.shtml:Charkow - Platz der Freiheit
+#DESCRIPTION Charkow - Platz der Freiheit
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//77.122.171.152%3a8080/tv playpath=tv swfUrl=http%3a//www.kdtro.com.ua/play/player.swf pageUrl=http%3a//www.kdtro.com.ua/online/onlinetv:Krywyi Rih - Hotel Reikartz Aurora
+#DESCRIPTION Krywyi Rih - Hotel Reikartz Aurora
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//85.90.192.233/rtplive2 playpath=veltonMedium52.stream swfUrl=http%3a//velton.ua/ru/webcams/VeltonPlayerWideNew.swf pageUrl=http%3a%3a//velton.ua/ru/webcams/Wide5HQ.shtml%3aOdessa:Odessa  - Catherine Square
+#DESCRIPTION Odessa  - Catherine Square
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//85.90.192.233/rtplive2 playpath=veltonMedium53.stream swfUrl=http%3a//velton.ua/ru/webcams/VeltonPlayerWideNew.swf pageUrl=http%3a%3a//velton.ua/ru/webcams/Wide3HQ.shtml%3aPoltawa:Poltawa  - Strasse der Oktoberrevolution
+#DESCRIPTION Poltawa  - Strasse der Oktoberrevolution
+#SERVICE 1:64:1:0:0:0:0:0:0:0::USA
 #DESCRIPTION USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/paradiseon6.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Austin TX United States HD
-#DESCRIPTION Austin TX United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3644newscafe.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Miami News Cafe FL United States HD
-#DESCRIPTION Miami News Cafe FL United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/eclasvegas.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Las Vegas NV United States HD
-#DESCRIPTION Las Vegas NV United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4369.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Negril Rick's Cafe Jamaica HD
-#DESCRIPTION Negril Rick's Cafe Jamaica HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/interactoneHDCam1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Sanibel Island Beach FL United States HD
-#DESCRIPTION Sanibel Island Beach FL United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/miamivishd4.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Miami Biscayne Bay FL United States HD
-#DESCRIPTION Miami Biscayne Bay FL United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3983.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Brooklyn Bridge New York City United States HD
-#DESCRIPTION Brooklyn Bridge New York City United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/diamondhead.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Fort Myers Beach The Palms United States HD
-#DESCRIPTION Fort Myers Beach The Palms United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/4280.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:New Orleans Bourbon Street United States HD
-#DESCRIPTION New Orleans Bourbon Street United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3698sanjuan1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:San Juan Hotel & Casino Puerto Rico HD
-#DESCRIPTION San Juan Hotel & Casino Puerto Rico HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3700sanjuan3.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Conrad San Juan Condado Plaza Hotel Puerto Rico HD
-#DESCRIPTION Conrad San Juan Condado Plaza Hotel Puerto Rico HD
-#SERVICE 1:64:0:0:0:0:0:0:0:0::BRD
-#DESCRIPTION BRD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv102_720p.stream:DE Aachen - Drehturm Belvedere Lousberg
-#DESCRIPTION DE Aachen - Drehturm Belvedere Lousberg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv73_720p.stream:DE Augsburg - Hotel Augusta
-#DESCRIPTION DE Augsburg - Hotel Augusta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv39_450p.stream:DE Augsburg - Koenigsplatz
-#DESCRIPTION DE Augsburg - Koenigsplatz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv140_720p.stream:DE Bad Brueckenau - Kurverwaltung Bad Brueckenau
-#DESCRIPTION DE Bad Brueckenau - Kurverwaltung Bad Brueckenau
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv124_720p.stream:DE Baden-Baden - Hotel Magnetberg
-#DESCRIPTION DE Baden-Baden - Hotel Magnetberg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv79_720p.stream:DE Bamberg - Klein Venedig
-#DESCRIPTION DE Bamberg - Klein Venedig
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv107_720p.stream:DE Bayreuth - Neues Rathaus
-#DESCRIPTION DE Bayreuth - Neues Rathaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv131_720p.stream:DE Berlin - 40 Seconds
-#DESCRIPTION DE Berlin - 40 Seconds
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv133_720p.stream:DE Berlin - Restaurant Hugos/Hotel InterContinental
-#DESCRIPTION DE Berlin - Restaurant Hugos/Hotel InterContinental
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv86_720p.stream:DE Bielefeld - Stadthalle
-#DESCRIPTION DE Bielefeld - Stadthalle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv103_720p.stream:DE Binz - HOTEL AM MEER & SPA
-#DESCRIPTION DE Binz - HOTEL AM MEER & SPA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv114_720p.stream:DE Bonn - Hausverwaltung Uwe Brodesser
-#DESCRIPTION DE Bonn - Hausverwaltung Uwe Brodesser
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv134_720p.stream:DE Bremen - Kontorhaus
-#DESCRIPTION DE Bremen - Kontorhaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv106_720p.stream:DE Bremerhaven - Hotel Atlantic Sail City
-#DESCRIPTION DE Bremerhaven - Hotel Atlantic Sail City
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv37_720p.stream:DE Brunsbuettel - Schleuse
-#DESCRIPTION DE Brunsbuettel - Schleuse
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv42_720p.stream:DE Buesum - Familienlagune
-#DESCRIPTION DE Buesum - Familienlagune
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv32_720p.stream:DE Buesum - Hauptstrand
-#DESCRIPTION DE Buesum - Hauptstrand
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv33_720p.stream:DE Buesum - Museumshafen
-#DESCRIPTION DE Buesum - Museumshafen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv93_720p.stream:DE Chemnitz - HeiBe
-#DESCRIPTION DE Chemnitz - HeiBe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv95_720p.stream:DE Dortmund - Neues Stadthaus
-#DESCRIPTION DE Dortmund - Neues Stadthaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv59_720p.stream:DE Dresden - Dresdner Aussicht
-#DESCRIPTION DE Dresden - Dresdner Aussicht
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dus0600.stream:Duesseldorf Airport cam1
-#DESCRIPTION Duesseldorf Airport cam1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dus8a21.stream:Duesseldorf Airport cam2
-#DESCRIPTION Duesseldorf Airport cam2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dus2777.stream:Duesseldorf Airport cam3
-#DESCRIPTION Duesseldorf Airport cam3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dus275d.stream:Duesseldorf Airport cam4
-#DESCRIPTION Duesseldorf Airport cam4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dusbc0c.stream:Duesseldorf Airport cam5
-#DESCRIPTION Duesseldorf Airport cam5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv61_720p.stream:DE Duisburg - Sportschule Wedau
-#DESCRIPTION DE Duisburg - Sportschule Wedau
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv46_720p.stream:DE Eckernfoerde - Hafen
-#DESCRIPTION DE Eckernfoerde - Hafen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv45_720p.stream:DE Eckernfoerde - Strand
-#DESCRIPTION DE Eckernfoerde - Strand
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv101_720p.stream:DE Erfurt - KoWo
-#DESCRIPTION DE Erfurt - KoWo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv60_720p.stream:DE Essen - Ruhrturm
-#DESCRIPTION DE Essen - Ruhrturm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv17_720p.stream:DE Flensburg - Fjord Tourismus
-#DESCRIPTION DE Flensburg - Fjord Tourismus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv100_720p.stream:DE Frankfurt - Stadt Frankfurt am Main
-#DESCRIPTION DE Frankfurt - Stadt Frankfurt am Main
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv112_720p.stream:DE Freiburg - Volksbank
-#DESCRIPTION DE Freiburg - Volksbank
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv62_720p.stream:DE Fulda - Schlossstraße
-#DESCRIPTION DE Fulda - Schlossstraße
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv105_720p.stream:DE Gaienhofen - Hotel Gasthaus Hirschen
-#DESCRIPTION DE Gaienhofen - Hotel Gasthaus Hirschen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv111_720p.stream:DE Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
-#DESCRIPTION DE Garmisch-Partenkirchen - Hotel Vier Jahreszeiten
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv123_720p.stream:DE Gehlberg - Michael Gebser
-#DESCRIPTION DE Gehlberg - Michael Gebser
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv40_720p.stream:DE Haffkrug - Luebecker Bucht
-#DESCRIPTION DE Haffkrug - Luebecker Bucht
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv115_720p.stream:DE Halle - Mitteldeutsches Multimediazentrum
-#DESCRIPTION DE Halle - Mitteldeutsches Multimediazentrum
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv34_720p.stream:DE Hamburg - Empire Riverside
-#DESCRIPTION DE Hamburg - Empire Riverside
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv47_720p.stream:DE Hamburg - Emporio
-#DESCRIPTION DE Hamburg - Emporio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/LS_b5586_720p.stream:DE Hamburg – Michel
-#DESCRIPTION DE Hamburg – Michel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv74_720p.stream:DE Hamburg - Unileverhaus
-#DESCRIPTION DE Hamburg - Unileverhaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv71_720p.stream:DE Hannover - Congress Hotel
-#DESCRIPTION DE Hannover - Congress Hotel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv75_720p.stream:DE Heidelberg - Hotel Panorama
-#DESCRIPTION DE Heidelberg - Hotel Panorama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv122_720p.stream:DE Heidelberg - PundM
-#DESCRIPTION DE Heidelberg - PundM
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv105_720p.stream:DE Horn
-#DESCRIPTION DE Horn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv7_720p.stream:DE Hoernum - Sylt
-#DESCRIPTION DE Hoernum - Sylt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv157_720p.stream:DE Ischgl – Pardatschgrat Seilbahn
-#DESCRIPTION DE Ischgl – Pardatschgrat Seilbahn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv128_720p.stream:DE Ischgl - Talstation
-#DESCRIPTION DE Ischgl - Talstation
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv51_720p.stream:DE Juist - Inselgemeinde Juist
-#DESCRIPTION DE Juist - Inselgemeinde Juist
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv146_720p.stream:DE Juister Hof - Juist
-#DESCRIPTION DE Juister Hof - Juist
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv49_720p.stream:DE Kampen - Sylt
-#DESCRIPTION DE Kampen - Sylt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv125_720p.stream:DE Kassel - Best Western
-#DESCRIPTION DE Kassel - Best Western
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv28_720p.stream:DE Kiel – Ostufer
-#DESCRIPTION DE Kiel – Ostufer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv77_720p.stream:DE Kiel - Port of Kiel
-#DESCRIPTION DE Kiel - Port of Kiel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv38_720p.stream:DE Kiel - Schleuse
-#DESCRIPTION DE Kiel - Schleuse
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv143_720p.stream:DE Kitzbuehel - Hotel Rasmushof
-#DESCRIPTION DE Kitzbuehel - Hotel Rasmushof
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv36_720p.stream:DE Koblenz - Hotel Continental
-#DESCRIPTION DE Koblenz - Hotel Continental
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv69_720p.stream:DE Koeln
-#DESCRIPTION DE Koeln
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv99_720p.stream:DE Koeln - Pullman Cologne
-#DESCRIPTION DE Koeln - Pullman Cologne
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//62.113.221.6/neueDorint-rtp/KoelnHeumarkt.stream:DE Koeln Heumarkt (Rhein- Domblick)
-#DESCRIPTION DE Koeln Heumarkt (Rhein- Domblick)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv67_720p.stream:DE Krefeld - Garden Hotel
-#DESCRIPTION DE Krefeld - Garden Hotel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv35_450p.stream:DE Kuehlungsborn – Strand
-#DESCRIPTION DE Kuehlungsborn – Strand
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv82_720p.stream:DE Laboe – Ehrenmal
-#DESCRIPTION DE Laboe – Ehrenmal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv22_720p.stream:DE Lech am Arlberg
-#DESCRIPTION DE Lech am Arlberg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv120_720p.stream:DE Lermoos - Zugspitze
-#DESCRIPTION DE Lermoos - Zugspitze
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv50_720p.stream:DE Lindau - Bodensee
-#DESCRIPTION DE Lindau - Bodensee
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv113_720p.stream:DE Lindau - Lindauer Hof
-#DESCRIPTION DE Lindau - Lindauer Hof
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv44_720p.stream:DE Luebeck - MUK
-#DESCRIPTION DE Luebeck - MUK
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv64_720p.stream:DE Luebeck - Radisson Blu
-#DESCRIPTION DE Luebeck - Radisson Blu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv135_720p.stream:DE Lueneburg - Hotel Bergstroem
-#DESCRIPTION DE Lueneburg - Hotel Bergstroem
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv94_720p.stream:DE Meißen - Fa. Huebner
-#DESCRIPTION DE Meißen - Fa. Huebner
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv118_720p.stream:DE Moenchengladbach - Best Western Crown
-#DESCRIPTION DE Moenchengladbach - Best Western Crown
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv72_720p.stream:DE Muenchen - Deutsche Eiche
-#DESCRIPTION DE Muenchen - Deutsche Eiche
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv55_450p.stream:DE Muenchen - wetter.com-Redaktion
-#DESCRIPTION DE Muenchen - wetter.com-Redaktion
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv116_720p.stream:DE Muenster - Raphaelsklinik
-#DESCRIPTION DE Muenster - Raphaelsklinik
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv63_720p.stream:DE Muenster - Stadthaus
-#DESCRIPTION DE Muenster - Stadthaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv12_450p.stream:DE Neuharlingersiel - Hafen Ost
-#DESCRIPTION DE Neuharlingersiel - Hafen Ost
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv13_450p.stream:DE Neuharlingersiel - Hafen West
-#DESCRIPTION DE Neuharlingersiel - Hafen West
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv14_450p.stream:DE Neuharlingersiel_3
-#DESCRIPTION DE Neuharlingersiel_3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv81_720p.stream:DE Niendorf - Meerwasserhallenbad
-#DESCRIPTION DE Niendorf - Meerwasserhallenbad
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv147_720p.stream:DE Norderney - Zimmerservice - Norderney
-#DESCRIPTION DE Norderney - Zimmerservice - Norderney
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv137_720p.stream:DE Oberstdorf - Hotel Exquisit
-#DESCRIPTION DE Oberstdorf - Hotel Exquisit
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv30_720p.stream:DE Oberwiesenthal - Hotel Fichtelberghaus
-#DESCRIPTION DE Oberwiesenthal - Hotel Fichtelberghaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv91_720p.stream:DE Oldenburg - Nordwest-Zeitung
-#DESCRIPTION DE Oldenburg - Nordwest-Zeitung
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv98_720p.stream:DE Passau - Hotel Koenig
-#DESCRIPTION DE Passau - Hotel Koenig
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv8_450p.stream:DE Pelzerhaken - Luebecker Bucht
-#DESCRIPTION DE Pelzerhaken - Luebecker Bucht
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv126_720p.stream:DE Pertisau am Achensee - Bergstation
-#DESCRIPTION DE Pertisau am Achensee - Bergstation
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv110_720p.stream:DE Potsdam - Hotel Am Luisenplatz
-#DESCRIPTION DE Potsdam - Hotel Am Luisenplatz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv89_720p.stream:DE Rostock - Apartment LIVING HOTEL
-#DESCRIPTION DE Rostock - Apartment LIVING HOTEL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv119_720p.stream:DE Rostock - Hotel Sportforum
-#DESCRIPTION DE Rostock - Hotel Sportforum
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv87_720p.stream:DE Rust - Apollon Hotel
-#DESCRIPTION DE Rust - Apollon Hotel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv68_720p.stream:DE Saarbruecken - La Residence
-#DESCRIPTION DE Saarbruecken - La Residence
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv129_720p.stream:DE Sankt Peter-Ording - Beach Motel
-#DESCRIPTION DE Sankt Peter-Ording - Beach Motel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv41_720p.stream:DE Scharbeutz - Luebecker Bucht
-#DESCRIPTION DE Scharbeutz - Luebecker Bucht
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv108_720p.stream:DE Schwangau - Schloss Neuschwanstein
-#DESCRIPTION DE Schwangau - Schloss Neuschwanstein
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv97_720p.stream:DE Schwerin - Com In IT Solution Center
-#DESCRIPTION DE Schwerin - Com In IT Solution Center
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv21_720p.stream:DE St. Anton am Arlberg
-#DESCRIPTION DE St. Anton am Arlberg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv132_720p.stream:DE Stralsund - Hotel Hafenresidenz
-#DESCRIPTION DE Stralsund - Hotel Hafenresidenz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//lb-sn1.livespotting.tv%3a1935/windit-edge?sa=wetter.com?sa=wetter.com/vv9_450p.stream:DE Timmendorfer Strand
-#DESCRIPTION DE Timmendorfer Strand
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv52_720p.stream:DE Torfhaus - Harz
-#DESCRIPTION DE Torfhaus - Harz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv54_450p.stream:DE Travemuende - Strand
-#DESCRIPTION DE Travemuende - Strand
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv109_720p.stream:DE Tuebingen - Casino am Neckar
-#DESCRIPTION DE Tuebingen - Casino am Neckar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv104_720p.stream:DE Tuebingen - Heindl Internet AG
-#DESCRIPTION DE Tuebingen - Heindl Internet AG
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv66_720p.stream:DE Ulm - Hotel Blaubeurer Tor
-#DESCRIPTION DE Ulm - Hotel Blaubeurer Tor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv16_720p.stream:DE Warnemuende - Am Strom 72
-#DESCRIPTION DE Warnemuende - Am Strom 72
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv20_450p.stream:DE Warnemuende - Best Western Hotel
-#DESCRIPTION DE Warnemuende - Best Western Hotel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv4_450p.stream:DE Warnemuende - Yachthafen
-#DESCRIPTION DE Warnemuende - Yachthafen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv92_720p.stream:DE Weimar - HotelPension am Goethehaus
-#DESCRIPTION DE Weimar - HotelPension am Goethehaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv43_720p.stream:DE Westerland - Sylt
-#DESCRIPTION DE Westerland - Sylt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv25_450p.stream:DE Wiek - Ruegen
-#DESCRIPTION DE Wiek - Ruegen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv88_720p.stream:DE Wolfsburg - Stadt Wolfsburg
-#DESCRIPTION DE Wolfsburg - Stadt Wolfsburg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv117_720p.stream:DE Wuppertal - Barmenia
-#DESCRIPTION DE Wuppertal - Barmenia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv70_720p.stream:DE Wuerzburg - Hotel Alter Kranen
-#DESCRIPTION DE Wuerzburg - Hotel Alter Kranen
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Unbekannt
-#DESCRIPTION Unbekannt
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv141_720p.stream:DE 141_720p.stream
-#DESCRIPTION DE 141_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv144_720p.stream:DE 144_720p.stream
-#DESCRIPTION DE 144_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv149_720p.stream:DE 149_720p.stream
-#DESCRIPTION DE 149_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv150_720p.stream:DE 150_720p.stream
-#DESCRIPTION DE 150_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv151_720p.stream:DE 151_720p.stream
-#DESCRIPTION DE 151_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv153_720p.stream:DE 153_720p.stream
-#DESCRIPTION DE 153_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv154_720p.stream:DE 154_720p.stream
-#DESCRIPTION DE 154_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv155_720p.stream:DE 155_720p.stream
-#DESCRIPTION DE 155_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv156_720p.stream:DE 156_720p.stream
-#DESCRIPTION DE 156_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv159_720p.stream:DE 159_720p.stream
-#DESCRIPTION DE 159_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv160_720p.stream:DE 160_720p.stream
-#DESCRIPTION DE 160_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv161_720p.stream:DE 161_720p.stream
-#DESCRIPTION DE 161_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv162_720p.stream:DE 162_720p.stream
-#DESCRIPTION DE 162_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv163_720p.stream:DE 163_720p.stream
-#DESCRIPTION DE 163_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv164_720p.stream:DE 164_720p.stream
-#DESCRIPTION DE 164_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv170_720p.stream:DE 170_720p.stream
-#DESCRIPTION DE 170_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv171_720p.stream:DE 171_720p.stream
-#DESCRIPTION DE 171_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv172_720p.stream:DE 172_720p.stream
-#DESCRIPTION DE 172_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv173_720p.stream:DE 173_720p.stream
-#DESCRIPTION DE 173_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv174_720p.stream:DE 174_720p.stream
-#DESCRIPTION DE 174_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv175_720p.stream:DE 175_720p.stream
-#DESCRIPTION DE 175_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv177_720p.stream:DE 177_720p.stream
-#DESCRIPTION DE 177_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv54_720p.stream:DE 54_720p.stream
-#DESCRIPTION DE 54_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv58_720p.stream:DE 58_720p.stream
-#DESCRIPTION DE 58_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv80_720p.stream:DE 80_720p.stream
-#DESCRIPTION DE 80_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv82_720p.stream:DE 82_720p.stream
-#DESCRIPTION DE 82_720p.stream
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv83_720p.stream:DE 83_720p.strea
-#DESCRIPTION DE 83_720p.strea
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8620.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/AZ/sedona/gateway/:AZ - Sedona Gateway Cam
+#DESCRIPTION AZ - Sedona Gateway Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video2.earthcam.com/fecnetwork/sedonawebcam.flv/playlist.m3u8:AZ - Sedona, Red Rock Cam
+#DESCRIPTION AZ - Sedona, Red Rock Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video2.earthcam.com/fecnetwork/5805.flv/playlist.m3u8:AZ - Sedona, Seven Arches
+#DESCRIPTION AZ - Sedona, Seven Arches
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4049sonesta.flv/playlist.m3u8:MA - Cambridge Boston
+#DESCRIPTION MA - Cambridge Boston
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5023.flv/playlist.m3u8:CA - Aliso Beach
+#DESCRIPTION CA - Aliso Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/lacitytours1.flv/playlist.m3u8:CA - LA, Hollywood Blvd
+#DESCRIPTION CA - LA, Hollywood Blvd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6603.flv/playlist.m3u8:CA - San Francisco
+#DESCRIPTION CA - San Francisco
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6253.flv/playlist.m3u8:CA - Santa Monica
+#DESCRIPTION CA - Santa Monica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6175.flv/playlist.m3u8:CA - Venice Beach
+#DESCRIPTION CA - Venice Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5460.flv/playlist.m3u8:CA - Gerald Desmond Bridge
+#DESCRIPTION CA - Gerald Desmond Bridge
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5187.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/IL/chicago/field/:IL - Chicago Cam
+#DESCRIPTION IL - Chicago Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=3186.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/IL/chicago/wrigleyfield/?cam=wrigleyfield_hd:IL - Chigago Wrigley Field Cam
+#DESCRIPTION IL - Chigago Wrigley Field Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5718.flv/playlist.m3u8:FL - Daytona Beach
+#DESCRIPTION FL - Daytona Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5424.flv/playlist.m3u8:FL - Destin
+#DESCRIPTION FL - Destin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5663.flv/playlist.m3u8:FL - Destin Sandestin Beach
+#DESCRIPTION FL - Destin Sandestin Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/windjammerHD2.flv/playlist.m3u8:FL - Fort Lauderdale USA HD
+#DESCRIPTION FL - Fort Lauderdale USA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5719.flv/playlist.m3u8:FL - Fort Myers
+#DESCRIPTION FL - Fort Myers
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=diamondhead.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/fortmyers/?cam=fort_myers_hd:FL - Fort Myers Beach, The Palms
+#DESCRIPTION FL - Fort Myers Beach, The Palms
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7571.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/stpetersburg/?cam=stpeteair:FL - Flight Cam
+#DESCRIPTION FL - Flight Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live-audio/hogsbreath1.stream_aac/chunklist.m3u8:FL - Key West - Hogs Breath Saloon Bar Cam
+#DESCRIPTION FL - Key West - Hogs Breath Saloon Bar Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live-audio/hogsbreath2.stream_aac/chunklist.m3u8:FL - Key West - Hogs Breath Saloon Raw Bar Cam
+#DESCRIPTION FL - Key West - Hogs Breath Saloon Raw Bar Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live-audio/hogsbreath3.stream_aac/chunklist.m3u8:FL - Key West - Hogs Breath Saloon Stage Cam
+#DESCRIPTION FL - Key West - Hogs Breath Saloon Stage Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//52.2.51.240%3a1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8:FL - Key West - Irish Kevins
+#DESCRIPTION FL - Key West - Irish Kevins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//52.2.51.240%3a1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8:FL - Key West - Irish Kevins bar
+#DESCRIPTION FL - Key West - Irish Kevins bar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//52.2.51.240%3a1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8:FL - Key West - Irish Kevins Street
+#DESCRIPTION FL - Key West - Irish Kevins Street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza2.floridakeysmedia.com%3a1935/liveduvalstreet/liveduvalstreet.stream:FL - Key West - Sloppy Joe's - Duval Street Cam
+#DESCRIPTION FL - Key West - Sloppy Joe's - Duval Street Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.floridakeysmedia.com%3a1935/sloppyjoes/sloppyjoes.stream:FL - Key West - Sloppy Joe's - Stage Cam
+#DESCRIPTION FL - Key West - Sloppy Joe's - Stage Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza.floridakeysmedia.com%3a1935/sloppyjoesbar/sloppyjoesbar.stream:FL - Key West - Sloppy Joe's - Bar Cam
+#DESCRIPTION FL - Key West - Sloppy Joe's - Bar Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//wowza2.floridakeysmedia.com%3a1935/crowdcam/crowdcam.stream:FL - Key West - Sloppy Joe's - Crowd Cam
+#DESCRIPTION FL - Key West - Sloppy Joe's - Crowd Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd5.flv/playlist.m3u8:FL - Miami Downtown
+#DESCRIPTION FL - Miami Downtown
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7342.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/rivierabeach/manatee/:FL -  Manatee Cam
+#DESCRIPTION FL -  Manatee Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd1.flv/playlist.m3u8:FL - Miami Beach
+#DESCRIPTION FL - Miami Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd4.flv/playlist.m3u8:FL - Miami Biscayne Bay
+#DESCRIPTION FL - Miami Biscayne Bay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/3644newscafe.flv/playlist.m3u8:FL - Miami News Cafe
+#DESCRIPTION FL - Miami News Cafe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd7.flv/playlist.m3u8:FL - Miami South Beach
+#DESCRIPTION FL - Miami South Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd2.flv/playlist.m3u8:FL - Miami Sunny Isles
+#DESCRIPTION FL - Miami Sunny Isles
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8763.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/naples/?cam=naplespier:FL - Naples Panorama - Pier Cam
+#DESCRIPTION FL - Naples Panorama - Pier Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6391.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/manalapan/palmbeach/:FL - Naples Panorama Cam
+#DESCRIPTION FL - Naples Panorama Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/interactoneHDCam1.flv/playlist.m3u8:FL - Sanibel Island Beach
+#DESCRIPTION FL - Sanibel Island Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/6076.flv/playlist.m3u8:FL - St Lucia County Cams ?Fort Pierce Inlet
+#DESCRIPTION FL - St Lucia County Cams ?Fort Pierce Inlet
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5663.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/destin/sandestinbeach/?cam=sandestin:FL - Palm Beach Cam
+#DESCRIPTION FL - Palm Beach Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/5966.flv/playlist.m3u8:St. FL - Lucie County - River View
+#DESCRIPTION FL - St. Lucie County - River View
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7962.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/indiana/notredame/:MD - Notre Dame Cam
+#DESCRIPTION MD - Notre Dame Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8584.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/MI/brighton/:MI - Mill Pond Cam
+#DESCRIPTION MI - Mill Pond Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4465.flv/playlist.m3u8:MI - Lake MI
+#DESCRIPTION MI - Lake MI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7928.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/MI/mears/silverlake/:MI -Silver Lake Sand Dunes Cam
+#DESCRIPTION MI -Silver Lake Sand Dunes Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork swfUrl=http%3a//www.earthcam.com/swf/streaming/stream_viewer_v3.swf pageUrl=http%3a//www.earthcam.com/usa/MO/stlouis/?cam=arch_riverview playpath=meprd_garch.flv:MO - St. Louis Arch
+#DESCRIPTION MO - St. Louis Arch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7945.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/minnesota/saintpaul/:MN - Saint Paul Cam
+#DESCRIPTION MN - Saint Paul Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/eclasvegas.flv/playlist.m3u8:NV - Las Vegas
+#DESCRIPTION NV - Las Vegas
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5359.flv/playlist.m3u8:NV - Las Vegas - Wedding chapel
+#DESCRIPTION NV - Las Vegas - Wedding chapel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/hampton-beach-cam.flv/playlist.m3u8:NH - Hampton Beach
+#DESCRIPTION NH - Hampton Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a/fecnetwork playpath=5173.flv swfUrl=http%3a//www.earthcam.com/swf/streaming/stream_viewer_v3.swf?20140827 live=1 pageUrl=http%3a//www.earthcam.com/usa/newjersey/seasideheights/?cam=seasideheights:NJ - Seaside Heights
+#DESCRIPTION NJ - Seaside Heights
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5732.flv/playlist.m3u8:NJ - Wildwood
+#DESCRIPTION NJ - Wildwood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5465.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newmexico/lasvegas/:NM - Las Vegas Cam
+#DESCRIPTION NM - Las Vegas Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4831.flv/playlist.m3u8:NM - Santa Fe
+#DESCRIPTION NM - Santa Fe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/13415669/streams/live/iphone/playlist.m3u8:ND - Fargo
+#DESCRIPTION ND - Fargo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=6698.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/northdakota/cavalier/:ND - City of Cavalier Cam
+#DESCRIPTION ND - City of Cavalier Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//208.43.68.139/surfchex playpath=fishy-super swfUrl=http%3a//www.surfchex.com/player.swf pageUrl=http%3a//www.surfchex.com/fishy-fishy-web-cam.php:NC - Southport - Fishy Fishy Cafe
+#DESCRIPTION NC - Southport - Fishy Fishy Cafe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a80/fecnetwork playpath=8471.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/OK/vinita/?cam=route66east:OK - Route 66 Cam - East View
+#DESCRIPTION OK - Route 66 Cam - East View
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8470.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/OK/vinita/?cam=route66west:OK - Route 66 Cam - WestView
+#DESCRIPTION OK - Route 66 Cam - WestView
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:mmsh%3a//live.camstreams.com/csZappers?MSWMExt=.asf:OR - Portland - Columbia River
+#DESCRIPTION OR - Portland - Columbia River
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/paradiseon6.flv/playlist.m3u8:TX - Austin Old School Bar and Grill
+#DESCRIPTION TX - Austin Old School Bar and Grill
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7461.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/texas/mcallen/?cam=mcallen:TX - City of McAllen Cam
+#DESCRIPTION TX - City of McAllen Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/7524.flv/playlist.m3u8:TX - Dallas - Reunion Tower
+#DESCRIPTION TX - Dallas - Reunion Tower
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/3635.flv/playlist.m3u8:SC - Myrtle Beach, BeachCam
+#DESCRIPTION SC - Myrtle Beach, BeachCam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/3635.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:SC - Myrtle Beach
+#DESCRIPTION SC - Myrtle Beach
+#SERVICE 1:64:1:0:0:0:0:0:0:0::USA (Cities)
+#DESCRIPTION USA (Cities)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4280.flv/playlist.m3u8:New Orleans, Bourbon Street
+#DESCRIPTION New Orleans, Bourbon Street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4282.flv/playlist.m3u8:New Orleans - Bourbon St., Cats Meow Balcony
+#DESCRIPTION New Orleans - Bourbon St., Cats Meow Balcony
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4281.flv/playlist.m3u8:New Orleans - Bourbon St., Cats Meow Karaokebar
+#DESCRIPTION New Orleans - Bourbon St., Cats Meow Karaokebar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=4544.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newyork/skyline/?cam=hyatthd:New York - Skyline Cam HD
+#DESCRIPTION New York - Skyline Cam HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/chargingbull.flv/playlist.m3u8:New York - Charging Bull, Wall Street
+#DESCRIPTION New York - Charging Bull, Wall Street
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6427.flv/playlist.m3u8:New York - Columbus Circle
+#DESCRIPTION New York - Columbus Circle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/7384.flv/playlist.m3u8:New York - High Line
+#DESCRIPTION New York - High Line
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/3983.flv/playlist.m3u8:New York - Hudson River
+#DESCRIPTION New York - Hudson River
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/statueoflibertyHD.flv/playlist.m3u8:New York - Liberty Island
+#DESCRIPTION New York - Liberty Island
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/libertyHD1.flv/playlist.m3u8:New York - Liberty
+#DESCRIPTION New York - Liberty
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5321.flv/playlist.m3u8:New York Midtown East
+#DESCRIPTION New York - Midtown East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a80/fecnetwork playpath=5775.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newyork/littleitaly/?cam=littleitaly:New York - Mulberry Street Cam
+#DESCRIPTION New York - Mulberry Street Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8:New York - Times Square, South View
+#DESCRIPTION New York - Times Square, South View
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8:New York - Times Square, 47th and Broadway
+#DESCRIPTION New York - Times Square, 47th and Broadway
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/fridays_5th.flv/playlist.m3u8:New York - Times Square 5th Ave
+#DESCRIPTION New York - Times Square 5th Ave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4356.flv/playlist.m3u8:Washington D.C. - Cherry Blossom cam
+#DESCRIPTION Washington D.C. - Cherry Blossom cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/7132.flv/playlist.m3u8:Washington D.C. - Wamo cam
+#DESCRIPTION Washington D.C. - Wamo cam
+#SERVICE 1:64:1:0:0:0:0:0:0:0::VAE
+#DESCRIPTION VAE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video5.earthcam.com/fecnetwork/5868.flv/playlist.m3u8:Dubai Palme-Skyline
+#DESCRIPTION Dubai Palme-Skyline
+#SERVICE 1:64:1:0:0:0:0:0:0:0::NASA
+#DESCRIPTION NASA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8:NASA TV
+#DESCRIPTION NASA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/9408562/streams/live/playlist.m3u8:NASA ISS1
+#DESCRIPTION NASA ISS1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17074538/streams/live/playlist.m3u8:NASA ISS2
+#DESCRIPTION NASA ISS2

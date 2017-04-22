@@ -11,8 +11,6 @@
 #DESCRIPTION RBB Brandenburg
 #SERVICE 4097:0:19:2870:425:1:C00000:0:0:0:http%3a//mdr_sachsen_hls-lh.akamaihd.net/i/livetvmdrsachsen_de@106902/index_1728_av-p.m3u8?rebase=on:MDR Sachsen
 #DESCRIPTION MDR Sachsen
-#SERVICE 4097:0:16:1523:455:1:C00000:0:0:0:http%3a//178.248.241.121/iptv/tectime.ts:Tectime IPTV
-#DESCRIPTION Tectime IPTV
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Events
 #DESCRIPTION Events
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8?sd=10&rebase=on:Arte Concert
