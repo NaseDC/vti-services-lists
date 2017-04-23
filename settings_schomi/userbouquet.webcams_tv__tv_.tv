@@ -5,6 +5,8 @@
 #DESCRIPTION Seeadler-Horst 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Seeadler-Horst 2
 #DESCRIPTION Seeadler-Horst 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.oessm.org:1935/AXIS_P3364/Cam217.stream/chunklist_w717880950.m3u8:Seeadler-Horst 3
+#DESCRIPTION Seeadler-Horst 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hiireviu.m3u8:Bussard
 #DESCRIPTION Bussard
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kakk.m3u8:Steinkautz
@@ -23,48 +25,32 @@
 #DESCRIPTION Kohlmeise 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Koolmees4.stream/playlist.m3u8:Kohlmeise 2
 #DESCRIPTION Kohlmeise 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Kerkuil3&type=live&service=wowza&protocol=https&output=playlist.m3u8:Schleiereule
+#DESCRIPTION Schleiereule
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Kerkuil1Binnen.stream/playlist.m3u8:Schleiereule - innen
 #DESCRIPTION Schleiereule - innen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Kerkuil1Buiten.stream/playlist.m3u8:Schleiereule - aussen
 #DESCRIPTION Schleiereule - aussen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Steenuil2Buiten.stream/playlist.m3u8:Steinkauz - innen
-#DESCRIPTION Steinkauz - innen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Steenuil2Binnen.stream/playlist.m3u8:Steinkauz - aussen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Steenuil2Buiten.stream/playlist.m3u8:Steinkauz - aussen
 #DESCRIPTION Steinkauz - aussen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Steenuil2Binnen.stream/playlist.m3u8:Steinkauz - innen
+#DESCRIPTION Steinkauz - innen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Spreeuw2Binnen.stream/playlist.m3u8:Star - innen
 #DESCRIPTION Star - innen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Spreeuw2Buiten.stream/playlist.m3u8:Star - aussen
 #DESCRIPTION Star - aussen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Torenvalk2.stream/playlist.m3u8:Turmfalke
 #DESCRIPTION Turmfalke
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Slechtvalk1Buiten.stream/playlist.m3u8:Wanderfalke
-#DESCRIPTION Wanderfalke
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/amersfoort1/amersfoort1.stream:Amersfoort Tierpark 1
-#DESCRIPTION Amersfoort Tierpark 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/amersfoort2/amersfoort2.stream:Amersfoort Tierpark 2
-#DESCRIPTION Amersfoort Tierpark 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/amersfoort3/amersfoort3.stream:Amersfoort Tierpark 3
-#DESCRIPTION Amersfoort Tierpark 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/amersfoort4/amersfoort4.stream:Amersfoort Tierpark 4
-#DESCRIPTION Amersfoort Tierpark 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Kerkuil3&type=live&service=wowza&protocol=https&output=playlist.m3u8:Schleiereule 2017
-#DESCRIPTION Schleiereule 2017
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Koolmees1&type=live&service=wowza&protocol=https&output=playlist.m3u8:Kohlmeise Innen 2017
-#DESCRIPTION Kohlmeise Innen 2017
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Koolmees2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Kohlmeise Aussen 2017
-#DESCRIPTION Kohlmeise Aussen 2017
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rrr.sz.xlcdn.com/?account=omroepgelderland&file=webcam3&type=live&service=wowza&protocol=http&output=playlist.m3u8:Storch 2017
-#DESCRIPTION Storch 2017
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Reiger1&type=live&service=wowza&protocol=https&output=playlist.m3u8:Fischreiher
-#DESCRIPTION Fischreiher
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Reiger2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Fischreiher2
-#DESCRIPTION Fischreiher2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkGemert1&type=live&service=wowza&protocol=https&output=playlist.m3u8:Wanderfalke1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Koolmees1&type=live&service=wowza&protocol=https&output=playlist.m3u8:Kohlmeise Innen
+#DESCRIPTION Kohlmeise Innen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Koolmees2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Kohlmeise Aussen
+#DESCRIPTION Kohlmeise Aussen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rrr.sz.xlcdn.com/?account=omroepgelderland&file=webcam3&type=live&service=wowza&protocol=http&output=playlist.m3u8:Storch
+#DESCRIPTION Storch
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Slechtvalk1Buiten.stream/playlist.m3u8:Wanderfalke1
 #DESCRIPTION Wanderfalke1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkGemert2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Wanderfalke2
 #DESCRIPTION Wanderfalke2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SteenuilWW2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Steinkauz
-#DESCRIPTION Steinkauz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SteenuilDongen1&type=live&service=wowza&protocol=https&output=playlist.m3u8:Steinkauz Innen
 #DESCRIPTION Steinkauz Innen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SteenuilDongen2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Steinkauz Aussen
