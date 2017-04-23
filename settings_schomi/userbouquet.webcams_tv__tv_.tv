@@ -1,6 +1,20 @@
 #NAME Webcams TV (TV)
 #SERVICE 1:64:1:0:0:0:0:0:0:0::Tiere - saisonal
 #DESCRIPTION Tiere - saisonal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas.m3u8:Seeadler-Horst 1
+#DESCRIPTION Seeadler-Horst 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Seeadler-Horst 2
+#DESCRIPTION Seeadler-Horst 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hiireviu.m3u8:Bussard
+#DESCRIPTION Bussard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kakk.m3u8:Steinkautz
+#DESCRIPTION Steinkautz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hyljes.m3u8:Kegelrobben
+#DESCRIPTION Kegelrobben
+#SERVICE 1:64:1:0:0:0:0:0:0:0::weitere Tiere - saisonal
+#DESCRIPTION weitere Tiere - saisonal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/must-toonekurg.m3u8:Schwarzer Storch - Must Tooneburg
+#DESCRIPTION Schwarzer Storch - Must Tooneburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Bijen_Binnen.stream/playlist.m3u8:Bienen - innen
 #DESCRIPTION Bienen - innen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Bijen_Buiten.stream/playlist.m3u8:Bienen - aussen
@@ -55,18 +69,6 @@
 #DESCRIPTION Steinkauz Innen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SteenuilDongen2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Steinkauz Aussen
 #DESCRIPTION Steinkauz Aussen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live playpath=kalakotkas2 swfUrl=http%3a//pontu.eenet.ee/player/player.swf pageUrl=http%3a//pontu.eenet.ee/player/kalakotkas2.html:Tartu - Fischadler Nest
-#DESCRIPTION Tartu - Fischadler Nest
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Fischadler - Kalakotkas
-#DESCRIPTION Fischadler - Kalakotkas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hiireviu.m3u8:Bussard - Hiireviu
-#DESCRIPTION Bussard - Hiireviu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kakk.m3u8:Waldkauz - Kaak
-#DESCRIPTION Waldkauz - Kaak
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/must-toonekurg.m3u8:Schwarzer Storch - Must Tooneburg
-#DESCRIPTION Schwarzer Storch - Must Tooneburg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hirv.m3u8:Rothirsch - Hirv
-#DESCRIPTION Rothirsch - Hirv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kasmu.m3u8:Kasmu Meeresmuseum
 #DESCRIPTION Kasmu Meeresmuseum
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//webcam.tt.ee/live/pesakast:Baumstamm Nest - Pesakast
@@ -711,8 +713,10 @@
 #DESCRIPTION Washington D.C. - Wamo cam
 #SERVICE 1:64:1:0:0:0:0:0:0:0::VAE
 #DESCRIPTION VAE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video5.earthcam.com/fecnetwork/5868.flv/playlist.m3u8:Dubai Palme-Skyline
-#DESCRIPTION Dubai Palme-Skyline
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5868.flv/playlist.m3u8:Dubai Palm-Atlantis
+#DESCRIPTION Dubai Palm-Atlantis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6405.flv/playlist.m3u8:Dubai Palm-Atlantis
+#DESCRIPTION Dubai Palm-Atlantis
 #SERVICE 1:64:1:0:0:0:0:0:0:0::NASA
 #DESCRIPTION NASA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//nasatv-lh.akamaihd.net/i/NASA_101@319270/master.m3u8:NASA TV
