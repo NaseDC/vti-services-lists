@@ -157,6 +157,16 @@
 #DESCRIPTION Dresden Zentrum
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv59.stream/master.m3u8:Dresden - Dresdner Aussicht
 #DESCRIPTION Dresden - Dresdner Aussicht
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dus0600.stream:Duesseldorf Airport cam1
+#DESCRIPTION Duesseldorf Airport cam1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dus8a21.stream:Duesseldorf Airport cam2
+#DESCRIPTION Duesseldorf Airport cam2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dus2777.stream:Duesseldorf Airport cam3
+#DESCRIPTION Duesseldorf Airport cam3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dus275d.stream:Duesseldorf Airport cam4
+#DESCRIPTION Duesseldorf Airport cam4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream-5gw.1000eyes.de/rtplive//dusbc0c.stream:Duesseldorf Airport cam5
+#DESCRIPTION Duesseldorf Airport cam5
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv61.stream/master.m3u8:Duisburg - Sportschule Wedau
 #DESCRIPTION Duisburg - Sportschule Wedau
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv46.stream/master.m3u8:Eckernförde - Hafen
@@ -279,9 +289,9 @@
 #DESCRIPTION Rostock - Hotel Sportforum
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv87.stream/master.m3u8:Rust - Apollon Hotel
 #DESCRIPTION Rust - Apollon Hotel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv25.stream/master.m3u8:Rügen - Wiek
-#DESCRIPTION Rügen - Wiek
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge30.fms.stream24.net%3a443/osltv2/goehren.stream/master.m3u8:Rügen - Goeren
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv25_450p.stream:DE Wiek - Ruegen
+#DESCRIPTION Wiek - Ruegen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge30.fms.stream24.net/osltv2/_definst_/mp4:goehren.stream/chunklist_w1493782838.m3u8?id=10654-2-live&sm=hls&dev=1: Rügen - Goeren
 #DESCRIPTION Rügen - Goeren
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv129.stream/master.m3u8:Sankt Peter-Ording - Beach Motel
 #DESCRIPTION Sankt Peter-Ording - Beach Motel
