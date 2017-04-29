@@ -17,10 +17,28 @@
 #DESCRIPTION weitere Tiere - saisonal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/must-toonekurg.m3u8:Schwarzer Storch - Must Tooneburg
 #DESCRIPTION Schwarzer Storch - Must Tooneburg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Bijen_Binnen.stream/playlist.m3u8:Bienen - innen
-#DESCRIPTION Bienen - innen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Bijen_Buiten.stream/playlist.m3u8:Bienen - aussen
-#DESCRIPTION Bienen - aussen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01chi.hdontap.com/ingest02-hd1/f44-fisheye_utica.stream/chunklist_w208147738.m3u8:Falken Utica Cam 1
+#DESCRIPTION Falken Utica Cam 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01ny.hdontap.com/ingest02-hd1/m3113-white-wash_utica.stream/chunklist_w882285570.m3u8:Falken Utica Cam 2
+#DESCRIPTION Falken Utica Cam 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01chi.hdontap.com/ingest02-hd1/f44-overkill_utica.stream/chunklist_w1054139020.m3u8:Falken Utica Cam 3
+#DESCRIPTION Falken Utica Cam 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01ny.hdontap.com/ingest02-hd1/falcon3_padep.stream/chunklist_w1471942621.m3u8:Falke Harrisburg
+#DESCRIPTION Falke Jungtier Cam 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01chi.hdontap.com/ingest03-hd1/falcon6_padep.stream/chunklist_w1239823852.m3u8:Falke Jungtier USA
+#DESCRIPTION Falke Jungtier Cam 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01chi.hdontap.com/ingest03-hdontap/severnaparkosprey_hdontap.stream/chunklist_w1996848128.m3u8:Fischadler Severna Park
+#DESCRIPTION Fischadler Severna Park
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01chi.hdontap.com/ingest02-hd1/Osprey-Nest-Cam_gga.stream/chunklist_w1990146447.m3u8:Fischadler Golden Gate
+#DESCRIPTION Fischadler Golden Gate
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pmdlive-a.akamaihd.net/dc-1/live/hls/p/1897241/e/1_gffgxm38/sd/10000/t/Kq6cDtfvqIvzgKIZ1VwXmw/index-s32.m3u8:Weißkopfseeadler USA
+#DESCRIPTION Weißkopfseeadler USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01ny.hdontap.com/ingest03-hdontap/hanover_eagle-pov_hdontap.stream/chunklist_w985134069.m3u8:Weißkopfseeadler Jungtiere 1 USA  
+#DESCRIPTION Weißkopfseeadler Jungtiere 1 USA  
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01ny.hdontap.com/ingest03-hdontap/hanover_eagle-ir_hdontap.stream/chunklist_w329929765.m3u8:Weißkopfseeadler Jungtiere 2 USA  
+#DESCRIPTION Weißkopfseeadler Jungtiere 2 USA  
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01ny.hdontap.com/ingest03-dvr1/axis-ptz_skidaway.stream/chunklist_w1763062647.m3u8:Fischadler Georgia USA
+#DESCRIPTION Fischadler Georgia USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Koolmees2.stream/playlist.m3u8:Kohlmeise 1
 #DESCRIPTION Kohlmeise 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Koolmees4.stream/playlist.m3u8:Kohlmeise 2
@@ -59,6 +77,10 @@
 #DESCRIPTION Kasmu Meeresmuseum
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//webcam.tt.ee/live/pesakast:Baumstamm Nest - Pesakast
 #DESCRIPTION Baumstamm Nest - Pesakast
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Bijen_Binnen.stream/playlist.m3u8:Bienen - innen
+#DESCRIPTION Bienen - innen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Bijen_Buiten.stream/playlist.m3u8:Bienen - aussen
+#DESCRIPTION Bienen - aussen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.29.18.68/live playpath=camera.stream swfUrl=http%3a//www.strzalowo.eu/plugins/system/flowplayerreloaded/flowplayer_r/players/flowplayer-3.2.15.swf pageUrl=http%3a//www.strzalowo.eu:Polen - Strzalowo - Schwarzwild
 #DESCRIPTION Strzalowo - Schwarzwild
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//80.78.116.125/rtplive/ playpath=zoo_ek_hd.stream swfUrl=http%3a//myttk.ru/media/webcam/uppod/uppod.swf pageUrl=http%3a//myttk.ru/media/webcam/cathedral_square/ live=1:Jekaterinburg - Zoo Elefanten
