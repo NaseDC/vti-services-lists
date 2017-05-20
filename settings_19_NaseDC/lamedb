@@ -2739,7 +2739,7 @@ p:BetaDigital
 Romance TV
 p:SKY,C:1833,C:1830
 0029:00c00000:0002:0085:22:0
-Sky Cinema Hits
+Sky Cinema Bourne
 p:SKY
 002a:00c00000:0002:0085:22:0
 13th Street
@@ -3426,7 +3426,7 @@ p:SKY
 CNEWS
 p:CSAT
 006b:00c00000:000c:0085:25:0
-Sky Cinema Hits HD
+Sky Cinema Bourne HD
 p:SKY
 196b:00c00000:044e:0001:25:0
 MAN X
@@ -4110,7 +4110,7 @@ p:SKY
 Sky Sport UHD
 p:SKY
 012d:00c00000:0419:0001:31:0
-HFR Test
+HLG teststream
 p:
 012e:00c00000:0419:0001:31:0
 Technicolor HDR Test
@@ -4321,9 +4321,6 @@ p:DVB-S QPSK 10847V 19.2°E
 p:DVB-S QPSK 12363V 19.2°E
 23ed:00c00000:044a:0001:100:0
 12363V SID 0x23ed
-p:DVB-S QPSK 12363V 19.2°E
-23f0:00c00000:044a:0001:100:0
-12363V SID 0x23f0
 p:DVB-S QPSK 12363V 19.2°E
 11f7:00c00000:0406:0001:100:0
 11656V SID 0x11f7
@@ -4623,4 +4620,4 @@ p:
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.1.0.0 on 17Mai2017 20:20:34
+Edited with dreamboxEDIT 7.1.0.0 on 20Mai2017 14:31:27
