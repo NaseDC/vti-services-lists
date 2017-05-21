@@ -405,6 +405,22 @@
 #DESCRIPTION Zlin - Ulice Kvitkova
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.mediawork.cz/avonet playpath=kam6.stream swfUrl=http%3a//playlist.mediawork.cz/zlin/playerCisty.swf pageUrl=http%3a//www.zlin.cz/495040-webova-kamera-na-krizovatce-tr-t.-bati-a-ul-osvobozeni-ve-zline:Zlin - Ulice Osvobozeni
 #DESCRIPTION Zlin - Ulice Osvobozeni
+#SERVICE 1:64:1:0:0:0:0:0:0:0::EGY
+#DESCRIPTION EGY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-03.whatsupcams.com/hls/eg_cairo01.m3u8:Ägypten - Pyramiden Kairo
+#DESCRIPTION Ägypten - Pyramiden Kairo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.196.200.3%3a1935/Mot/ngrp%3amotaswanbluenile.stream_all/.m3u8:Ägypten - Aswan Nil
+#DESCRIPTION Ägypten - Aswan Nil
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.196.200.3%3a1935/Mot/ngrp%3amotluxorkarnak.stream_all/.m3u8:Ägypten - Karnak-Tempel Luxor
+#DESCRIPTION Ägypten - Karnak-Tempel Luxor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.196.200.7%3a1935/mot/ngrp%3amothurghadaelgouna.stream_all/.m3u8:Ägypten - Hurghada El Gouna
+#DESCRIPTION Ägypten - Hurghada El Gouna
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.196.200.4%3a1935/Mot/ngrp%3amothurghadawaterfront.stream_all/.m3u8:Ägypten - Hurghada WaterFront
+#DESCRIPTION Ägypten - Hurghada WaterFront
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.196.200.3%3a1935/Mot/ngrp%3amotsharmhollywood.stream_all/.m3u8:Ägypten - Sharm EL Sheikh - Hollywood
+#DESCRIPTION Ägypten - Sharm EL Sheikh - Hollywood
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.196.200.4%3a1935/Mot/ngrp%3amotsharmcoralbay.stream_all/.m3u8:Ägypten- Sharm EL Sheikh - Coral Bay
+#DESCRIPTION Ägypten - Sharm EL Sheikh - Coral Bay
 #SERVICE 1:64:1:0:0:0:0:0:0:0::FR
 #DESCRIPTION FR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam2.stream/playlist.m3u8:Paris - Seine
