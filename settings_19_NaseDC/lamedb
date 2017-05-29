@@ -1,13 +1,16 @@
 eDVB services /4/
 transponders
 eeee0000:0202:2114
-	t 546000000:0:5:5:3:2:4:4:2:0:0:0
+	t 530000000:0:6:6:3:2:4:4:2:0:0:0
 /
 eeee0000:1800:2114
 	t 786000000:0:5:5:3:2:4:4:2:0:0:0
 /
 eeee0000:5200:2114
 	t 522000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:6f00:2114
+	t 586000000:0:5:5:3:2:4:4:2:0:0:0
 /
 00c00000:03ea:0001
 	s 11229000:22000000:1:2:192:2:0:1:2:0:2
@@ -2739,7 +2742,7 @@ p:BetaDigital
 Romance TV
 p:SKY,C:1833,C:1830
 0029:00c00000:0002:0085:22:0
-Sky Cinema Bourne
+Sky Cinema Hits
 p:SKY
 002a:00c00000:0002:0085:22:0
 13th Street
@@ -3426,7 +3429,7 @@ p:SKY
 CNEWS
 p:CSAT
 006b:00c00000:000c:0085:25:0
-Sky Cinema Bourne HD
+Sky Cinema Hits HD
 p:SKY
 196b:00c00000:044e:0001:25:0
 MAN X
@@ -4102,7 +4105,13 @@ SES UHD Demo Channel
 p:SES
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA
+p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1830
+0303:eeee0000:6f00:2114:31:0
+PHOENIX HD
+p:ARD
+0304:eeee0000:6f00:2114:31:0
+tagesschau24 HD
+p:ARD
 0228:00c00000:0010:0085:31:0
 Sky Sport Bundesliga UHD
 p:SKY
@@ -4115,6 +4124,12 @@ p:
 012e:00c00000:0419:0001:31:0
 Technicolor HDR Test
 p:FFmpeg
+0362:eeee0000:6f00:2114:31:0
+MDR S-Anhalt HD
+p:ARD
+0381:eeee0000:6f00:2114:31:0
+NDR FS NDS HD
+p:ARD
 07d0:00c00000:0449:0001:31:0
 INSIGHT TV UHD
 p:SES ASTRA
@@ -4130,6 +4145,9 @@ p:SES ASTRA
 30de:00c00000:0413:0001:31:0
 Fashion 4K
 p:SES ASTRA
+03e2:eeee0000:6f00:2114:31:0
+SWR RP HD
+p:ARD
 03e9:00c00000:0456:0001:31:0
 Canal+ UHD
 p:
@@ -4620,4 +4638,4 @@ p:
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.1.0.0 on 20Mai2017 14:31:27
+Edited with dreamboxEDIT 7.1.0.0 on 29Mai2017 21:53:12
