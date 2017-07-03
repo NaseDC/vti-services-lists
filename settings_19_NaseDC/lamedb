@@ -337,7 +337,7 @@ p:ARD
 p:BetaDigital
 1200:00c00000:03fd:0001:1:0
 TVA-OTV
-p:BetaDigital
+p:MB Satellite
 1b00:00c00000:03fe:0001:1:0
 CGTN Documentary
 p:GLOBECAST
@@ -349,7 +349,7 @@ Disney Channel
 p:BetaDigital
 1201:00c00000:03fd:0001:1:0
 Niederbayern
-p:BetaDigital
+p:MB Satellite
 1b01:00c00000:03fe:0001:1:0
 CGTN F
 p:GLOBECAST
@@ -819,8 +819,8 @@ p:CSAT
 Mobile Sex
 p:MEDIA BROADCAST
 1252:00c00000:03fd:0001:1:0
-Lokal TV Portal
-p:BetaDigital
+Lokal-TV-Portal
+p:Media Broadcast Satellite
 2652:00c00000:0460:0001:1:0
 F3 ALSACE
 p:CSAT
@@ -845,9 +845,6 @@ p:CSAT
 3154:00c00000:0459:0001:1:0
 Achtung Sexy TV
 p:MEDIA BROADCAST
-2455:00c00000:0440:0001:1:0
-12168V SID 0x2455
-p:DVB-S2 QPSK 12168V 19.2°E
 2655:00c00000:0460:0001:1:0
 F3 PROV ALPES
 p:CSAT
@@ -1613,9 +1610,6 @@ p:DIGITAL+
 76ca:00c00000:040e:0001:1:0
 M. SERIESXTRA
 p:Movistar+
-10cb:00c00000:03ee:0001:1:0
-Asteroid Day 2017
-p:SES ASTRA
 32cb:00c00000:045d:0001:1:0
 ORF2 W
 p:ORF
@@ -1670,6 +1664,9 @@ p:ORF
 6dd1:00c00000:044d:0001:1:0
 SWR Fernsehen BW
 p:ARD
+23d2:00c00000:044a:0001:1:0
+12363V SID 0x23d2
+p:DVB-S QPSK 12363V 19.2°E
 32d2:00c00000:045d:0001:1:0
 ORF2 St
 p:ORF
@@ -1843,7 +1840,7 @@ Nick Jr..
 p:MTV Networks Europe
 11f8:00c00000:03fd:0001:1:0
 a.tv
-p:BetaDigital
+p:MB Satellite
 18f8:00c00000:03f4:0001:1:0
 RT Esp HD
 p:GLOBECAST
@@ -1851,8 +1848,8 @@ p:GLOBECAST
 Russia Today
 p:GLOBECAST
 11f9:00c00000:03fd:0001:1:0
-Franken Fernsehen
-p:BetaDigital
+Franken Fernsehen
+p:MB Satellite
 13f9:00c00000:0403:0001:1:0
 TRT Turk
 p:SES ASTRA
@@ -1867,7 +1864,7 @@ PARAMOUNT
 p:PRISA TV
 11fa:00c00000:03fd:0001:1:0
 intv
-p:BetaDigital
+p:MB Satellite
 1afa:00c00000:03fe:0001:1:0
 France 24 (in English)
 p:GLOBECAST
@@ -1876,7 +1873,7 @@ VH1.
 p:MTV Networks Europe
 11fb:00c00000:03fd:0001:1:0
 Ulm-Allgäu
-p:BetaDigital
+p:MB Satellite
 6ffb:00c00000:042a:0001:1:0
 VH1 Classic.
 p:MTV Networks Europe
@@ -1888,7 +1885,7 @@ ANIXE SD
 p:BetaDigital
 11fc:00c00000:03fd:0001:1:0
 münchen.tv
-p:BetaDigital
+p:MB Satellite
 6ffc:00c00000:042a:0001:1:0
 Nick_Jr.
 p:MTV Networks Europe
@@ -1896,14 +1893,14 @@ p:MTV Networks Europe
 pearl.tv Shop
 p:BetaDigital
 11fd:00c00000:03fd:0001:1:0
-rfo Regional Oberbayern
-p:BetaDigital
+Regional Fernsehen Obb.
+p:MB Satellite
 75fd:00c00000:0408:0001:1:0
 ARAGON TV
 p:Movistar+
 11fe:00c00000:03fd:0001:1:0
 Mainfranken
-p:BetaDigital
+p:MB Satellite
 1afe:00c00000:03fe:0001:1:0
 France 24 (in Arabic)
 p:GLOBECAST
@@ -1914,8 +1911,8 @@ p:CBC
 NEOX
 p:DIGITAL+
 11ff:00c00000:03fd:0001:1:0
-TV Oberfranken
-p:BetaDigital
+TV Oberfranken
+p:MB Satellite
 6fff:00c00000:0436:0001:1:0
 MTV Music 24
 p:MTV Networks Europe
@@ -3284,6 +3281,9 @@ p:SKY
 7854:00c00000:041a:0001:25:0
 ALQUILER HD
 p:Movistar+
+2455:00c00000:0440:0001:25:0
+L'EQUIPE
+p:CSAT
 2855:00c00000:0401:0001:25:0
 BR Fernsehen Süd HD
 p:ARD
@@ -3944,9 +3944,6 @@ p:CSAT
 24c4:00c00000:043c:0001:25:0
 TELETOON+1
 p:CSAT
-22c5:00c00000:0434:0001:25:0
-E!
-p:CSAT
 22c6:00c00000:0434:0001:25:0
 LA CHAINE METEO
 p:CSAT
@@ -4334,9 +4331,6 @@ p:DVB-S QPSK 12363V 19.2°E
 23ed:00c00000:044a:0001:100:0
 12363V SID 0x23ed
 p:DVB-S QPSK 12363V 19.2°E
-23f0:00c00000:044a:0001:100:0
-12363V SID 0x23f0
-p:DVB-S QPSK 12363V 19.2°E
 11f7:00c00000:0406:0001:100:0
 11656V SID 0x11f7
 p:DVB-S2 8PSK 11656V 19.2°E
@@ -4520,9 +4514,6 @@ p:CSAT
 23d1:00c00000:044a:0001:201:0
 LE PORN
 p:CSAT
-23d2:00c00000:044a:0001:201:0
-PASS SERIES
-p:CSAT
 23d3:00c00000:044a:0001:201:0
 PASS XXL DORCEL
 p:CSAT
@@ -4534,6 +4525,12 @@ MYTF1
 p:CSAT
 23d6:00c00000:044a:0001:201:0
 PASS PINK X
+p:CSAT
+23f1:00c00000:044a:0001:201:0
+NUMEROTATIONS
+p:CSAT
+23f2:00c00000:044a:0001:201:0
+.
 p:CSAT
 0105:00c00000:0003:0085:211:0
 Sky Select 2
@@ -4635,4 +4632,4 @@ p:
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 26Jun2017 20:06:51
+Edited with dreamboxEDIT 7.2.0.0 on 03Jul2017 21:33:54
