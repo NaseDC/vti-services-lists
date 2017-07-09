@@ -5,7 +5,7 @@
 #DESCRIPTION Seeadler-Horst 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Seeadler-Horst 2
 #DESCRIPTION Seeadler-Horst 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.oessm.org:1935/AXIS_P3364/Cam217.stream/chunklist_w717880950.m3u8:Seeadler-Horst 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.oessm.org%3a1935/AXIS_P3364/Cam217.stream/chunklist_w717880950.m3u8:Seeadler-Horst 3
 #DESCRIPTION Seeadler-Horst 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hiireviu.m3u8:Bussard
 #DESCRIPTION Bussard
@@ -23,9 +23,9 @@
 #DESCRIPTION Falken Utica Cam 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01chi.hdontap.com/ingest02-hd1/f44-overkill_utica.stream/chunklist_w1054139020.m3u8:Falken Utica Cam 3
 #DESCRIPTION Falken Utica Cam 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01ny.hdontap.com/ingest02-hd1/falcon3_padep.stream/chunklist_w1471942621.m3u8:Falke Harrisburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01ny.hdontap.com/ingest02-hd1/falcon3_padep.stream/chunklist_w1471942621.m3u8:Falke Jungtier Cam 1
 #DESCRIPTION Falke Jungtier Cam 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01chi.hdontap.com/ingest03-hd1/falcon6_padep.stream/chunklist_w1239823852.m3u8:Falke Jungtier USA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01chi.hdontap.com/ingest03-hd1/falcon6_padep.stream/chunklist_w1239823852.m3u8:Falke Jungtier Cam 2
 #DESCRIPTION Falke Jungtier Cam 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01chi.hdontap.com/ingest03-hdontap/severnaparkosprey_hdontap.stream/chunklist_w1996848128.m3u8:Fischadler Severna Park
 #DESCRIPTION Fischadler Severna Park
@@ -81,7 +81,7 @@
 #DESCRIPTION Bienen - innen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Bijen_Buiten.stream/playlist.m3u8:Bienen - aussen
 #DESCRIPTION Bienen - aussen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.29.18.68/live playpath=camera.stream swfUrl=http%3a//www.strzalowo.eu/plugins/system/flowplayerreloaded/flowplayer_r/players/flowplayer-3.2.15.swf pageUrl=http%3a//www.strzalowo.eu:Polen - Strzalowo - Schwarzwild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.29.18.68/live playpath=camera.stream swfUrl=http%3a//www.strzalowo.eu/plugins/system/flowplayerreloaded/flowplayer_r/players/flowplayer-3.2.15.swf pageUrl=http%3a//www.strzalowo.eu:Strzalowo - Schwarzwild
 #DESCRIPTION Strzalowo - Schwarzwild
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//80.78.116.125/rtplive/ playpath=zoo_ek_hd.stream swfUrl=http%3a//myttk.ru/media/webcam/uppod/uppod.swf pageUrl=http%3a//myttk.ru/media/webcam/cathedral_square/ live=1:Jekaterinburg - Zoo Elefanten
 #DESCRIPTION Jekaterinburg - Zoo Elefanten
@@ -91,11 +91,11 @@
 #DESCRIPTION Greenville - Zoo Giraffe Outdoor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork playpath=woodmenHD.flv swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf pageUrl=http%3a//www.earthcam.com/usa/nebraska/omaha/falconcam/:Omaha - Falcon Nest on Woodmen Tower
 #DESCRIPTION Omaha - Falcon Nest on Woodmen Tower
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/tm playpath=tm.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.7.swf pageUrl=http%3a//www.africam.com/wildlife/tembe_webcam:Afrika - Tembe - Elefant Park
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/tm playpath=tm.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.7.swf pageUrl=http%3a//www.africam.com/wildlife/tembe_webcam:Tembe - Elefant Park
 #DESCRIPTION Tembe - Elefant Park
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/id playpath=id.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.10.swf pageUrl=http%3a//www.africam.com/wildlife/idube_webcam:Afrika - Idube Game Reserve - Mpumalanga
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/id playpath=id.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.10.swf pageUrl=http%3a//www.africam.com/wildlife/idube_webcam:Idube Game Reserve - Mpumalanga
 #DESCRIPTION Idube Game Reserve - Mpumalanga
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/be playpath=be.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.7.swf pageUrl=http%3a//www.africam.com/wildlife/black_eagle_webcam:Afrika - Johannesburg - Walter Sisulu Botanical Garden
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/be playpath=be.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.7.swf pageUrl=http%3a//www.africam.com/wildlife/black_eagle_webcam:Johannesburg - Walter Sisulu Botanical Garden
 #DESCRIPTION Johannesburg - Walter Sisulu Botanical Garden
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo playpath=cam1286 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/oja.html:Zoo Amur-Leopard I
 #DESCRIPTION Zoo Amur-Leopard I
@@ -311,9 +311,9 @@
 #DESCRIPTION Rostock - Hotel Sportforum
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv87.stream/master.m3u8:Rust - Apollon Hotel
 #DESCRIPTION Rust - Apollon Hotel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv25_450p.stream:DE Wiek - Ruegen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.livespotting.tv/windit-edge/vv25_450p.stream:Wiek - Ruegen
 #DESCRIPTION Wiek - Ruegen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge30.fms.stream24.net/osltv2/_definst_/mp4:goehren.stream/chunklist_w1493782838.m3u8?id=10654-2-live&sm=hls&dev=1: Rügen - Goeren
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge30.fms.stream24.net/osltv2/_definst_/mp4%3agoehren.stream/chunklist_w1493782838.m3u8?id=10654-2-live&sm=hls&dev=1:Rügen - Goeren
 #DESCRIPTION Rügen - Goeren
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv129.stream/master.m3u8:Sankt Peter-Ording - Beach Motel
 #DESCRIPTION Sankt Peter-Ording - Beach Motel
@@ -419,7 +419,7 @@
 #DESCRIPTION Ägypten - Hurghada WaterFront
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.196.200.3%3a1935/Mot/ngrp%3amotsharmhollywood.stream_all/.m3u8:Ägypten - Sharm EL Sheikh - Hollywood
 #DESCRIPTION Ägypten - Sharm EL Sheikh - Hollywood
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.196.200.4%3a1935/Mot/ngrp%3amotsharmcoralbay.stream_all/.m3u8:Ägypten- Sharm EL Sheikh - Coral Bay
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//41.196.200.4%3a1935/Mot/ngrp%3amotsharmcoralbay.stream_all/.m3u8:Ägypten - Sharm EL Sheikh - Coral Bay
 #DESCRIPTION Ägypten - Sharm EL Sheikh - Coral Bay
 #SERVICE 1:64:1:0:0:0:0:0:0:0::FR
 #DESCRIPTION FR
@@ -463,15 +463,15 @@
 #DESCRIPTION Eersel - Rondeel kippenstal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/flevoland4/flevoland4.stream:Emmeloord
 #DESCRIPTION Emmeloord
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/18sp.stream:Eindhoven - Centrum: 18 Septemberplein
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/18sp.stream%3aEindhoven - Centrum:Eindhoven - Centrum%3a 18 Septemberplein
 #DESCRIPTION Eindhoven - Centrum: 18 Septemberplein
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/curegml.stream:Eindhoven - Milieustraat Gabriël Metsulaan
 #DESCRIPTION Eindhoven - Milieustraat Gabriël Metsulaan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/cureldst.stream:Eindhoven - Milieustraat Lodewijkstraat
 #DESCRIPTION Eindhoven - Milieustraat Lodewijkstraat
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/klokgebouw.stream:Eindhoven - Strijp-S: Klokgebouw
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/klokgebouw.stream%3aEindhoven - Strijp-S:Eindhoven - Strijp-S%3a Klokgebouw
 #DESCRIPTION Eindhoven - Strijp-S: Klokgebouw
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/torenallee.stream:Eindhoven - Strijp-S: Torenallee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//streaming.onsplatform.tv/rtplive/torenallee.stream%3aEindhoven - Strijp-S:Eindhoven - Strijp-S%3a Torenallee
 #DESCRIPTION Eindhoven - Strijp-S: Torenallee
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//streaming3.webcam.nl%3a1935/elburg/elburg.stream:Elburg haven
 #DESCRIPTION Elburg haven
@@ -659,7 +659,7 @@
 #DESCRIPTION FL - St Lucia County Cams ?Fort Pierce Inlet
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=5663.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/destin/sandestinbeach/?cam=sandestin:FL - Palm Beach Cam
 #DESCRIPTION FL - Palm Beach Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/5966.flv/playlist.m3u8:St. FL - Lucie County - River View
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/5966.flv/playlist.m3u8:FL - St. Lucie County - River View
 #DESCRIPTION FL - St. Lucie County - River View
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7962.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/indiana/notredame/:MD - Notre Dame Cam
 #DESCRIPTION MD - Notre Dame Cam
@@ -731,7 +731,7 @@
 #DESCRIPTION New York - Liberty Island
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/libertyHD1.flv/playlist.m3u8:New York - Liberty
 #DESCRIPTION New York - Liberty
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5321.flv/playlist.m3u8:New York Midtown East
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5321.flv/playlist.m3u8:New York - Midtown East
 #DESCRIPTION New York - Midtown East
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a80/fecnetwork playpath=5775.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/newyork/littleitaly/?cam=littleitaly:New York - Mulberry Street Cam
 #DESCRIPTION New York - Mulberry Street Cam
@@ -759,3 +759,5 @@
 #DESCRIPTION NASA ISS1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17074538/streams/live/playlist.m3u8:NASA ISS2
 #DESCRIPTION NASA ISS2
+#SERVICE 1:64:0:0:0:0:0:0:0:0::end
+#DESCRIPTION end
