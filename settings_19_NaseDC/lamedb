@@ -458,9 +458,6 @@ p:Movistar+
 760e:00c00000:0408:0001:1:0
 EUROSPORT 2
 p:Movistar+
-101c:00c00000:0451:0035:1:0
-kabel eins classics
-p:M7 Group
 2f1c:00c00000:0441:0001:1:0
 VOX
 p:CBC
@@ -2001,7 +1998,7 @@ p:ARD NDR
 Bremen Eins
 p:ARD RB
 6f21:00c00000:0445:0001:2:0
-Nordwestradio
+Bremen Zwei
 p:ARD RB
 6f22:00c00000:0445:0001:2:0
 Bremen Vier
@@ -3370,7 +3367,7 @@ CANAL+ SERIES
 p:CSAT
 2b66:00c00000:03f3:0001:25:0
 ZDF HD
-p:ZDFvision
+p:ZDFvision,c:0017de,c:0217f2,c:0317de,c:0417ea,c:050001
 1967:00c00000:044e:0001:25:0
 M6 MUSIC
 p:CSAT
@@ -4596,4 +4593,4 @@ p:
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 07Aug2017 21:46:31
+Edited with dreamboxEDIT 7.2.0.0 on 15Aug2017 22:06:20
