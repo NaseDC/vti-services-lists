@@ -1673,6 +1673,9 @@ p:-
 77d8:00c00000:040a:0001:1:0
 NAT GEO WILD
 p:DIGITAL+
+13d9:00c00000:03ea:0001:1:0
+Mont Blanc Live
+p:SES ASTRA
 75d9:00c00000:0422:0001:1:0
 CONTRATO
 p:DIGITAL+
@@ -2191,7 +2194,7 @@ Radio Regenbogen
 p:MB Satellite
 3178:00c00000:0459:0001:2:0
 radioB2  SCHLAGER
-p:MB Satellite,c:01016c,c:03016c
+p:MB Satellite
 1c79:00c00000:0457:0001:2:0
 Radio Horeb
 p:Eurociel
@@ -2718,7 +2721,7 @@ p:BetaDigital
 Romance TV
 p:SKY,C:1833,C:1830
 0029:00c00000:0002:0085:22:0
-Sky Cinema Star Wars
+Sky Cinema Hits
 p:SKY
 002a:00c00000:0002:0085:22:0
 13th Street
@@ -3361,7 +3364,7 @@ CANAL+ SERIES
 p:CSAT
 2b66:00c00000:03f3:0001:25:0
 ZDF HD
-p:ZDFvision,c:0017de,c:0217f2,c:0317de,c:0417ea,c:050001
+p:ZDFvision
 1967:00c00000:044e:0001:25:0
 M6 MUSIC
 p:CSAT
@@ -3393,7 +3396,7 @@ p:SKY
 CNEWS
 p:CSAT
 006b:00c00000:000c:0085:25:0
-Sky Cinema Star Wars HD
+Sky Cinema Hits HD
 p:SKY
 196b:00c00000:044e:0001:25:0
 MAN X
@@ -4599,4 +4602,4 @@ p:
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 05Sep2017 19:52:58
+Edited with dreamboxEDIT 7.2.0.0 on 11Sep2017 19:23:15
