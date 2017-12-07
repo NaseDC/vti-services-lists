@@ -2,7 +2,7 @@
 <!-- 
 ################################################
 ### satellites.xml by NaseDC VTi Kanallisten ###
-###             date: 28.11.2017             ###
+###             date: 05.12.2017             ###
 ################################################
 
 # <sat name="Eutelsat Hot Bird 13B/13C/13E (13.0E)" flags="0" position="130">
@@ -35,6 +35,7 @@ fec_inner=15: None
 # system
 0 = DVB-S
 1 = DVB-S2
+? 2 = DVB-S2X ?
 # modulation
 0 = Auto
 1 = QPSK
@@ -159,7 +160,8 @@ fec_inner=15: None
 		<transponder frequency="10964000" symbol_rate="22000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="10979000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1"/>
 		<transponder frequency="10995000" symbol_rate="22000000" polarization="0" fec_inner="4" system="1" modulation="2"/>
-		<transponder frequency="11009000" symbol_rate="23500000" polarization="1" fec_inner="3" system="1" modulation="2"/>
+		<transponder frequency="11009000" symbol_rate="23500000" polarization="1" fec_inner="2" system="1" modulation="2"/>
+		<transponder frequency="11009000" symbol_rate="22000000" polarization="1" fec_inner="0" system="2" modulation="1"/>		 <!-- DVB-S2X -->
 		<transponder frequency="11038000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1"/>
 		<transponder frequency="11053000" symbol_rate="22000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="11068000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1"/>
