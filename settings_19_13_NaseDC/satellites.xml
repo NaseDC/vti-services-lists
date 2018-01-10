@@ -36,21 +36,11 @@ fec_inner=9: FEC 9/10
 fec_inner=15: None
 # system
 0 = DVB-S
-1 = DVB-S2
-    DVB-S2X
+1 = DVB-S2 und DVB-S2X
 # modulation
 0 = Auto
 1 = QPSK
 2 = 8PSK
-# Bei DVB-S2X
-is_id = Nummer des Streams
-# Bei DVB-S2X
-pls_code = PLS Code des Streams
-# Bei DVB-S2X
-pls_mode = Modus des Streams
-0 = Root
-1 = Gold
-2 = Combo 
 -->
 <satellites>
 	<sat name="Eutelsat Hot Bird 13B/13C/13E (13.0E)" flags="0" position="130">
@@ -174,7 +164,7 @@ pls_mode = Modus des Streams
 		<transponder frequency="10979000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1"/>
 		<transponder frequency="10995000" symbol_rate="22000000" polarization="0" fec_inner="4" system="1" modulation="2"/>
 		<transponder frequency="11009000" symbol_rate="23500000" polarization="1" fec_inner="2" system="1" modulation="2"/>
-		<transponder frequency="11009000" symbol_rate="22000000" polarization="1" fec_inner="0" system="1" modulation="1" is_id="0" pls_code="1" pls_mode="0"/>	<!-- DVB-S2X -->
+		<transponder frequency="11009000" symbol_rate="22000000" polarization="1" fec_inner="0" system="1" modulation="1"/>	<!-- DVB-S2X -->
 		<transponder frequency="11038000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1"/>
 		<transponder frequency="11053000" symbol_rate="22000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="11068000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1"/>
