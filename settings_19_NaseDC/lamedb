@@ -60,9 +60,6 @@ eeee0000:6f00:2114
 00c00000:03fc:0001
 	s 11508500:22000000:1:4:192:2:0
 /
-00c00000:03fd:0001
-	s 11523250:22000000:0:4:192:2:0
-/
 00c00000:03fe:0001
 	s 11538000:22000000:1:4:192:2:0
 /
@@ -338,9 +335,6 @@ p:ARD
 0300:00c00000:0007:0085:1:0
 .
 p:BetaDigital
-1200:00c00000:03fd:0001:1:0
-TVA-OTV
-p:MB Satellite
 1b00:00c00000:03fe:0001:1:0
 CGTN Documentary
 p:GLOBECAST
@@ -353,9 +347,6 @@ p:BetaDigital
 0701:00c00000:0005:0085:1:0
 Disney Channel
 p:BetaDigital
-1201:00c00000:03fd:0001:1:0
-Niederbayern
-p:MB Satellite
 1b01:00c00000:03fe:0001:1:0
 CGTN F
 p:GLOBECAST
@@ -802,9 +793,6 @@ F3 NORD PDC
 p:CSAT
 3151:00c00000:0459:0001:1:0
 Mobile Sex
-p:MB Satellite
-1252:00c00000:03fd:0001:1:0
-Lokal-TV-Portal
 p:MB Satellite
 2652:00c00000:0460:0001:1:0
 F3 ALSACE
@@ -1799,18 +1787,12 @@ p:PRISA TV
 6ff7:00c00000:042a:0001:1:0
 Nick Jr..
 p:MTV Networks Europe
-11f8:00c00000:03fd:0001:1:0
-a.tv
-p:MB Satellite
 18f8:00c00000:03f4:0001:1:0
 RT Esp HD
 p:GLOBECAST
 1af8:00c00000:03fe:0001:1:0
 Russia Today
 p:GLOBECAST
-11f9:00c00000:03fd:0001:1:0
-Franken Fernsehen
-p:MB Satellite
 13f9:00c00000:0403:0001:1:0
 TRT Turk
 p:SES ASTRA
@@ -1823,18 +1805,12 @@ p:MTV Networks Europe
 75f9:00c00000:0408:0001:1:0
 PARAMOUNT
 p:PRISA TV
-11fa:00c00000:03fd:0001:1:0
-intv
-p:MB Satellite
 1afa:00c00000:03fe:0001:1:0
 France 24 (in English)
 p:GLOBECAST
 6ffa:00c00000:042a:0001:1:0
 VH1.
 p:MTV Networks Europe
-11fb:00c00000:03fd:0001:1:0
-Ulm-Allgäu
-p:MB Satellite
 6ffb:00c00000:042a:0001:1:0
 VH1 Classic.
 p:MTV Networks Europe
@@ -1844,24 +1820,15 @@ p:Movistar+
 02fc:00c00000:0005:0085:1:0
 ANIXE SD
 p:BetaDigital
-11fc:00c00000:03fd:0001:1:0
-münchen.tv
-p:MB Satellite
 6ffc:00c00000:042a:0001:1:0
 Nick_Jr.
 p:MTV Networks Europe
 02fd:00c00000:0007:0085:1:0
 pearl.tv Shop
 p:BetaDigital
-11fd:00c00000:03fd:0001:1:0
-Regional Fernsehen Obb.
-p:MB Satellite
 75fd:00c00000:0408:0001:1:0
 ARAGON TV
 p:Movistar+
-11fe:00c00000:03fd:0001:1:0
-Mainfranken
-p:MB Satellite
 1afe:00c00000:03fe:0001:1:0
 France 24 (in Arabic)
 p:GLOBECAST
@@ -1874,9 +1841,6 @@ p:DIGITAL+
 79fe:00c00000:0443:0001:1:0
 EURONEWS GERMAN SD
 p:Globecast
-11ff:00c00000:03fd:0001:1:0
-TV Oberfranken
-p:MB Satellite
 6fff:00c00000:0436:0001:1:0
 MTV Music 24
 p:MTV Networks Europe
@@ -2753,9 +2717,6 @@ p:M7 Group
 0034:00c00000:0002:0085:22:0
 Spiegel Geschichte
 p:SKY
-1034:00c00000:0451:0035:22:0
-Elevensports1 Promo
-p:M7 Group
 3338:00c00000:045b:0001:22:0
 4MEDIATHEK
 p:-
@@ -2802,7 +2763,7 @@ p:SKY
 Kinowelt TV
 p:SKY
 0197:00c00000:0004:0085:22:0
-Sky Cinema Family
+Sky Cinema Animation
 p:SKY
 0198:00c00000:0006:0085:22:0
 Sky 1
@@ -3013,7 +2974,7 @@ p:CBC
 p:SKY
 ef15:00c00000:0421:0001:25:0
 RTLII HD
-p:CBC,c:0005ff,c:020025,c:0305ff,c:040603,c:050001,C:0500,C:06cb,C:098c,C:098d,C:09c4,C:1830,C:1843,C:1860,C:186a,C:186d
+p:CBC
 0116:00c00000:000d:0085:25:0
 Sky Sport 4 HD
 p:SKY
@@ -3213,7 +3174,7 @@ p:ARD
 SWR BW HD
 p:ARD
 313f:00c00000:0459:0001:25:0
-MB Sat - Test 1
+freenet TV connect
 p:MB Satellite
 0140:00c00000:0009:0085:25:0
 Eurosport360HD 6
@@ -3529,7 +3490,7 @@ WELT HD
 p:BetaDigital,C:1830,C:1843,C:1860,C:186a,C:186d
 ef74:00c00000:03f9:0001:25:0
 SAT.1 HD
-p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1830
+p:ProSiebenSat.1,C:1830,C:1843,C:1860,C:186a,C:186d
 2075:00c00000:0432:0001:25:0
 NUMERO 23
 p:CSAT
@@ -3538,7 +3499,7 @@ Zee One HD
 p:BetaDigital
 ef75:00c00000:03f9:0001:25:0
 ProSieben HD
-p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1830
+p:ProSiebenSat.1,C:1830,C:1843,C:1860,C:186a,C:186d
 0076:00c00000:0006:0085:25:0
 Nat Geo Wild HD
 p:SKY
@@ -3547,13 +3508,13 @@ Sparhandy TV 2 HD
 p:BetaDigital
 ef76:00c00000:03f9:0001:25:0
 kabel eins HD
-p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1830
+p:ProSiebenSat.1,C:1830,C:1843,C:1860,C:186a,C:186d
 2777:00c00000:0409:0001:25:0
 MTV HD
 p:BetaDigital,C:1830,C:1843,C:1860,C:186a,C:186d
 ef77:00c00000:03f9:0001:25:0
 SIXX HD
-p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1830
+p:ProSiebenSat.1,C:1830,C:1843,C:1860,C:186a,C:186d
 0078:00c00000:000e:0085:25:0
 Sky Select HD
 p:SKY
@@ -3562,7 +3523,7 @@ Channel21 HD
 p:BetaDigital
 ef78:00c00000:03f9:0001:25:0
 Pro7 MAXX HD
-p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1830
+p:ProSiebenSat.1,C:1830,C:1843,C:1860,C:186a,C:186d
 0079:00c00000:000e:0085:25:0
 BLUE MOVIE HD
 p:SKY
@@ -3726,7 +3687,7 @@ ef8a:00c00000:03f9:0001:25:0
 kabel eins HD Austria
 p:ProSiebenSat.1
 008b:00c00000:0008:0085:25:0
-Sky Cinema Family HD
+Sky Cinema Animation HD
 p:SKY
 428b:00c00000:0446:0001:25:0
 RTL9
@@ -4686,4 +4647,4 @@ p:
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 25Mrz2018 19:58:41
+Edited with dreamboxEDIT 7.2.0.0 on 01Apr2018 23:08:05
