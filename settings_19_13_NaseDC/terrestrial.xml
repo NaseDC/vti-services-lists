@@ -308,7 +308,7 @@
 	<terrestrial name="NRW: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 22 -->
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 23 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 23 -->
 		<transponder centre_frequency="498000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 25 -->
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 26 -->
@@ -316,10 +316,10 @@
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
 		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 30 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 36 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 36 -->
 		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_LP="0" guard_interval="3" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 37 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 43 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
@@ -329,18 +329,18 @@
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 57 -->
 		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 60 -->
-		<transponder centre_frequency="818000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 64 -->
-		<transponder centre_frequency="826000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 65 -->
-		<transponder centre_frequency="834000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 66 -->
+		<transponder centre_frequency="818000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 64 -->
+		<transponder centre_frequency="826000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 65 -->
+		<transponder centre_frequency="834000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 66 -->
 		<transponder centre_frequency="858000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 69 -->
 	</terrestrial>
 	<terrestrial name="Aachen: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 26 -->
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 36 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 36 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 43 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
 	</terrestrial>
 	<terrestrial name="Aurich: DVB-T/T2" flags="5" countrycode="DEU" system="0">
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
@@ -353,12 +353,12 @@
 		<transponder centre_frequency="586000000" bandwidth="3" constellation="3" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" flags="5" system="1"/><!-- Ch 35 -->
 		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 36 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 49 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
 		<transponder centre_frequency="770000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 58 -->
 	</terrestrial>
 	<terrestrial name="Bad Pyrmont: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 23 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 36 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 23 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 36 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
 	</terrestrial>
 	<terrestrial name="Berlin: DVB-T/T2" flags="5" countrycode="DEU"> 
@@ -374,9 +374,9 @@
 		<transponder centre_frequency="514000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 26 -->
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 36 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 36 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 43 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
 	</terrestrial>
 	<terrestrial name="Booßen: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 25 -->
@@ -384,63 +384,63 @@
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
 	</terrestrial>
 	<terrestrial name="Braunschweig: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 23 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 24 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 36 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 36 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 44 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 47 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 44 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 47 -->
 	</terrestrial>
 	<terrestrial name="Bremen: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 22 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 29 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 22 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 42 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 42 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 55 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
 	</terrestrial>
 	<terrestrial name="Bremerhafen: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 22 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 29 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 22 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 42 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 42 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 55 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
 	</terrestrial>
 	<terrestrial name="Brocken: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
 		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_LP="0" guard_interval="3" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 37 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 45 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 45 -->
 	</terrestrial>
 	<terrestrial name="Büttelberg: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 47 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 55 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 47 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
 	</terrestrial>
 	<terrestrial name="Bungsberg: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 39 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 47 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 47 -->
 	</terrestrial>
 	<terrestrial name="Darmstadt: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 22 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 22 -->
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
 		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_LP="0" guard_interval="3" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 37 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 39 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 54 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 59 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 54 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Dillberg: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 47 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 55 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 47 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
 	</terrestrial>
  	<terrestrial name="Dortmund: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 25 -->
 		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 27 -->
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 30 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 30 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
@@ -449,57 +449,57 @@
 		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 60 -->
 	</terrestrial>
 	<terrestrial name="Düsseldorf/Ruhrgebiet: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 26 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 29 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 26 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 43 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
-		<transponder centre_frequency="698000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 49 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 55 -->
-		<transponder centre_frequency="818000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 64 -->
-		<transponder centre_frequency="826000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 65 -->
-		<transponder centre_frequency="834000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 66 -->
+		<transponder centre_frequency="698000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
+		<transponder centre_frequency="818000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 64 -->
+		<transponder centre_frequency="826000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 65 -->
+		<transponder centre_frequency="834000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 66 -->
 	</terrestrial>
 	<terrestrial name="Essen: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 25 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="2" hierarchy_information="0" inversion="2"/><!-- Ch 29 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="2" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="2" hierarchy_information="0" inversion="2"/><!-- Ch 48 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
 	</terrestrial>
 	<terrestrial name="Flensburg: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 39 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 47 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 47 -->
 	</terrestrial>
 	<terrestrial name="Frankfurt: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 22 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 22 -->
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
 		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_LP="0" guard_interval="3" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 37 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 39 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 54 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 59 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 54 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Großer-Feldberg: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 22 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 22 -->
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
 		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_LP="0" guard_interval="3" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 37 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 39 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 54 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 59 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 54 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 59 -->
 	</terrestrial>
 	<terrestrial name="Gelsenkirchen: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 25 -->
 	</terrestrial>
 	<terrestrial name="Göttelborner Höhe: DVB-T/T2" flags="5" countrycode="DEU" system="0">
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 32 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 32 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 	</terrestrial>
 	<terrestrial name="Gummersbach: DVB-T/T2" flags="5" countrycode="DEU" system="0">
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 26 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 26 -->
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 	</terrestrial>	
@@ -511,49 +511,49 @@
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
 	</terrestrial>
 	<terrestrial name="Halle: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 24 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 26 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 28 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 26 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 28 -->
 		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->	
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 43 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
 	</terrestrial>	
 	<terrestrial name="Hamburg: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 23 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 28 -->
-		<transponder centre_frequency="546000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 30 -->
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 33 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 40 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 23 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 28 -->
+		<transponder centre_frequency="546000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 30 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 33 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
 		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
 		<transponder centre_frequency="666000000" bandwidth="0" constellation="3"/><!-- Ch 45 -->
 	</terrestrial>
 	<terrestrial name="Hannover: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 23 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 24 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 36 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 23 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 36 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="658000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 44 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 47 -->
+		<transponder centre_frequency="658000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 44 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 47 -->
 	</terrestrial>
 	<terrestrial name="Heidelberg: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 21 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 24 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
 	</terrestrial>
  	<terrestrial name="Hohe-Warte: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 26 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 26 -->
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 	</terrestrial>
 	<terrestrial name="Hohe-Wurzel: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 22 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 22 -->
 		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
 		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_LP="0" guard_interval="3" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 37 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 39 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 54 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 59 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 54 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 59 -->
 	</terrestrial>
  	<terrestrial name="Iserlohn: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
@@ -562,147 +562,160 @@
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
 	</terrestrial>
 	<terrestrial name="Jena-Kernberge: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 33 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 39 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 33 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->
 		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->		
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 47 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 56 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 47 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 56 -->
 	</terrestrial>
 	<terrestrial name="Karlsruhe: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 21 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
 		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 27 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
 	</terrestrial>	
 	<terrestrial name="Göttelborner Höhe: DVB-T/T2" flags="5" countrycode="DEU" system="0">
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 32 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 32 -->
 	</terrestrial>
 	<terrestrial name="Kleve: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 	</terrestrial>
 	<terrestrial name="Kiel: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 21 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 28 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 39 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 45 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 47 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 28 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 45 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 47 -->
 		<transponder centre_frequency="722000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 52 -->
 	</terrestrial>
 	<terrestrial name="Köln: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 26 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 29 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 36 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 26 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 36 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 43 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
 	</terrestrial>
 	<terrestrial name="Langenberg: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 25 -->
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 43 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
 	</terrestrial>
 	<terrestrial name="Leipzig: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 24 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 26 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 28 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 39 -->	
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 43 -->
-	</terrestrial>	
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 26 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 28 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->	
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
+	</terrestrial>
+    <terrestrial name="Lingen: DVB-T/T2" flags="5" countrycode="DEU">
+   		<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="0" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
+   		<transponder centre_frequency="634000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="0" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 41 -->
+   		<transponder centre_frequency="682000000" bandwidth="0" constellation="2" code_rate_hp="7" code_rate_lp="7" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 47 -->
+   	</terrestrial>
 	<terrestrial name="Lübeck: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 23 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 28 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 23 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 28 -->
 		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 30 -->
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 33 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 45 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 33 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 45 -->
 	</terrestrial>
 	<terrestrial name="Magdeburg: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 34 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
 		<transponder centre_frequency="602000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_LP="0" guard_interval="3" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 37 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 45 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 45 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 55 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
 	</terrestrial>	
 	<terrestrial name="Mannheim: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 21 -->
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
 		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 27 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
 	</terrestrial>	
 	<terrestrial name="München: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="514000000" bandwidth="3" constellation="3" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" flags="5" system="1"/><!-- Ch 26 -->
 		<transponder centre_frequency="554000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 31 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 34 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 48 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 56 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 56 -->
+	</terrestrial>
+	<terrestrial name="Münster: DVB-T/T2" flags="5" countrycode="DEU">
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="0" guard_interval="6" transmission_mode="5" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="0" guard_interval="5" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 32 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_LP="0" guard_interval="6" transmission_mode="5" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="1" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="2" code_rate_hp="7" code_rate_lp="7" guard_interval="5" transmission_mode="5" hierarchy_information="4" inversion="2"/><!-- Ch 45 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="0" guard_interval="5" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 56 -->
 	</terrestrial>
 	<terrestrial name="Nürnberg: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="498000000" bandwidth="3" constellation="3" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" flags="5" system="1"/><!-- Ch 24 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 34 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 47 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 47 -->
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 54 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 54 -->
 	</terrestrial>
 	<terrestrial name="Pforzheim: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 21 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
 		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 27 -->
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
-		<transponder centre_frequency="674000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 46 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="674000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
 	</terrestrial>	
 	<terrestrial name="Reutlingen: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 25 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 28 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 32 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 42 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 45 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 56 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 28 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 32 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 42 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 45 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 56 -->
 	</terrestrial>	
 	<terrestrial name="Rhein-Main: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="198500000" bandwidth="1" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 08 -->
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 21 -->
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 22 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 34 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 37 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 39 -->
-		<transponder centre_frequency="722000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 52 -->
-		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 54 -->
-		<transponder centre_frequency="762000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 57 -->
-		<transponder centre_frequency="778000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 59 -->
-		<transponder centre_frequency="818000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 64 -->
+		<transponder centre_frequency="198500000" bandwidth="1" constellation="1" code_rate_hp="2" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 08 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="2" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 22 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 37 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->
+		<transponder centre_frequency="722000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 52 -->
+		<transponder centre_frequency="738000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 54 -->
+		<transponder centre_frequency="762000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 57 -->
+		<transponder centre_frequency="778000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 59 -->
+		<transponder centre_frequency="818000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 64 -->
 	</terrestrial>
 	<terrestrial name="Rimberg: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 22 -->
+		<transponder centre_frequency="482000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 22 -->
 		<transponder centre_frequency="538000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
 	</terrestrial>
 	<terrestrial name="Rostock: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 24 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 26 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 36 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 26 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 36 -->
 		<transponder centre_frequency="658000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 44 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
 	</terrestrial>
 	<terrestrial name="Saarbrücken: DVB-T/T2" flags="5" countrycode="DEU" system="0">
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 32 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 32 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 45 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 45 -->
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 49 -->
-		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 55 -->
+		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
 	</terrestrial>
 	<terrestrial name="Sauerland_Nordhelle_DVB-T" flags="5" countrycode="DEU" system="0">
 		<transponder centre_frequency="522000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 27 -->
@@ -716,21 +729,21 @@
 		<transponder centre_frequency="786000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 60 -->
 	</terrestrial>
 	<terrestrial name="Schleswig: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 21 -->
-		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 39 -->
-		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 47 -->
+		<transponder centre_frequency="474000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
+		<transponder centre_frequency="618000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 39 -->
+		<transponder centre_frequency="682000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 47 -->
 	</terrestrial>
 	<terrestrial name="Schwerin: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 24 -->
-		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 26 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 36 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="514000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 26 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 36 -->
 		<transponder centre_frequency="658000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 44 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->	
 	</terrestrial>
 	<terrestrial name="Sibbesse: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 23 -->
-		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 36 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 23 -->
+		<transponder centre_frequency="594000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 36 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
 	</terrestrial>
 	<terrestrial name="Steinkimmen: DVB-T/T2" flags="5" countrycode="DEU" system="0">
@@ -740,63 +753,63 @@
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
 	</terrestrial>
 	<terrestrial name="Stockelsdorf: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 23 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 28 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 23 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 28 -->
 		<transponder centre_frequency="546000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 30 -->
-		<transponder centre_frequency="570000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 33 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 45 -->
+		<transponder centre_frequency="570000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 33 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 45 -->
 	</terrestrial>
 	<terrestrial name="Spiesen: DVB-T/T2" flags="5" countrycode="DEU" system="0">
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 32 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 32 -->
 	</terrestrial>
 	<terrestrial name="Stuttgart: DVB-T/T2" flags="5" countrycode="DEU">
 		<transponder centre_frequency="506000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 25 -->
-		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 28 -->
-		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 32 -->
-		<transponder centre_frequency="642000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 42 -->
-		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 45 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 56 -->
+		<transponder centre_frequency="530000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 28 -->
+		<transponder centre_frequency="562000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 32 -->
+		<transponder centre_frequency="642000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 42 -->
+		<transponder centre_frequency="666000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 45 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 56 -->
 	</terrestrial>	
 	<terrestrial name="Torfhaus: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 23 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 23 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
 	</terrestrial>
 	<terrestrial name="Wedel Wittsmoor: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 23 -->
-		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 40 -->
+		<transponder centre_frequency="490000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 23 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
 	</terrestrial>
 	<terrestrial name="Wendelstein: DVB-T/T2" flags="5" countrycode="DEU" system="0">
 		<transponder centre_frequency="514000000" bandwidth="3" constellation="3" code_rate_hp="5" code_rate_LP="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" flags="5" system="1"/><!-- Ch 26 -->
 		<transponder centre_frequency="554000000" bandwidth="0" constellation="1" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 31 -->
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 34 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
 		<transponder centre_frequency="586000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
-		<transponder centre_frequency="690000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 48 -->
-		<transponder centre_frequency="754000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 56 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
+		<transponder centre_frequency="754000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 56 -->
 	</terrestrial>
 	<terrestrial name="Wesel: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 29 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 43 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
 	</terrestrial>
 	<terrestrial name="Wittenberg: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 24 -->
-		<transponder centre_frequency="602000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 37 -->
+		<transponder centre_frequency="498000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 24 -->
+		<transponder centre_frequency="602000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 37 -->
 		<transponder centre_frequency="610000000" bandwidth="0" constellation="3"/><!-- Ch 38 -->		
 	</terrestrial>	
 	<terrestrial name="Wuppertal: DVB-T/T2" flags="5" countrycode="DEU" system="1">
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 29 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
-		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 43 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
 		<transponder centre_frequency="674000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 46 -->
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
 	</terrestrial>
 	<terrestrial name="Würzberg: DVB-T/T2" flags="5" countrycode="DEU" system="1">
-		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="0" inversion="2"/><!-- Ch 34 -->
+		<transponder centre_frequency="578000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 34 -->
 		<transponder centre_frequency="634000000" bandwidth="0" constellation="3"/><!-- Ch 41 -->		
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
 	</terrestrial>
