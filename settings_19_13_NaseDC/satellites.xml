@@ -2,7 +2,7 @@
 <!-- 
 ################################################
 ### satellites.xml by NaseDC VTi Kanallisten ###
-###             date: 25.05.2018             ###
+###             date: 11.06.2018             ###
 ################################################
 
 # <sat name="Eutelsat Hot Bird 13B/13C/13E (13.0E)" flags="0" position="130">
@@ -97,7 +97,7 @@ fec_inner=15: None
 		<transponder frequency="11747000" symbol_rate="27500000" polarization="0" fec_inner="3" system="0" modulation="1"/>
 		<transponder frequency="11766000" symbol_rate="29900000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="11785000" symbol_rate="29900000" polarization="0" fec_inner="3" system="1" modulation="2"/>
-		<transponder frequency="11804000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1"/>
+		<transponder frequency="11804000" symbol_rate="27500000" polarization="1" fec_inner="2" system="0" modulation="1"/>
 		<transponder frequency="11823000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="11843000" symbol_rate="29900000" polarization="1" fec_inner="3" system="1" modulation="2"/>
 		<transponder frequency="11862000" symbol_rate="29900000" polarization="0" fec_inner="4" system="0" modulation="1"/>
