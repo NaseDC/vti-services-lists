@@ -720,7 +720,7 @@ p:ARD
 TV Record SD
 p:TSA
 0046:00c00000:0007:0085:1:0
-BB-MV Lokal-TV
+BB-Lokal-TV
 p:BetaDigital
 1146:00c00000:0404:0001:1:0
 CNN Int.
@@ -807,7 +807,7 @@ p:CSAT
 MB SAT - Test1
 p:MB Satellite
 114e:00c00000:0404:0001:1:0
-DW (English)
+DW English
 p:DW
 264e:00c00000:0460:0001:1:0
 F3 POITOUCHAR
@@ -2676,7 +2676,7 @@ p:BetaDigital
 .
 p:SKY
 0029:00c00000:0002:0085:22:0
-Sky Cinema Hits
+Sky Cinema Alien vs. Predator
 p:SKY
 002a:00c00000:0002:0085:22:0
 13th Street
@@ -3387,7 +3387,7 @@ p:SKY
 WARNER TV
 p:CSAT
 006b:00c00000:000c:0085:25:0
-Sky Cinema Hits HD
+Sky Cinema Alien vs. Predator HD
 p:SKY
 196b:00c00000:044e:0001:25:0
 MAN X
@@ -4108,7 +4108,7 @@ VOX HD
 p:RTL Group
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA
+p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1830
 0302:eeee0000:6b00:2114:31:0
 arte HD
 p:ARD
@@ -4722,4 +4722,4 @@ p:
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 30Aug2018 16:31:32
+Edited with dreamboxEDIT 7.2.0.0 on 02Sep2018 23:06:08

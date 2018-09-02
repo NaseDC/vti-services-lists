@@ -1145,6 +1145,9 @@ p:nc+
 3610:00820000:00c8:013e:1:0
 ESP Greek
 p:Eutelsat
+3a10:00820000:1fa4:013e:1:0
+Nedai Haq Farsi
+p:iKOMG
 0311:00820000:1b58:013e:1:0
 Mekameleen TV
 p:Telespazio
@@ -2328,7 +2331,7 @@ p:ARD
 TV Record SD
 p:TSA
 0046:00c00000:0007:0085:1:0
-BB-MV Lokal-TV
+BB-Lokal-TV
 p:BetaDigital
 0146:00820000:3e1c:013f:1:0
 LCI
@@ -2493,7 +2496,7 @@ p:
 Rai Storia HD
 p:Rai
 114e:00c00000:0404:0001:1:0
-DW (English)
+DW English
 p:DW
 144e:00820000:05dc:013e:1:0
  
@@ -2916,7 +2919,7 @@ p:DIGITAL+
 MDR S-Anhalt
 p:ARD
 0064:0082afc2:0065:0001:1:0
-VOA TV 100 (HB49-52)
+VOA TV 100 (HB 49-52)
 p:
 0164:00820000:1c84:013e:1:0
 Novasportsextra2
@@ -2934,7 +2937,7 @@ p:MB Satellite
 SAT.1 NRW
 p:ProSiebenSat.1
 0065:0082afc2:0065:0001:1:0
-VOA Radio 101 (HB51-52)
+VOA Radio 101 (HB 51-52)
 p:
 0165:00820000:1c84:013e:1:0
 R10
@@ -3449,9 +3452,6 @@ p:SkyItalia
 0c83:00820000:2328:013e:1:0
 TV K-C
 p:STN Ltd
-2483:00820000:23f0:013f:1:0
-HADI TV4
-p:Telespazio
 0184:00820000:1c84:013e:1:0
 nova MAD MUSIC Greek
 p:NetMed
@@ -4037,6 +4037,9 @@ p:Eutelsat
 06a5:00820000:3138:013e:1:0
 TV CORAN
 p:GLOBECAST
+08a5:00820000:01f4:013e:1:0
+Suroyo TV
+p:iKOMG
 1ca5:00820000:332c:013e:1:0
 Gala TV
 p:
@@ -4055,6 +4058,9 @@ p:CANAL+
 06a6:00820000:3138:013e:1:0
 TV TAMAZIGHT
 p:GLOBECAST
+08a6:00820000:01f4:013e:1:0
+Medya Haber
+p:iKOMG
 12a6:00820000:3458:013e:1:0
 !mwl3a 3lik
 p:Eutelsat
@@ -4266,8 +4272,8 @@ p:SkyItalia
 Ganj e Hozour TV
 p:GLOBECAST
 0db5:00820000:2d50:013e:1:0
-10834V SID 0xdb5
-p:DVB-S2 8PSK 10834V 13.0°E
+Red Carpet TV
+p:nc+
 1cb5:00820000:1ce8:0071:1:0
 Disney XD
 p:Cyfrowy Polsat S.A.
@@ -4280,9 +4286,6 @@ p:SkyItalia
 06b6:00820000:3138:013e:1:0
 8 TV RU
 p:GLOBECAST
-0db6:00820000:2d50:013e:1:0
-TRACE TV
-p:nc+
 1cb6:00820000:1ce8:0071:1:0
 Disney Channel HD
 p:Cyfrowy Polsat S.A.
@@ -4398,7 +4401,7 @@ p:DIGITAL+
 Real Time +1
 p:SkyItalia
 0fbd:00820000:1e14:fbff:1:0
-Fox +1
+Fox Modern Family
 p:SkyItalia
 1bbd:00820000:17d4:013e:1:0
 GAMES
@@ -4551,7 +4554,7 @@ p:Cyfrowy Polsat S.A.
 Primafila 13
 p:SkyItalia
 2dc3:00820000:1a2c:fbff:1:0
-Sky Cinema Stars
+100% Animation
 p:SkyItalia
 2fc3:00820000:2db4:013e:1:0
 Nove HD
@@ -4979,9 +4982,6 @@ p:ORF
 38d0:00820000:2648:fbff:1:0
 Fox Business
 p:SkyItalia
-39d0:00820000:1fa4:013e:1:0
-Angel TV
-p:iKOMG
 3dd0:00820000:0640:013e:1:0
 TVN Turbo HD
 p:TVN
@@ -5046,7 +5046,7 @@ p:ORF
 TVN 24 HD
 p:TVN
 00d3:0082afc2:0065:0001:1:0
-Azattyk Unalgysy 211
+AzattykUnalgysy 211
 p:
 02d3:00820000:1b58:013e:1:0
 Sender Neu Jerusalem
@@ -5163,13 +5163,13 @@ p:
 HBO2 HD
 p:nc+
 0fd7:00820000:1e14:fbff:1:0
-FoxCrime C.M.
+Fox Crime +2
 p:SkyItalia
 2bd7:00820000:1a90:fbff:1:0
 Sky Sport
 p:SkyItalia
 2dd7:00820000:1a2c:fbff:1:0
-Sky Cinema Stars
+100% Animation
 p:SkyItalia
 32d7:00c00000:045d:0001:1:0
 Mei Musi TV
@@ -5211,7 +5211,7 @@ p:SkyItalia
 CONTRATO
 p:DIGITAL+
 00da:0082afc2:0065:0001:1:0
-Radio Crimea.Realities 218
+Azatliq Radiosi 218
 p:
 0fda:00820000:1e14:fbff:1:0
 NationalGeo +1
@@ -5237,6 +5237,9 @@ p:nc+
 00dc:0082afc2:0065:0001:1:0
 RL North Caucasus 220
 p:
+0fdc:00820000:1e14:fbff:1:0
+12245H SID 0xfdc
+p:DVB-S QPSK 12245H 13.0°E
 10dc:00820000:03e8:013e:1:0
 Mango 24
 p:TVN
@@ -5498,9 +5501,6 @@ p:TSA
 35e9:00820000:00c8:013e:1:0
 ESP2 Int'l
 p:Eutelsat
-38e9:00820000:2648:fbff:1:0
-12673V SID 0x38e9
-p:DVB-S QPSK 12673V 13.0°E
 05ea:00820000:2c24:013e:1:0
 4U TV
 p:
@@ -5816,6 +5816,9 @@ p:SkyItalia
 01fb:00820000:0384:013e:1:0
 WAAR HD
 p:Waar
+11fb:00820000:2b5c:013e:1:0
+TRAVELXP 4K
+p:
 1efb:00820000:21fc:013e:1:0
 PRESS TV HD
 p:IRIB
@@ -6398,9 +6401,6 @@ p:NetMed
 013a:00820000:157c:013e:2:0
 RR1
 p:NetMed
-0e3a:00820000:0708:00c8:2:0
-RTL 102.5
-p:M-Three satcom
 0e3a:00820000:1c20:013e:2:0
 RTL 102.5
 p:
@@ -6579,7 +6579,7 @@ p:
 Radio Monte Carlo 2
 p:
 0068:0082afc2:0065:0001:2:0
-VOA Music Mix 104 (HB57-60)
+VOA Music Mix 104 (HB 57-60)
 p:
 0068:00820000:1770:0110:2:0
 Virgin radio
@@ -7749,7 +7749,7 @@ p:BetaDigital
 .
 p:SKY
 0029:00c00000:0002:0085:22:0
-Sky Cinema Hits
+Sky Cinema Alien vs. Predator
 p:SKY
 002a:00c00000:0002:0085:22:0
 13th Street
@@ -8658,7 +8658,7 @@ p:SkyItalia
 FRANCE 3
 p:CSAT
 1e5e:00820000:15e0:fbff:25:0
-Sky Cinema Stars HD
+100% Animation HD
 p:SkyItalia
 785e:00c00000:041a:0001:25:0
 ALQUILER 2 HD
@@ -8742,7 +8742,7 @@ p:BetaDigital
 DJAZZ
 p:CSAT
 1e68:00820000:15e0:fbff:25:0
-Sky Cinema Stars HD
+100% Animation HD
 p:SkyItalia
 2268:00c00000:0438:0001:25:0
 CINE+ FAMIZ
@@ -8766,7 +8766,7 @@ p:SkyItalia
 WARNER TV
 p:CSAT
 006b:00c00000:000c:0085:25:0
-Sky Cinema Hits HD
+Sky Cinema Alien vs. Predator HD
 p:SKY
 196b:00c00000:044e:0001:25:0
 MAN X
@@ -9698,9 +9698,6 @@ p:ORF
 33fa:00c00000:03ed:0001:25:0
 ORF2T HD
 p:ORF
-11fb:00820000:2b5c:013e:25:0
-TRAVELXP 4K
-p:
 33fb:00c00000:03ed:0001:25:0
 ORF2V HD
 p:ORF
@@ -9736,7 +9733,7 @@ VOX HD
 p:RTL Group
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA
+p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1830
 0302:eeee0000:6b00:2114:31:0
 arte HD
 p:ARD
