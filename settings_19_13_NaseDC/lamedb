@@ -872,6 +872,9 @@ p:
 7006:00c00000:0436:0001:1:0
 MTV
 p:MTV Networks Europe
+7606:00c00000:0408:0001:1:0
+11685V SID 0x7606
+p:DVB-S QPSK 11685V 19.2°E
 0007:00820000:1770:0110:1:0
 La 5
 p:Mediaset
@@ -1280,6 +1283,9 @@ p:Cyfrowy Polsat S.A.
 361a:00820000:00c8:013e:1:0
 France 24 (in English)
 p:Eutelsat
+141b:00c00000:0403:0001:1:0
+8 TV RU
+p:SES
 2f1c:00c00000:0441:0001:1:0
 VOX
 p:CBC
@@ -1725,7 +1731,7 @@ p:SkyItalia
 RTL NITRO A
 p:RTL
 3e2e:00820000:2ee0:013e:1:0
-SciFi Universal
+Test Sc
 p:Cyfrowy Polsat S.A.
 6e2e:00c00000:0431:0001:1:0
 rbb Berlin
@@ -2253,7 +2259,7 @@ p:ARD
 xxxVOD1
 p:Cyfrowy Polsat S.A.
 0143:00820000:3e1c:013f:1:0
-NUMERO 23
+RMC STORY
 p:Eutelsat
 0143:00820000:157c:013e:1:0
 Novasports5HD
@@ -2919,7 +2925,7 @@ p:DIGITAL+
 MDR S-Anhalt
 p:ARD
 0064:0082afc2:0065:0001:1:0
-VOA TV 100 (HB 49-52)
+VOA TV 100 (HB49-52)
 p:
 0164:00820000:1c84:013e:1:0
 Novasportsextra2
@@ -2937,7 +2943,7 @@ p:MB Satellite
 SAT.1 NRW
 p:ProSiebenSat.1
 0065:0082afc2:0065:0001:1:0
-VOA Radio 101 (HB 51-52)
+VOA Radio 101 (HB51-52)
 p:
 0165:00820000:1c84:013e:1:0
 R10
@@ -4925,6 +4931,9 @@ p:TVN
 6dce:00c00000:044d:0001:1:0
 BR Fernsehen Nord
 p:ARD
+74ce:00c00000:03f8:0001:1:0
+11435V SID 0x74ce
+p:DVB-S2 8PSK 11435V 19.2°E
 76ce:00c00000:040e:0001:1:0
 CANAL COCINA
 p:CACOC
@@ -5046,7 +5055,7 @@ p:ORF
 TVN 24 HD
 p:TVN
 00d3:0082afc2:0065:0001:1:0
-AzattykUnalgysy 211
+Azattyk Unalgysy 211
 p:
 02d3:00820000:1b58:013e:1:0
 Sender Neu Jerusalem
@@ -5211,7 +5220,7 @@ p:SkyItalia
 CONTRATO
 p:DIGITAL+
 00da:0082afc2:0065:0001:1:0
-Azatliq Radiosi 218
+Radio Crimea.Realities 218
 p:
 0fda:00820000:1e14:fbff:1:0
 NationalGeo +1
@@ -5264,9 +5273,6 @@ p:TVN
 43dd:00820000:2cec:013e:1:0
 The Word Network
 p:RRsat
-44dd:00820000:0258:013e:1:0
-Russia Today
-p:
 75dd:00c00000:0422:0001:1:0
 TEST TÉCNICO
 p:DIGITAL+
@@ -5816,9 +5822,6 @@ p:SkyItalia
 01fb:00820000:0384:013e:1:0
 WAAR HD
 p:Waar
-11fb:00820000:2b5c:013e:1:0
-TRAVELXP 4K
-p:
 1efb:00820000:21fc:013e:1:0
 PRESS TV HD
 p:IRIB
@@ -5846,6 +5849,9 @@ p:nc+
 6ffc:00c00000:042a:0001:1:0
 Nick_Jr.
 p:MTV Networks Europe
+01fd:00820000:0384:013e:1:0
+6 MIA TV
+p:M-Three satcom
 02fd:00c00000:0007:0085:1:0
 pearl.tv Shop
 p:BetaDigital
@@ -6579,7 +6585,7 @@ p:
 Radio Monte Carlo 2
 p:
 0068:0082afc2:0065:0001:2:0
-VOA Music Mix 104 (HB 57-60)
+VOA Music Mix 104 (HB57-60)
 p:
 0068:00820000:1770:0110:2:0
 Virgin radio
@@ -7708,7 +7714,7 @@ p:SKY
 p:SKY
 421c:00820000:2f44:013e:22:0
 UATV
-p:cosmonova llc
+p:COSMONOVA LLC
 101d:00c00000:0451:0035:22:0
 AXN Deutschland
 p:M7 Group
@@ -9161,6 +9167,9 @@ p:DIGITAL+
 ef8b:00c00000:03f9:0001:25:0
 sixx HD Austria
 p:ProSiebenSat.1
+008c:00c00000:000e:0085:25:0
+TNT Film HD
+p:SKY
 788c:00c00000:0414:0001:25:0
 #0 HD
 p:CANAL+
@@ -9698,6 +9707,9 @@ p:ORF
 33fa:00c00000:03ed:0001:25:0
 ORF2T HD
 p:ORF
+11fb:00820000:2b5c:013e:25:0
+TRAVELXP 4K
+p:
 33fb:00c00000:03ed:0001:25:0
 ORF2V HD
 p:ORF
@@ -9733,7 +9745,7 @@ VOX HD
 p:RTL Group
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1830
+p:SES ASTRA
 0302:eeee0000:6b00:2114:31:0
 arte HD
 p:ARD
