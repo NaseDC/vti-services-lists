@@ -653,6 +653,9 @@ p:
 132c:00820000:33f4:013e:0:0
 
 p:
+0032:00820000:2f44:013e:0:0
+Shant premium HD
+p:
 0033:00820000:2f44:013e:0:0
 Shant Music HD
 p:
@@ -1264,7 +1267,7 @@ WINGA TV
 p:M-Three satcom
 141a:00c00000:0403:0001:1:0
 STS Int
-p:GLOBECAST
+p:SES
 291a:00820000:1edc:0071:1:0
 Cartoon Network HD
 p:Cyfrowy Polsat S.A.
@@ -1868,9 +1871,6 @@ p:ARD
 7731:00c00000:0416:0001:1:0
 HISTORIA
 p:HIST
-0032:00820000:2f44:013e:1:0
-Shant Premium HD
-p:
 0132:00820000:3e1c:013f:1:0
 M6 HD
 p:Eutelsat
@@ -2165,9 +2165,6 @@ p:Cyfrowy Polsat SA
 013e:00820000:157c:013e:1:0
 Info Card
 p:NetMed
-2b3e:00820000:2580:fbff:1:0
-12635V SID 0x2b3e
-p:DVB-S QPSK 12635V 13.0°E
 313e:00c00000:0459:0001:1:0
 nice temp
 p:MB Satellite
@@ -2195,9 +2192,6 @@ p:SkyItalia
 213f:00820000:3070:013e:1:0
 Rai 1
 p:RAI
-2b3f:00820000:2580:fbff:1:0
-12635V SID 0x2b3f
-p:DVB-S QPSK 12635V 13.0°E
 363f:00820000:00c8:013e:1:0
 ESP2 NE Hungary
 p:Eutelsat
@@ -2784,7 +2778,7 @@ p:ProSiebenSat.1
 Discovery Channel
 p:NetMed
 025f:00820000:319c:013e:1:0
-DW (English)
+DW English
 p:MB Satellite
 125f:00820000:3458:013e:1:0
 Mohabat
@@ -2957,9 +2951,6 @@ p:
 0164:00820000:1c84:013e:1:0
 Novasportsextra2
 p:NetMed
-1264:00820000:3458:013e:1:0
-Towheed TV
-p:Eutelsat
 1264:00c00000:03f7:0001:1:0
 SES 09
 p:BetaDigital
@@ -3492,7 +3483,7 @@ p:SkyItalia
 TEST Sky
 p:SkyItalia
 4284:00820000:2bc0:013e:1:0
-TestPG
+Polsat Games
 p:Cyfrowy Polsat S.A
 0185:00820000:1c84:013e:1:0
 VH1
@@ -3506,6 +3497,9 @@ p:Cyfrowy Polsat S.A.
 2485:00820000:23f0:013f:1:0
 Dua Channel
 p:Telespazio
+4285:00820000:2bc0:013e:1:0
+Polsat Games
+p:Cyfrowy Polsat S.A
 7085:00c00000:0443:0001:1:0
 VOX Austria
 p:RTL
@@ -3632,6 +3626,9 @@ p:Movistar+
 118f:00820000:2af8:013e:1:0
 DATA
 p:nc+
+1c8f:00820000:1ce8:0071:1:0
+Polsat Rodzina
+p:Cyfrowy Polsat S.A.
 3c8f:00820000:1bbc:013e:1:0
 National Geographic HD
 p:Netmed
@@ -3650,6 +3647,9 @@ p:Movistar+
 0590:00820000:0320:fbff:1:0
 Nick Jr
 p:SkyItalia
+1c90:00820000:1ce8:0071:1:0
+Polsat Rodzina
+p:Cyfrowy Polsat S.A.
 2490:00820000:23f0:013f:1:0
 HODHOD FARSI
 p:Harmonic
@@ -3794,6 +3794,9 @@ p:Movistar+
 7796:00c00000:0424:0001:1:0
 SYFY
 p:DIGITAL +
+1c97:00820000:1ce8:0071:1:0
+TV Okazje
+p:Cyfrowy Polsat S.A
 2a97:00820000:1838:fbff:1:0
 Sky Uno +1
 p:SkyItalia
@@ -3815,6 +3818,9 @@ p:Cyfrowy Polsat S.A.
 3c98:00820000:1bbc:013e:1:0
 EPT HD
 p:NETMED
+7798:00c00000:0424:0001:1:0
+TEST H
+p:Movistar+
 0599:00820000:0320:fbff:1:0
 Class CNBC
 p:SkyItalia
@@ -4596,8 +4602,8 @@ p:MX1
 Nickelodeon +1
 p:SkyItalia
 76c4:00c00000:040e:0001:1:0
-TEST F
-p:Movistar+
+11038V SID 0x76c4
+p:DVB-S QPSK 11038V 19.2°E
 77c4:00c00000:040a:0001:1:0
 
 p:DIGITAL+
@@ -7448,9 +7454,6 @@ p:CSAT
 0fb1:00c00000:000c:0085:12:0
 Pace TDS 865 NSDX
 p:
-33b4:00c00000:03eb:0001:12:0
-Strong OTA SRT 7505
-p:ORS
 24b7:00c00000:0440:0001:12:0
 DATASYSTEM
 p:CSAT
@@ -7617,7 +7620,7 @@ p:M7 Group
 Sky Cinema Comedy
 p:SKY
 0009:00c00000:0003:0085:22:0
-Sky Cinema Action
+Halloween
 p:SKY
 1009:00c00000:0451:0035:22:0
 Brazzers TV
@@ -8886,7 +8889,7 @@ p:ARD
 NICKELODEON HD
 p:MTV Networks,C:186d,C:186a,C:1860,C:1843,C:1830
 0074:00c00000:000b:0085:25:0
-Sky Cinema Action HD
+Halloween HD
 p:SKY
 2074:00c00000:0432:0001:25:0
 BEIN SPORTS MAX 10
