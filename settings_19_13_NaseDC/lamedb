@@ -57,6 +57,9 @@ eeee0000:6f00:2114
 00820000:00c8:013e
 	s 11240000:27500000:1:3:130:2:0
 /
+00820000:012c:013e
+	s 11258000:27500000:0:3:130:2:0:1:2:0:2
+/
 00820000:0190:013e
 	s 11278000:27500000:1:3:130:2:0:1:2:2:2
 /
@@ -178,7 +181,7 @@ eeee0000:6f00:2114
 	s 10911000:27500000:1:3:130:2:0:1:2:0:2
 /
 00820000:2f44:013e
-	s 10930000:30000000:0:2:130:2:0:1:2:0:2
+	s 10930160:30000000:0:2:130:2:0:1:2:2:2
 /
 00820000:2fa8:013e
 	s 10949000:27500000:1:3:130:2:0
@@ -653,9 +656,6 @@ p:
 132c:00820000:33f4:013e:0:0
 
 p:
-0032:00820000:2f44:013e:0:0
-Shant premium HD
-p:
 0033:00820000:2f44:013e:0:0
 Shant Music HD
 p:
@@ -668,12 +668,15 @@ p:
 0100:eeee0000:1800:2114:1:0
 Das Erste
 p:ARD
+0200:00820000:0384:013e:1:0
+TELEITALIAORO
+p:M-Three Satcom
 0300:00c00000:0007:0085:1:0
 .
 p:BetaDigital
 1b00:00c00000:03fe:0001:1:0
 CGTN Documentary
-p:GLOBECAST,c:000264,c:010278,c:030264
+p:GLOBECAST
 3400:00820000:2710:fbff:1:0
 Primafila 9
 p:SkyItalia
@@ -685,7 +688,7 @@ Al Maghribia HD
 p:SNRT
 0001:00820000:1964:013e:1:0
 MTV Live HD
-p:Cyfrowy Polsat S.A.,C:5604,C:1884,C:186c,C:1861,C:1813,C:1803,C:0b01,C:0931,C:06ed,C:0604,C:0500,C:0100
+p:Cyfrowy Polsat S.A.
 0001:0082afc2:0065:0001:1:0
 CurrentTime HD
 p:
@@ -695,6 +698,9 @@ p:Mediaset
 0001:00820000:1fa4:013e:1:0
 RIT-TV
 p:RIT
+0201:00820000:0384:013e:1:0
+SUBACQUEATV
+p:M-Three Satcom
 0301:00c00000:0007:0085:1:0
 Channel21
 p:BetaDigital
@@ -728,12 +734,18 @@ p:
 0002:00820000:1770:0110:1:0
 Canale 5
 p:Mediaset
+0002:0082accf:0578:013e:1:0
+Farsi 24
+p:
 0202:eeee0000:0202:2114:1:0
 ZDF
 p:ZDFmobil
 0202:00c00000:0007:0085:1:0
 Immer etwas Neues TV
 p:BetaDigital
+0202:00820000:0384:013e:1:0
+ITALY SAT
+p:M -Three Satcom
 0702:00c00000:0005:0085:1:0
 QVC
 p:BetaDigital
@@ -767,6 +779,9 @@ p:ARABSAT
 0203:eeee0000:0202:2114:1:0
 3sat
 p:ZDFmobil
+0203:00820000:0384:013e:1:0
+TIVU TIVU
+p:M-Tree Satcom
 1b03:00c00000:03fe:0001:1:0
 TV5MONDE EUROPE
 p:GlobeCast
@@ -788,6 +803,9 @@ p:
 0204:eeee0000:0202:2114:1:0
 ZDFinfo
 p:ZDFmobil
+0204:00820000:0384:013e:1:0
+DIPRE'TV
+p:M-Three Satcom
 0304:00c00000:0005:0085:1:0
 TLC
 p:BetaDigital
@@ -818,9 +836,9 @@ p:ARABSAT
 0205:eeee0000:0202:2114:1:0
 neo/KiKA
 p:ZDFmobil
-1005:00820000:2db4:013e:1:0
-RolandoSat
-p:MX1
+0205:00820000:0384:013e:1:0
+HERCULES
+p:M-Three Satcom
 1105:00820000:1644:fbff:1:0
 TG24PrimoPiano
 p:SkyItalia
@@ -852,16 +870,19 @@ p:Mediaset
 Rangarang TV
 p:
 0006:00820000:02bc:013e:1:0
-Armenia TV
-p:
+11334H SID 0x06
+p:DVB-S QPSK 11334H 13.0°E
 0006:00820000:25e4:02be:1:0
 SUDAN TV
 p:ARABSAT
+0206:00820000:0384:013e:1:0
+LAS TELEVENTA
+p:M-Three Satcom
 0306:00c00000:0007:0085:1:0
 GOD Channel
 p:BetaDigital
 0e06:00820000:2d50:013e:1:0
-BBC HD
+BBC FIRST
 p:nc+
 1406:00c00000:0403:0001:1:0
 Russkij Perwyj R1
@@ -887,6 +908,9 @@ p:Mediaset
 0007:0082accf:0578:013e:1:0
 ES TV
 p:
+0207:00820000:0384:013e:1:0
+MYTIVI
+p:M-Three Satcom
 0307:00c00000:0007:0085:1:0
 MediaShop- Meine Einkaufswelt
 p:BetaDigital
@@ -920,6 +944,9 @@ p:ARABSAT
 0108:eeee0000:5200:2114:1:0
 WDR Siegen
 p:ARD
+0208:00820000:0384:013e:1:0
+BLACKTV
+p:M-Three Satcom
 0308:00c00000:0005:0085:1:0
 SIXX
 p:ProSiebenSat.1
@@ -939,8 +966,8 @@ p:CBC
 ESP HD Russian
 p:nc+
 7008:00c00000:0436:0001:1:0
-Nickelodeon
-p:MTV Networks Europe,c:001005,c:011006,c:021008,c:031005
+NICK/MTV+
+p:MTV Networks Europe
 0009:00820000:1964:013e:1:0
 Nickelodeon
 p:Cyfrowy Polsat S.A.
@@ -956,6 +983,9 @@ p:ARQIVA LTD
 0009:00820000:25e4:02be:1:0
 Iraqia News
 p:ARABSAT
+0209:00820000:0384:013e:1:0
+MOON LIGHT TV
+p:M-Three Satcom
 0709:00820000:32c8:013e:1:0
 Polsat Sport Premium 1
 p:Cyfrowy Polsat S.A.
@@ -983,6 +1013,9 @@ p:
 000a:00820000:02bc:013e:1:0
 RTPi
 p:GLOBECAST
+020a:00820000:0384:013e:1:0
+TIVU TIVU 2
+p:M-Three Satcom
 070a:00820000:32c8:013e:1:0
 Polsat Sport Premium 2
 p:Cyfrowy Polsat S.A.
@@ -1007,6 +1040,9 @@ p:Eutelsat
 700a:00c00000:0436:0001:1:0
 Nicktoons (S)
 p:MTV Networks Europe
+020b:00820000:0384:013e:1:0
+DIPRE'TV 2
+p:M-Three Satcom
 070b:00820000:32c8:013e:1:0
 Polsat Sport Premium PPV3
 p:Cyfrowy Polsat S.A.
@@ -1034,6 +1070,9 @@ p:Cyfrowy Polsat S.A.
 000c:00820000:1770:0110:1:0
 Topcrime
 p:Mediaset
+020c:00820000:0384:013e:1:0
+CITTAITALIATV
+p:M-Three Satcom
 070c:00820000:32c8:013e:1:0
 Polsat Sport Premium PPV4
 p:Cyfrowy Polsat S.A.
@@ -1042,7 +1081,7 @@ POKERItalia24
 p:SkyItalia
 200c:00820000:24b8:013e:1:0
 BBC World News
-p:Globecast,c:0000a3,c:01005c,c:0300a3
+p:Globecast
 290c:00820000:1edc:0071:1:0
 Eurosport 2 HD
 p:Cyfrowy Polsat S.A.
@@ -1059,8 +1098,11 @@ p:Cyfrowy Polsat S.A.
 Cartoonito
 p:
 000d:0082accf:0578:013e:1:0
-Telefeshinka Caalamiga
+Telefeshinka Caalmiga
 p:
+020d:00820000:0384:013e:1:0
+PRIVE' TV
+p:M-Three Satcom
 070d:00820000:32c8:013e:1:0
 Polsat Sport Premium PPV5
 p:Cyfrowy Polsat S.A.
@@ -1091,6 +1133,9 @@ p:Mediaset
 000e:0082accf:0578:013e:1:0
 Azadi
 p:
+020e:00820000:0384:013e:1:0
+SESTO SENSO ITALIA
+p:M-Three Satcom
 030e:00820000:1b58:013e:1:0
 RIKSat
 p:Telespazio
@@ -1115,6 +1160,12 @@ p:Cyfrowy Polsat S.A.
 000f:00820000:1770:0110:1:0
 20 Mediaset
 p:
+020f:00820000:0384:013e:1:0
+PINKO TV
+p:M-Three Satcom
+030f:00820000:1b58:013e:1:0
+Telesur
+p:Telespazio
 290f:00820000:1edc:0071:1:0
 HBO HD
 p:Cyfrowy Polsat S.A.
@@ -1127,6 +1178,9 @@ p:Eutelsat
 0010:00820000:1964:013e:1:0
 Comedy Central Family
 p:Cyfrowy Polsat S.A.
+0210:00820000:0384:013e:1:0
+PASSION TV
+p:M-Three Satcom
 0e10:00820000:0708:00c8:1:0
 EMPTY SERVICE
 p:M-Three satcom
@@ -1145,6 +1199,9 @@ p:nc+
 3610:00820000:00c8:013e:1:0
 ESP Greek
 p:Eutelsat
+3a10:00820000:1fa4:013e:1:0
+Farsi 24
+p:iKOMG
 0311:00820000:1b58:013e:1:0
 Mekameleen TV
 p:Telespazio
@@ -1216,7 +1273,7 @@ ESP HD
 p:nc+
 3615:00820000:00c8:013e:1:0
 ESP Turk
-p:Eutelsat
+p:EUROSPORT
 1316:00820000:2e7c:013e:1:0
 Eurosport 2 HD UPC
 p:nc+
@@ -1278,11 +1335,8 @@ p:Eutelsat
 8 TV RU
 p:SES
 331b:00820000:0190:013e:1:0
-11278V SID 0x331b
-p:DVB-S2 8PSK 11278V 13.0°E
-141c:00820000:05dc:013e:1:0
-11488H SID 0x141c
-p:DVB-S2 8PSK 11488H 13.0°E
+NATIONAL GEO HD
+p:nc+
 2f1c:00c00000:0441:0001:1:0
 VOX
 p:CBC
@@ -1292,9 +1346,6 @@ p:Harmonic
 0c1d:00820000:1e78:0071:1:0
 Polsat Sport HD
 p:Cyfrowy Polsat S.A.
-141d:00820000:05dc:013e:1:0
-11488H SID 0x141d
-p:DVB-S2 8PSK 11488H 13.0°E
 2f1d:00c00000:0441:0001:1:0
 NITRO
 p:CBC
@@ -1313,9 +1364,6 @@ p:Harmonic
 0c1e:00820000:1e78:0071:1:0
 Polsat Sport HD
 p:Cyfrowy Polsat S.A.
-141e:00820000:05dc:013e:1:0
-11488H SID 0x141e
-p:DVB-S2 8PSK 11488H 13.0°E
 341e:00820000:2710:fbff:1:0
 Primafila 28
 p:SkyItalia
@@ -1323,8 +1371,8 @@ p:SkyItalia
 E! Entertainment
 p:Cyfrowy Polsat S.A.
 421e:00820000:2f44:013e:1:0
-Penthouse 1
-p:Basmedia
+Penthouse Black
+p:M-Three Satcom
 001f:00c00000:0010:0085:1:0
 .
 p:SKY
@@ -1346,6 +1394,9 @@ p:Cyfrowy Polsat S.A.
 0020:0082accf:0578:013e:1:0
 SNTV_HB
 p:
+0320:00820000:3bc4:013e:1:0
+Belarus 24 HD
+p:GLOBECAST
 0c20:00820000:1e78:0071:1:0
 Polsat Viasat History HD
 p:Cyfrowy Polsat S.A.
@@ -1372,7 +1423,7 @@ Paramount Channel HD.
 p:Cyfrowy Polsat S.A.
 0321:0082b00f:0001:0001:1:0
 TBN Europe
-p:
+p:overon
 0321:00820000:3bc4:013e:1:0
 Euronews English HD
 p:GLOBECAST
@@ -1422,7 +1473,7 @@ p:BetaDigital
 MTV Polska HD.
 p:
 0323:0082b00f:0001:0001:1:0
-TBN ITALIA
+TCI
 p:tinity tv
 0323:00820000:3bc4:013e:1:0
 TRT World HD
@@ -1450,7 +1501,7 @@ Kabel 1 Schweiz
 p:ProSiebenSat.1
 0324:0082b00f:0001:0001:1:0
 Hillsong
-p:
+p:overon
 0c24:00820000:1e78:0071:1:0
 Polsat Sport Extra HD
 p:Cyfrowy Polsat S.A.
@@ -1473,8 +1524,8 @@ p:ProSiebenSat.1
 Sky Sport News
 p:SKY
 0325:0082b00f:0001:0001:1:0
-Smile of a Child
-p:
+JCTV
+p:OVERON
 0325:00820000:1770:0110:1:0
 Mediaset On Demand
 p:Mediaset
@@ -1484,12 +1535,9 @@ p:
 0c25:00820000:1e78:0071:1:0
 AXN HD
 p:Cyfrowy Polsat SA
-0e25:00820000:0708:00c8:1:0
-QVC
-p:M-Three satcom
 1d25:00820000:2fa8:013e:1:0
 BRAZZERS TV Europe
-p:Globecast,c:001b59,c:011b63,c:031b59,C:186c,C:1861,C:1803,C:06ed,C:0614,C:0500
+p:Globecast
 2525:00820000:13ef:013e:1:0
 ZAD TV
 p:
@@ -1537,7 +1585,7 @@ VOA Radio 295 (HB 89 - 92)
 p:
 0327:0082b00f:0001:0001:1:0
 TBN Poland
-p:
+p:overon
 0327:00820000:3bc4:013e:1:0
 France 24 HD (en Francais)
 p:GLOBECAST
@@ -1628,12 +1676,15 @@ p:Arabsat
 032a:0082b00f:0001:0001:1:0
 Kanal Hayat
 p:OVERON
+032a:00820000:3bc4:013e:1:0
+Radio Belarus International
+p:GLOBECAST
 0c2a:00820000:1e78:0071:1:0
 AXN HD
 p:Cyfrowy Polsat S.A.
 0e2a:00820000:0708:00c8:1:0
 NOVE
-p:Persidera,C:183e,C:183d,C:093b,C:09cd,C:0919
+p:Persidera,C:0919,C:093b,C:09cd,C:183e,C:183d
 1d2a:00820000:2fa8:013e:1:0
 IMAM HUSSEIN 3
 p:Globecast
@@ -1703,6 +1754,9 @@ p:Cyfrowy Polsat S.A.
 0e2d:00820000:0708:00c8:1:0
 POP Italy
 p:M-THree satcom,C:183e,C:183d
+132d:00820000:33f4:013e:1:0
+QVC
+p:Harmonic
 232d:00820000:2328:013e:1:0
 FADAK TV
 p:STN Ltd
@@ -1714,9 +1768,9 @@ Sport HD
 p:SkyItalia
 332d:00c00000:045b:0001:1:0
 ORF III
-p:ORF,c:0003f2,c:0103f3,c:0203f5,c:0303f2,C:0d98,C:0d95,C:09c4,C:098c,C:0650,C:0648
+p:ORF
 332d:00820000:3390:0071:1:0
-Polsat
+Test P
 p:Cyfrowy Polsat S.A.
 422d:00820000:3db8:013e:1:0
 Private TV  HD!
@@ -1726,7 +1780,7 @@ rbb Brandenburg
 p:ARD
 772d:00c00000:0416:0001:1:0
 BLAZE
-p:DIGITAL+,c:0000a2,c:010059,c:0300a2,C:1810,C:0100
+p:DIGITAL+
 002e:00c00000:0021:0085:1:0
 Sparhandy TV 2
 p:BetaDigital
@@ -1758,8 +1812,11 @@ p:SES ASTRA
 Baby TV
 p:SkyItalia
 332e:00c00000:045b:0001:1:0
-RTL NITRO A
+NITRO Austria
 p:RTL
+422e:00820000:3db8:013e:1:0
+Vivid Red HD!
+p:Telespazio
 6e2e:00c00000:0431:0001:1:0
 rbb Berlin
 p:ARD
@@ -1775,9 +1832,6 @@ p:NetMed
 0c2f:00820000:1e78:0071:1:0
 History HD
 p:Cyfrowy Polsat S.A.
-1d2f:00820000:2fa8:013e:1:0
-Velayat TV
-p:Globecast
 232f:00820000:2328:013e:1:0
 Kentron
 p:STN Ltd
@@ -1786,9 +1840,9 @@ Sky Sport Info
 p:SkyItalia
 332f:00c00000:045b:0001:1:0
 Welt der Wunder
-p:-,c:000406,c:010407,c:030406
+p:-
 332f:00820000:3390:0071:1:0
-TV4
+Test T
 p:Cyfrowy Polsat S.A.
 422f:00820000:3db8:013e:1:0
 Redlight HD!
@@ -1818,10 +1872,10 @@ p:STN Ltd
 RTLplus
 p:CBC
 3330:00820000:3390:0071:1:0
-Polsat Sport
+Test S
 p:Cyfrowy Polsat S.A.
 3e30:00820000:2ee0:013e:1:0
-Test.
+TestP
 p:Cyfrowy Polsat S.A.
 4230:00820000:3db8:013e:1:0
 Hustler HD!
@@ -1844,9 +1898,6 @@ p:
 1131:00c00000:0404:0001:1:0
 TVE INTERNACIONAL EUROPA
 p:RTVE
-1131:00820000:2db4:013e:1:0
-Telemodena
-p:MX1
 2331:00820000:2328:013e:1:0
 Angel TV Europe
 p:STN Ltd
@@ -1857,7 +1908,7 @@ p:
 DeAJunior
 p:SkyItalia
 3331:00820000:3390:0071:1:0
-Polsat Sport Extra
+Test SE
 p:Cyfrowy Polsat S.A.
 4231:00820000:3db8:013e:1:0
 Goldbet 1
@@ -1871,6 +1922,9 @@ p:ARD
 7731:00c00000:0416:0001:1:0
 HISTORIA
 p:HIST
+0032:00820000:2f44:013e:1:0
+Shant Premium HD
+p:
 0132:00820000:3e1c:013f:1:0
 M6 HD
 p:Eutelsat
@@ -1944,7 +1998,7 @@ p:STN ltd
 DMAX
 p:SkyItalia
 3334:00820000:3390:0071:1:0
-Polsat Film
+Test F
 p:Cyfrowy Polsat S.A.
 4534:00820000:30d4:013e:1:0
 Rai 4 HD
@@ -2119,7 +2173,7 @@ TELE 5
 p:Telespazio
 003c:00c00000:0007:0085:1:0
 Comedy Central / VIVA AT
-p:MTV Networks,c:0005ff,c:010600,c:0305ff
+p:MTV Networks
 003c:00820000:1964:013e:1:0
 VOD 202
 p:Cyfrowy Polsat S.A.
@@ -2234,9 +2288,6 @@ p:Eutelsat
 0141:00820000:157c:013e:1:0
 STAR
 p:NetMed
-1f41:00820000:2db4:013e:1:0
-Julie
-p:MX1
 2141:00820000:3070:013e:1:0
 Rai 3
 p:RAI
@@ -2306,6 +2357,9 @@ p:Eutelsat
 0144:00820000:157c:013e:1:0
 R13
 p:NetMed
+0e44:00820000:1c20:013e:1:0
+CAPITAL
+p:
 1f44:00820000:319c:013e:1:0
 MC EU
 p:MB Satellite
@@ -2333,6 +2387,9 @@ p:Eutelsat
 0145:00820000:157c:013e:1:0
 ALPHA TV
 p:NetMed
+0e45:00820000:1c20:013e:1:0
+M DUE O
+p:
 1f45:00820000:319c:013e:1:0
 VIVID RED HD
 p:MB Satellite
@@ -2365,7 +2422,7 @@ SKAI TV
 p:NetMed
 1146:00c00000:0404:0001:1:0
 CNN Int.
-p:Harmonic,c:0000a5,c:010064,c:0300a5
+p:Harmonic
 3146:00c00000:0459:0001:1:0
 rhein main tv
 p:MB Satellite
@@ -2378,9 +2435,6 @@ p:ARD
 6f46:00c00000:0445:0001:1:0
 SR Fernsehen
 p:ARD
-7a46:00c00000:0410:0001:1:0
-Cordoba TV
-p:TSA
 0047:00c00000:0007:0085:1:0
 .
 p:BetaDigital
@@ -2448,7 +2502,7 @@ p:NETMED
 Rai 2 HD
 p:Rai
 264a:00c00000:0460:0001:1:0
-F3 PAYS DE LOIRE
+F3 PAYS DE LA LOIRE
 p:CSAT
 314a:00c00000:0459:0001:1:0
 Dreamgirls24 TV temp
@@ -2480,9 +2534,6 @@ p:MB Satellite
 7a4b:00c00000:0410:0001:1:0
 I24 Francis
 p:TSA
-004c:00c00000:0021:0085:1:0
-.
-p:BetaDigital
 014c:00820000:157c:013e:1:0
 Novacinema4HD Cy
 p:NetMed
@@ -2502,11 +2553,11 @@ p:MB Satellite
 HSE24 TREND
 p:BetaDigital
 044d:00820000:238c:013e:1:0
-Hot Bird 4k1
+Hot Bird 4K1
 p:
 0d4d:00820000:1450:013e:1:0
 Rai News 24 HD
-p:Rai,c:0001f9,c:01025d,c:02023b,c:0301f9,c:050001,c:0923b7807,C:183e,C:183d
+p:Rai
 264d:00c00000:0460:0001:1:0
 F3 BOURGOGNE
 p:CSAT
@@ -2552,6 +2603,9 @@ p:NetMed
 0e50:00820000:0320:fbff:1:0
 DMAX+1
 p:SkyItalia
+1450:00c00000:040d:0001:1:0
+Test 1
+p:
 2650:00c00000:0460:0001:1:0
 F3 ALPES
 p:CSAT
@@ -2600,9 +2654,6 @@ p:DVB-S2 8PSK 10729V 19.2°E
 0154:0082afc2:0065:0001:1:0
 DOS TV 340
 p:
-1c54:00820000:1c20:013e:1:0
-Chan3es TV
-p:
 1f54:00820000:319c:013e:1:0
 Gala TV
 p:MB Satellite
@@ -2648,6 +2699,9 @@ p:MB Satellite
 3d56:00820000:2c88:013e:1:0
 Discovery Life HD
 p:nc+
+1c57:00820000:1c20:013e:1:0
+SMTv San Marino Radio
+p:Harmonic
 2657:00c00000:0460:0001:1:0
 F3 AQUITAINE
 p:CSAT
@@ -2684,6 +2738,9 @@ p:MB Satellite
 3d59:00820000:2c88:013e:1:0
 TVP Kultura
 p:nc+
+145a:00c00000:040d:0001:1:0
+Test 2
+p:
 1c5a:00820000:1c20:013e:1:0
 Persiana TV
 p:
@@ -2771,6 +2828,9 @@ p:CSAT
 3d5e:00820000:2c88:013e:1:0
 NATIONAL GEO
 p:nc+
+425e:00820000:3db8:013e:1:0
+Test PTV
+p:Telespazio
 445e:00c00000:0453:0001:1:0
 kabel eins
 p:ProSiebenSat.1
@@ -2957,9 +3017,6 @@ p:BetaDigital
 1f64:00820000:319c:013e:1:0
 MB Sat - Test 5
 p:MB Satellite
-3164:00c00000:0459:0001:1:0
-MB SAT - Test2
-p:MB Satellite
 4464:00c00000:0453:0001:1:0
 SAT.1 NRW
 p:ProSiebenSat.1
@@ -2990,6 +3047,9 @@ p:SkyItalia
 2d65:00820000:2774:fbff:1:0
 Primafila 1
 p:SkyItalia
+3165:00c00000:0459:0001:1:0
+MB SAT - Test6
+p:MB Satellite
 3d65:00820000:2c88:013e:1:0
 FilmBox Action
 p:nc+
@@ -3003,7 +3063,7 @@ p:Movistar+
 VOA Radio 102 (HB53-56)
 p:
 0166:00820000:1c84:013e:1:0
-Epsilon TV
+OPEN BEYOND TV
 p:NetMed
 1266:00c00000:03f7:0001:1:0
 .
@@ -3011,11 +3071,14 @@ p:BetaDigital
 2b66:00820000:19c8:fbff:1:0
 cielo
 p:
+3166:00c00000:0459:0001:1:0
+MB SAT - Test4
+p:MB Satellite
 3d66:00820000:2c88:013e:1:0
 TV PULS HD
 p:nc+
 4266:00820000:3db8:013e:1:0
-Subaquea TV
+Digiquest Promo
 p:Telespazio
 6d66:00c00000:0437:0001:1:0
 ZDF
@@ -3038,9 +3101,15 @@ p:Globecast
 2d67:00820000:2774:fbff:1:0
 Dawson's Creek 20
 p:SkyItalia
+3167:00c00000:0459:0001:1:0
+MB SAT - Test5
+p:MB Satellite
 3d67:00820000:2c88:013e:1:0
 TVP Historia
 p:nc+
+4267:00820000:3db8:013e:1:0
+Vivid Red HD
+p:Telespazio
 6d67:00c00000:0437:0001:1:0
 3sat
 p:ZDFvision
@@ -3049,7 +3118,7 @@ ALQUILER 3
 p:Movistar+
 0168:00820000:1c84:013e:1:0
 Motorsport TV HD
-p:NetMed,C:0604
+p:NetMed
 0368:00820000:3c28:013e:1:0
 CGTN
 p:CCTV
@@ -3074,12 +3143,9 @@ p:NetMed
 0369:00820000:3c28:013e:1:0
 CGTN Documentary
 p:CCTV
-1069:00820000:2db4:013e:1:0
-Nostradamus
-p:MX1
 1169:00820000:2af8:013e:1:0
-10719V SID 0x1169
-p:DVB-S2 8PSK 10719V 13.0°E
+Nat Geo Wild HD
+p:nc+
 2b69:00820000:19c8:fbff:1:0
 Sky Assist
 p:SkyItalia
@@ -3124,7 +3190,7 @@ Russia Today
 p:Eutelsat
 6d6b:00c00000:0437:0001:1:0
 ZDFinfo
-p:ZDFvision,c:000262,c:020276,c:030262,c:040271
+p:ZDFvision
 746b:00c00000:03f0:0001:1:0
 DISNEY JR
 p:DIGITAL+
@@ -3181,7 +3247,7 @@ VOA Radio 110 (HB69-72)
 p:
 126e:00c00000:03f7:0001:1:0
 .1.
-p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1837,C:1830
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1837,C:1830
 1f6e:00820000:319c:013e:1:0
 MB SAT - Test 13
 p:MB Satellite
@@ -3205,7 +3271,7 @@ R16
 p:NetMed
 126f:00c00000:03f7:0001:1:0
 .2.
-p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1830
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 1c6f:00820000:1c20:013e:1:0
 BAYYINAT
 p:BayyinatTV
@@ -3223,7 +3289,7 @@ CANAL+ 4K ULTRA HD
 p:nc+
 1270:00c00000:03f7:0001:1:0
 .3.
-p:BetaDigital,C:186a,C:1860,C:1843,C:1830
+p:BetaDigital,C:186a,C:1860,C:1843,C:1842,C:1830
 3070:00c00000:03f5:0001:1:0
 RTL 2 CH
 p:BetaDigital
@@ -3297,7 +3363,7 @@ p:ARD
 M.LCAMPEON8
 p:Movistar+
 4277:00820000:2bc0:013e:1:0
-Wellbeing
+Test W
 p:Cyfrowy Polsat S.A.
 6f77:00c00000:0457:0001:1:0
 WDR Wuppertal
@@ -3325,7 +3391,7 @@ p:ARD
 p:Movistar+
 7578:00c00000:0412:0001:1:0
 LALIGA123TVM1
-p:Movistar+,C:1810,C:0100
+p:Movistar+
 0179:00820000:1c84:013e:1:0
 MAD T.V
 p:NetMed
@@ -3368,8 +3434,11 @@ p:
 057c:00820000:0320:fbff:1:0
 Comedy Central
 p:SkyItalia
+137c:00820000:33f4:013e:1:0
+Copti_Sat
+p:Telespazio
 1f7c:00820000:319c:013e:1:0
-MB Sat - Test 1
+MB SAT - Test 1
 p:MB Satellite
 2b7c:00820000:19c8:fbff:1:0
 Disney Junior
@@ -3384,7 +3453,7 @@ p:NetMed
 TVRUS
 p: 
 1f7d:00820000:319c:013e:1:0
-MB Sat - Test 4
+MB SAT - Test 4
 p:MB Satellite
 757d:00c00000:0412:0001:1:0
 M.LCAMPEON5
@@ -3431,9 +3500,6 @@ p:nc+
 7581:00c00000:0412:0001:1:0
 BEINLALIGA3
 p:Movistar+
-0082:0082afc2:0065:0001:1:0
-VOA HDTV Pilot 130
-p:
 0182:00820000:1c84:013e:1:0
 Nickelodeon
 p:NetMed
@@ -3450,8 +3516,8 @@ p:AB SAT,C:0500,C:0100
 CBS Action
 p:Cyfrowy Polsat S. A.
 7582:00c00000:0412:0001:1:0
-MULTIFUT. 2
-p:CANAL+
+LALIGATVBAR2
+p:Movistar+
 0183:00820000:1c84:013e:1:0
 ÅÑÔ3
 p:NetMed
@@ -3541,13 +3607,13 @@ Canale Italia
 p:MX1
 1389:00c00000:03ea:0001:1:0
 BBC World News Europe HD
-p:SES ASTRA,c:00082b,c:03082b,c:04082c,c:050001
+p:SES ASTRA
 1c89:00820000:332c:013e:1:0
 Al Jazeera English
 p:Arqiva
 1c89:00820000:1ce8:0071:1:0
 Dla Abonentow
-p:Cyfrowy Polsat S.A.,c:0001f9,c:01025d,c:0301f9,c:050001,C:186c,C:1861,C:1803,C:06ed
+p:Cyfrowy Polsat S.A.
 4289:00820000:2bc0:013e:1:0
 TV Republika
 p:Cyfrowy Polsat S.A.
@@ -3604,7 +3670,7 @@ Novacinema1HD Cy
 p:Netmed
 428d:00820000:2bc0:013e:1:0
 4Fun.TV
-p:Cyfrowy Polsat S.A.,c:000109,c:010209,c:030109,c:050001
+p:Cyfrowy Polsat S.A.
 778d:00c00000:0424:0001:1:0
 NAT GEOGRAPH
 p:NATGEO
@@ -3746,9 +3812,6 @@ p:CBC
 0295:00c00000:0021:0085:1:0
 AstroTV
 p:BetaDigital
-1195:00820000:2db4:013e:1:0
-Shop Windows TV
-p:MX1
 3c95:00820000:1bbc:013e:1:0
 Novacinema1HD
 p:NetMed
@@ -3819,7 +3882,7 @@ p:Cyfrowy Polsat S.A.
 EPT HD
 p:NETMED
 7798:00c00000:0424:0001:1:0
-TEST H
+TEST P
 p:Movistar+
 0599:00820000:0320:fbff:1:0
 Class CNBC
@@ -4064,9 +4127,9 @@ p:Eutelsat
 06a5:00820000:3138:013e:1:0
 TV CORAN
 p:GLOBECAST
-08a5:00820000:01f4:013e:1:0
-Suroyo TV
-p:iKOMG
+1ca5:00820000:332c:013e:1:0
+Bartar TV
+p:
 1ca5:00820000:1ce8:0071:1:0
 Jedynka - PR
 p:Cyfrowy Polsat S.A.
@@ -4105,7 +4168,7 @@ p:RRsat
 p:Movistar+
 76a6:00c00000:041e:0001:1:0
 LALIGA123TVM3
-p:Movistar+,C:1810,C:0100
+p:Movistar+
 06a7:00820000:3138:013e:1:0
 THT
 p:GLOBECAST
@@ -4154,9 +4217,6 @@ p:Cyfrowy Polsat S.A.
 2aa9:00820000:1838:fbff:1:0
 Sky Sport Arena
 p:SkyItalia
-2fa9:00820000:2db4:013e:1:0
-TELEAKERY
-p:MX1
 33a9:00820000:3390:0071:1:0
 Polsat News HD
 p:Cyfrowy Polsat S.A.
@@ -4217,6 +4277,9 @@ p:GLOBECAST
 0dae:00820000:2d50:013e:1:0
 Kino Polska Muzyka
 p:nc+
+16ae:00c00000:03ff:0001:1:0
+BB-MV-LokalTV
+p:HMS GmbH
 2fae:00820000:2db4:013e:1:0
 Lazio TV
 p:MX1
@@ -4268,26 +4331,14 @@ p:ORS
 0db2:00820000:2d50:013e:1:0
 Discovery Historia
 p:nc+
-2fb2:00820000:2db4:013e:1:0
-Sposa TV HD
-p:MX1
 33b2:00820000:3390:0071:1:0
 Polsat Play HD
 p:Cyfrowy Polsat S.A.
 75b2:00c00000:0422:0001:1:0
 ALQUILER
 p:DIGITAL+
-08b3:00820000:01f4:013e:1:0
-WELAT
-p:iKOMG
 0db3:00820000:2d50:013e:1:0
 Zest TV
-p:nc+
-2fb3:00820000:2db4:013e:1:0
-MEDITERRANEOSAT
-p:MX1
-0db4:00820000:2d50:013e:1:0
-Motowizja TV
 p:nc+
 1fb4:00820000:189c:fbff:1:0
 GINX Esports TV
@@ -4310,6 +4361,9 @@ p:SkyItalia
 06b6:00820000:3138:013e:1:0
 8 TV RU
 p:GLOBECAST
+12b6:00820000:3458:013e:1:0
+FEED
+p:
 1cb6:00820000:1ce8:0071:1:0
 Disney Channel HD
 p:Cyfrowy Polsat S.A.
@@ -4345,7 +4399,7 @@ Discovery Travel
 p:SkyItalia
 1cb9:00820000:1ce8:0071:1:0
 MTV Rocks
-p:Cyfrowy Polsat S.A.,c:0001f7,c:01025b,c:0301f7,c:050001,C:1884,C:186c,C:1861,C:1813,C:1803,C:0b01,C:06ed,C:0500,C:0100
+p:Cyfrowy Polsat S.A.
 2ab9:00820000:1838:fbff:1:0
 PPV Bundle
 p:SkyItalia
@@ -4391,6 +4445,9 @@ p:Manoto
 1cbb:00820000:1ce8:0071:1:0
 Vivid Touch SD
 p:Cyfrowy Polsat S.A.
+24bb:00c00000:043c:0001:1:0
+12090V SID 0x24bb
+p:DVB-S2 8PSK 12090V 19.2°E
 2abb:00820000:1838:fbff:1:0
 PPV Bundle2
 p:SkyItalia
@@ -4560,7 +4617,7 @@ p:NetMed
 Primafila 12
 p:SkyItalia
 2dc3:00820000:1a2c:fbff:1:0
-Scary Halloween
+Sky Max +1
 p:SkyItalia
 2fc3:00820000:2db4:013e:1:0
 Nove HD
@@ -4568,9 +4625,6 @@ p:MX1
 35c3:00820000:1388:013e:1:0
 SCT
 p:TSA
-38c3:00820000:2648:fbff:1:0
-12673V SID 0x38c3
-p:DVB-S QPSK 12673V 13.0°E
 76c3:00c00000:040e:0001:1:0
 DISNEY CH.
 p:DCH
@@ -4608,7 +4662,7 @@ p:DVB-S QPSK 11038V 19.2°E
 
 p:DIGITAL+
 01c5:00820000:26ac:013f:1:0
-AB MOTEURS
+AUTOMOTO la chaine
 p:AB Sat
 0bc5:00820000:20d0:013e:1:0
 CGN TV
@@ -4619,6 +4673,9 @@ p:SkyItalia
 0fc5:00820000:1e14:fbff:1:0
 Loveworld
 p:SkyItalia
+12c5:00820000:2e7c:013e:1:0
+4805
+p:nc+
 1bc5:00820000:17d4:013e:1:0
 NovasportsstoriesHD
 p:NetMed
@@ -4639,7 +4696,7 @@ Disney Junior +1
 p:SkyItalia
 76c5:00c00000:040e:0001:1:0
 LALIGA123TV
-p:Movistar+,c:0000a5,c:010065,c:0300a5,C:1810,C:0100
+p:Movistar+
 01c6:00820000:26ac:013f:1:0
 ANIMAUX
 p:AB Sat
@@ -4647,10 +4704,10 @@ p:AB Sat
 Euronews Russian
 p:GLOBECAST
 0fc6:00820000:1e14:fbff:1:0
-Nick Jr +1
+Shimmer&Shine Ch
 p:SkyItalia
 12c6:00820000:2e7c:013e:1:0
-Animal Planet HD
+KINO POLSKA HD
 p:nc+
 1bc6:00820000:17d4:013e:1:0
 NOVA SCOPE
@@ -4661,9 +4718,12 @@ p:SkyItalia
 2dc6:00820000:1a2c:fbff:1:0
 Sky Uno
 p:SkyItalia
+2fc6:00820000:2db4:013e:1:0
+E` TV Emilia Rom
+p:MX1
 35c6:00820000:1388:013e:1:0
 Privetv
-p:TSA,c:00124b,c:01124c,c:03124b,c:050001,C:1807,C:0647,C:0604,C:0500
+p:TSA
 75c6:00c00000:0422:0001:1:0
 PORTADA
 p:DIGITAL+
@@ -4685,6 +4745,9 @@ p:SkyItalia
 2dc7:00820000:1a2c:fbff:1:0
 Sky Uno
 p:SkyItalia
+2fc7:00820000:2db4:013e:1:0
+Reality TV
+p:MX1
 35c7:00820000:1388:013e:1:0
 PASSIONXXX
 p:TSA
@@ -4712,6 +4775,9 @@ p:NetMed
 2dc8:00820000:1a2c:fbff:1:0
 VENETO LINK
 p:SkyItalia
+2fc8:00820000:2db4:013e:1:0
+Telepiu Channel
+p:MX1
 35c8:00820000:1388:013e:1:0
 XMUVI
 p:TSA
@@ -4851,7 +4917,7 @@ p:SkyItalia
 Primafila 6
 p:SkyItalia
 2dcc:00820000:1a2c:fbff:1:0
-Happy Halloween
+Cinema Christmas
 p:SkyItalia
 32cc:00c00000:045d:0001:1:0
 ORF2 N
@@ -4874,9 +4940,6 @@ p:
 01cd:00820000:26ac:013f:1:0
 ACTION
 p:AB Sat
-10cd:00820000:2db4:013e:1:0
-Diva Futura
-p:MX1
 1ccd:00820000:1ce8:0071:1:0
 test vn
 p:Cyfrowy Polsat S.A.
@@ -4907,9 +4970,6 @@ p:AB Sat
 1bce:00820000:17d4:013e:1:0
 novacinema2 Cy
 p:NetMed
-22ce:00c00000:0434:0001:1:0
-11934V SID 0x22ce
-p:DVB-S2 8PSK 11934V 19.2°E
 2bce:00820000:1a90:fbff:1:0
 Primafila 4
 p:SkyItalia
@@ -4918,7 +4978,7 @@ ORF2 O
 p:ORF
 32ce:00820000:0190:013e:1:0
 ELEVEN SPORTS 4 HD
-p:nc+,C:1884,C:1813,C:0b01,C:0500,C:0100
+p:nc+
 3ace:00820000:0514:013e:1:0
 DTX
 p:nc+
@@ -5094,7 +5154,7 @@ p:GLOBECAST
 Hidayah-Persian
 p:GLOBECAST
 0dd4:00820000:2d50:013e:1:0
-BBC HD
+BBC FIRST
 p:nc+
 1bd4:00820000:17d4:013e:1:0
 Playboy TV Cy
@@ -5169,7 +5229,7 @@ p:SkyItalia
 Sky Sport
 p:SkyItalia
 2dd7:00820000:1a2c:fbff:1:0
-Scary Halloween
+Cinema Sci-Fi
 p:SkyItalia
 32d7:00c00000:045d:0001:1:0
 Mei Musi TV
@@ -5238,8 +5298,8 @@ p:nc+
 RL North Caucasus 220
 p:
 0fdc:00820000:1e14:fbff:1:0
-12245H SID 0xfdc
-p:DVB-S QPSK 12245H 13.0°E
+NSL TV
+p:SkyItalia
 10dc:00820000:03e8:013e:1:0
 Mango 24
 p:TVN
@@ -5255,9 +5315,6 @@ p:nc+
 00dd:0082afc2:0065:0001:1:0
 Europa Libera 221
 p:
-0fdd:00820000:1e14:fbff:1:0
-Telepiu' Channel
-p:SkyItalia
 10dd:00820000:03e8:013e:1:0
 NUTA TV
 p:TVN
@@ -5270,9 +5327,6 @@ p:DIGITAL+
 00de:0082afc2:0065:0001:1:0
 RSE Balkans 222
 p:
-0fde:00820000:1e14:fbff:1:0
-Reality TV
-p:SkyItalia
 29de:00820000:3cf0:013e:1:0
 BELARUS 24
 p:GLOBECAST
@@ -5312,9 +5366,6 @@ p:DIGITAL+
 07e0:00820000:22c4:013e:1:0
 BBC Brit
 p:GLOBECAST
-0fe0:00820000:1e14:fbff:1:0
-E' TV Emilia R.
-p:SkyItalia
 12e0:00820000:2e7c:013e:1:0
 TVN 24
 p:nc+
@@ -5360,9 +5411,6 @@ p:SkyItalia
 3ae1:00820000:0514:013e:1:0
 nSport+
 p:nc+
-44e1:00820000:0258:013e:1:0
-3ABN International TV
-p:
 6ee1:00c00000:04b1:0001:1:0
 Radio Bremen TV
 p:ARD
@@ -5375,9 +5423,6 @@ p:ARD
 00e2:0082afc2:0065:0001:1:0
 Farda TV Audio 226
 p:
-05e2:00820000:2c24:013e:1:0
-Bartar TV
-p:
 07e2:00820000:22c4:013e:1:0
 Euronews Greek
 p:GLOBECAST
@@ -5387,9 +5432,6 @@ p:nc+
 1ee2:00820000:21fc:013e:1:0
 IRINN
 p:IRIB
-44e2:00820000:0258:013e:1:0
-HC International
-p:
 75e2:00c00000:0422:0001:1:0
 TEST_CSD5
 p:DIGITAL+
@@ -5417,9 +5459,6 @@ p:CBC
 3be3:00820000:170c:fbff:1:0
 Torino Channel
 p:SkyItalia
-44e3:00820000:0258:013e:1:0
-SBN
-p:
 75e3:00c00000:0422:0001:1:0
 
 p:DIGITAL+
@@ -5452,7 +5491,7 @@ RFE/RL Russian HD 230
 p:
 05e6:00820000:2f44:013e:1:0
 ARABESTTV
-p:
+p:M-Three satcom
 0ce6:00820000:1518:013e:1:0
 Camera Deputati
 p:Rai
@@ -5538,7 +5577,7 @@ p:Rai
 Match Music
 p:SkyItalia
 35eb:00820000:1388:013e:1:0
-TBN ITALIA
+TCI
 p:TSA
 3deb:00820000:0640:013e:1:0
 TVN 7 HD_
@@ -5550,7 +5589,7 @@ p:ARD
 Nickelodeon HD
 p:MTV Networks Europe
 05ec:00820000:2c24:013e:1:0
-Cine Music
+Mezzo
 p:
 0cec:00820000:1518:013e:1:0
 UNINETTUNO UNIVERSITY TV
@@ -5639,6 +5678,9 @@ p:DIGITAL+
 00f0:0082afc2:0065:0001:1:0
 VOA TV 240 (HB 49 - 56)
 p:
+0ff0:00820000:1e14:fbff:1:0
+Alpha
+p:SkyItalia
 12f0:00820000:2e7c:013e:1:0
 10892H SID 0x12f0
 p:DVB-S2 8PSK 10892H 13.0°E
@@ -5646,7 +5688,7 @@ p:DVB-S2 8PSK 10892H 13.0°E
 EXTREMADURA SAT
 p:GLOBECAST
 1ef0:00820000:21fc:013e:1:0
-NASIM
+IRIB NASIM
 p:IRIB
 32f0:00820000:0190:013e:1:0
 CANAL+ HD
@@ -5686,7 +5728,7 @@ p:MTV Networks Europe
 p:Digital+
 05f2:00820000:2c24:013e:1:0
 4Music
-p:,c:001465,c:011466,c:031465
+p:
 0cf2:00820000:1518:013e:1:0
 Senato
 p:Rai
@@ -5701,10 +5743,7 @@ p:TSA
 p:Digital+
 13f3:00820000:05dc:013e:1:0
 Eleven Sports 1 HD
-p:nc+,C:1884,C:186c,C:1861,C:1813,C:1803,C:0b01,C:06ed,C:0500,C:0100
-35f3:00820000:1388:013e:1:0
-TeleMaroc
-p:TSA
+p:nc+
 6ff3:00c00000:0436:0001:1:0
 MTV ROCKS
 p:MTV Networks Europe
@@ -5716,7 +5755,7 @@ Alhurra HD 500
 p:
 13f4:00820000:05dc:013e:1:0
 FOX
-p:nc+,c:0000a7,c:01006d,c:0300a7,c:050001,C:1884,C:186c,C:1861,C:1813,C:1803,C:06ed,C:0100
+p:nc+
 2ef4:00c00000:0441:0001:1:0
 RTL2
 p:CBC
@@ -5741,11 +5780,14 @@ p:MTV Networks Europe
 75f5:00c00000:0422:0001:1:0
 
 p:DIGITAL +
+01f6:00820000:0384:013e:1:0
+XMUVI
+p:M-Three satcom
 0ff6:00820000:1e14:fbff:1:0
 Starsat
 p:SkyItalia
 1ef6:00820000:21fc:013e:1:0
-SAHAR FR-BIH
+SAHAR (FR-BiH)
 p:IRIB
 6ff6:00c00000:042a:0001:1:0
 Nick Jr.
@@ -5772,7 +5814,7 @@ p:GLOBECAST
 Russia Today
 p:GLOBECAST
 1ef8:00820000:21fc:013e:1:0
-SAHAR URDU
+SAHAR UR
 p:IRIB
 32f8:00820000:0190:013e:1:0
 11278V SID 0x32f8
@@ -5780,9 +5822,6 @@ p:DVB-S2 8PSK 11278V 13.0°E
 01f9:00820000:0384:013e:1:0
 NASA TV UHD
 p:
-11f9:00820000:2db4:013e:1:0
-Napoli TLA
-p:MX1
 12f9:00820000:2e7c:013e:1:0
 TVP 4K
 p:nc+
@@ -5819,9 +5858,6 @@ p:SkyItalia
 01fb:00820000:0384:013e:1:0
 WAAR HD
 p:Waar
-11fb:00820000:2b5c:013e:1:0
-TRAVELXP 4K
-p:
 1efb:00820000:21fc:013e:1:0
 PRESS TV HD
 p:IRIB
@@ -5833,7 +5869,7 @@ Kurdistan 24 HD
 p:
 02fc:00c00000:0005:0085:1:0
 ANIXE SD
-p:BetaDigital,c:000cef,c:010cf0,c:030cef
+p:BetaDigital
 10fc:00820000:1644:fbff:1:0
 Sky TG24
 p:SkyItalia
@@ -5856,7 +5892,7 @@ p:M-Three satcom
 pearl.tv Shop
 p:BetaDigital
 1efd:00820000:21fc:013e:1:0
-iFILM ENG
+iFILM English
 p:IRIB
 35fd:00820000:00c8:013e:1:0
 ESP2 Portuguese
@@ -5864,6 +5900,9 @@ p:Eutelsat
 75fd:00c00000:0408:0001:1:0
 ARAGON TV INT
 p:Movistar+
+01fe:00820000:0384:013e:1:0
+ALICE
+p:M-Three satcom
 10fe:00820000:1644:fbff:1:0
 Caccia e PESCA
 p:SkyItalia
@@ -5885,12 +5924,15 @@ p:DIGITAL+
 79fe:00c00000:0443:0001:1:0
 EURONEWS GERMAN SD
 p:Globecast
+01ff:00820000:0384:013e:1:0
+DWT
+p:M-Three satcom
 35ff:00820000:00c8:013e:1:0
 ESP2 Biava
 p:EUROSPORT
 6fff:00c00000:0436:0001:1:0
 MTV Music 24
-p:MTV Networks Europe,c:000fab,c:010fac,c:030fab,C:1819,C:1818,C:1817,C:0d98,C:0d95,C:0b00,C:0650,C:0648,C:0500,C:0100
+p:MTV Networks Europe
 75ff:00c00000:0408:0001:1:0
 CANAL PANDA
 p:PRISA TV
@@ -5929,7 +5971,7 @@ YOU FM
 p:ARD HR
 6f08:00c00000:0445:0001:2:0
 hr-iNFO
-p:ARD HR,c:0101cd,c:0301cd
+p:ARD HR
 200a:00820000:24b8:013e:2:0
 BBC Horn of Africa
 p:BBC World Service
@@ -5995,7 +6037,7 @@ RDPI Radio
 p:
 0c0f:00820000:20d0:013e:2:0
 RFI Francais
-p:GLOBECAST,c:010dd1,c:030dd1
+p:GLOBECAST
 1f0f:00820000:21fc:013e:2:0
 RADIO IRAN
 p:IRIB
@@ -6165,7 +6207,7 @@ p:ARD NDR
 JASNA GORA
 p:nc+
 1f19:00820000:21fc:013e:2:0
-RADIO AVA
+RADIO AAVA
 p:IRIB
 3c19:00820000:0320:fbff:2:0
 Country
@@ -6192,7 +6234,7 @@ p:nc+
 RADIO NAMAYESH
 p:IRIB
 3c1a:00820000:0320:fbff:2:0
-STUDIO 54
+CHRISTMAS SONG
 p:SkyItalia
 421a:00820000:2f44:013e:2:0
 Bel RTL
@@ -6219,7 +6261,7 @@ p:ARD NDR
 ESC R2
 p:ARABSAT
 1f1c:00820000:21fc:013e:2:0
-IRIB 07 WORLD SERVICE
+RADIO 07 WORLD SERVICE
 p:IRIB
 6f1c:00c00000:0445:0001:2:0
 NDR 1 Nieders. HAN
@@ -6231,7 +6273,7 @@ p:ARABSAT
 NDR Info Spez.
 p:ARD NDR
 1f1e:00820000:21fc:013e:2:0
-IRIB 03 RADIO WORLD SERVICE
+RADIO 03 WORLD SERVICE
 p:IRIB
 6f1e:00c00000:0445:0001:2:0
 NDR Blue
@@ -6243,13 +6285,13 @@ p:ARD NDR
 Bremen Eins
 p:ARD RB
 1f21:00820000:21fc:013e:2:0
-RADIO TALAVAT
+RADIO TELAVAT
 p:IRIB
 6f21:00c00000:0445:0001:2:0
 Bremen Zwei
 p:ARD RB
 1f22:00820000:21fc:013e:2:0
-RADIO GOFTOGOO
+RADIO GOFTEGOO
 p:IRIB
 6f22:00c00000:0445:0001:2:0
 Bremen Vier
@@ -6294,7 +6336,7 @@ p:ARD rbb
 TOK FM
 p:nc+
 1f2d:00820000:21fc:013e:2:0
-IRIB 01 WORLD SERVICE
+RADIO 01 WORLD SERVICE
 p:IRIB
 6f2d:00c00000:0445:0001:2:0
 SR 1 Europawelle
@@ -6303,7 +6345,7 @@ p:ARD SR
 RADIO FRECCIA
 p:
 1f2e:00820000:21fc:013e:2:0
-IRIB 02 WORLD SERVICE
+RADIO 02 WORLD SERVICE
 p:IRIB
 6f2e:00c00000:0445:0001:2:0
 SR 2 KulturRadio
@@ -6321,7 +6363,7 @@ p:ARD SR
 RADIO ITALIA s.m.i.
 p:M.-Three satcom
 1f30:00820000:21fc:013e:2:0
-IRIB 04 WORLD SERVICE
+RADIO 04 WORLD SERVICE
 p:IRIB
 0e31:00820000:1c20:013e:2:0
 RMCSPORT
@@ -6338,11 +6380,8 @@ p:SNRT
 0032:00820000:25e4:02be:2:0
 JORDAN R1
 p:ARABSAT
-1c32:00820000:1c20:013e:2:0
-R Tunisie Culture
-p:ONT
 1f32:00820000:21fc:013e:2:0
-IRIB 06 WORLD SERVICE
+RADIO 06 WORLD SERVICE
 p:IRIB
 6f32:00c00000:0445:0001:2:0
 SWR1 RP
@@ -6478,22 +6517,16 @@ DEEJAY
 p:M-Three satcom
 2143:00820000:3070:013e:2:0
 Rai Radio Tutta Italiana
-p:RAI,c:0102a1,c:0302a1
+p:RAI
 3343:00c00000:045b:0001:2:0
 OE2 W
 p:ORF
 6f43:00c00000:0445:0001:2:0
 WDR Event
 p:ARD WDR
-0e44:00820000:1c20:013e:2:0
-CAPITAL
-p:M-Three satcom
 3344:00c00000:045b:0001:2:0
 OE2 N
 p:ORF
-0e45:00820000:1c20:013e:2:0
-M DUE O
-p:M-Three satcom
 3345:00c00000:045b:0001:2:0
 OE2 B
 p:ORF
@@ -6576,7 +6609,7 @@ p:
 VOA Radio 103 (HB55-56)
 p:
 0067:00820000:1770:0110:2:0
-Radio Monte Carlo 2
+RMC2
 p:
 0068:0082afc2:0065:0001:2:0
 VOA Music Mix 104 (HB57-60)
@@ -6706,7 +6739,7 @@ Bahai Radio
 p:Eutelsat
 3178:00c00000:0459:0001:2:0
 radioB2  SCHLAGER
-p:MB Satellite,c:01016c,c:03016c
+p:MB Satellite
 0079:0082afc2:0065:0001:2:0
 VOA Iraq N/S Radio 121
 p:
@@ -6779,6 +6812,9 @@ p:DVB-S QPSK 10847V 19.2°E
 1c9a:00820000:1ce8:0071:2:0
 RMF Classic
 p:Cyfrowy Polsat S.A.
+759a:00c00000:0422:0001:2:0
+10847V SID 0x759a
+p:DVB-S QPSK 10847V 19.2°E
 1c9b:00820000:1ce8:0071:2:0
 Jedynka - PR
 p:Cyfrowy Polsat S.A.
@@ -6826,10 +6862,10 @@ Radio Number One
 p:SkyItalia
 00a9:00c00000:0007:0085:2:0
 sunshine live
-p:BetaDigital,c:010150,c:030150
+p:BetaDigital
 00aa:00c00000:0007:0085:2:0
 ANTENNE BAYERN
-p:BetaDigital,c:010160,c:030160
+p:BetaDigital
 00ab:00c00000:0005:0085:2:0
 .
 p:BetaDigital
@@ -6875,6 +6911,9 @@ p:iKOMG
 00b3:00820000:2e18:00b0:2:0
 Marrakech
 p:SNRT
+08b3:00820000:01f4:013e:2:0
+WELAT
+p:iKOMG
 23b4:00c00000:044a:0001:2:0
 FUN RADIO
 p:CSAT
@@ -6887,9 +6926,6 @@ p:CSAT
 23b7:00c00000:044a:0001:2:0
 BBC ARABIC
 p:CSAT
-00b9:00820000:21fc:013e:2:0
-IRIB 05 WORLD SERVICE
-p:IRIB,f:40
 0bba:00820000:20d0:013e:2:0
 Sout Alrayyan
 p:GLOBECAST
@@ -6940,7 +6976,7 @@ p:Schweizer Radio und Fernsehen
 p:DVB-S2 8PSK 11411H 13.0°E
 36c9:00820000:06a4:013e:2:0
 SRF Musikwelle
-p:Schweizer Radio und Fernsehen,c:0100d7,c:0300d7
+p:Schweizer Radio und Fernsehen
 36ca:00820000:06a4:013e:2:0
 Radio-Rumantsch
 p:Radio Rumantsch
@@ -7225,7 +7261,7 @@ RFI Erevan
 p:GLOBECAST
 0cf3:00820000:1518:013e:2:0
 Rai Radio Classica
-p:Rai,c:010299,c:030299
+p:Rai
 6ef3:00c00000:0445:0001:2:0
 BR-KLASSIK
 p:ARD BR
@@ -7255,13 +7291,13 @@ PULS
 p:ARD BR
 0cf7:00820000:1518:013e:2:0
 Rai Radio Techete'
-p:Rai,c:010296,c:030296
+p:Rai
 6ef7:00c00000:0445:0001:2:0
 BR Heimat
 p:ARD BR
 0cf8:00820000:1518:013e:2:0
 Rai Radio Live
-p:Rai,c:01029b,c:03029b
+p:Rai
 6ef8:00c00000:0445:0001:2:0
 B5 plus
 p:ARD BR
@@ -7273,7 +7309,7 @@ RFI Liban
 p:GLOBECAST
 0cf9:00820000:1518:013e:2:0
 Rai Radio Kids
-p:Rai,c:01029c,c:03029c
+p:Rai
 02fa:00820000:1b58:013e:2:0
 News Radio Test
 p:Telespazio
@@ -7308,7 +7344,7 @@ p:SkyItalia
 1LIVE (Internet)
 p:ARD
 080d:eeee0000:6b00:2114:10:0
-WDR 2 (Internet)
+WDR 2 Rheinland (Internet)
 p:ARD
 080e:eeee0000:6b00:2114:10:0
 WDR 3 (Internet)
@@ -7320,7 +7356,7 @@ p:ARD
 WDR 5 (Internet)
 p:ARD
 0811:eeee0000:6b00:2114:10:0
-WDRcosmo (Internet)
+COSMO (Internet)
 p:ARD
 0812:eeee0000:6b00:2114:10:0
 KIRAKA (Internet)
@@ -7379,6 +7415,9 @@ p:SES ASTRA
 1c54:00c00000:0457:0001:12:0
 FP URMET
 p:SES ASTRA
+0457:00820000:26ac:013f:12:0
+Neotion Update Service
+p:AB Sat
 1b58:00c00000:03fc:0001:12:0
 DATASYSTEM
 p:CSAT
@@ -7405,9 +7444,6 @@ KaCTFL
 p:SES ASTRA
 1c7e:00c00000:0457:0001:12:0
 IDS DOWNLOAD SVC
-p:SES ASTRA
-1c7f:00c00000:0457:0001:12:0
-STB Sony Spain
 p:SES ASTRA
 1c81:00c00000:0457:0001:12:0
 Kathrein DVB SSU
@@ -7586,7 +7622,7 @@ p:M7 Group
 0fff:00c00000:0451:0035:12:0
 M7 DL DSR7141
 p:M7 Group
-0201:00c00000:0004:0085:22:0
+0201:00c00000:000b:0085:22:0
 Blue Movie
 p:SKY
 3401:00c00000:03ed:0001:22:0
@@ -7615,7 +7651,7 @@ Melodie TV NEU
 p:-
 0206:00c00000:0002:0085:22:0
 Romance TV
-p:SKY,c:000bff,c:010c00,c:030bff,c:050001,C:09c4,C:09af,C:098d,C:098c
+p:SKY
 1006:00c00000:0451:0035:22:0
 AB3
 p:M7 Group
@@ -7623,8 +7659,8 @@ p:M7 Group
 Sky Cinema Comedy
 p:SKY
 0009:00c00000:0003:0085:22:0
-Sky Cinema Halloween
-p:SKY,C:09c4,C:09af,C:098d,C:098c
+Sky Cinema Action
+p:SKY
 1009:00c00000:0451:0035:22:0
 Brazzers TV
 p:M7 Group
@@ -7637,33 +7673,21 @@ p:TSA
 100a:00c00000:0451:0035:22:0
 Eurosport2 ger
 p:M7 Group
-000b:00c00000:0003:0085:22:0
+000b:00c00000:0006:0085:22:0
 Sky Cinema +1
 p:SKY
 100b:00c00000:0451:0035:22:0
 Hustler TV
 p:M7 Group
-000c:00c00000:0002:0085:22:0
-NatGeo Wild
-p:SKY
-000d:00c00000:0004:0085:22:0
-National Geographic
-p:SKY
 100d:00c00000:0451:0035:22:0
 Hustler TV CZ
 p:M7 Group
-000e:00c00000:0004:0085:22:0
-Discovery Channel
-p:SKY
 010f:00c00000:0002:0085:22:0
 Sky Select 3
 p:
 420f:00820000:2f44:013e:22:0
 La Deux
 p:M7 Group
-0010:00c00000:0002:0085:22:0
-Fox Serie
-p:SKY
 4210:00820000:2f44:013e:22:0
 La Trois
 p:M7 Group
@@ -7673,7 +7697,7 @@ p:SKY
 4212:00820000:2f44:013e:22:0
 Club-RTL
 p:M7 Group
-0013:00c00000:0003:0085:22:0
+0013:00c00000:0004:0085:22:0
 Junior
 p:SKY
 1013:00c00000:0451:0035:22:0
@@ -7685,27 +7709,18 @@ p:M7 Group
 0014:00c00000:0004:0085:22:0
 Sky Cinema Emotion
 p:SKY
-0015:00c00000:0003:0085:22:0
-Beate-Uhse.TV
-p:SKY
 0016:00c00000:0002:0085:22:0
 Heimatkanal
 p:SKY
 0017:00c00000:0004:0085:22:0
 Sky Krimi
 p:SKY
-0018:00c00000:0003:0085:22:0
+0018:00c00000:0004:0085:22:0
 Classica
-p:SKY
-0019:00c00000:0002:0085:22:0
-Disney Cinemagic
 p:SKY
 0119:00c00000:0002:0085:22:0
 Sky Select 4
 p:
-001a:00c00000:0003:0085:22:0
-Disney Junior
-p:SKY
 001c:00c00000:0003:0085:22:0
 Disney XD
 p:SKY
@@ -7724,15 +7739,15 @@ p:M7 Group
 101f:00c00000:0451:0035:22:0
 ElevenSports2
 p:M7 Group
-0320:00c00000:0008:0085:22:0
+0320:00c00000:000c:0085:22:0
 STEST1
 p:SKY
-0321:00c00000:0008:0085:22:0
+0321:00c00000:000c:0085:22:0
 STEST2
 p:SKY
-0022:00c00000:0004:0085:22:0
-Sky Atlantic
-p:SKY
+4221:00820000:2f44:013e:22:0
+Blue Hustler
+p:M7 Group
 0522:00820000:3d54:013e:22:0
 HRT - HTV 5
 p:OIV
@@ -7742,9 +7757,6 @@ p:
 1523:00c00000:0455:0001:22:0
 .
 p:BetaDigital
-0024:00c00000:0002:0085:22:0
-SYFY
-p:SKY
 1524:00c00000:0455:0001:22:0
 .
 p:BetaDigital
@@ -7753,11 +7765,8 @@ p:BetaDigital
 p:SKY
 0029:00c00000:0002:0085:22:0
 Sky Cinema Hits
-p:SKY,C:09c4,C:09af,C:098d,C:098c
-002a:00c00000:0002:0085:22:0
-13th Street
 p:SKY
-002b:00c00000:0003:0085:22:0
+002b:00c00000:0006:0085:22:0
 Sky Cinema +24
 p:SKY
 012d:00c00000:0003:0085:22:0
@@ -7769,24 +7778,18 @@ p:BetaDigital
 3330:00c00000:045b:0001:22:0
 LT1-OOE
 p:-
-0031:00c00000:0002:0085:22:0
+0031:00c00000:000d:0085:22:0
 Spiegel TV Wissen
 p:SKY
 1031:00c00000:0451:0035:22:0
 Brazzers TV CZ
 p:M7 Group
-0032:00c00000:0002:0085:22:0
-TNT Serie
-p:SKY
 1032:00c00000:0451:0035:22:0
 VElevensports1
 p:M7 Group
 1033:00c00000:0451:0035:22:0
 VElevenSports2
 p:M7 Group
-0034:00c00000:0002:0085:22:0
-Spiegel Geschichte
-p:SKY
 0137:00c00000:0003:0085:22:0
 Sky Select 7
 p:
@@ -7802,21 +7805,33 @@ p:BetaDigital
 0141:00c00000:0003:0085:22:0
 Sky Select 8
 p:
-3642:00820000:1388:013e:22:0
-Zoe Plus
-p:TSA
 014b:00c00000:0002:0085:22:0
 Sky Select 9
 p:
+004c:00c00000:0021:0085:22:0
+Baden TV
+p:BetaDigital
 014e:00c00000:0002:0085:22:0
 Sky Select Event B
 p:
 3355:00c00000:045b:0001:22:0
-BTV
+TV1 OOE
 p:-
 1269:00c00000:03f7:0001:22:0
 Die Neue Zeit TV
 p:BetaDigital
+076d:00820000:012c:013e:22:0
+MBC 1 EUROPE
+p:Eutelsat
+076e:00820000:012c:013e:22:0
+MBC 3 EUROPE
+p:Eutelsat
+076f:00820000:012c:013e:22:0
+MBC MASR
+p:Eutelsat
+0772:00820000:012c:013e:22:0
+MTV LEBANON
+p:Eutelsat
 5277:00c00000:041d:0001:22:0
 SES 75
 p:BetaDigital
@@ -7832,17 +7847,14 @@ p:SES
 0191:00c00000:0009:0085:22:0
 Jukebox
 p:SKY
-0192:00c00000:000e:0085:22:0
+0192:00c00000:000b:0085:22:0
 A&E
 p:SKY
-0193:00c00000:000e:0085:22:0
+0193:00c00000:000b:0085:22:0
 Boomerang
 p:SKY
-0194:00c00000:000e:0085:22:0
+0194:00c00000:000b:0085:22:0
 Cartoon Network
-p:SKY
-0195:00c00000:0006:0085:22:0
-TNT Film
 p:SKY
 0196:00c00000:0004:0085:22:0
 Kinowelt TV
@@ -7850,10 +7862,7 @@ p:SKY
 0197:00c00000:0004:0085:22:0
 Sky Cinema Family
 p:SKY
-0198:00c00000:0006:0085:22:0
-Sky 1
-p:SKY
-00a8:00c00000:000e:0085:22:0
+00a8:00c00000:000b:0085:22:0
 Motorvision TV
 p:SKY
 33ad:00c00000:03eb:0001:22:0
@@ -7862,12 +7871,9 @@ p:RTL
 14c1:00c00000:0407:0001:22:0
 SAT.1 emotions
 p:ProSiebenSat.1
-35c1:00820000:1388:013e:22:0
-DUSK TV
-p:TSA
 14c2:00c00000:0407:0001:22:0
 kabel eins classics
-p:ProSiebenSat.1,c:000eff,c:010f00,c:030eff,c:050001,C:0d98,C:0d95,C:0650,C:0648,C:0624,C:0500
+p:ProSiebenSat.1
 35c4:00820000:1388:013e:22:0
 Alice
 p:TSA
@@ -8019,18 +8025,18 @@ p:
 Aristo.TV
 p:ORF
 2d00:00820000:206c:fbff:25:0
-Sky Atlantic +1 HD
+Sky Originals HD
 p:SkyItalia
 3400:00c00000:03ed:0001:25:0
 R9 Oesterreich HD
 p:-
-0101:00c00000:000e:0085:25:0
+0101:00c00000:000b:0085:25:0
 Sky Sport Bundesliga 10 HD
 p:SKY
 2201:00c00000:044c:0001:25:0
 TV BREIZH
 p:CSAT
-0102:00c00000:000e:0085:25:0
+0102:00c00000:000b:0085:25:0
 Sky Sport 11 HD
 p:SKY
 2202:00c00000:044c:0001:25:0
@@ -8048,7 +8054,7 @@ p:SkyItalia
 2d03:00820000:1d4c:fbff:25:0
 Disney XD HD
 p:SkyItalia
-0104:00c00000:000e:0085:25:0
+0104:00c00000:000b:0085:25:0
 Eurosport360HD 9
 p:SKY
 2204:00c00000:044c:0001:25:0
@@ -8173,7 +8179,7 @@ Sky Sport Arena HD
 p:SkyItalia
 ef10:00c00000:0421:0001:25:0
 RTL HD
-p:CBC,c:0000ff,c:020020,c:0300ff,c:040103,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830,C:09c4,C:098d,C:098c,C:06cb,C:0500
+p:CBC
 1711:00c00000:0419:0001:25:0
 Oberpfalz TV HD
 p:BMT
@@ -8182,7 +8188,7 @@ RTL-TVi HD
 p:M7 Group
 ef11:00c00000:0421:0001:25:0
 VOX HD
-p:CBC,c:0001ff,c:020021,c:0301ff,c:040203,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830,C:09c4,C:098d,C:098c,C:06cb,C:0500
+p:CBC
 2012:00c00000:0430:0001:25:0
 BEIN SPORTS 2
 p:CSAT
@@ -8197,7 +8203,7 @@ TFX
 p:CSAT
 ef14:00c00000:0421:0001:25:0
 n-tv HD
-p:CBC,c:0004ff,c:020024,c:0304ff,c:040503,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830,C:09c4,C:098d,C:098c,C:06e2,C:06cb,C:0650,C:0648,C:0500
+p:CBC
 0115:00c00000:000d:0085:25:0
 Sky Sport Bundesliga 3 HD
 p:SKY
@@ -8209,7 +8215,7 @@ TMC
 p:CSAT
 ef15:00c00000:0421:0001:25:0
 RTLII HD
-p:CBC,c:0005ff,c:020025,c:0305ff,c:040603,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830,C:09c4,C:098d,C:098c,C:06cb,C:0500
+p:CBC
 0116:00c00000:000d:0085:25:0
 Sky Sport 4 HD
 p:SKY
@@ -8230,7 +8236,7 @@ cielo HD
 p:SkyItalia
 1018:00c00000:0451:0035:25:0
 sportdigital HD
-p:M7 Group,c:00026c,c:0100a0,c:03026c,c:050001,C:1817,C:0d98,C:0d96,C:0d95,C:09c4,C:098d,C:098c,C:0650,C:0648,C:0624,C:0500,C:0100
+p:M7 Group
 1518:00c00000:0455:0001:25:0
 sonnenklar.TV HD
 p:BetaDigital
@@ -8239,10 +8245,10 @@ Sky Classics HD
 p:SkyItalia
 1519:00c00000:0455:0001:25:0
 TELE 5 HD
-p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1830
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 151a:00c00000:0455:0001:25:0
 DMAX HD
-p:BetaDigital,c:0002ff,c:020022,c:0302ff,c:040303,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 051b:00820000:3d54:013e:25:0
 RTL 102.5 HD
 p:M-Three Satcom
@@ -8273,6 +8279,9 @@ p:SkyItalia
 2b20:00820000:1900:fbff:25:0
 Sky Sport24 HD
 p:SkyItalia
+4220:00820000:2f44:013e:25:0
+Hustler HD
+p:M7 Group
 7820:00c00000:0428:0001:25:0
 NICKELODEONHD
 p:Movistar+
@@ -8297,7 +8306,7 @@ p:MOVISTAR+
 7828:00c00000:0428:0001:25:0
 M. DEPORTESHD
 p:Movistar+
-0129:00c00000:000b:0085:25:0
+0129:00c00000:0009:0085:25:0
 Sky Sport Bundesliga 5 HD
 p:SKY
 0529:00820000:3d54:013e:25:0
@@ -8309,7 +8318,7 @@ p:SkyItalia
 7829:00c00000:0428:0001:25:0
 NAT GEO HD
 p:DIGITAl+
-012a:00c00000:000b:0085:25:0
+012a:00c00000:0009:0085:25:0
 Sky Sport 6 HD
 p:SKY
 232a:00c00000:0442:0001:25:0
@@ -8321,7 +8330,7 @@ p:CSAT
 2c2b:00820000:251c:fbff:25:0
 Documentari HD
 p:SkyItalia
-012c:00c00000:000b:0085:25:0
+012c:00c00000:0009:0085:25:0
 Eurosport360HD 4
 p:SKY
 232c:00c00000:0442:0001:25:0
@@ -8330,6 +8339,9 @@ p:CSAT
 152d:00c00000:0455:0001:25:0
 TELE 5 HD Austria
 p:BetaDigital
+232d:00c00000:0442:0001:25:0
+BOING
+p:CSAT
 782d:00c00000:0428:0001:25:0
 TOROS HD
 p:Movistar+
@@ -8341,7 +8353,7 @@ PLANETE+
 p:CSAT
 132f:00c00000:03ef:0001:25:0
 ORF1 HD
-p:ORF,c:000780,c:020785,c:030780,c:040781,c:050001,C:0d98,C:0d95,C:09c4,C:098c,C:06e2,C:0650,C:0648,C:0500
+p:ORF
 232f:00c00000:0442:0001:25:0
 DISNEY CHANNEL
 p:CSAT
@@ -8359,7 +8371,7 @@ LCI
 p:CSAT
 4331:00820000:300c:013e:25:0
 SRF 1 HD
-p:Schweizer Radio und Fernsehen,c:0001f6,c:0201fb,c:0301f6,c:0401f9,c:050001,C:0500
+p:Schweizer Radio und Fernsehen
 7531:00c00000:0426:0001:25:0
 M.FORMULA1HD
 p:Movistar+
@@ -8381,16 +8393,19 @@ p:Schweizer Radio und Fernsehen
 7532:00c00000:0426:0001:25:0
 M.MOTOGPHD
 p:CANAL+
-0133:00c00000:0008:0085:25:0
+0133:00c00000:0004:0085:25:0
 Sky Sport Bundesliga 6 HD
 p:SKY
+2333:00c00000:0442:0001:25:0
+BOOMERANG
+p:CSAT
 4333:00820000:300c:013e:25:0
 RTS Un HD
 p:Radio Television Suisse
 7533:00c00000:0426:0001:25:0
 AMC HD
 p:CANAL+
-0134:00c00000:0008:0085:25:0
+0134:00c00000:0004:0085:25:0
 Sky Sport 7 HD
 p:SKY
 1334:00c00000:03ef:0001:25:0
@@ -8414,7 +8429,7 @@ p:SRG SSR
 7535:00c00000:0426:0001:25:0
 CUATRO HD
 p:CANAL+
-0136:00c00000:0008:0085:25:0
+0136:00c00000:0004:0085:25:0
 Eurosport360HD 5
 p:SKY
 1036:00820000:1d4c:fbff:25:0
@@ -8441,16 +8456,16 @@ p:SkyItalia
 253b:00820000:170c:fbff:25:0
 X Factor
 p:SkyItalia
-013d:00c00000:0009:0085:25:0
+013d:00c00000:0002:0085:25:0
 Sky Sport Bundesliga 7 HD
 p:SKY
 283d:00c00000:03fb:0001:25:0
 Das Erste HD
-p:ARD,c:0013ed,c:0213f0,c:0313ed,c:0413f2,c:050001
+p:ARD
 2c3d:00820000:251c:fbff:25:0
 News HD
 p:SkyItalia
-013e:00c00000:0009:0085:25:0
+013e:00c00000:0002:0085:25:0
 Sky Sport 8 HD
 p:SKY
 1c3e:00820000:206c:fbff:25:0
@@ -8468,7 +8483,7 @@ p:ARD
 313f:00c00000:0459:0001:25:0
 freenet TV connect
 p:MB Satellite
-0140:00c00000:0009:0085:25:0
+0140:00c00000:0002:0085:25:0
 Eurosport360HD 6
 p:SKY
 2840:00c00000:03fb:0001:25:0
@@ -8507,13 +8522,13 @@ p:CSAT
 2c46:00820000:251c:fbff:25:0
 Cinema HD
 p:SkyItalia
-0147:00c00000:0010:0085:25:0
+0147:00c00000:0006:0085:25:0
 Sky Sport Bundesliga 8 HD
 p:SKY
 1f47:00c00000:042e:0001:25:0
 RMC SPORT 4
 p:CSAT
-0148:00c00000:0010:0085:25:0
+0148:00c00000:0006:0085:25:0
 Sky Sport 9 HD
 p:SKY
 0f48:00820000:2198:fbff:25:0
@@ -8525,7 +8540,7 @@ p:CSAT
 1f49:00c00000:042e:0001:25:0
 PINK X
 p:CSAT
-014a:00c00000:0010:0085:25:0
+014a:00c00000:0006:0085:25:0
 Eurosport360HD 7
 p:SKY
 104a:00820000:1d4c:fbff:25:0
@@ -8567,10 +8582,10 @@ p:SkyItalia
 1c50:00820000:206c:fbff:25:0
 Sky Sport Football HD
 p:SkyItalia
-0151:00c00000:0009:0085:25:0
+0151:00c00000:0010:0085:25:0
 Sky Sport Bundesliga 9 HD
 p:SKY
-0152:00c00000:0009:0085:25:0
+0152:00c00000:0010:0085:25:0
 Sky Sport 10 HD
 p:SKY
 2c52:00820000:251c:fbff:25:0
@@ -8579,7 +8594,7 @@ p:SkyItalia
 1e53:00820000:15e0:fbff:25:0
 MTV HD
 p:SkyItalia
-0154:00c00000:0009:0085:25:0
+0154:00c00000:0010:0085:25:0
 Eurosport360HD 8
 p:SKY
 0f54:00820000:2198:fbff:25:0
@@ -8635,7 +8650,7 @@ NDR FS HH HD
 p:ARD
 7859:00c00000:041a:0001:25:0
 LALIGATV BAR
-p:Movistar+,C:1810
+p:Movistar+
 245a:00c00000:0440:0001:25:0
 FRANCE 2
 p:CSAT
@@ -8664,7 +8679,7 @@ p:SkyItalia
 FRANCE 3
 p:CSAT
 1e5e:00820000:15e0:fbff:25:0
-Scary Halloween HD
+Sky Max +1 HD
 p:SkyItalia
 785e:00c00000:041a:0001:25:0
 ALQUILER 2 HD
@@ -8734,7 +8749,7 @@ CANAL+ SERIES
 p:CSAT
 2b66:00c00000:03f3:0001:25:0
 ZDF HD
-p:ZDFvision,c:0017de,c:0217f2,c:0317de,c:0417ea,c:050001
+p:ZDFvision
 1967:00c00000:044e:0001:25:0
 M6 MUSIC
 p:CSAT
@@ -8748,23 +8763,20 @@ p:BetaDigital
 DJAZZ
 p:CSAT
 1e68:00820000:15e0:fbff:25:0
-Scary Halloween HD
+Cinema Sci-Fi HD
 p:SkyItalia
 2268:00c00000:0438:0001:25:0
 CINE+ FAMIZ
 p:CSAT
 0069:00c00000:000c:0085:25:0
 Sky Sport Bundesliga 1 HD
-p:SKY,c:0000ff,c:020020,c:0300ff,c:040102,c:050001,C:09c4,C:09af,C:098d,C:098c
+p:SKY
 1969:00c00000:044e:0001:25:0
 SERIE CLUB
 p:CSAT
 2269:00c00000:0438:0001:25:0
 CINE+ CLASSIC
 p:CSAT
-006a:00c00000:000e:0085:25:0
-.
-p:SKY
 106a:00820000:2008:fbff:25:0
 Sky Cinema Uno HD
 p:SkyItalia
@@ -8773,7 +8785,7 @@ WARNER TV
 p:CSAT
 006b:00c00000:000c:0085:25:0
 Sky Cinema Hits HD
-p:SKY,C:09c4,C:09af,C:098d,C:098c
+p:SKY
 196b:00c00000:044e:0001:25:0
 MAN X
 p:CSAT
@@ -8784,7 +8796,7 @@ p:SkyItalia
 Sky Sport News HD
 p:SKY
 106c:00820000:14b4:fbff:25:0
-Happy Halloween HD
+Cinema Christmas HD
 p:SkyItalia
 196c:00c00000:044e:0001:25:0
 COMEDIE+
@@ -8792,7 +8804,7 @@ p:CSAT
 526c:00c00000:041d:0001:25:0
 ANIXE HD
 p:BetaDigital
-006d:00c00000:0009:0085:25:0
+006d:00c00000:000b:0085:25:0
 Eurosport 2 HD
 p:SKY
 196d:00c00000:044e:0001:25:0
@@ -8800,13 +8812,13 @@ EXTREME SPORTS
 p:CSAT
 206d:00c00000:0432:0001:25:0
 BFM TV
-p:CSAT,c:00006e,c:03006e,c:040079,c:050001,C:1883,C:1863,C:1811,C:0500
+p:CSAT
 226d:00c00000:0438:0001:25:0
 OCS CITY
 p:CSAT
 006e:00c00000:000d:0085:25:0
 Sky Atlantic HD
-p:SKY,C:09c4,C:09af,C:098d,C:098c
+p:SKY
 106e:00820000:14b4:fbff:25:0
 Sky Max HD
 p:SkyItalia
@@ -8889,32 +8901,32 @@ p:CSAT
 hr-fernsehen HD
 p:ARD
 5273:00c00000:041d:0001:25:0
-NICKELODEON HD
-p:MTV Networks,c:0001ff,c:0301ff,c:040203,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830
-0074:00c00000:000b:0085:25:0
-Sky Cinema Halloween HD
-p:SKY,C:09c4,C:09af,C:098d,C:098c
+NICK/MTV+ HD
+p:MTV Networks,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
+0074:00c00000:0009:0085:25:0
+Sky Cinema Action HD
+p:SKY
 2074:00c00000:0432:0001:25:0
 BEIN SPORTS MAX 10
 p:CSAT
 2774:00c00000:0409:0001:25:0
 TLC HD
-p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1830
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 5274:00c00000:041d:0001:25:0
 WELT HD
-p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1830
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 ef74:00c00000:03f9:0001:25:0
 SAT.1 HD
-p:ProSiebenSat.1,c:0000ff,c:020020,c:0300ff,c:040103,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830
+p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 2075:00c00000:0432:0001:25:0
-NUMERO 23
+RMC STORY
 p:CSAT
 2775:00c00000:0409:0001:25:0
 Zee One HD
 p:BetaDigital
 ef75:00c00000:03f9:0001:25:0
 ProSieben HD
-p:ProSiebenSat.1,c:0001ff,c:020021,c:0301ff,c:040203,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830
+p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 0076:00c00000:0006:0085:25:0
 Nat Geo Wild HD
 p:SKY
@@ -8926,19 +8938,19 @@ Sparhandy TV 2 HD
 p:BetaDigital
 ef76:00c00000:03f9:0001:25:0
 kabel eins HD
-p:ProSiebenSat.1,c:0002ff,c:020022,c:0302ff,c:040303,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830
+p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
+2077:00c00000:0432:0001:25:0
+LA CHAINE METEO
+p:CSAT
 2777:00c00000:0409:0001:25:0
 MTV HD
-p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1830
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 2c77:00820000:251c:fbff:25:0
 Sky Sport HD
 p:SkyItalia
 ef77:00c00000:03f9:0001:25:0
 SIXX HD
-p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1830
-0078:00c00000:000e:0085:25:0
-Sky Select HD
-p:SKY,C:09c4,C:098d,C:098c
+p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 0078:00820000:04b0:0110:25:0
 20 MEDIASET HD
 p:
@@ -8947,17 +8959,14 @@ Channel21 HD
 p:BetaDigital
 ef78:00c00000:03f9:0001:25:0
 Pro7 MAXX HD
-p:ProSiebenSat.1,c:0004ff,c:020024,c:0304ff,c:040503,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830
-0079:00c00000:000e:0085:25:0
-BLUE MOVIE HD
-p:SKY
+p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 0079:00820000:04b0:0110:25:0
 Italia 1 HD
 p:
 2779:00c00000:0409:0001:25:0
 QVC Style HD
 p:BetaDigital
-007a:00c00000:000b:0085:25:0
+007a:00c00000:0010:0085:25:0
 DAZN 2 Bar HD
 p:SKY
 007a:00820000:04b0:0110:25:0
@@ -8969,9 +8978,9 @@ p:ZDFvision
 377a:00820000:044c:013e:25:0
 14202
 p:nc+
-007b:00c00000:000b:0085:25:0
+007b:00c00000:0009:0085:25:0
 TNT Serie HD
-p:SKY,C:09c4,C:09af,C:098d,C:098c
+p:SKY
 007b:00820000:04b0:0110:25:0
 Rete 4 HD
 p:
@@ -8980,12 +8989,12 @@ CANAL+ FAMILY HD
 p:nc+
 007c:00c00000:000c:0085:25:0
 Fox HD
-p:SKY,c:0009ff,c:0309ff,c:040503,c:050001,C:09c4,C:09af,C:098d,C:098c
+p:SKY
 157c:00c00000:041f:0001:25:0
 Disney Channel HD
-p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1830
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 427c:00c00000:0446:0001:25:0
-AB MOTEURS
+AUTOMOTO la chaine
 p:AB SAT,C:0500,C:0100
 157d:00c00000:041f:0001:25:0
 HSE24 EXTRA HD
@@ -9022,14 +9031,14 @@ p:BetaDigital
 p:SKY
 157f:00c00000:041f:0001:25:0
 Deluxe Music HD
-p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1830
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 377f:00820000:044c:013e:25:0
 Kuchnia+ HD
 p:nc+
 427f:00c00000:0446:0001:25:0
 Science et Vie
 p:AB SAT,C:0500,C:0100
-0080:00c00000:000e:0085:25:0
+0080:00c00000:000b:0085:25:0
 E! Entertainm. HD
 p:SKY
 1580:00c00000:041f:0001:25:0
@@ -9049,7 +9058,7 @@ p:ARD
 p:SKY
 1581:00c00000:041f:0001:25:0
 SPORT1 HD
-p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1830
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 2081:00c00000:0432:0001:25:0
 ARTE
 p:CSAT
@@ -9082,34 +9091,34 @@ M. SERIES HD
 p:Movistar+
 0083:00c00000:0006:0085:25:0
 Sky Cinema HD
-p:SKY,C:09c4,C:09af,C:098d,C:098c
+p:SKY
 2083:00c00000:0432:0001:25:0
 GULLI
 p:CSAT
 6f83:00c00000:0457:0001:25:0
 WDR HD Duisburg
 p:ARD
-0084:00c00000:000b:0085:25:0
+0084:00c00000:0009:0085:25:0
 DAZN 1 Bar HD
 p:SKY
-0085:00c00000:0008:0085:25:0
+0085:00c00000:0003:0085:25:0
 Beate-Uhse.TV HD
 p:SKY
 7885:00c00000:0414:0001:25:0
 TCM HD
 p:Movistar+
-0086:00c00000:0008:0085:25:0
+0086:00c00000:000b:0085:25:0
 Sky Cinema +1 HD
-p:SKY,C:09c4,C:09af,C:098d,C:098c
+p:SKY
 1586:00c00000:041f:0001:25:0
 Disney Channel HD Austria
 p:BetaDigital
 4286:00c00000:0446:0001:25:0
 ACTION
 p:AB SAT,C:0500,C:0100
-0087:00c00000:0008:0085:25:0
+0087:00c00000:000b:0085:25:0
 Sky Cinema +24 HD
-p:SKY,c:0001ff,c:0301ff,c:040203,c:050001,C:09c4,C:09af,C:098d,C:098c
+p:SKY
 2887:00c00000:040f:0001:25:0
 tagesschau24 HD
 p:ARD
@@ -9119,7 +9128,7 @@ p:CBC
 4287:00c00000:0446:0001:25:0
 MANGAS
 p:AB SAT,C:0500,C:0100
-0088:00c00000:000e:0085:25:0
+0088:00c00000:000b:0085:25:0
 TNT Comedy HD
 p:SKY
 2888:00c00000:040f:0001:25:0
@@ -9130,7 +9139,7 @@ TNT HD
 p:DIGITAL+
 0089:00c00000:0010:0085:25:0
 Spiegel Geschichte HD
-p:SKY,C:09c4,C:09af,C:098d,C:098c
+p:SKY
 1089:00820000:2008:fbff:25:0
 Sky Sport HD
 p:SkyItalia
@@ -9140,7 +9149,7 @@ p:BetaDigital
 7889:00c00000:0414:0001:25:0
 NG WILD HD
 p:DIGITAL+
-008a:00c00000:0008:0085:25:0
+008a:00c00000:0003:0085:25:0
 Disney Junior HD
 p:SKY
 108a:00820000:2008:fbff:25:0
@@ -9155,7 +9164,7 @@ p:ARD
 ef8a:00c00000:03f9:0001:25:0
 kabel eins HD Austria
 p:ProSiebenSat.1
-008b:00c00000:0008:0085:25:0
+008b:00c00000:0002:0085:25:0
 Sky Cinema Family HD
 p:SKY
 108b:00820000:2008:fbff:25:0
@@ -9170,7 +9179,7 @@ p:DIGITAL+
 ef8b:00c00000:03f9:0001:25:0
 sixx HD Austria
 p:ProSiebenSat.1
-008c:00c00000:000e:0085:25:0
+008c:00c00000:0004:0085:25:0
 TNT Film HD
 p:SKY
 788c:00c00000:0414:0001:25:0
@@ -9197,15 +9206,12 @@ p:SKY
 108f:00820000:2008:fbff:25:0
 Primafila 10 HD
 p:SkyItalia
-0090:00c00000:000e:0085:25:0
-Sky 1 +1 HD
-p:SKY
 1090:00820000:1900:fbff:25:0
 Sky Arte
 p:SkyItalia
-0091:00c00000:0009:0085:25:0
+0091:00c00000:0010:0085:25:0
 Sky Arts HD
-p:SKY,C:09c4,C:09af,C:098d,C:098c
+p:SKY
 1091:00820000:2198:fbff:25:0
 Bike Channel HD
 p:SkyItalia
@@ -9217,11 +9223,11 @@ Calcio Overlay HD
 p:SkyItalia
 1392:00c00000:03ea:0001:25:0
 INSIGHT TV HD
-p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1830
+p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 3792:00820000:2008:fbff:25:0
 Sky Atlantic HD
 p:SkyItalia
-0093:00c00000:0008:0085:25:0
+0093:00c00000:0002:0085:25:0
 Sky 1 HD
 p:SKY
 1393:00c00000:03ea:0001:25:0
@@ -9364,7 +9370,7 @@ GOLF+
 p:CSAT
 2eaf:00c00000:0411:0001:25:0
 NITRO HD
-p:CBC,c:0001f4,c:020208,c:0301f4,c:0401fe,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830,C:09c4,C:098d,C:098c,C:06cb,C:0500
+p:CBC
 33af:00c00000:03eb:0001:25:0
 Service 13231
 p:ORS
@@ -9458,9 +9464,6 @@ p:SkyItalia
 0dbb:00820000:1af4:fbff:25:0
 NatGeo Wild HD
 p:SkyItalia
-24bb:00c00000:043c:0001:25:0
-FRENCH LOVER
-p:CSAT
 24bc:00c00000:043c:0001:25:0
 OCS CHOC
 p:CSAT
@@ -9499,7 +9502,7 @@ TOONAMI
 p:CSAT
 06c3:00820000:2f44:013e:25:0
 HSE24 HD
-p:Persidera
+p:M-Three satcom
 24c3:00c00000:043c:0001:25:0
 TELETOON+
 p:CSAT
@@ -9507,25 +9510,22 @@ p:CSAT
 TELETOON+1
 p:CSAT
 22c5:00c00000:0434:0001:25:0
-.
+CLIQUE TV
 p:CSAT
 24c5:00c00000:043c:0001:25:0
 COLMAX TV
 p:CSAT
-22c6:00c00000:0434:0001:25:0
-LA CHAINE METEO
+24c6:00c00000:043c:0001:25:0
+TRACE URBAN
 p:CSAT
 22c7:00c00000:0434:0001:25:0
 ELLE GIRL
 p:CSAT
-22c8:00c00000:0434:0001:25:0
-GIRONDINS TV
+24c7:00c00000:043c:0001:25:0
+GAME ONE
 p:CSAT
 19c9:00c00000:0444:0001:25:0
 RMC SPORT 2
-p:CSAT
-22c9:00c00000:0434:0001:25:0
-GAME ONE
 p:CSAT
 19ca:00c00000:0444:0001:25:0
 NOVELAS TV
@@ -9536,17 +9536,11 @@ p:CSAT
 19cb:00c00000:0444:0001:25:0
 RMC SPORT NEWS
 p:CSAT
-22cb:00c00000:0434:0001:25:0
-TRACE URBAN
-p:CSAT
 0dcc:00820000:1af4:fbff:25:0
 Sky TG24 HD
 p:SkyItalia
 19cc:00c00000:0444:0001:25:0
 OCS GEANTS
-p:CSAT
-22cc:00c00000:0434:0001:25:0
-BOOMERANG
 p:CSAT
 19cd:00c00000:0444:0001:25:0
 VOYAGE
@@ -9568,9 +9562,6 @@ p:CSAT
 p:Movistar+
 19cf:00c00000:0444:0001:25:0
 LIBIDO TV
-p:CSAT
-22cf:00c00000:0434:0001:25:0
-BOING
 p:CSAT
 19d0:00c00000:0444:0001:25:0
 PENTHOUSE BLACK
@@ -9598,7 +9589,7 @@ EQUIDIA
 p:CSAT
 30d4:00c00000:0413:0001:25:0
 SAT.1 Gold HD
-p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1830
+p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 19d5:00c00000:0444:0001:25:0
 BRAVA
 p:CSAT
@@ -9613,7 +9604,7 @@ M.ESTRENOSHD
 p:Movistar
 30d6:00c00000:0413:0001:25:0
 Eurosport 1 HD
-p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1830
+p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 74d6:00c00000:03f8:0001:25:0
 #VAMOSHD
 p:Movistar+
@@ -9622,7 +9613,7 @@ Blaze HD
 p:SkyItalia
 30d7:00c00000:0413:0001:25:0
 Eurosport 2 HD Xtra
-p:SES ASTRA,c:0003ff,c:0303ff,c:040403,c:050001,C:186d,C:186a,C:1860,C:1843,C:1830
+p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 3dd8:00820000:0640:013e:25:0
 Travel Channel HD
 p:TVN
@@ -9709,7 +9700,7 @@ ORF2O HD
 p:ORF
 11f9:00820000:2b5c:013e:25:0
 Funbox UHD
-p:SPI,C:0500
+p:SPI
 33f9:00c00000:03ed:0001:25:0
 ORF2S HD
 p:ORF
@@ -9724,10 +9715,10 @@ ORF2V HD
 p:ORF
 33fc:00c00000:03ed:0001:25:0
 ORF III HD
-p:ORF,c:000c08,c:020c0d,c:030c08,c:040c09,c:050001,C:0d98,C:0d95,C:09c4,C:098c,C:06e2,C:0650,C:0648,C:0500
+p:ORF
 21fd:00c00000:044c:0001:25:0
 FRANCE 4
-p:CSAT,c:00006e,c:03006e,c:04007a,c:050001,C:1883,C:1863,C:1811,C:0500
+p:CSAT
 33fd:00c00000:03ed:0001:25:0
 ORF SPORT+ HD
 p:ORF
@@ -9748,7 +9739,7 @@ PUSH REF HD 3001
 p:SkyItalia
 0001:00c00000:040b:0001:31:0
 SES UHD Demo Channel
-p:SES,c:0001ff,c:0301ff,c:050006,c:130200
+p:SES
 0301:eeee0000:6b00:2114:31:0
 Das Erste HD
 p:ARD
@@ -9757,7 +9748,7 @@ VOX HD
 p:RTL Group
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA,c:000065,c:010066,c:030065,c:050006,C:186d,C:186a,C:1860,C:1843,C:1830
+p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 0302:eeee0000:6b00:2114:31:0
 arte HD
 p:ARD
@@ -9804,7 +9795,7 @@ p:ARD
 ProSieben HD
 p:ProSiebenSat.1 Media
 0622:eeee0000:6b00:2114:31:0
-BR FS Süd HD (Internet)
+BR Fernsehen Süd HD (Internet)
 p:ARD
 4222:eeee0000:4034:2114:31:0
 kabel eins HD
@@ -9835,7 +9826,7 @@ SAT.1 HD NRW
 p:ProSiebenSat.1 Media
 183a:00c00000:040b:0001:31:0
 Travelxp 4k
-p:MX1,C:186d,C:186a,C:1860,C:1843,C:1830
+p:MX1,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 113d:00820000:2af8:013e:31:0
 CANAL+ 4K ULTRA HD
 p:nc+
@@ -9875,12 +9866,6 @@ p:MEDIA BROADCAST
 424e:eeee0000:4071:2114:31:0
 Infokanal
 p:MEDIA BROADCAST
-1450:00c00000:040d:0001:31:0
-Test 1
-p:SES
-145a:00c00000:040d:0001:31:0
-Test 2
-p:SES
 0362:eeee0000:6f00:2114:31:0
 MDR S-Anhalt HD
 p:ARD
@@ -9889,15 +9874,6 @@ p:ARD
 p:nc+
 3164:00c00000:0459:0001:31:0
 MB SAT - Test2
-p:MB Satellite
-3165:00c00000:0459:0001:31:0
-MB SAT - Test6
-p:MB Satellite
-3166:00c00000:0459:0001:31:0
-MB SAT - Test4
-p:MB Satellite
-3167:00c00000:0459:0001:31:0
-MB SAT - Test5
 p:MB Satellite
 2d6c:00820000:0064:fbff:31:0
 4K HDR
@@ -9928,7 +9904,7 @@ NDTV 24x7
 p:SES,C:1867
 307a:00c00000:03f5:0001:31:0
 RTL UHD
-p:MX1,C:186d,C:186a,C:1860,C:1843,C:1830
+p:MX1,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 177b:00c00000:0423:0001:31:0
 Zoom
 p:SES,C:1867
@@ -9944,18 +9920,24 @@ p:nc+
 219b:00c00000:0448:0001:31:0
 CANAL+
 p:CSAT
-219e:00c00000:0448:0001:31:0
-4K UHD - EVENEMENT
-p:CSAT,c:00019a,c:03019a,c:050006,c:1301a5,C:1883
+219f:00c00000:0448:0001:31:0
+RMC SPORT 1
+p:CSAT
 06b1:eeee0000:6b00:2114:31:0
 rbb Berlin HD (Internet)
 p:ARD
 12c7:00820000:2e7c:013e:31:0
 TVP 4K
 p:nc+
+22ce:00c00000:0434:0001:31:0
+4K UHD - EVENEMENT
+p:CSAT
 07d0:00c00000:0449:0001:31:0
 INSIGHT TV UHD
-p:SES ASTRA,C:1867,C:09c4,C:098d,C:098c,C:0624,C:0500
+p:SES ASTRA
+06d1:eeee0000:6b00:2114:31:0
+SR Fernsehen HD (Internet)
+p:ARD
 07d1:eeee0000:0203:2114:31:0
 ZDF HD
 p:ZDFmobil
@@ -10034,6 +10016,9 @@ p:DVB-S2 8PSK 11278V 13.0°E
 012c:00820000:2774:fbff:100:0
 12731H SID 0x12c
 p:DVB-S QPSK 12731H 13.0°E
+782c:00c00000:0428:0001:100:0
+10935V SID 0x782c
+p:DVB-S2 8PSK 10935V 19.2°E
 782e:00c00000:0428:0001:100:0
 10935V SID 0x782e
 p:DVB-S2 8PSK 10935V 19.2°E
@@ -10082,9 +10067,9 @@ p:DVB-S2 8PSK 10719V 13.0°E
 7564:00c00000:0412:0001:100:0
 11097V SID 0x7564
 p:DVB-S QPSK 11097V 19.2°E
-7475:00c00000:03f0:0001:100:0
-11317V SID 0x7475
-p:DVB-S QPSK 11317V 19.2°E
+7865:00c00000:041a:0001:100:0
+10729V SID 0x7865
+p:DVB-S2 8PSK 10729V 19.2°E
 7476:00c00000:03f0:0001:100:0
 11317V SID 0x7476
 p:DVB-S QPSK 11317V 19.2°E
@@ -10124,6 +10109,9 @@ p:DVB-S QPSK 12148H 19.2°E
 0fa4:00c00000:0005:0085:100:0
 12460H SID 0xfa4
 p:DVB-S QPSK 12460H 19.2°E
+75a4:00c00000:0422:0001:100:0
+10847V SID 0x75a4
+p:DVB-S QPSK 10847V 19.2°E
 74a5:00c00000:041c:0001:100:0
 10758V SID 0x74a5
 p:DVB-S QPSK 10758V 19.2°E
@@ -10202,15 +10190,9 @@ p:DVB-S QPSK 12731H 13.0°E
 23c8:00c00000:044a:0001:100:0
 12363V SID 0x23c8
 p:DVB-S QPSK 12363V 19.2°E
-0dc9:00820000:1af4:fbff:100:0
-12091H SID 0xdc9
-p:DVB-S2 8PSK 12091H 13.0°E
 23c9:00c00000:044a:0001:100:0
 12363V SID 0x23c9
 p:DVB-S QPSK 12363V 19.2°E
-0dca:00820000:1af4:fbff:100:0
-12091H SID 0xdca
-p:DVB-S2 8PSK 12091H 13.0°E
 23ca:00c00000:044a:0001:100:0
 12363V SID 0x23ca
 p:DVB-S QPSK 12363V 19.2°E
@@ -10805,13 +10787,13 @@ p:
 014d:00c00000:0002:0085:211:0
 Sky Sport 10
 p:
-0159:00c00000:0002:0085:211:0
+0159:00c00000:000b:0085:211:0
 Blue Movie 1
 p:
-0163:00c00000:0002:0085:211:0
+0163:00c00000:000b:0085:211:0
 Blue Movie 2
 p:
-016d:00c00000:0002:0085:211:0
+016d:00c00000:000b:0085:211:0
 Blue Movie 3
 p:
 00fc:00c00000:0003:0085:211:0
