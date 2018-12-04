@@ -1,0 +1,97 @@
+#NAME IP TV (TV)
+#SERVICE 4097:0:19:132F:3EF:1:C00000:0:0:0:http%3a//orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8:ORF1 
+#DESCRIPTION ORF1 
+#SERVICE 4097:0:19:33F5:3ED:1:C00000:0:0:0:http%3a//orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8:ORF2 
+#DESCRIPTION ORF2 
+#SERVICE 4097:0:19:33FC:3ED:1:C00000:0:0:0:http%3a//orf3.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8:ORF3 
+#DESCRIPTION ORF3 
+#SERVICE 4097:0:1:33A5:3EB:1:C00000:0:0:0::http%3a//orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8:ORF Sport+ 
+#DESCRIPTION ORF Sport+ 
+#SERVICE 4097:0:19:3402:3ED:1:C00000:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:oe24 TV
+#DESCRIPTION oe24 TV
+#SERVICE 4097:0:1:6DCA:44D:1:C00000:0:0:0:http%3a//daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_2692_av-p.m3u8:Das Erste
+#DESCRIPTION Das Erste
+#SERVICE 4097:0:1:6D66:437:1:C00000:0:0:0:http%3a//zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8:ZDF
+#DESCRIPTION ZDF
+#SERVICE 4097:0:1:6DCE:44D:1:C00000:0:0:0:http%3a//livestreams.br.de/i/bfsnord_germany@119898/index_3776_av-b.m3u8:BR Fernsehen
+#DESCRIPTION BR Fernsehen
+#SERVICE 4097:0:1:6DCC:44D:1:C00000:0:0:0:http%3a//live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8:HR Fernsehen
+#DESCRIPTION HR Fernsehen
+#SERVICE 4097:0:1:6E2E:431:1:C00000:0:0:0:http%3a//rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_7_av-b.m3u8:RBB Berlin
+#DESCRIPTION RBB Berlin
+#SERVICE 4097:0:1:6E47:431:1:C00000:0:0:0:http%3a//swrrp-lh.akamaihd.net/i/swrrp_live@196739/index_3584_av-p.m3u8:SWR Fernsehen
+#DESCRIPTION SWR Fernsehen
+#SERVICE 4097:0:1:6F46:445:1:C00000:0:0:0:http%3a//live2_sr-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-b.m3u8:SR Fernsehen
+#DESCRIPTION SR Fernsehen
+#SERVICE 4097:0:1:7034:41B:1:C00000:0:0:0:http%3a//artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8:arte
+#DESCRIPTION arte
+#SERVICE 4097:0:1:7035:41B:1:C00000:0:0:0:https%3a//zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8:Phoenix
+#DESCRIPTION Phoenix
+#SERVICE 4097:0:1:332F:45B:1:C00000:0:0:0:http%3a//live.vidoo.de/live/weltderwunder/playlist.m3u8:Welt Der Wunder
+#DESCRIPTION Welt Der Wunder
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Events
+#DESCRIPTION Events
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8?sd=10&rebase=on:Arte Concert
+#DESCRIPTION Arte Concert
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8:BR Event 1
+#DESCRIPTION BR Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8:BR Event 2
+#DESCRIPTION BR Event 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8:BR Event 3
+#DESCRIPTION BR Event 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/SWR_event04isma@111250/index_1_av-p.m3u8:BR Event 4
+#DESCRIPTION BR Event 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hrevent-lh.akamaihd.net/i/hr_event@309239/index_3128_av-p.m3u8:HR Event
+#DESCRIPTION HR Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/index_3776_av-p.m3u8:NDR Spezial 1
+#DESCRIPTION NDR Spezial 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/index_3776_av-p.m3u8:NDR Spezial 2
+#DESCRIPTION NDR Spezial 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/index_3776_av-p.m3u8:NDR Spezial 3
+#DESCRIPTION NDR Spezial 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/index_3776_av-p.m3u8:NDR Spezial 4
+#DESCRIPTION NDR Spezial 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/index_3776_av-p.m3u8:NDR Spezial 5
+#DESCRIPTION NDR Spezial 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/index_3776_av-p.m3u8:NDR Spezial 6
+#DESCRIPTION NDR Spezial 6
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_events-lh.akamaihd.net/i/ndrevent_1@119220/index_3776_av-p.m3u8:NDR Event 1
+#DESCRIPTION NDR Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_events-lh.akamaihd.net/i/ndrevent_2@119221/index_3776_av-p.m3u8:NDR Event 2
+#DESCRIPTION NDR Event 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_events-lh.akamaihd.net/i/ndrevent_3@119222/index_3776_av-p.m3u8:NDR Event 3
+#DESCRIPTION NDR Event 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdr_event1_hls-lh.akamaihd.net/i/livetvmdrevent1_de@106904/index_1728_av-p.m3u8:MDR Event 1
+#DESCRIPTION MDR Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveevent2.mdr.de/i/livetvmdrevent2_de@106905/index_1728_av-p.m3u8:MDR Event 2
+#DESCRIPTION MDR Event 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/index_1728_av-p.m3u8:RBB Event
+#DESCRIPTION RBB Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/index_3584_av-p.m3u8?sd=10&rebase=on:SWR Event 1
+#DESCRIPTION SWR Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/index_3584_av-p.m3u8?sd=10&rebase=on:SWR Event 2
+#DESCRIPTION SWR Event 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event03_uni-lh.akamaihd.net/i/swr_event03@198168/index_3584_av-p.m3u8?sd=10&rebase=on:SWR Event 3
+#DESCRIPTION SWR Event 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event04_uni-lh.akamaihd.net/i/swr_event04@198169/index_3584_av-p.m3u8?sd=10&rebase=on:SWR Event 4
+#DESCRIPTION SWR Event 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/index_3776_av-p.m3u8:WDR Event 1
+#DESCRIPTION WDR Event 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/index_3776_av-p.m3u8:WDR Event 2
+#DESCRIPTION WDR Event 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/index_3776_av-p.m3u8:WDR Event 3
+#DESCRIPTION WDR Event 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_3776_av-p.m3u8:WDR Event 4
+#DESCRIPTION WDR Event 4
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Radio
+#DESCRIPTION Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//highvolume03.streampartner.nl%3a1935/radio21germany/ playpath=livestream swfUrl=http%3a//media.streampartner.nl/player.swf pageUrl=http%3a//media.streampartner.nl/player.php?url=131b18978f8ae1093604:Radio 21 TV
+#DESCRIPTION Radio 21 TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//apasf.apa.at/oe3_live:OE3_Stream
+#DESCRIPTION OE3_Stream
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//livestream.antenne.at%3a8002:Antenne_Steiermark
+#DESCRIPTION Antenne_Steiermark
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3stream9.apasf.apa.at%3a8000:Radio_Steiermark
+#DESCRIPTION Radio_Steiermark
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//party.bmr-radio.de%3a8100:Ballermann-Radio
+#DESCRIPTION Ballermann-Radio
