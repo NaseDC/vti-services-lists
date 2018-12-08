@@ -1,13 +1,7 @@
 eDVB services /4/
 transponders
-eeee0000:0202:2114
-	t 546000000:0:1:6:1:1:3:4:2:0:0:0
-/
 eeee0000:0203:2114
 	t 538000000:0:5:5:3:2:4:4:2:0:0:0
-/
-eeee0000:1800:2114
-	t 786000000:0:5:5:3:2:4:4:2:0:0:0
 /
 eeee0000:4004:2114
 	t 626000000:0:5:5:3:2:4:4:2:0:0:0
@@ -21,14 +15,14 @@ eeee0000:4061:2114
 eeee0000:4071:2114
 	t 690000000:0:6:6:3:6:1:4:2:0:1:1
 /
-eeee0000:5200:2114
-	t 522000000:0:5:5:3:2:4:4:2:0:0:0
-/
 eeee0000:6b00:2114
 	t 674000000:0:5:5:3:2:4:4:2:0:0:0
 /
+eeee0000:6e00:2114
+	t 658000000:0:6:6:3:6:1:4:2:0:1:0
+/
 eeee0000:6f00:2114
-	t 586000000:0:5:5:3:2:4:4:2:0:0:0
+	t 474000000:0:6:6:3:5:6:4:2:0:1:0
 /
 00820000:1ce8:0071
 	s 12188000:27500000:1:3:130:2:0:1:2:2:2
@@ -181,7 +175,7 @@ eeee0000:6f00:2114
 	s 10911000:27500000:1:3:130:2:0:1:2:0:2
 /
 00820000:2f44:013e
-	s 10930160:30000000:0:2:130:2:0:1:2:2:2
+	s 10930000:30000000:0:2:130:2:0:1:2:2:2
 /
 00820000:2fa8:013e
 	s 10949000:27500000:1:3:130:2:0
@@ -653,9 +647,6 @@ p:
 3c1e:00820000:0064:fbff:0:0
 
 p:
-132c:00820000:33f4:013e:0:0
-
-p:
 0033:00820000:2f44:013e:0:0
 Shant Music HD
 p:
@@ -665,9 +656,6 @@ p:
 2d68:00820000:2774:fbff:0:0
 
 p:
-0100:eeee0000:1800:2114:1:0
-Das Erste
-p:ARD
 0200:00820000:0384:013e:1:0
 TELEITALIAORO
 p:M-Three Satcom
@@ -719,9 +707,6 @@ p:SkyItalia
 7601:00c00000:0408:0001:1:0
 R. MADRID TV
 p:Digital+
-0002:eeee0000:1800:2114:1:0
-arte
-p:ARD
 0002:00820000:2e18:00b0:1:0
 Al Aoula Inter +L HD
 p:SNRT
@@ -737,9 +722,6 @@ p:Mediaset
 0002:0082accf:0578:013e:1:0
 Farsi 24
 p:
-0202:eeee0000:0202:2114:1:0
-ZDF
-p:ZDFmobil
 0202:00c00000:0007:0085:1:0
 Immer etwas Neues TV
 p:BetaDigital
@@ -758,9 +740,6 @@ p:SkyItalia
 7602:00c00000:0408:0001:1:0
 CLASSICA
 p:CANAL+
-0003:eeee0000:1800:2114:1:0
-PHOENIX
-p:ARD
 0003:00820000:2e18:00b0:1:0
 Al Aoula Inter HD
 p:SNRT
@@ -776,9 +755,6 @@ p:
 0003:00820000:25e4:02be:1:0
 SAUDI1
 p:ARABSAT
-0203:eeee0000:0202:2114:1:0
-3sat
-p:ZDFmobil
 0203:00820000:0384:013e:1:0
 TIVU TIVU
 p:M-Tree Satcom
@@ -800,9 +776,6 @@ p:
 0004:00820000:02bc:013e:1:0
 ARMPUB TV
 p:
-0204:eeee0000:0202:2114:1:0
-ZDFinfo
-p:ZDFmobil
 0204:00820000:0384:013e:1:0
 DIPRE'TV
 p:M-Three Satcom
@@ -821,9 +794,6 @@ p:MTV Networks Europe
 7604:00c00000:0408:0001:1:0
 ANTENA 3
 p:DIGITAL +
-0005:eeee0000:1800:2114:1:0
-ONE
-p:ARD
 0005:00820000:2e18:00b0:1:0
 Al Aoula Inter
 p:SNRT
@@ -833,9 +803,6 @@ p:
 0005:00820000:25e4:02be:1:0
 IQRAA
 p:ARABSAT
-0205:eeee0000:0202:2114:1:0
-neo/KiKA
-p:ZDFmobil
 0205:00820000:0384:013e:1:0
 HERCULES
 p:M-Three Satcom
@@ -870,8 +837,8 @@ p:Mediaset
 Rangarang TV
 p:
 0006:00820000:02bc:013e:1:0
-11334H SID 0x06
-p:DVB-S QPSK 11334H 13.0°E
+Armenia TV
+p:
 0006:00820000:25e4:02be:1:0
 SUDAN TV
 p:ARABSAT
@@ -938,12 +905,12 @@ p:Cyfrowy Polsat S.A.
 0008:00820000:1770:0110:1:0
 TgCom24
 p:Mediaset
+0008:0082accf:0578:013e:1:0
+Al Alam
+p:
 0008:00820000:25e4:02be:1:0
 ESC
 p:ARABSAT
-0108:eeee0000:5200:2114:1:0
-WDR Siegen
-p:ARD
 0208:00820000:0384:013e:1:0
 BLACKTV
 p:M-Three Satcom
@@ -1524,8 +1491,8 @@ p:ProSiebenSat.1
 Sky Sport News
 p:SKY
 0325:0082b00f:0001:0001:1:0
-JCTV
-p:OVERON
+Smile of a Child
+p:overon
 0325:00820000:1770:0110:1:0
 Mediaset On Demand
 p:Mediaset
@@ -1756,7 +1723,7 @@ POP Italy
 p:M-THree satcom,C:183e,C:183d
 132d:00820000:33f4:013e:1:0
 QVC
-p:Harmonic
+p:Telespazio
 232d:00820000:2328:013e:1:0
 FADAK TV
 p:STN Ltd
@@ -1795,7 +1762,7 @@ Polsat Sport HD
 p:Cyfrowy Polsat S.A.
 132e:00820000:33f4:013e:1:0
 Juwelo
-p:Harmonic
+p:Telespazio
 1d2e:00820000:2fa8:013e:1:0
 SAT 7 Pars
 p:Globecast
@@ -2217,7 +2184,7 @@ p:BetaDigital
 VOD 204
 p:Cyfrowy Polsat SA
 013e:00820000:157c:013e:1:0
-Info Card
+NovachristmasHD
 p:NetMed
 313e:00c00000:0459:0001:1:0
 nice temp
@@ -3002,9 +2969,6 @@ p:ProSiebenSat.1
 7563:00c00000:0412:0001:1:0
 MULTI-X (2)
 p:DIGITAL+
-0064:eeee0000:5200:2114:1:0
-MDR S-Anhalt
-p:ARD
 0064:0082afc2:0065:0001:1:0
 VOA TV 100 (HB49-52)
 p:
@@ -3488,9 +3452,6 @@ p:RTL
 7580:00c00000:0412:0001:1:0
 BEINLALIGA2
 p:Movistar+
-0081:eeee0000:5200:2114:1:0
-NDR FS NDS
-p:ARD
 0381:00c00000:0021:0085:1:0
 e8 television
 p:BetaDigital
@@ -3718,7 +3679,7 @@ Polsat Rodzina
 p:Cyfrowy Polsat S.A.
 2490:00820000:23f0:013f:1:0
 HODHOD FARSI
-p:Harmonic
+p:Telespazio
 2c90:00820000:2580:fbff:1:0
 Animal Planet
 p:SkyItalia
@@ -3835,7 +3796,7 @@ AXN
 p:Cyfrowy Polsat S.A.
 2496:00820000:23f0:013f:1:0
 HODHOD arabic
-p:Harmonic
+p:Telespazio
 2a96:00820000:1838:fbff:1:0
 Sky Sport24
 p:SkyItalia
@@ -4445,9 +4406,6 @@ p:Manoto
 1cbb:00820000:1ce8:0071:1:0
 Vivid Touch SD
 p:Cyfrowy Polsat S.A.
-24bb:00c00000:043c:0001:1:0
-12090V SID 0x24bb
-p:DVB-S2 8PSK 12090V 19.2°E
 2abb:00820000:1838:fbff:1:0
 PPV Bundle2
 p:SkyItalia
@@ -5417,9 +5375,6 @@ p:ARD
 75e1:00c00000:0422:0001:1:0
 TEST_CSD4
 p:DIGITAL+
-00e2:eeee0000:5200:2114:1:0
-SWR Fernsehen RP
-p:ARD
 00e2:0082afc2:0065:0001:1:0
 Farda TV Audio 226
 p:
@@ -7343,28 +7298,55 @@ p:SkyItalia
 080c:eeee0000:6b00:2114:10:0
 1LIVE (Internet)
 p:ARD
+080c:eeee0000:6e00:2114:10:0
+1LIVE (Internet)
+p:ARD
 080d:eeee0000:6b00:2114:10:0
+WDR 2 Rheinland (Internet)
+p:ARD
+080d:eeee0000:6e00:2114:10:0
 WDR 2 Rheinland (Internet)
 p:ARD
 080e:eeee0000:6b00:2114:10:0
 WDR 3 (Internet)
 p:ARD
+080e:eeee0000:6e00:2114:10:0
+WDR 3 (Internet)
+p:ARD
 080f:eeee0000:6b00:2114:10:0
+WDR 4 (Internet)
+p:ARD
+080f:eeee0000:6e00:2114:10:0
 WDR 4 (Internet)
 p:ARD
 0810:eeee0000:6b00:2114:10:0
 WDR 5 (Internet)
 p:ARD
+0810:eeee0000:6e00:2114:10:0
+WDR 5 (Internet)
+p:ARD
 0811:eeee0000:6b00:2114:10:0
+COSMO (Internet)
+p:ARD
+0811:eeee0000:6e00:2114:10:0
 COSMO (Internet)
 p:ARD
 0812:eeee0000:6b00:2114:10:0
 KIRAKA (Internet)
 p:ARD
+0812:eeee0000:6e00:2114:10:0
+KIRAKA (Internet)
+p:ARD
 0813:eeee0000:6b00:2114:10:0
 1LIVE diGGi (Internet)
 p:ARD
+0813:eeee0000:6e00:2114:10:0
+1LIVE diGGi (Internet)
+p:ARD
 0814:eeee0000:6b00:2114:10:0
+WDR Event (Internet)
+p:ARD
+0814:eeee0000:6e00:2114:10:0
 WDR Event (Internet)
 p:ARD
 1000:00c00000:0451:0035:12:0
@@ -7726,7 +7708,7 @@ p:
 p:SKY
 421c:00820000:2f44:013e:22:0
 UATV
-p:COSMONOVA LLC
+p:Cosmonova LLC
 101d:00c00000:0451:0035:22:0
 AXN Deutschland
 p:M7 Group
@@ -9743,14 +9725,23 @@ p:SES
 0301:eeee0000:6b00:2114:31:0
 Das Erste HD
 p:ARD
+0301:eeee0000:6e00:2114:31:0
+Das Erste HD
+p:ARD
 4201:eeee0000:4004:2114:31:0
 VOX HD
 p:RTL Group
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
+p:SES ASTRA
 0302:eeee0000:6b00:2114:31:0
 arte HD
+p:ARD
+0302:eeee0000:6e00:2114:31:0
+arte HD
+p:ARD
+0402:eeee0000:6e00:2114:31:0
+WDR HD Bielefeld
 p:ARD
 4202:eeee0000:4004:2114:31:0
 SUPER RTL HD
@@ -9773,12 +9764,18 @@ p:RTL Group
 0305:eeee0000:6b00:2114:31:0
 ONE HD
 p:ARD
+0305:eeee0000:6e00:2114:31:0
+ONE HD
+p:ARD
 4205:eeee0000:4004:2114:31:0
 NITRO HD
 p:RTL Group
 4206:eeee0000:4004:2114:31:0
 Tele 5 HD
 p:RTL Group
+0408:eeee0000:6e00:2114:31:0
+WDR HD Siegen
+p:ARD
 0409:eeee0000:6b00:2114:31:0
 WDR HD Wuppertal
 p:ARD
@@ -9791,16 +9788,25 @@ p:ARD
 0815:eeee0000:6b00:2114:31:0
 WDR Mediathek (Internet)
 p:ARD
+0815:eeee0000:6e00:2114:31:0
+WDR Mediathek (Internet)
+p:ARD
 4221:eeee0000:4034:2114:31:0
 ProSieben HD
 p:ProSiebenSat.1 Media
 0622:eeee0000:6b00:2114:31:0
 BR Fernsehen Süd HD (Internet)
 p:ARD
+0622:eeee0000:6e00:2114:31:0
+BR Fernsehen Süd HD (Internet)
+p:ARD
 4222:eeee0000:4034:2114:31:0
 kabel eins HD
 p:ProSiebenSat.1 Media
 0623:eeee0000:6b00:2114:31:0
+ARD-alpha HD (Internet)
+p:ARD
+0623:eeee0000:6e00:2114:31:0
 ARD-alpha HD (Internet)
 p:ARD
 4223:eeee0000:4034:2114:31:0
@@ -9834,6 +9840,9 @@ p:nc+
 Disney Channel HD
 p:MEDIA BROADCAST
 0641:eeee0000:6b00:2114:31:0
+hr-fernsehen HD (Internet)
+p:ARD
+0641:eeee0000:6e00:2114:31:0
 hr-fernsehen HD (Internet)
 p:ARD
 4241:eeee0000:4061:2114:31:0
@@ -9926,6 +9935,9 @@ p:CSAT
 06b1:eeee0000:6b00:2114:31:0
 rbb Berlin HD (Internet)
 p:ARD
+06b1:eeee0000:6e00:2114:31:0
+rbb Berlin HD (Internet)
+p:ARD
 12c7:00820000:2e7c:013e:31:0
 TVP 4K
 p:nc+
@@ -9936,6 +9948,9 @@ p:CSAT
 INSIGHT TV UHD
 p:SES ASTRA
 06d1:eeee0000:6b00:2114:31:0
+SR Fernsehen HD (Internet)
+p:ARD
+06d1:eeee0000:6e00:2114:31:0
 SR Fernsehen HD (Internet)
 p:ARD
 07d1:eeee0000:0203:2114:31:0
