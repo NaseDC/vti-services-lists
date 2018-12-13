@@ -5,3 +5,5 @@
 #DESCRIPTION Radio-Steiermark
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//mp3stream7.apasf.apa.at%3A8000:Hitradio_OE3
 #DESCRIPTION Hitradio OE3
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3A//dg-ais-eco-http-fra-eco-cdn.cast.addradio.de/radiolippe/live/mp3/high
+#DESCRIPTION RadioLippe
