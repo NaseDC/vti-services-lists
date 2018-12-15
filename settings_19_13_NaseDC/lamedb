@@ -1,28 +1,28 @@
 eDVB services /4/
 transponders
 eeee0000:0203:2114
-	t 538000000:0:5:5:3:2:4:4:2:0:0:0
+	t 538000000:0:7:7:2:5:5:4:2:0:0:0
 /
 eeee0000:4004:2114
-	t 626000000:0:5:5:3:2:4:4:2:0:0:0
+	t 626000000:0:1:1:2:6:1:4:2:0:0:0
 /
 eeee0000:4034:2114
-	t 650000000:0:5:5:3:2:4:4:2:0:0:0
+	t 650000000:0:1:1:2:6:1:4:2:0:0:0
 /
 eeee0000:4061:2114
-	t 690000000:0:5:5:3:2:4:4:2:0:0:0
+	t 690000000:0:1:1:2:6:1:4:2:0:0:0
 /
 eeee0000:4071:2114
 	t 690000000:0:6:6:3:6:1:4:2:0:1:1
 /
 eeee0000:6b00:2114
-	t 674000000:0:5:5:3:2:4:4:2:0:0:0
+	t 674000000:0:0:0:2:5:6:4:2:0:0:0
 /
 eeee0000:6e00:2114
-	t 658000000:0:6:6:3:6:1:4:2:0:1:0
+	t 658000000:0:0:0:2:5:5:4:2:0:0:0
 /
 eeee0000:6f00:2114
-	t 474000000:0:6:6:3:5:6:4:2:0:1:0
+	t 474000000:0:0:0:2:5:6:4:2:0:0:0
 /
 00820000:1ce8:0071
 	s 12188000:27500000:1:3:130:2:0:1:2:2:2
@@ -1007,6 +1007,9 @@ p:Eutelsat
 700a:00c00000:0436:0001:1:0
 Nicktoons (S)
 p:MTV Networks Europe
+000b:0082accf:0578:013e:1:0
+El Sharq
+p:
 020b:00820000:0384:013e:1:0
 DIPRE'TV 2
 p:M-Three Satcom
@@ -1736,9 +1739,6 @@ p:SkyItalia
 332d:00c00000:045b:0001:1:0
 ORF III
 p:ORF
-332d:00820000:3390:0071:1:0
-Test P
-p:Cyfrowy Polsat S.A.
 422d:00820000:3db8:013e:1:0
 Private TV  HD!
 p:Telespazio
@@ -1808,9 +1808,6 @@ p:SkyItalia
 332f:00c00000:045b:0001:1:0
 Welt der Wunder
 p:-
-332f:00820000:3390:0071:1:0
-Test T
-p:Cyfrowy Polsat S.A.
 422f:00820000:3db8:013e:1:0
 Redlight HD!
 p:Telespazio
@@ -1838,9 +1835,6 @@ p:STN Ltd
 2f30:00c00000:0441:0001:1:0
 RTLplus
 p:CBC
-3330:00820000:3390:0071:1:0
-Test S
-p:Cyfrowy Polsat S.A.
 3e30:00820000:2ee0:013e:1:0
 TestP
 p:Cyfrowy Polsat S.A.
@@ -1874,9 +1868,6 @@ p:
 2c31:00820000:251c:fbff:1:0
 DeAJunior
 p:SkyItalia
-3331:00820000:3390:0071:1:0
-Test SE
-p:Cyfrowy Polsat S.A.
 4231:00820000:3db8:013e:1:0
 Goldbet 1
 p:Telespazio
@@ -1964,9 +1955,6 @@ p:STN ltd
 2c34:00820000:251c:fbff:1:0
 DMAX
 p:SkyItalia
-3334:00820000:3390:0071:1:0
-Test F
-p:Cyfrowy Polsat S.A.
 4534:00820000:30d4:013e:1:0
 Rai 4 HD
 p:Rai
@@ -3381,7 +3369,7 @@ p:SES ASTRA
 M.LCAMPEON1
 p:Movistar+
 387b:00820000:2580:fbff:1:0
-Automoto Tv
+Winga TV
 p:SkyItalia
 427b:00820000:2bc0:013e:1:0
 Stopklatka TV
@@ -3758,6 +3746,9 @@ p:SkyItalia
 2394:00c00000:044a:0001:1:0
 12363V SID 0x2394
 p:DVB-S QPSK 12363V 19.2°E
+3394:00820000:3390:0071:1:0
+Test6
+p:Cyfrowy Polsat S.A.
 3c94:00820000:1bbc:013e:1:0
 Novasports1HD
 p:Netmed
@@ -4598,6 +4589,9 @@ p:Telespazio
 0bc4:00820000:20d0:013e:1:0
 Karbala TV
 p:GLOBECAST
+12c4:00820000:2e7c:013e:1:0
+10892H SID 0x12c4
+p:DVB-S2 8PSK 10892H 13.0°E
 1bc4:00820000:17d4:013e:1:0
 Novasports 24 HD
 p:NetMed
@@ -4662,7 +4656,7 @@ p:AB Sat
 Euronews Russian
 p:GLOBECAST
 0fc6:00820000:1e14:fbff:1:0
-Shimmer&Shine Ch
+Nick Jr +1
 p:SkyItalia
 12c6:00820000:2e7c:013e:1:0
 KINO POLSKA HD
@@ -5256,7 +5250,7 @@ p:nc+
 RL North Caucasus 220
 p:
 0fdc:00820000:1e14:fbff:1:0
-NSL TV
+NSL
 p:SkyItalia
 10dc:00820000:03e8:013e:1:0
 Mango 24
@@ -5525,6 +5519,9 @@ p:TVN SA
 79ea:00c00000:0443:0001:1:0
 HSE24 EXTRA
 p:SES Astra
+00eb:0082afc2:0065:0001:1:0
+VOA Persian HD
+p:
 0ceb:00820000:1518:013e:1:0
 Rai Scuola
 p:Rai
@@ -5705,9 +5702,6 @@ p:MTV Networks Europe
 75f3:00c00000:0422:0001:1:0
 
 p:Contactanos
-01f4:0082afc2:0065:0001:1:0
-Alhurra HD 500
-p:
 13f4:00820000:05dc:013e:1:0
 FOX
 p:nc+
@@ -5813,9 +5807,6 @@ p:SkyItalia
 01fb:00820000:0384:013e:1:0
 WAAR HD
 p:Waar
-11fb:00820000:2b5c:013e:1:0
-TRAVELXP 4K
-p:
 1efb:00820000:21fc:013e:1:0
 PRESS TV HD
 p:IRIB
@@ -6348,7 +6339,7 @@ p:ARD SWR
 SWR2
 p:ARD SWR
 0e34:00820000:0708:00c8:2:0
-R.BuonConsiglio
+R-BuonConsiglio
 p:M-Three satcom
 6f34:00c00000:0445:0001:2:0
 SWR3
@@ -7922,6 +7913,9 @@ p:TVN
 11db:00c00000:0406:0001:22:0
 Rishtey Europe
 p:SES,C:1867
+35db:00820000:1388:013e:22:0
+DR TLMRC
+p:TSA
 11dc:00c00000:0406:0001:22:0
 .
 p:SES
@@ -9689,6 +9683,9 @@ p:ORF
 33fa:00c00000:03ed:0001:25:0
 ORF2T HD
 p:ORF
+11fb:00820000:2b5c:013e:25:0
+TRAVELXP 4K
+p:
 33fb:00c00000:03ed:0001:25:0
 ORF2V HD
 p:ORF
@@ -9730,7 +9727,7 @@ VOX HD
 p:RTL Group
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
+p:SES ASTRA
 0302:eeee0000:6b00:2114:31:0
 arte HD
 p:ARD

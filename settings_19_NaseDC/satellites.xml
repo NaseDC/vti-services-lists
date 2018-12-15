@@ -42,7 +42,7 @@ fec_inner=15: None
 1 = QPSK
 2 = 8PSK
 -->
-<satellites>
+<satellites
 	<sat name="Astra 1KR/1L/1M/1N (19.2E)" flags="5" position="192">
 		<transponder frequency="10714000" symbol_rate="22000000" polarization="0" fec_inner="2" system="1" modulation="2"/>
 		<transponder frequency="10729000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2"/>
