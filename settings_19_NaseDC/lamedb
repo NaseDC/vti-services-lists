@@ -991,7 +991,7 @@ MB SAT - Test6
 p:MB Satellite
 4465:00c00000:0453:0001:1:0
 kabel eins Doku
-p:ProSiebenSat.1,c:0009ff,c:010a00,c:020029,c:0309ff
+p:ProSiebenSat.1
 7565:00c00000:0412:0001:1:0
 ALQUILER 5
 p:Movistar+
@@ -3385,7 +3385,7 @@ QVC HD
 p:BetaDigital
 0070:00c00000:000d:0085:25:0
 NatGeo HD
-p:SKY
+p:SKY,c:0001ff,c:0301ff,c:040203,c:050001,C:09c4,C:09af,C:098d,C:098c
 1970:00c00000:044e:0001:25:0
 NICKELODEON TEEN
 p:CSAT
@@ -4683,4 +4683,4 @@ p:
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 24Dez2018 10:42:15
+Edited with dreamboxEDIT 7.2.0.0 on 25Dez2018 13:40:20
