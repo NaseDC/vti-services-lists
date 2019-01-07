@@ -103,7 +103,7 @@
 #DESCRIPTION KiKA HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618:Nederland 2
 #DESCRIPTION Nederland 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:8:rtsp%3a//192.168.178.254%3a554/?freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514:Videothek - Unitymedia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514:Videothek - Unitymedia
 #DESCRIPTION Videothek - Unitymedia
-#SERVICE 4097:0:1:0:0:0:0:0:0:9:rtsp%3a//192.168.178.254%3a554/?freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,1621:NRWision HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,1621:NRWision HD
 #DESCRIPTION NRWision HD
