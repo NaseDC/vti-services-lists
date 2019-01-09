@@ -396,7 +396,7 @@ p:Movistar+
 MediaShop- Meine Einkaufswelt
 p:BetaDigital
 7607:00c00000:0408:0001:1:0
-M.NavidadDisney
+TESTP
 p:Movistar+
 0308:00c00000:0005:0085:1:0
 SIXX
@@ -621,7 +621,7 @@ p:MB Satellite
 L-TV
 p:-
 7739:00c00000:0416:0001:1:0
-M. MOTOGP
+TEST G
 p:CANAL+
 2f3a:00c00000:0441:0001:1:0
 n-tv
@@ -2092,7 +2092,7 @@ Radio Regenbogen
 p:MB Satellite
 3178:00c00000:0459:0001:2:0
 radioB2  SCHLAGER
-p:MB Satellite
+p:MB Satellite,c:01016c,c:03016c
 1c79:00c00000:0457:0001:2:0
 Radio Horeb
 p:Eurociel
@@ -3051,7 +3051,7 @@ p:ServusTV
 INFOSPORT+
 p:CSAT
 7532:00c00000:0426:0001:25:0
-M.MOTOGPHD
+TEST GHD
 p:CANAL+
 0133:00c00000:0004:0085:25:0
 Sky Sport Bundesliga 6 HD
@@ -3628,7 +3628,7 @@ Deluxe Music HD Austria
 p:BetaDigital
 2889:00c00000:040f:0001:25:0
 ARD-alpha HD
-p:ARD
+p:ARD,c:00152d,c:021530,c:03152d,c:041532,c:050001
 7889:00c00000:0414:0001:25:0
 NG WILD HD
 p:DIGITAL+
@@ -4689,4 +4689,4 @@ p:
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 07Jan2019 13:15:01
+Edited with dreamboxEDIT 7.2.0.0 on 09Jan2019 17:52:16

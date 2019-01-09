@@ -656,6 +656,9 @@ p:
 3c1e:00820000:0064:fbff:0:0
 
 p:
+0032:00820000:2f44:013e:0:0
+Shant premium HD
+p:
 0033:00820000:2f44:013e:0:0
 Shant Music HD
 p:
@@ -667,7 +670,7 @@ p:
 p:
 0200:00820000:0384:013e:1:0
 TELEITALIAORO
-p:M-Three Satcom
+p:M-Three satcom
 0300:00c00000:0007:0085:1:0
 .
 p:BetaDigital
@@ -697,7 +700,7 @@ RIT-TV
 p:RIT
 0201:00820000:0384:013e:1:0
 SUBACQUEATV
-p:M-Three Satcom
+p:M-Three satcom
 0301:00c00000:0007:0085:1:0
 Channel21
 p:BetaDigital
@@ -733,7 +736,7 @@ Immer etwas Neues TV
 p:BetaDigital
 0202:00820000:0384:013e:1:0
 ITALY SAT
-p:M -Three Satcom
+p:M-Three satcom
 0702:00c00000:0005:0085:1:0
 QVC
 p:BetaDigital
@@ -763,7 +766,7 @@ SAUDI1
 p:ARABSAT
 0203:00820000:0384:013e:1:0
 TIVU TIVU
-p:M-Tree Satcom
+p:M-Three satcom
 1b03:00c00000:03fe:0001:1:0
 TV5MONDE EUROPE
 p:GlobeCast
@@ -784,7 +787,7 @@ ARMPUB TV
 p:
 0204:00820000:0384:013e:1:0
 DIPRE'TV
-p:M-Three Satcom
+p:M-Three satcom
 0304:00c00000:0005:0085:1:0
 TLC
 p:BetaDigital
@@ -811,7 +814,7 @@ IQRAA
 p:ARABSAT
 0205:00820000:0384:013e:1:0
 HERCULES
-p:M-Three Satcom
+p:M-Three satcom
 1105:00820000:1644:fbff:1:0
 TG24PrimoPiano
 p:SkyItalia
@@ -847,7 +850,7 @@ SUDAN TV
 p:ARABSAT
 0206:00820000:0384:013e:1:0
 LAS TELEVENTA
-p:M-Three Satcom
+p:M-Three satcom
 0306:00c00000:0007:0085:1:0
 GOD Channel
 p:BetaDigital
@@ -880,7 +883,7 @@ ES TV
 p:
 0207:00820000:0384:013e:1:0
 MYTIVI
-p:M-Three Satcom
+p:M-Three satcom
 0307:00c00000:0007:0085:1:0
 MediaShop- Meine Einkaufswelt
 p:BetaDigital
@@ -897,7 +900,7 @@ p:Eutelsat
 Boomerang
 p:SkyItalia
 7607:00c00000:0408:0001:1:0
-M.NavidadDisney
+TESTP
 p:Movistar+
 0008:00820000:2e18:00b0:1:0
 Medi1 TV
@@ -916,7 +919,7 @@ ESC
 p:ARABSAT
 0208:00820000:0384:013e:1:0
 BLACKTV
-p:M-Three Satcom
+p:M-Three satcom
 0308:00c00000:0005:0085:1:0
 SIXX
 p:ProSiebenSat.1
@@ -955,7 +958,7 @@ Iraqia News
 p:ARABSAT
 0209:00820000:0384:013e:1:0
 MOON LIGHT TV
-p:M-Three Satcom
+p:M-Three satcom
 0709:00820000:32c8:013e:1:0
 Polsat Sport Premium 1
 p:Cyfrowy Polsat S.A.
@@ -985,7 +988,7 @@ RTPi
 p:GLOBECAST
 020a:00820000:0384:013e:1:0
 TIVU TIVU 2
-p:M-Three Satcom
+p:M-Three satcom
 070a:00820000:32c8:013e:1:0
 Polsat Sport Premium 2
 p:Cyfrowy Polsat S.A.
@@ -1015,7 +1018,7 @@ El Sharq
 p:
 020b:00820000:0384:013e:1:0
 DIPRE'TV 2
-p:M-Three Satcom
+p:M-Three satcom
 070b:00820000:32c8:013e:1:0
 Polsat Sport Premium PPV3
 p:Cyfrowy Polsat S.A.
@@ -1045,7 +1048,7 @@ Topcrime
 p:Mediaset
 020c:00820000:0384:013e:1:0
 CITTAITALIATV
-p:M-Three Satcom
+p:M-Three satcom
 070c:00820000:32c8:013e:1:0
 Polsat Sport Premium PPV4
 p:Cyfrowy Polsat S.A.
@@ -1819,7 +1822,7 @@ Redlight HD!
 p:Telespazio
 452f:00820000:30d4:013e:1:0
 Rai 5 HD
-p:Rai
+p:Rai,c:000712,c:010716,c:020248,c:030712,c:050001,C:183d,C:183e
 772f:00c00000:0416:0001:1:0
 DISCOVERY
 p:Movistar+
@@ -1883,9 +1886,6 @@ p:ARD
 7731:00c00000:0416:0001:1:0
 HISTORIA
 p:HIST
-0032:00820000:2f44:013e:1:0
-Shant Premium HD
-p:
 0132:00820000:3e1c:013f:1:0
 M6 HD
 p:Eutelsat
@@ -2100,7 +2100,7 @@ p:Eutelsat
 Record Tv Europa
 p:Telespazio
 7739:00c00000:0416:0001:1:0
-M. MOTOGP
+TEST G
 p:CANAL+
 013a:00820000:3e1c:013f:1:0
 France 4
@@ -2518,7 +2518,7 @@ Hot Bird 4K1
 p:
 0d4d:00820000:1450:013e:1:0
 Rai News 24 HD
-p:Rai,c:0001f9,c:01025d,c:02023b,c:0301f9,c:050001,c:0923b7807,C:183e,C:183d
+p:Rai
 264d:00c00000:0460:0001:1:0
 F3 BOURGOGNE
 p:CSAT
@@ -3000,7 +3000,7 @@ p:MB Satellite
 FilmBox Action
 p:nc+
 4265:00820000:3db8:013e:1:0
-UNIVERSAL TV
+Universal Tv
 p:Telespazio
 4465:00c00000:0453:0001:1:0
 kabel eins Doku
@@ -3473,9 +3473,6 @@ p:BetaDigital
 0383:00820000:1770:0110:1:0
 Infinity
 p:
-0583:00820000:0320:fbff:1:0
-11355V SID 0x583
-p:DVB-S QPSK 11355V 13.0°E
 0c83:00820000:2328:013e:1:0
 TV K-C
 p:STN Ltd
@@ -3602,9 +3599,6 @@ p:Cyfrowy Polsat S.A
 778b:00c00000:0424:0001:1:0
 PLAYBOY TV
 p:Playboy TV
-058c:00820000:0320:fbff:1:0
-11355V SID 0x58c
-p:DVB-S QPSK 11355V 13.0°E
 1c8c:00820000:1ce8:0071:1:0
 Disco Polo Music
 p:Cyfrowy Polsat S.A.
@@ -5729,9 +5723,6 @@ p:IRIB
 32f8:00820000:0190:013e:1:0
 11278V SID 0x32f8
 p:DVB-S2 8PSK 11278V 13.0°E
-01f9:00820000:0384:013e:1:0
-NASA TV UHD
-p:
 12f9:00820000:2e7c:013e:1:0
 TVP 4K
 p:nc+
@@ -5756,6 +5747,9 @@ p:
 0dfa:00820000:1af4:fbff:1:0
 Fashion TV
 p:SkyItalia
+11fa:00820000:2b5c:013e:1:0
+Nasa TV UHD
+p:
 1afa:00c00000:03fe:0001:1:0
 France 24 (in English)
 p:GLOBECAST
@@ -6185,9 +6179,6 @@ p:ARABSAT
 6f1d:00c00000:0445:0001:2:0
 NDR Info Spez.
 p:ARD NDR
-1f1e:00820000:21fc:013e:2:0
-RADIO 03 WORLD SERVICE
-p:IRIB
 6f1e:00c00000:0445:0001:2:0
 NDR Blue
 p:ARD NDR
@@ -6357,7 +6348,7 @@ p:NetMed
 RTL 102.5
 p:
 0e3b:00820000:1c20:013e:2:0
-ZETA ITALIANA
+RADIO ZETA
 p:
 113b:00c00000:0404:0001:2:0
 RNE RADIO 1
@@ -6655,7 +6646,7 @@ Bahai Radio
 p:Eutelsat
 3178:00c00000:0459:0001:2:0
 radioB2  SCHLAGER
-p:MB Satellite
+p:MB Satellite,c:01016c,c:03016c
 0079:0082afc2:0065:0001:2:0
 VOA Iraq N/S Radio 121
 p:
@@ -6773,6 +6764,9 @@ p:BetaDigital
 12a5:00820000:3458:013e:2:0
 Radio Tondar
 p:Eutelsat
+00a6:00820000:21fc:013e:2:0
+RADIO 03 WORLED SERVICE
+p:IRIB
 2aa7:00820000:1838:fbff:2:0
 Radio Number One
 p:SkyItalia
@@ -7059,7 +7053,7 @@ p:Telespazio
 CHERIE FM
 p:CSAT
 00e2:0082afc2:0065:0001:2:0
-CH 226
+Farda TV Audio 226
 p:
 02e2:00820000:1b58:013e:2:0
 ANNI 60
@@ -7227,7 +7221,7 @@ p:GLOBECAST
 Rai Radio Kids
 p:Rai
 0cfa:00820000:1518:013e:2:0
-Rai Radio2 indie
+Rai Radio2 Indie
 p:Rai
 1efb:00c00000:0457:0001:2:0
 RTL RADIO
@@ -7663,7 +7657,7 @@ p:
 p:SKY
 421c:00820000:2f44:013e:22:0
 UATV
-p:COSMONOVA LLC
+p:Cosmonova LLC
 101d:00c00000:0451:0035:22:0
 AXN Deutschland
 p:M7 Group
@@ -8066,6 +8060,9 @@ p:M7 Group
 ef11:00c00000:0421:0001:25:0
 VOX HD
 p:CBC
+0212:00820000:0384:013e:25:0
+World Fashion Channel
+p:DVB
 2012:00c00000:0430:0001:25:0
 BEIN SPORTS 2
 p:CSAT
@@ -8268,7 +8265,7 @@ p:SkyItalia
 SRF zwei HD
 p:Schweizer Radio und Fernsehen
 7532:00c00000:0426:0001:25:0
-M.MOTOGPHD
+TEST GHD
 p:CANAL+
 0133:00c00000:0004:0085:25:0
 Sky Sport Bundesliga 6 HD
@@ -9025,7 +9022,7 @@ Deluxe Music HD Austria
 p:BetaDigital
 2889:00c00000:040f:0001:25:0
 ARD-alpha HD
-p:ARD
+p:ARD,c:00152d,c:021530,c:03152d,c:041532,c:050001
 7889:00c00000:0414:0001:25:0
 NG WILD HD
 p:DIGITAL+
