@@ -2415,9 +2415,6 @@ ffff0000:044d:a401
 00c00000:0007:0085
 	s 12148500:27500000:0:3:192:2:0
 /
-00c00000:0008:0085
-	s 12070500:27500000:0:9:192:2:0:1:1:0:2
-/
 00c00000:0009:0085
 	s 11170750:22000000:0:3:192:2:0:1:2:0:2
 /
@@ -2429,9 +2426,6 @@ ffff0000:044d:a401
 /
 00c00000:000d:0085
 	s 11992500:27500000:0:9:192:2:0:1:1:0:2
-/
-00c00000:000e:0085
-	s 11875500:27500000:0:3:192:2:0:1:2:0:2
 /
 00c00000:000f:0085
 	s 10920750:22000000:0:5:192:2:0
@@ -6961,16 +6955,16 @@ p:
 p:
 0000:0dc03105:0000:0000:1:0
 Feeds Horse
-p:S@tje07,f:1
+p:S@tje07,f:01
 0000:0da22d3c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0000:0030b153:0000:0000:1:0
 Feeds K5 Norge
 p:S@tje07
 0000:014aad67:0000:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0100:0030300f:0000:0001:1:0
 TCM/Cartoon Russian
 p:PVU
@@ -6982,13 +6976,13 @@ Das Erste
 p:ARD
 0100:0dc030de:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0100:0dc0b0df:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0100:0dc030e4:00b0:00b1:1:0
 Feeds  Mediaset
-p:S@tje07,f:1
+p:S@tje07,f:01
 0100:0030300f:ffff:0001:1:0
 TCM/Cartoon Russian
 p:,c:00067c,c:010654,c:03067c
@@ -7066,7 +7060,7 @@ INTERNATIONAL
 p:Digitürk,c:000880,c:010a0e,c:030880
 2400:011a0000:07f9:0002:1:0
 Channel 4 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2b00:00820000:3264:013e:1:0
 EUROSPORT 2
 p:GLOBECAST
@@ -7090,1027 +7084,1027 @@ TV Barrandov
 p:UPC Direct
 0001:0c613100:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc03100:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0ad00:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030b100:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00142c01:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d343101:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00643101:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aa01:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d02:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2d02:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ce42d02:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bab02:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0ad02:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b102:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4ead03:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01c2ad03:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:001fb103:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab04:0000:0000:1:0
 Feeds IHA
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b104:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02d05:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c993105:0000:0000:1:0
 PTV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b06:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932b06:0000:0000:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22d06:0000:0000:1:0
 VIDEOPIU'
 p:VIDEOPIU'
 0001:00d82d06:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01683106:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ab06:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00463107:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c993107:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8ab07:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab07:0000:0000:1:0
 Feeds Hughes International
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b107:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab08:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad08:0000:0000:1:0
 Feeds Teleippica
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0b108:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2b09:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462b09:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc03109:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7aab09:0000:0000:1:0
 Feeds Bezeq TVRO
-p:nds,f:1
+p:nds,f:01
 0001:0dc0ad09:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932b0a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22d0a:0000:0000:1:0
 TgNorba
 p:LINKSrl
 0001:0c61310a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad0a:0000:0000:1:0
 Feeds Horse
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22d0c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b10c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932b0d:0000:0000:1:0
 Rai Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad0d:0000:0000:1:0
 Racing Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ce4ad0d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2b0e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046310e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0310e:0000:0000:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ac0e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0212ad0e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8b10e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462b0f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab0f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ad0f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0b110:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932b11:0000:0000:1:0
 Rai Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d13:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad13:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8b113:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22d14:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad14:0000:0000:1:0
 Feeds Fiber
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad14:0000:0000:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00643115:0000:0000:1:0
 PBL Sat feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ac15:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00463116:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0ad16:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0212ad17:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22d18:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02d18:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad18:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ac19:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad19:0000:0000:1:0
 Feeds TVN
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdad19:0000:0000:1:0
 Feeds RTE
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d1a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0ad1a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b11a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22d1b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c61311b:0000:0000:1:0
 Deya Broadcasting Network
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bab1b:0000:0000:1:0
 Feeds Horse
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4ab1b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ce4b11b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93311c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0212ad1c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22d1d:0000:0000:1:0
 Conad TV
 p:Scopus
 0001:0c4e2d1e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdad1e:0000:0000:1:0
 Feeds RTE
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b11e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ce4311f:0000:0000:1:0
 Feeds
 p:Català
 0001:0064ab1f:0000:0000:1:0
 Feeds IHA
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad1f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d20:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02d20:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab20:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b120:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2b21:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00142c21:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab22:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad22:0000:0000:1:0
 Al Rasheed TV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc03123:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da2ad24:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030b124:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02b25:0000:0000:1:0
 Music Now feed
 p:Orbit
 0001:0d1b2d26:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d27:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc03127:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad27:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8ad27:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad28:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bab29:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab29:0000:0000:1:0
 Feeds IHA
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab29:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7ab29:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ad29:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932b2a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82d2b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ac2b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462b2c:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b2c:0000:0000:1:0
 Feeds EBU
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00142c2c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93312c:0000:0000:1:0
 BBC Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02b2d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4e2d2e:0000:0000:1:0
 RASD TV
 p:S@tje07
 0001:01a4ab2e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0104b12e:0000:0000:1:0
 Nessma
 p:
 0001:0168ab2f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab2f:0000:0000:1:0
 BBC Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0104ae2f:0000:0000:1:0
 AD Sport 8 HD
 p:ADTV
 0001:01043130:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aa30:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab30:0000:0000:1:0
 Feeds EBU
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad30:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7ad30:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00142c31:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bab31:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0bcc2d32:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad33:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00643134:0000:0000:1:0
 Alsharqiya News
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00ffab34:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01312a35:0000:0000:1:0
 Al Sunnah Al Nabawiyah TV
 p:
 0001:00462b35:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b35:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932b35:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ab35:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab35:0000:0000:1:0
 Feeds IHA
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01043136:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2b37:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ac37:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ad37:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02b38:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4e2d38:0000:0000:1:0
 Feeds DCLM
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2d38:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab38:0000:0000:1:0
 BBC Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b138:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932b39:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02b39:0000:0000:1:0
 Diyala TV
 p:DIYALA TV
 0001:00462b3a:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2d3a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aa3a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8ad3a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dca2f3c:0000:0000:1:0
 AD Sport 8 HD
 p:ADD
 0001:0da2313c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2d3d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030b13d:0000:0000:1:0
 Feeds K5 Norge
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0b13d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462b3e:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b3e:0000:0000:1:0
 Feeds IHA
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064313e:0000:0000:1:0
 Feeds CIHAN
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aa3e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab3e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dca2a3f:0000:0000:1:0
 Miracle
 p:ViewSat
 0001:0da22d3f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2b40:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4e2d40:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ac40:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b140:0000:0000:1:0
 S.R.T.V feed
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8ad41:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932c42:0000:0000:1:0
 Feeds TJK Horse
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab43:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddead43:0000:0000:1:0
 Feeds Elpitel
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b143:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b143:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bab44:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddeab44:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030b144:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014aad45:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2b46:0000:0000:1:0
 Videopiú test card
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932c46:0000:0000:1:0
 Feeds TJK
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462b47:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab47:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab47:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046b147:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c61b147:0000:0000:1:0
 Feeds Televisa
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82b48:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ad48:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4e2d49:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7ad49:0000:0000:1:0
 Feeds Overon
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0168b149:0000:0000:1:0
 TelefortuneSat
 p:S@tje07
 0001:0064aa4a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b14a:0000:0000:1:0
 Feeds Polsat
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02b4b:0000:0000:1:0
 Arrai
 p:DEFAULT
 0001:0d93314b:0000:0000:1:0
 Feeds Polsat
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0314b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab4b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ac4b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030b14b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046314c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064314c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014aab4c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab4c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aa4e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab4e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad4e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d4f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7ad4f:0000:0000:1:0
 Feeds Overon
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462b50:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a43150:0000:0000:1:0
 NTV Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046b150:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0168b150:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2b51:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b51:0000:0000:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7a2b51:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab52:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0186ad52:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932b53:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2d53:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01313153:0000:0000:1:0
 Syria Satellite Channel
 p:
 0001:0c993153:0000:0000:1:0
 Feeds Overon
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a03153:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab53:0000:0000:1:0
 BBC Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddeab53:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22d54:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad54:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2d55:0000:0000:1:0
 Reuters World News Service
 p:Feed
 0001:0014ac55:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2d56:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a02b57:0000:0000:1:0
 Feeds Mediaset
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aa57:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bab57:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00142c58:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab58:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2b59:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b59:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c993159:0000:0000:1:0
 Feeds Overon
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ab59:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0186ab59:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab59:0000:0000:1:0
 BBC Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdad59:0000:0000:1:0
 Feeds Hughes International
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b5a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7a2b5a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad5a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0131315b:0000:0000:1:0
 Alquds Satellite Channel
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b5c:0000:0000:1:0
 Feeds Arqiva
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0212ad5c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:001fad5c:0000:0000:1:0
 occ
 p:
 0001:0ddeab5d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462b5e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab5e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab5e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932c5f:0000:0000:1:0
 Feeds TJK
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0131315f:0000:0000:1:0
 Addounia TV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab5f:0000:0000:1:0
 Feeds Horseracing
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b60:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4e2d60:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aa60:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462b62:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b62:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01313162:0000:0000:1:0
 Press TV
 p:
 0001:0c993162:0000:0000:1:0
 Feeds Overon
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ab62:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00142d63:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab64:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8ab64:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab64:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ad64:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad64:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da2ad64:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7ad64:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0ad64:0000:0000:1:0
 Feeds Tandberg
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4b164:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddeab65:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02b66:0000:0000:1:0
 Al Eqtisadiyah
 p:OSN
 0001:00642b68:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82b68:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad68:0000:0000:1:0
 Al Ahd
 p:TandbergTV
 0001:00303169:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01313169:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c993169:0000:0000:1:0
 Feeds Overon
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4ead69:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7ad69:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:02122d6a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ac6a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad6a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932c6b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c99316b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aa6b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0028ad6c:0000:0000:1:0
 Feeds
 p:
 0001:0064ad6c:0000:0000:1:0
 Al Alam
-p:TandbergTV,f:1
+p:TandbergTV,f:01
 0001:00642d6e:0000:0000:1:0
 Thaqalayn TV
 p:Thaqalayn,c:050001
 0001:0d932c6f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0131316f:0000:0000:1:0
 Ajyal
 p:
 0001:0da2ad6f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7ad6f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b70:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01043170:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:02123170:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c993170:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad70:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0131b170:0000:0000:1:0
 MTV Lebanon America & Australia
 p:S@tje07
 0001:0dc0b170:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad71:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642d73:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7a3173:0000:0000:1:0
 Feeds TELEMEDIA UK 1
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4ead73:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01043074:0000:0000:1:0
 Saudi TV feed
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ac74:0000:0000:1:0
 Feeds
 p:S@tje07
 0001:0064ad74:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:02123175:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:001fb175:0000:0000:1:0
 Misrata TV
 p:Encoder
 0001:00642b76:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932c76:0000:0000:1:0
 Feeds TJK
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d76:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ac76:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad76:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a02b77:0000:0000:1:0
 Feeds UKI
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014aab77:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad77:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01043078:0000:0000:1:0
 Saudi TV feed
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01c2b178:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c993179:0000:0000:1:0
 Feeds Overon
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b7a:0000:0000:1:0
 Feeds Tandberg
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0212317b:0000:0000:1:0
 Al Manar TV
 p:TEST1
 0001:0064aa7b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0186ab7b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d7c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0104307c:0000:0000:1:0
 Saudi TV feed
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad7c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7ad7c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:013bae7c:0000:0000:1:0
 Feeds
 p:
@@ -8119,115 +8113,115 @@ Inter
 p:SatTelecom
 0001:02122d7f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22d80:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab80:0000:0000:1:0
 APTN Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad80:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c993181:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aa81:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4ab81:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ad81:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b181:0000:0000:1:0
 Feeds I>Tele
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d82:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b182:0000:0000:1:0
 ENEX Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642d83:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bad83:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ac84:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0b184:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00643185:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c993185:0000:0000:1:0
 Feeds Overon
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014a2b86:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a42b86:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d83186:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ab86:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c99b186:0000:0000:1:0
 AD-TeleSkies
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b186:0000:0000:1:0
 ENEX Feeds A
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00643187:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab87:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0168ad87:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7aad87:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b187:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b187:0000:0000:1:0
 Feeds I>Tele
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932c88:0000:0000:1:0
 Feeds Slovenia
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00643188:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab89:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad89:0000:0000:1:0
 Palestine Today
 p:palestine
 0001:0d7aad89:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014aab8a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0186ab8a:0000:0000:1:0
 RIKSat
 p:Cybc
 0001:0d932c8b:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2d8b:0000:0000:1:0
 NBA TV
 p:Intelsat
@@ -8236,991 +8230,991 @@ ARZU TV AFGHANISTAN
 p:TANDBERG
 0001:0d1b2d8c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b18c:0000:0000:1:0
 ENEX Feeds B
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014a2b8d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064318d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4318d:0000:0000:1:0
 MALATYA VTV
 p:TURKSAT
 0001:0186ab8d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00ffab8d:0000:0000:1:0
 Al Hekmah TV feed
 p:S@tje07
 0001:0064ad8d:0000:0000:1:0
 Feeds Arqiva
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b18d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab8e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ad8e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b18e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0318f:0000:0000:1:0
 Feeds TVN
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab8f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4ead8f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7aad8f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b90:0000:0000:1:0
 Press TV
-p:IRIB,f:1
+p:IRIB,f:01
 0001:01862d90:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad90:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b190:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00142d91:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82d91:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c613191:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab91:0000:0000:1:0
 Feeds Arqiva
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ac91:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014a2b92:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d92:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ab92:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0de82c93:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ac93:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014aad93:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7aad93:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a42b94:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ab94:0000:0000:1:0
 Feeds TVP
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7aad95:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8ad95:0000:0000:1:0
 2M National
-p:2M,f:1
+p:2M,f:01
 0001:0064b195:0000:0000:1:0
 Feeds Fly Away
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b195:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a02b96:0000:0000:1:0
 Feeds Pink
-p:Pink,f:1
+p:Pink,f:01
 0001:00643196:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab96:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ac97:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d98:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ab98:0000:0000:1:0
 Feeds TVP
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad98:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b198:0000:0000:1:0
 Feeds Arqiva
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642b99:0000:0000:1:0
 Yerkir Media TV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab99:0000:0000:1:0
 occ feeds
 p:
 0001:0030b199:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642d9a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064319a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab9a:0000:0000:1:0
 Feeds Arqiva
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b19a:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b19a:0000:0000:1:0
 ENEX Feeds C
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b19b:0000:0000:1:0
 Feeds UKI
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2b9c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02b9c:0000:0000:1:0
 Al Tahrir
 p:
 0001:0046ab9c:0000:0000:1:0
 Feeds TVP
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdab9c:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030319d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064319d:0000:0000:1:0
 Feeds Al Sharqiya
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddeab9d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ac9d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030b19d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b19d:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2d9e:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0de82c9f:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2ba0:0000:0000:1:0
 Feeds Telespazio
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dca2da0:0000:0000:1:0
 HEMMA TV
 p:Noorsat
 0001:0d3431a0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431a0:0000:0000:1:0
 Feeds Arqiva
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aba0:0000:0000:1:0
 APTN Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8b1a0:0000:0000:1:0
 Feeds B92
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82da1:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2da1:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431a1:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014aca1:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c6131a2:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b1a2:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b1a2:0000:0000:1:0
 ENEX Feeds D
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2da3:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431a3:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1baba3:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014ada3:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462ba4:0000:0000:1:0
 Feeds Rai
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642ca4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aba4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aca4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ada4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d342da5:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddeaba6:0000:0000:1:0
 BBC Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2da7:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:003031a7:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431a7:0000:0000:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2da8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046aba8:0000:0000:1:0
 Feeds TVP
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdada8:0000:0000:1:0
 Feeds NBA
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b1a8:0000:0000:1:0
 ENEX Feeds E
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2ba9:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2ba9:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2ba9:0000:0000:1:0
 Feeds Telespazio
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431a9:0000:0000:1:0
 Feeds PBL
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:02122daa:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2daa:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d342daa:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2daa:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b1aa:0000:0000:1:0
 ENEX Feeds F
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:003031ab:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d3431ab:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aaab:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064adab:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c6131ac:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431ac:0000:0000:1:0
 Feeds Tandberg
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462bad:0000:0000:1:0
 Feeds Rai
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a42bad:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d342dad:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064abad:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d342dae:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431ae:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddeabae:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cfdabae:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d342daf:0000:0000:1:0
 BT Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0186abb0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b1b0:0000:0000:1:0
 ENEX Feeds G
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d342db1:0000:0000:1:0
 BT Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2bb2:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642bb2:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431b2:0000:0000:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c61b1b2:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b1b2:0000:0000:1:0
 Kanal 4
 p:
 0001:0064aab3:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8b1b3:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014a2bb4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:010431b5:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064abb5:0000:0000:1:0
 Feeds Tandberg
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b1b5:0000:0000:1:0
 ENEX Feeds H
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462bb6:0000:0000:1:0
 Feeds Rai
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431b6:0000:0000:1:0
 Feeds PBL
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b1b7:0000:0000:1:0
 ENEX Feeds I
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932bb8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aab8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4b1b9:0000:0000:1:0
 TV KAYSERI
 p:TURKSAT
 0001:0dde2bbb:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c6131bb:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431bb:0000:0000:1:0
 Feeds Tandberg
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030b1bb:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddeabbc:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0104b0bc:0000:0000:1:0
 Al Majd Space Channel
 p:ALMAJD
 0001:00642bbd:0000:0000:1:0
 Feeds BB
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431bd:0000:0000:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aabe:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01c2acbe:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b1be:0000:0000:1:0
 APTN Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c61b1bf:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b1bf:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00142cc0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642cc1:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030b1c1:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02cc3:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2cc4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:021231c4:0000:0000:1:0
 AL DIYAR
 p:Net 1
 0001:0c6131c4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006431c4:0000:0000:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2cc6:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642bc7:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01c2acc7:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7acc8:0000:0000:1:0
 Avanti Broadband
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c61b1c9:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00142bca:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ce42cca:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02ccb:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01682bcc:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82ccc:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02ccd:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddeaacd:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2ace:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82ace:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0212aace:0000:0000:1:0
 UZ-TV1
 p:
 0001:00642acf:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932acf:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462ad0:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642ad0:0000:0000:1:0
 Feeds IHA
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642bd0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7aad0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82cd1:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2ad2:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014abd2:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014acd2:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1baad3:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2ad4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02cd4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2ad5:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014aaad5:0000:0000:1:0
 Feeds KPN
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0acd5:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642ad6:0000:0000:1:0
  Feeds IHA
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932ad7:0000:0000:1:0
 Rai Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2ad8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2ad8:0000:0000:1:0
 Feeds Horse
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c992ad8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2cd8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064a9d8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7aad8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932ad9:0000:0000:1:0
 Rai Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d830d9:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1baad9:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c99aad9:0000:0000:1:0
 Feeds RTE
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014abd9:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bacd9:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01c2acd9:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01862cda:0000:0000:1:0
 CHA
 p:
 0001:0dc0acda:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462adb:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046aadb:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014a2cdc:0000:0000:1:0
 Feeds
 p:
 0001:0dc02cdc:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:004630dc:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c6130dc:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006430dc:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82cdd:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064a9dd:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2ade:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1baade:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8acde:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c992adf:0000:0000:1:0
 Feeds RTE
 p:S@tje07
 0001:01a4acdf:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642ce0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0ace0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0b0e0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:004629e1:0000:0000:1:0
 BBC PERSIAN
 p:BBC
 0001:00462ae1:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2ae1:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642ae1:0000:0000:1:0
 Feeds IHA
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006430e1:0000:0000:1:0
 Feeds CIHAN
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046aae1:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932ae2:0000:0000:1:0
 Feeds Overon
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c99aae2:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642be3:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064a9e3:0000:0000:1:0
 ORTC
 p:THEMA
 0001:0d1b2ce4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22ce4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0168b0e4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2ae5:0000:0000:1:0
 Feeds
 p:S@tje07
 0001:00462ae5:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02ce5:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c6130e5:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0186b0e5:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8b0e5:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d3430e6:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01c2ace6:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642ae7:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4e2ce7:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a02ae8:0000:0000:1:0
 Feeds Mediaset
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:004630e8:0000:0000:1:0
 Hispan TV
-p:TandbergTV,f:1
+p:TandbergTV,f:01
 0001:006430e8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014abe8:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4eace8:0000:0000:1:0
 Data
-p:DVB-S 8PSK 11496V 315.0°E,f:1
+p:DVB-S 8PSK 11496V 315.0°E,f:01
 0001:0030a9e9:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1baae9:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462aea:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2aea:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82aea:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ce42cea:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006430ea:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8acea:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2aeb:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642aeb:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932aeb:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d3430eb:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b0eb:0000:0000:1:0
 Libya ALshababya
 p:TandbergTV,c:000134,c:010100,c:031ffe
 0001:00642aec:0000:0000:1:0
 Feeds IHA
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7aaec:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c99b0ec:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02ced:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c6130ed:0000:0000:1:0
 NAPSA feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:006430ed:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8b0ed:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22cee:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014aaaee:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aaee:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642aef:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00142cef:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2cef:0000:0000:1:0
 Feeds ESPN
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2af0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642af0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1baaf0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014abf0:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8b0f0:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642af1:0000:0000:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22cf1:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2cf1:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064a9f2:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c99aaf2:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0131b0f2:0000:0000:1:0
 Al Wehda
 p:
 0001:00642af3:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932af3:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2af4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642af4:0000:0000:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046aaf4:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8b0f4:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d830f5:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02cf6:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc030f6:0000:0000:1:0
 Feeds Mediaset
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1baaf6:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aaf6:0000:0000:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8aaf6:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2af7:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1bacf7:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b0f7:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:010429f8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2af8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c6130f8:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c9930f8:0000:0000:1:0
 Feeds Overon
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046aaf8:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462af9:0000:0000:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2afa:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642afa:0000:0000:1:0
 Feeds Arqiva
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014abfb:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01c2acfb:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2cfc:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1baafc:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932afe:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:02122cfe:0000:0000:1:0
 ALADALA TV
 p:AandbergTV
 0001:0dc02cfe:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014aacfe:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01c2acfe:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b0fe:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8aaff:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0014abff:0000:0000:1:0
 Feeds ITV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c4eacff:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:02122d08:0000:0001:1:0
 FUNOON TV
 p:W-Cam
@@ -9235,19 +9229,19 @@ NTV
 p:D-SMART
 0001:00d82d2f:0000:0001:1:0
 Feeds TV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8ad35:0000:0001:1:0
 Ramallah Feeds
-p:,f:1
+p:,f:01
 0001:014aab39:0000:0001:1:0
 Feeds Castor
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4ae52:0000:0001:1:0
 TGRT EU
 p:www.tgrt.com.tr
 0001:0064ab75:0000:0001:1:0
 Feeds ESPN
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0131b19b:0000:0001:1:0
 Blue Nile Channel
 p:unknown
@@ -9256,13 +9250,13 @@ Test
 p:Orbit
 0001:01a4ace6:0000:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014aacec:0000:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0bcc2cf5:0000:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01310000:0000:02be:1:0
 Al Quran Al Kareem TV HD
 p:
@@ -9271,13 +9265,13 @@ Al Arabiya
 p:MBC,c:000191,c:010259,c:030191
 0001:0d5c2d31:1000:0000:1:0
 A2
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01680000:1000:2000:1:0
 AzTV_Azerbaijan
 p:Harmonic,c:050001
 0001:01a40000:1000:2000:1:0
 Balkan RTV
-p:D-SMART,f:1
+p:D-SMART,f:01
 0001:0dc00000:1000:2000:1:0
 NRT
 p:Harmonic
@@ -9289,22 +9283,22 @@ afak
 p:AFAGH TV
 0001:0064ab0d:0001:0000:1:0
 Feeds ARAB NEWS
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7aab11:0001:0000:1:0
 ZAGROS
 p:ZAGROS
 0001:00d82d23:0001:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a02b2e:0001:0000:1:0
 Kurdistan TV
-p:,f:1
+p:,f:01
 0001:01a42d2f:0001:0000:1:0
 Feeds
-p:ONE NEWS AGENCY,f:1
+p:ONE NEWS AGENCY,f:01
 0001:01c2b135:0001:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0212b15f:0001:0000:1:0
 AL ANBAR
 p:
@@ -9316,40 +9310,40 @@ Record Internacional Europa
 p:HBC Telecom
 0001:00463173:0001:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d933188:0001:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0de82b8d:0001:0000:1:0
 Hálózat TV
 p:HTV-RT
 0001:0064aae0:0001:0000:1:0
 APTN Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2ce8:0001:0000:1:0
 TV Sonce
 p:MT
 0001:0064a9fb:0001:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7a2d02:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8b102:0001:0001:1:0
 APTN Feeds
-p:JSC BEIRUT DSNG,f:1
+p:JSC BEIRUT DSNG,f:01
 0001:00462b06:0001:0001:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82b07:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4ad08:0001:0001:1:0
 Feeds
-p:tandberg,f:1
+p:tandberg,f:01
 0001:00a02b0a:0001:0001:1:0
 Feeds Mediaset
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7a2d0b:0001:0001:1:0
 MSNBC
 p:TANDBERG
@@ -9358,55 +9352,55 @@ Alrai TV
 p:AL-Rai TV,c:000134,c:010100,c:030134
 0001:00462b10:0001:0001:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0bcc2d16:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0de82d16:0001:0001:1:0
 TVRM
 p:TvRM
 0001:0d7ab11c:0001:0001:1:0
 The 700Club TV / CBN (19-21)
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b11e:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ce42d1f:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad22:0001:0001:1:0
 Al Rasheed
 p:Net 1,c:000021,c:010024,c:030021
 0001:0046ab23:0001:0001:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0ad28:0001:0001:1:0
 Feeds Horse
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ab2c:0001:0001:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01862d2d:0001:0001:1:0
 Feeds TV5
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0b12f:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a02b30:0001:0001:1:0
 Feeds National TV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc03130:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064b132:0001:0001:1:0
 Feeds BT
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0b134:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc03136:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4ab38:0001:0001:1:0
 SAMANYOLU TV
 p:STV
@@ -9415,49 +9409,49 @@ IFILM
 p:IFILM
 0001:0d1bab3d:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ab3f:0001:0001:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932c44:0001:0001:1:0
 Exotica
-p:RRSat,f:1
+p:RRSat,f:01
 0001:0046ab4c:0001:0001:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0168b14c:0001:0001:1:0
 Al Jazeera Satellite Channel
 p:Service Provider,c:0000c8,c:0100c9,c:020111,c:031ffe
 0001:0d93ab4d:0001:0001:1:0
 BBC Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932c4f:0001:0001:1:0
 Feeds TJK
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00302f4f:0001:0001:1:0
 Zone Romantica Poland & Hungary
 p:Arqiva,c:000085,c:010087,c:030085
 0001:0dc03150:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:02122b51:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02b51:0001:0001:1:0
 EN8000
 p:Tandberg,c:050001
 0001:00462b52:0001:0001:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ab52:0001:0001:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:001fad55:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d5c2b56:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01313157:0001:0001:1:0
 Syrian Education
 p:Net 1
@@ -9466,28 +9460,28 @@ KURDISTAN PARLIAMENT TV
 p:MINDPIXEL
 0001:0d93ab5e:0001:0001:1:0
 BBC Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4ae5e:0001:0001:1:0
 TV8
 p:MNG TV
 0001:0212ad60:0001:0001:1:0
 Feeds
-p:TandbergTV,f:1
+p:TandbergTV,f:01
 0001:0d5c2b61:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab64:0001:0001:1:0
 Feeds Horseracing
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82b66:0001:0001:1:0
 FL/RCE3/CNBC
 p:Arqiva
 0001:0de82c66:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014a2b6d:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4b16e:0001:0001:1:0
 TVNET
 p:TVNET
@@ -9496,31 +9490,31 @@ bTV
 p:VIVACOM
 0001:0186ab72:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab76:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0186ab78:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ce4ad7b:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93317c:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0de82c7d:0001:0001:1:0
 Inter
 p:SatTelecom,c:000101,c:010102,c:02010a,c:030101
 0001:0d1bab7e:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00303180:0001:0001:1:0
 TISA 1
 p:,c:000134,c:010100,c:030134
 0001:01c2b183:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642c87:0001:0001:1:0
 AL JAZEERA CHILDREN
 p:AL JAZZEERA CHILREN
@@ -9532,7 +9526,7 @@ TRT 1
 p:TRT
 0001:00462b90:0001:0001:1:0
 Feeds Rai
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0c61b195:0001:0001:1:0
 EUROPA 1
 p:ARTEAR
@@ -9541,7 +9535,7 @@ The 700 Club
 p:
 0001:0046ab9b:0001:0001:1:0
 Feeds TVP
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01c2ad9b:0001:0001:1:0
 TV1
 p:VIVACOM
@@ -9553,7 +9547,7 @@ Solidaria TV
 p:Net 1,c:000021,c:010022,c:030200
 0001:0d1b2ba2:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01c2ada5:0001:0001:1:0
 PRIMA TV
 p:ESS
@@ -9568,7 +9562,7 @@ Pink Plus
 p:ITV Partner,c:000200,c:010280,c:020240,c:031ffe
 0001:01862daa:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d82daa:0001:0001:1:0
 Diyala TV
 p:SAMACOM,c:000134,c:010100,c:031ffe
@@ -9577,49 +9571,49 @@ Makkah TV
 p:Makkah TV
 0001:010431b2:0001:0001:1:0
 Feeds
-p:Tandberg,f:1
+p:Tandberg,f:01
 0001:00642bb4:0001:0001:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642bb8:0001:0001:1:0
 Feeds Globecast
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:010431be:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:021231c2:0001:0001:1:0
 ALhadhara
 p:Tandberg
 0001:01a4acc2:0001:0001:1:0
 Feeds
-p:TRT,f:1
+p:TRT,f:01
 0001:0064b1c8:0001:0001:1:0
 APTN Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a02acd:0001:0001:1:0
 ALBANIAN SCREEN RTV
 p:ALBANIAN SCREEN RTV
 0001:0046aacf:0001:0001:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064aad0:0001:0001:1:0
 APTN Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0186aad4:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0104afd5:0001:0001:1:0
 Al Kass plus+
 p:Al Dawri and Al Sports Channel
 0001:0064aada:0001:0001:1:0
 APTN Direct
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:016830db:0001:0001:1:0
 AzTV Azerbaijan
 p:PU Teleradio
 0001:0ddeaadb:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00ebacdd:0001:0001:1:0
 ERT-NET
 p:Ert Open,f:40
@@ -9631,13 +9625,13 @@ Oman TV
 p:Service Provider,c:000134,c:010100,c:031ffe
 0001:0dde2ce8:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0b0e8:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc0acea:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:010430eb:0001:0001:1:0
 KTV CH1
 p:KUWAIT BOUQUET
@@ -9646,13 +9640,13 @@ KTV 1
 p:KUWAIT BOUQUET,c:000020,c:010135,c:030020
 0001:0dc0acef:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a02af2:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b2cf2:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:02122af3:0001:0001:1:0
 TV-NADYM
 p:Service Provider
@@ -9661,22 +9655,22 @@ Al Sabah TV
 p:,c:000134,c:010100
 0001:0dc0acf4:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0104b0f4:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8b0f9:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d830fa:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7a2cfe:0001:0001:1:0
 NBC feeds
-p:NBC SATOPS,f:1
+p:NBC SATOPS,f:01
 0001:0046aaff:0001:0001:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ce4ad7b:0001:0002:1:0
 Metropolitan
 p:MetropolitanTV,c:000202,c:011010,c:0301ff
@@ -9688,7 +9682,7 @@ Feeds
 p:
 0001:00d8ad82:0001:1111:1:0
 Al Aoula
-p:SNRT,f:1
+p:SNRT,f:01
 0001:00d8ad83:0001:1111:1:0
 Al Aoula
 p:SNRT,c:000065,c:010066,c:030065
@@ -9697,22 +9691,22 @@ KTV-R-DUK
 p:AlbanicaSat
 0001:0d93b1c7:0001:1111:1:0
 Nautical Channel
-p:PRVDR,f:1
+p:PRVDR,f:01
 0001:0de829e2:0001:1111:1:0
 Unian TV
 p:SPACECOM,c:000501,c:010502,c:030501
 0001:0d340000:0001:0012:1:0
 Feeds BT
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d1b0000:0001:001c:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00640000:0001:0033:1:0
 MGM EU
 p:RRSat
 0001:00a00000:0001:013e:1:0
 Feeds TVN
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7a0000:0001:0457:1:0
 CNN Headline News
 p:SBM Northfolk
@@ -9739,34 +9733,34 @@ Racing International
 p:Telemedia
 0001:0186aae1:0001:ffdc:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a00000:0001:03e8:1:0
 Top Music (Serbian)
 p:MultiProgram,c:000200,c:010300,c:030200
 0001:00460000:0001:00eb:1:0
 Feeds Tandberg
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a40000:0001:00eb:1:0
 Feeds
-p:TRT,f:1
+p:TRT,f:01
 0001:0ce42d30:0001:fffe:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01683101:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8ad04:0001:ffff:1:0
 Afaq TV
 p:AFAGH TV,c:000064,c:01006e,c:030064
 0001:00a0b106:0001:ffff:1:0
 Feeds TVR
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4ad07:0001:ffff:1:0
 Feeds
-p:,f:1
+p:,f:01
 0001:00d8ad0c:0001:ffff:1:0
 Alrai Tv
-p:AL-Rai TV,f:1
+p:AL-Rai TV,f:01
 0001:00d82b13:0001:ffff:1:0
 Ahlulbayt Satellite Channel
 p:TandbergTV,c:000134,c:010100,c:031ffe
@@ -9784,16 +9778,16 @@ Aletejah TV
 p:TandbergTV,c:000134,c:010100,c:031ffe
 0001:0168b11d:0001:ffff:1:0
 Aletejah TV
-p:TandbergTV,f:1
+p:TandbergTV,f:01
 0001:0d932b22:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab24:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93ab26:0001:ffff:1:0
 BBC Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4ab29:0001:ffff:1:0
 XAZAR TV
 p:XAZAR TV
@@ -9805,22 +9799,22 @@ RTV Montenegro
 p:RTCG
 0001:0030b138:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddeab39:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0104b13a:0001:ffff:1:0
 iFilm
 p:IFILM,c:000134,c:01009c,c:031ffe
 0001:01a4b13c:0001:ffff:1:0
 Feeds
-p:DMV,f:1
+p:DMV,f:01
 0001:0d93313e:0001:ffff:1:0
 SHANTTV
 p:SHANT TV
 0001:0ddeab3e:0001:ffff:1:0
 Feeds Epitel
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dca2a3f:0001:ffff:1:0
 Miracle Channel
 p:ViewSat,c:000101,c:010201,c:030101
@@ -9835,25 +9829,25 @@ Karbala PATH 2
 p:TandbergTV
 0001:0dc0ad49:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02d4a:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b14a:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932c4c:0001:ffff:1:0
 Cancao Nova Internacional
 p:TandbergTV
 0001:0168b151:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dc02b53:0001:ffff:1:0
 Jamahirya Satellite Channel
 p:TandbergTV
 0001:01a43153:0001:ffff:1:0
 NTV Feeds
-p:D-SMART,f:1
+p:D-SMART,f:01
 0001:0104b053:0001:ffff:1:0
 DammamTV
 p:TANDBERG Television,c:000065,c:010100,c:030065
@@ -9868,7 +9862,7 @@ SALAM TV
 p:TandbergTV
 0001:02122b5a:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4b160:0001:ffff:1:0
 EGE TV
 p:DMV
@@ -9877,40 +9871,40 @@ EDUCATIO TV
 p:ITECO-UNDP
 0001:02123164:0001:ffff:1:0
 MCP
-p:TandbergTV,f:1
+p:TandbergTV,f:01
 0001:0dc02b65:0001:ffff:1:0
 sepeda
 p:SD Unnamed
 0001:00642d67:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0064ad68:0001:ffff:1:0
 Al Ahd
 p:TandbergTV,c:000134,c:010100,c:030134
 0001:014a2b6c:0001:ffff:1:0
 Feeds
-p:DMV,f:1
+p:DMV,f:01
 0001:014a2b70:0001:ffff:1:0
 Feeds
-p:DMV,f:1
+p:DMV,f:01
 0001:0d933173:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00462b76:0001:ffff:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7a3177:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046ab77:0001:ffff:1:0
 Feeds TVN
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4b17c:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014a2b7e:0001:ffff:1:0
 Feeds TV 8
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0186ab7f:0001:ffff:1:0
 MEDIA OFFICE
 p:TANDBERG Television
@@ -9928,19 +9922,19 @@ Libya TV
 p:Libya,c:000134,c:010100,c:031ffe
 0001:0030318d:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014ab190:0001:ffff:1:0
 Feeds
-p:EricssonTV,f:1
+p:EricssonTV,f:01
 0001:014ab194:0001:ffff:1:0
 Feeds
-p:TandbergTV,f:1
+p:TandbergTV,f:01
 0001:0de82b95:0001:ffff:1:0
 Hálózat TV
 p:HTV-RT,c:000021,c:010024,c:030021
 0001:014ab198:0001:ffff:1:0
 Feeds
-p:EricssonTV,f:1
+p:EricssonTV,f:01
 0001:0030b19a:0001:ffff:1:0
 TRINITAS TV
 p:TRINITAS TV
@@ -9949,7 +9943,7 @@ NourSat Alchabab
 p:
 0001:01a4ab9c:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7aad9c:0001:ffff:1:0
 PTV
 p:RTV
@@ -9958,22 +9952,22 @@ Payam TV
 p:TandbergTV,c:000134,c:010100,c:031ffe
 0001:0d1b2da4:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d7a31a6:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642ba7:0001:ffff:1:0
 AL-FORAT
 p:TandbergTV
 0001:01a42ba9:0001:ffff:1:0
 Feeds
-p:EKSEN,f:1
+p:EKSEN,f:01
 0001:0d5c2da9:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2da9:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00642baa:0001:ffff:1:0
 Al Forat
 p:TandbergTV,c:000134,c:010100,c:031ffe
@@ -9997,10 +9991,10 @@ OBN
 p:OBN,c:000134,c:010100,c:020111,c:031ffe
 0001:0ce4b1b2:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a42bb3:0001:ffff:1:0
 Feeds
-p:TandbergTV,f:1
+p:TandbergTV,f:01
 0001:0dc031b4:0001:ffff:1:0
 NewsCam HD-SNG SUI-76
 p:TandbergTV
@@ -10009,22 +10003,22 @@ Al Rayyan TV
 p:Al Rayyan
 0001:0064b1b9:0001:ffff:1:0
 APTN Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:021231bc:0001:ffff:1:0
 Feed
 p:
 0001:0ce4b1bc:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d3431bf:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b1c0:0001:ffff:1:0
 SIC INTERNACIONAL
 p:TANDBERG
 0001:0dc031c4:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d93b1c4:0001:ffff:1:0
 KOREK
 p:KURDISTAN
@@ -10033,46 +10027,46 @@ ANS GROUP
 p:Service Provider
 0001:0d1b2ccc:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2ccd:0001:ffff:1:0
 Feeds Elpitel
-p:TANDBERG,f:1
+p:TANDBERG,f:01
 0001:0030abce:0001:ffff:1:0
 TERACOM Feeds
-p:Teracom AB,f:1
+p:Teracom AB,f:01
 0001:01a4acce:0001:ffff:1:0
 Feeds
-p:TRT,f:1
+p:TRT,f:01
 0001:00ebacce:0001:ffff:1:0
 TELENOR 5
 p:Telenor UK 1,c:000134,c:010100,c:031ffe
 0001:01a4acd3:0001:ffff:1:0
 Feeds
-p:TRT,f:1
+p:TRT,f:01
 0001:0d1b2cd5:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00d8aadb:0001:ffff:1:0
 Baghdad TV
 p:BAGHDAD,c:000206,c:0102c6,c:030203
 0001:01a4acdc:0001:ffff:1:0
 Feeds
-p:TRT,f:1
+p:TRT,f:01
 0001:00d8aadd:0001:ffff:1:0
 Baghdad/ Oman TV
-p:BAGHDAD,f:1
+p:BAGHDAD,f:01
 0001:0d1b2cde:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:016830df:0001:ffff:1:0
 LIDER TV AZERBAIJAN
 p:TANDBERG
 0001:01a4ace0:0001:ffff:1:0
 Feeds
-p:TRT,f:1
+p:TRT,f:01
 0001:0064aae6:0001:ffff:1:0
 APTN Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:016830e8:0001:ffff:1:0
 LIDER TV AZERBAIJAN
 p:TANDBERG
@@ -10081,28 +10075,28 @@ Lider TV
 p:TANDBERG,c:000201,c:010100,c:031ffe
 0001:0d1b2cea:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00ffaaf4:0001:ffff:1:0
 ALSABAH-TV
 p:SD Unnamed
 0001:0d932af6:0001:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0dde2cf9:0001:ffff:1:0
 Feeds Elpitel
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a02afb:0001:ffff:1:0
 Feeds Mediaset
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0d932afd:0001:ffff:1:0
 RAI Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0046aafd:0001:ffff:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4acff:0001:ffff:1:0
 Feeds
-p:Rervice Provider,f:1
+p:Rervice Provider,f:01
 0001:0d7aab17:0002:0000:1:0
 Zagros
 p:Zagros
@@ -10180,7 +10174,7 @@ BRT 1 KKTC
 p:TURKSAT
 0001:0064ac29:000a:0001:1:0
 Feeds EBU
-p:EBU S@tje07,f:1
+p:EBU S@tje07,f:01
 0001:0de80000:000a:07d1:1:0
 Bucuresti 1 TV
 p:Boom,c:0001a4,c:0101a5,c:0301a4
@@ -10204,16 +10198,16 @@ Armenia 1 TV Satellite
 p:FT GLOBECAST,c:0004d3,c:010537,c:0304d3
 0001:00d80000:0c12:007e:1:0
 Al-Sabah Universal Group
-p:IABG,f:1
+p:IABG,f:01
 0001:0de82d7f:0014:1111:1:0
 MusicBox Ukraine
 p:Spacecom,c:000101,c:010102,c:030101
 0001:01860000:0015:001c:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0de80000:0015:002a:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01680000:0015:0064:1:0
 Telemedia 1
 p:RRSat
@@ -10222,10 +10216,10 @@ HD North
 p:Harmonic
 0001:00820000:2e18:00b0:1:0
 Al Maghribiyah (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0001:0064ad4c:c418:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a40000:001d:002a:1:0
 atv avrupa
 p:TURKUVAZ TEK. HIZ
@@ -10246,10 +10240,10 @@ p:HABERTURK TV
 p:SAMARA DVB-RCS
 0001:0064ac72:4321:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00460000:4321:00eb:1:0
 EBU Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a40000:4321:00eb:1:0
 MAESTRO TV
 p:TANDBERG
@@ -10309,16 +10303,16 @@ ANTENNA 1
 p:eVision
 0001:00300000:0048:0055:1:0
 Feeds (Astra 1E)
-p:Astra 1E,f:1
+p:Astra 1E,f:01
 0001:00462a12:0d48:0000:1:0
 Test
 p:
 0001:014a2d1e:0d48:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:014a2d93:0d48:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01040000:2648:02be:1:0
 Fox Movies Arabic
 p:JMC,c:000200,c:01028a,c:030200
@@ -10330,10 +10324,10 @@ TV25 Batumi
 p:Viktor Z
 0001:0d1b0000:0050:0050:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030b158:0064:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0acce:0064:0001:1:0
 TVR1
 p:TVR
@@ -10396,7 +10390,7 @@ Madani
 p:Stellar DBS
 0001:0dde0000:0384:0110:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00300000:aaa0:5555:1:0
 Etno TV
 p:DSKY
@@ -10411,7 +10405,7 @@ Lu-TV
 p:,c:000100,c:010101,c:030100
 0001:0d340000:00b0:0005:1:0
 Feeds BT
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0da22d01:00b0:00b1:1:0
 TELE LAUTARI
 p:LINK SRL
@@ -10420,34 +10414,34 @@ AL HURRYA
 p:Scopus Network Technologies
 0001:01c2ad10:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ce42d11:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0186ab13:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00643134:00b0:00b1:1:0
 Sharqiya News
 p:Scopus Network Technologies,c:001062,c:011063,c:031062
 0001:014a2b39:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0de82c3c:00b0:00b1:1:0
 Feeds
-p:Scopus Network Technologies,f:1
+p:Scopus Network Technologies,f:01
 0001:0d93ab3f:00b0:00b1:1:0
 BBC Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4b141:00b0:00b1:1:0
 IMEDI TV
 p:Tadiran Scopus
 0001:0d93ab47:00b0:00b1:1:0
 BBC Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddeab4a:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4b156:00b0:00b1:1:0
 ADJARA TV
 p:Tadiran Scopus
@@ -10471,40 +10465,40 @@ SARDEGNA1
 p:Tadiran Scopus
 0001:0030b192:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030b195:00b0:00b1:1:0
 TVT 89 (Timisoara)
 p:Scopus Network Technologies,c:001062,c:011063,c:031062
 0001:0cb7ab96:00b0:00b1:1:0
 RTE
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030b196:00b0:00b1:1:0
 TVT89
 p:Scopus Network Technologies
 0001:0d7aadab:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0ddeabb3:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4acc8:00b0:00b1:1:0
 TRT Feeds
-p:Scopus Network Technologies,f:1
+p:Scopus Network Technologies,f:01
 0001:01a42ac9:00b0:00b1:1:0
 ELTR
 p:Scopus Network Technologies
 0001:01a4acce:00b0:00b1:1:0
 TRT Feeds
-p:Scopus Network Technologies,f:1
+p:Scopus Network Technologies,f:01
 0001:01a42acf:00b0:00b1:1:0
 ELTR
 p:Scopus Network Technologies
 0001:00d82cd3:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:01a4acd3:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:00a0b0db:00b0:00b1:1:0
 WEST TV
 p:Scopus Network Technologies
@@ -10537,7 +10531,7 @@ Karaoke Channel
 p:RRsat,c:0007d1,c:010bb9,c:0307d1
 0001:00820000:03de:0110:1:0
 Italia Uno (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0001:0064a9e3:2ade:0001:1:0
 ORTC
 p:THEMA,c:000032,c:010033,c:030032
@@ -10558,7 +10552,7 @@ CCTV-A
 p:CCTV,c:00006e,c:010078,c:030084
 0001:0ce4b1ac:ffff:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0030300f:ffff:0001:1:0
 Bootstrap Master
 p:,c:000488,c:030488
@@ -10579,19 +10573,19 @@ ERT World
 p:OTE,c:000924,c:010925,c:020926,c:030087
 0001:0cb7ad3c:ffff:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7ad44:ffff:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0168b152:ffff:ffff:1:0
 
 p:,c:000031,c:010033,c:030031
 0001:0cb7ad54:ffff:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0cb7ad5a:ffff:ffff:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0001:0104b15b:ffff:ffff:1:0
 PSC - Palestinian Satellite Channel
 p:Harmonic,c:000426,c:010427,c:030426
@@ -10753,7 +10747,7 @@ Europe ArmeniaTV
 p:ArmeniaTV
 0002:00d8315c:0000:0000:1:0
 Palestine Al Yawm test card
-p:S@tje07,f:1
+p:S@tje07,f:01
 0002:0de82c7d:0000:0000:1:0
 NTN
 p:SatTelecom
@@ -10768,16 +10762,16 @@ Al Majd Holy Quran
 p:ALMAJD
 0002:00642ad6:0000:0000:1:0
  Feeds IHA
-p:S@tje07,f:1
+p:S@tje07,f:01
 0002:004629e1:0000:0000:1:0
 SIMAYE AZADI
 p:Scopus
 0002:0c4eace8:0000:0000:1:0
 Data
-p:DVB-S 8PSK 11496V 315.0°E,f:1
+p:DVB-S 8PSK 11496V 315.0°E,f:01
 0002:00d830e9:0000:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0002:01a42b2e:0000:0001:1:0
 CNBC-e
 p:D-SMART
@@ -10789,7 +10783,7 @@ MBC 1
 p:MBC,c:000192,c:01025a,c:030192
 0002:0d5c2d31:1000:0000:1:0
 TV Alb
-p:S@tje07,c:050001,f:1
+p:S@tje07,c:050001,f:01
 0002:eeee0000:1800:2114:1:0
 arte
 p:ARD
@@ -10798,13 +10792,13 @@ MTV Polska
 p:MTV Networks Europe
 0002:0d7aab1c:0001:0000:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0002:013131c0:0001:0000:1:0
 Syria Drama
-p:,f:1
+p:,f:01
 0002:00d82afc:0001:0000:1:0
 KNN (12-14 & 20-22)
-p:DVB-S 8PSK 11004H 21.6°E,f:1
+p:DVB-S 8PSK 11004H 21.6°E,f:01
 0002:0de82c27:0001:0001:1:0
 Hir TV
 p:hírTV,c:0000c8,c:0100c9,c:0200d2,c:0300c8
@@ -10816,7 +10810,7 @@ MEHTAP TV
 p:STV
 0002:0d932c44:0001:0001:1:0
 Touch TV
-p:RRSat,f:1
+p:RRSat,f:01
 0002:0de82a5a:0001:0001:1:0
 HBO Hungary
 p:PowerVu
@@ -10894,7 +10888,7 @@ Ritmoson
 p:Televisa Networks
 0002:0c610000:0001:04d2:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0002:00d8ad04:0001:ffff:1:0
 Salah el-Din
 p:IHA,c:000021,c:010024,c:030021
@@ -10996,7 +10990,7 @@ BRT 2 KKTC
 p:TURKSAT
 0002:0064ac29:000a:0001:1:0
 Feeds EBU
-p:EBU S@tje07,f:1
+p:EBU S@tje07,f:01
 0002:0de80000:000a:07d1:1:0
 TV Neptun
 p:Soti Cable System,c:00019a,c:01019b,c:03019a
@@ -11233,7 +11227,7 @@ Ushuaia TV
 p:Le Bouquet de Canal+,c:0013ba,c:0117a2,c:0313ba
 0802:00a00000:9e98:0078:1:0
 XP1 Test
-p:Total TV,f:1
+p:Total TV,f:01
 0802:005a0000:1bbc:009c:1:0
 Samanyolu TV AVRUPA
 p:KabelKiosk
@@ -11284,7 +11278,7 @@ Fashion TV
 p:Unitymedia
 5302:011a0000:0814:0002:1:0
 4 Seven (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 7602:00c00000:0408:0001:1:0
 CLASSICA
 p:CANAL+
@@ -11293,7 +11287,7 @@ TV2
 p:UPC Direct,c:000227,c:010230,c:02023a,c:030227
 0003:0d7a2d07:0000:0000:1:0
 NBC feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0003:01042a12:0000:0000:1:0
 Al Athar
 p:Jasco
@@ -11338,7 +11332,7 @@ PHOENIX
 p:ARD
 0003:0c4ead9b:0001:0000:1:0
 Canal Info News
-p:canalinfonews,c:050001,f:1
+p:canalinfonews,c:050001,f:01
 0003:0de82a36:0001:0001:1:0
 HBO Czechia & Slovakia
 p:,c:000136,c:01012c,c:030136
@@ -11347,7 +11341,7 @@ S HABER
 p:STV
 0003:0d932c44:0001:0001:1:0
 Vip TV
-p:RRSat,f:1
+p:RRSat,f:01
 0003:00302f4f:0001:0001:1:0
 ESPN Classic Sport Europe
 p:Arqiva,c:000208,c:010460,c:020316,c:030208
@@ -11383,7 +11377,7 @@ Extreme Sports
 p:DMC
 0003:00d8ad82:0001:1111:1:0
 Arriyadiya 2
-p:SNRT,f:1
+p:SNRT,f:01
 0003:00d8ad83:0001:1111:1:0
 Arriadia 2
 p:SNRT,c:000083,c:010084,c:030085
@@ -11479,7 +11473,7 @@ KIBRIS ADA TV
 p:TURKSAT
 0003:0064ac29:000a:0001:1:0
 Feeds EBU
-p:EBU S@tje07,f:1
+p:EBU S@tje07,f:01
 0003:01a40000:000b:0015:1:0
 Viva TV
 p:cine5
@@ -11605,7 +11599,7 @@ AFN Spectrum
 p:,C:0e00
 0003:00820000:03de:0110:1:0
 Rete 4 (13)
-p:Vrij te Ontvangen,c:00065e,c:01065f,c:020653,c:03065e,f:9
+p:Vrij te Ontvangen,c:00065e,c:01065f,c:020653,c:03065e,f:09
 0003:0de80000:00e0:00e0:1:0
 CNL Ukraine
 p:RRSat,c:000103,c:010203,c:030103
@@ -11764,7 +11758,7 @@ MBC 3
 p:MBC,c:000194,c:01025c,c:030194
 0004:0d5c2d31:1000:0000:1:0
 Kanal 5
-p:S@tje07,c:050001,f:1
+p:S@tje07,c:050001,f:01
 0004:00820000:3200:013e:1:0
 CC Family
 p:MTV Networks Europe
@@ -11830,7 +11824,7 @@ Gunaz TV
 p:Harmonic
 0004:0d1b2b81:0002:0002:1:0
 Buzz R/Canal 18
-p:Teuve S@tje07,f:1
+p:Teuve S@tje07,f:01
 0004:02ad0000:0002:013e:1:0
 True Movies 1
 p:Stellar DBS
@@ -11899,7 +11893,7 @@ HE TV
 p:,c:000204,c:010504,c:030204
 0004:00820000:2e18:00b0:1:0
 Arrabiaa 4 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0004:01040000:022b:02be:1:0
 Al Kass HD+
 p:Alkass,c:0000cc,c:010130,c:0300cc
@@ -12103,7 +12097,7 @@ Viasat Xtra PL5
 p:Viasat,c:001f05,c:011f06,c:031f05
 2404:011a0000:07f9:0002:1:0
 Film Four (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2504:00820000:170c:fbff:1:0
 On Board Sky HD
 p:SkyItalia
@@ -12301,7 +12295,7 @@ Al Alamia
 p:,c:000205,c:010505,c:030205
 0005:00820000:2e18:00b0:1:0
 TVM Europe (Al Aoula) 1 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0005:00640000:4321:00eb:1:0
 CTV Encoder 1 SD
 p:TandbergTV
@@ -12379,7 +12373,7 @@ Capri Casinò
 p:BS
 0005:00820000:03de:0110:1:0
 CANALE 5 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0005:005a0000:15e0:009e:1:0
 EUROSPORT 2 BL
 p:
@@ -12910,7 +12904,7 @@ Pink Action
 p:Pink International,c:000205,c:010285,c:031ffe
 0007:00d8ad82:0001:1111:1:0
 Aflam TV
-p:SNRT,f:1
+p:SNRT,f:01
 0007:00d8ad83:0001:1111:1:0
 Aflam
 p:SNRT,c:0000ab,c:0100ac,c:0300ab
@@ -12988,7 +12982,7 @@ KIBRIS TV
 p:TURKSAT
 0007:0064ac29:000a:0001:1:0
 Feeds EBU
-p:EBU S@tje07,f:1
+p:EBU S@tje07,f:01
 0007:0ce40000:000c:0031:1:0
 Canal+ Xtra
 p:Digital+ (Hispasat),c:0000a4,c:010060,c:0300a4
@@ -13321,7 +13315,7 @@ FEED
 p:,c:000800,c:010801,c:030800
 0008:00820000:2e18:00b0:1:0
 Medi 1 Sat (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0008:00460000:4e20:0064:1:0
 Pars TV
 p:EUTELSAT,c:000322,c:010321,c:030322
@@ -13387,10 +13381,10 @@ TF1 HD Suisse
 p:,c:00032a,c:010335,c:03032a,c:050001
 0008:00820000:03de:0110:1:0
 TgCom 24 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0008:00820000:25e4:02be:1:0
 Al Masriyah (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0008:01a40000:01f6:002a:1:0
 GALA TV
 p:TURKSAT
@@ -13630,7 +13624,7 @@ AS TV
 p:TURKSAT
 0009:0064ac29:000a:0001:1:0
 Feeds EBU
-p:EBU S@tje07,f:1
+p:EBU S@tje07,f:01
 0009:00a00000:c60c:016e:1:0
 TVR Iasi
 p:(null),c:00038e,c:010384,c:020076,c:03038e
@@ -13777,7 +13771,7 @@ ESPN America
 p:Digitürk,c:000022,c:010034,c:030022
 2409:011a0000:07f9:0002:1:0
 Film Four +1 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2509:00820000:170c:fbff:1:0
 ON Board Mix HD
 p:SkyItalia
@@ -13921,7 +13915,7 @@ Al Rasheed
 p:NOORSAT,c:000210,c:010510,c:030210
 000a:00820000:2e18:00b0:1:0
 Arryadia 3 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 000a:01040000:0320:02be:1:0
 Al Aoula
 p:SNRT,c:0003e9,c:0103ea,c:0303e9
@@ -13975,7 +13969,7 @@ SCT HD
 p:Harmonic,c:000039,c:01003b,c:030039,c:050001,C:09cd,C:093b,C:0919,C:0647,C:0500
 000a:0186ab6f:00b0:00b1:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 000a:00820000:02bc:013e:1:0
 RTPi
 p:GLOBECAST
@@ -14122,7 +14116,7 @@ Nicktoons (S)
 p:MTV Networks Europe
 cc0a:011a0000:08ff:0002:1:0
 Create & Craft (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d80a:011a0000:081e:0002:1:0
 Channel S (28)
 p:Vrij te ontvangen,c:000966,c:030966,f:49
@@ -14482,7 +14476,7 @@ ALT VC 11
 p:PVU
 000c:0cfdad91:0065:ffff:1:0
 Five Region 2A Ch5
-p:S@tje07,f:1
+p:S@tje07,f:01
 000c:00a00000:0168:016e:1:0
 Tring Planet
 p:Tring Tv
@@ -14635,13 +14629,13 @@ p:Arqiva
 p:Movistar+
 d00c:011a0000:0909:0002:1:0
 Food Network (28)
-p:Vrij te Ontvangen,c:000905,c:010906,c:030905,f:9
+p:Vrij te Ontvangen,c:000905,c:010906,c:030905,f:09
 d80c:011a0000:081e:0002:1:0
 PTV Prime (28)
 p:Vrij te Ontvangen,c:000942,c:030942,f:49
 d80c:011a0000:0a36:0002:1:0
 PTV Prime (28)
-p:Vrij te Ontvangen,c:000942,c:030942,f:9
+p:Vrij te Ontvangen,c:000942,c:030942,f:09
 000d:0dca2a3f:0000:0000:1:0
 Safaa TV
 p:ViewSat
@@ -14713,7 +14707,7 @@ Paramount Channel HD
 p:Cyfrowy Polsat S.A.
 000d:0cfdad91:0065:ffff:1:0
 Five Region 3A Ch5
-p:S@tje07,f:1
+p:S@tje07,f:01
 000d:00820000:1770:0110:1:0
 Cartoonito
 p:
@@ -15052,7 +15046,7 @@ SMNI
 p:GlobeCast
 240e:011a0000:07f9:0002:1:0
 More 4 +1 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 250e:00820000:170c:fbff:1:0
 SkySpF1HDvoting
 p:SkyItalia,c:0000a0,c:0300a0,c:040190,c:050001,C:09cd,C:093b,C:0919
@@ -15136,7 +15130,7 @@ MTV Polska HD
 p:Cyfrowy Polsat S.A.
 000f:0cfdad91:0065:ffff:1:0
 Five Region 5A Ch5
-p:S@tje07,f:1
+p:S@tje07,f:01
 000f:00a00000:0168:016e:1:0
 Tirana TV
 p:Tring Digital,c:0002c6,c:0102d0,c:0302c6
@@ -15175,7 +15169,7 @@ MTV Dance
 p:TV Cabo,c:001240,c:011241,c:031240
 030f:00820000:1b58:013e:1:0
 Class TV (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 040f:0e08b0a8:0003:1111:1:0
 Pro TV Chisinau
 p:ESS
@@ -15205,7 +15199,7 @@ p:BSkyB
 p:BSkyB
 0f0f:011a0000:0808:0002:1:0
 STV HD (28)
-p:Vrij te ontvangen,c:000200,c:030200,f:9
+p:Vrij te ontvangen,c:000200,c:030200,f:09
 120f:0de80000:0006:0064:1:0
 
 p:Magio TV
@@ -15277,7 +15271,7 @@ STAR TV HD
 p:D-SMART
 0010:01a4ae8f:0001:0001:1:0
 TRT 4 + Çocuk
-p:TRT,f:1
+p:TRT,f:01
 0010:0de80000:0001:0064:1:0
 MTV Rocks
 p:Magio TV
@@ -15331,7 +15325,7 @@ VOA Radio 272 (HB71-72)
 p:
 0310:00820000:1b58:013e:1:0
 Class Horse TV (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0410:0104300f:0000:0000:1:0
 FRANCE 2 INTERNATIONAL
 p:Le Bouquet Canal+
@@ -15415,10 +15409,10 @@ MELTEM TV
 p:Digital Platform
 2010:00820000:24b8:013e:1:0
 Perviy Kanal Europe (13)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 2710:011a0000:0801:0002:1:0
 ITV 1 HD (28)
-p:Vrij te Ontvangen,c:00093a,c:03093a,f:9
+p:Vrij te Ontvangen,c:00093a,c:03093a,f:09
 2710:01680000:ff7a:0064:1:0
 DRTV International
 p:TandbergTV,c:000065,c:010066,c:030835
@@ -15460,7 +15454,7 @@ HBO2 Poland Original Audio
 p:PowerVu
 0011:00642b7e:0000:0000:1:0
 REAL MADRID SHOW
-p:Overon,f:1
+p:Overon,f:01
 0011:004629e1:0000:0000:1:0
 RTS 1
 p:EUTELSAT
@@ -15784,7 +15778,7 @@ Games Portal
 p:UPC Direct
 5212:00eb0000:0c99:0003:1:0
 RTL7 HD
-p:HDTV,c:000200,c:020020,c:030200,c:040064,c:050001,C:0100,C:1817,f:9
+p:HDTV,c:000200,c:020020,c:030200,c:040064,c:050001,C:0100,C:1817,f:09
 6212:ffff0000:00f1:270f:1:0
 MTV Brand New
 p:Unitymedia
@@ -15835,7 +15829,7 @@ KIDSCO EAST EUR 1-8
 p:,c:000bc2,c:010bb8,c:030bc2
 0313:00820000:1b58:013e:1:0
 TV Moda (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0413:005a0000:0001:00aa:1:0
 ALPHA
 p:OTE
@@ -16084,7 +16078,7 @@ TV 1000 Balkan
 p:Viasat,c:001915,c:011916,c:031915
 1e14:011a0000:0809:0002:1:0
 Channel 5 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1e14:013b0000:146f:0005:1:0
 Sport 1 test
 p:Poverkhnost TV
@@ -16093,7 +16087,7 @@ On Board Sky HD
 p:SkyItalia
 2814:011a0000:0806:0002:1:0
 ITV 3 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2914:00820000:1edc:0071:1:0
 Blue Hustler
 p:Cyfrowy Polsat S.A.,c:000364,c:010365,c:031fff,C:1861,C:1813,C:1803,C:0b01,C:0100
@@ -16255,7 +16249,7 @@ Domashniy Int
 p:SES
 1415:00eb0000:0c8a:0003:1:0
 Duck TV
-p:Familie,c:000fb2,c:010fbc,c:030fb2,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:9
+p:Familie,c:000fb2,c:010fbc,c:030fb2,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:09
 1715:0dca0000:003b:0800:1:0
 Test11
 p:Nilesat,c:0003fa,c:0103fb,c:0303fa
@@ -16273,7 +16267,7 @@ JSTV 1
 p:Harmonic
 2815:011a0000:0806:0002:1:0
 ITV 3 +1 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 3315:00820000:0190:013e:1:0
 ESP HD
 p:CYFRA +
@@ -16306,7 +16300,7 @@ MTV Polska.
 p:MTV Networks Europe
 0016:01c2ad70:0001:0001:1:0
 Super 7
-p:VIVACOM,f:1
+p:VIVACOM,f:01
 0016:01a4ae8f:0001:0001:1:0
 TRT OKUL
 p:TRT
@@ -16384,10 +16378,10 @@ Avanti Broadband
 p:S@tje07
 0516:0cb7ad9b:0000:0000:1:0
 Avanti Broadband
-p:S@tje07,f:1
+p:S@tje07,f:01
 0516:00d82d1e:0000:0001:1:0
 Satlink GW XE
-p:S@tje07,f:1
+p:S@tje07,f:01
 0516:0dca0000:000d:0800:1:0
 CCTV News
 p:NILESAT,c:0003ed,c:0103ee,c:0303ed
@@ -16498,7 +16492,7 @@ Programm 25110
 p:Unitymedia
 d016:011a0000:0909:0002:1:0
 Food Network +1 (28)
-p:Vrij te ontvangen,c:00090c,c:01090d,c:03090c,f:9
+p:Vrij te ontvangen,c:00090c,c:01090d,c:03090c,f:09
 0017:004629e1:0000:0000:1:0
 IRAN E ARYAEE TV
 p:PITCOMM
@@ -16612,7 +16606,7 @@ TVP Kultura
 p:nc+
 1917:011a0000:07ff:0002:1:0
 BBC Alba (28)
-p:Vrij te Ontvangen,c:001450,c:031450,f:9
+p:Vrij te Ontvangen,c:001450,c:031450,f:09
 1e17:011a0000:0809:0002:1:0
 Channel 5
 p:BSkyB
@@ -16648,7 +16642,7 @@ STARSAT
 p:Telespazio
 5217:00eb0000:0c99:0003:1:0
 RTL 5 HD
-p:HDTV,c:000201,c:020021,c:030201,c:040065,c:050001,C:0100,C:1817,f:9
+p:HDTV,c:000201,c:020021,c:030201,c:040065,c:050001,C:0100,C:1817,f:09
 6217:ffff0000:0083:270f:1:0
 sportdigital
 p:Unitymedia
@@ -16816,7 +16810,7 @@ VIVA Polska.
 p:MTV Networks Europe
 0019:01c2ad70:0001:0001:1:0
 NKTV Evrokom
-p:VIVACOM,f:1
+p:VIVACOM,f:01
 0019:0ce40000:0001:0031:1:0
 SyFy Universal Spain
 p:Digital+ (Hispasat),c:0000a2,c:010058,c:020026,c:0300a2
@@ -16906,7 +16900,7 @@ TVCI
 p:SES
 1419:00eb0000:0c8a:0003:1:0
 NatGeo WILD
-p:Familie,c:000fac,c:010fc0,c:02101a,c:030fac,c:098800,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:9
+p:Familie,c:000fac,c:010fc0,c:02101a,c:030fac,c:098800,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:09
 1419:00820000:05dc:013e:1:0
 11488H SID 0x1419
 p:DVB-S QPSK 11488H 13.0°E
@@ -16942,13 +16936,13 @@ LA 9
 p:Harmonic
 cd19:011a0000:0902:0002:1:0
 Geo Tez (28)
-p:Vrij te ontvangen,c:000916,c:010917,c:030901,f:9
+p:Vrij te ontvangen,c:000916,c:010917,c:030901,f:09
 001a:0dca2a3f:0000:0000:1:0
 Arabipost TV
 p:ViewSat
 001a:01c2ad70:0001:0001:1:0
 Fiesta TV
-p:VIVACOM,f:1
+p:VIVACOM,f:01
 001a:0de80000:0001:0064:1:0
 DoQ
 p:Magio TV
@@ -17092,7 +17086,7 @@ MBC USA
 p:MBC,c:0001ab,c:010273,c:0301ab
 001b:01c2ad70:0001:0001:1:0
 EKids (06-00 CET)
-p:VIVACOM,f:1
+p:VIVACOM,f:01
 001b:0de80000:0001:0064:1:0
 MTV Dance
 p:Magio TV
@@ -17185,13 +17179,13 @@ Il Sole
 p:Arqiva
 d01b:011a0000:0909:0002:1:0
 CBS Reality (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 001c:01040000:0200:02be:1:0
 MBC Drama
 p:MBC,c:0001ac,c:010274,c:0301ac
 001c:01c2ad70:0001:0001:1:0
 Utilisima BG
-p:VIVACOM,f:1
+p:VIVACOM,f:01
 001c:0de80000:0001:0064:1:0
 Life Network
 p:Magio TV
@@ -17296,7 +17290,7 @@ Sky Sports 4
 p:BSkyB
 1b1c:011a0000:0802:0002:1:0
 BBC Two HD (28)
-p:Vrij te Ontvangen,c:00157c,c:03157c,f:9
+p:Vrij te Ontvangen,c:00157c,c:03157c,f:09
 1e1c:013b0000:146f:0005:1:0
 Test4
 p:Poverkhnost TV
@@ -17320,7 +17314,7 @@ Matchmusic
 p:SkyItalia
 521c:00eb0000:0c99:0003:1:0
 Net 5 HD
-p:HDTV,c:000202,c:010066,c:020022,c:030202,c:050001,C:0100,C:1817,f:9
+p:HDTV,c:000202,c:010066,c:020022,c:030202,c:050001,C:0100,C:1817,f:09
 c51c:011a0000:0965:0002:1:0
 Zee TV
 p:BSkyB
@@ -17332,7 +17326,7 @@ MATV National
 p:BSkyB
 001d:01c2ad70:0001:0001:1:0
 24Kitchen Regional
-p:VIVACOM,f:1
+p:VIVACOM,f:01
 001d:0de80000:0001:0064:1:0
 Ozone Network
 p:Magio TV
@@ -17407,7 +17401,7 @@ p:JMC,c:00101e,c:011082,c:03101e
 p:DVB-S2 8PSK 11488H 13.0°E
 1b1d:011a0000:0802:0002:1:0
 BBC One HD (28)
-p:Vrij te Ontvangen,c:001518,c:031518,f:9
+p:Vrij te Ontvangen,c:001518,c:031518,f:09
 1e1d:013b0000:146f:0005:1:0
 Test5
 p:Poverkhnost TV
@@ -17416,7 +17410,7 @@ Family Europe
 p:GlobeCast
 251d:00820000:13ef:013e:1:0
 Dubai TV (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2f1d:00c00000:0441:0001:1:0
 NITRO
 p:CBC
@@ -17551,10 +17545,10 @@ TV 1000 Poland
 p:Viasat,c:0001af,c:0101b0,c:0301af
 1e1e:011a0000:0809:0002:1:0
 5 USA (28)
-p:Vrij te Ontvangen,c:000915,c:010916,c:020918,c:030915,f:9
+p:Vrij te Ontvangen,c:000915,c:010916,c:020918,c:030915,f:09
 251e:00820000:13ef:013e:1:0
 Dubai Sports 3 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 341e:00820000:2710:fbff:1:0
 Primafila 27
 p:SkyItalia,c:0000a2,c:010199,c:0201d8,c:0301eb,C:09cd,C:093b,C:0919
@@ -17665,19 +17659,19 @@ Tashafi TV
 p:JMC,c:001020,c:011084,c:031020
 141f:00eb0000:0c85:0003:1:0
 History HD
-p:Familie (en HDTV),c:0007de,c:0107f2,c:0307de,c:050001,c:0986a0202,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:9
+p:Familie (en HDTV),c:0007de,c:0107f2,c:0307de,c:050001,c:0986a0202,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:09
 1e1f:011a0000:0809:0002:1:0
 5 USA+1 (28)
-p:Vrij te ontvangen,c:00091d,c:01091e,c:02091f,c:03091d,f:9
+p:Vrij te ontvangen,c:00091d,c:01091e,c:02091f,c:03091d,f:09
 1e1f:013b0000:146f:0005:1:0
 Kultura
 p:Ukrkosmos
 251f:00820000:13ef:013e:1:0
 Sama Dubai (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 271f:011a0000:0801:0002:1:0
 ITV 4 +1 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 371f:ffff0000:008d:270f:1:0
 TNT Film
 p:Unitymedia
@@ -17827,7 +17821,7 @@ Blue Hustler
 p:Telespazio
 d020:011a0000:0909:0002:1:0
 Landscape/Showcase (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0021:0dca2a3f:0000:0000:1:0
 Nadi Al Asdikaa TV
 p:ViewSat
@@ -17950,7 +17944,7 @@ Nat Geo+1hr
 p:BSkyB
 1421:00eb0000:0c85:0003:1:0
 Eurosport HD
-p:Basis,c:0007dd,c:01080f,c:0307dd,c:050001,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:9
+p:Basis,c:0007dd,c:01080f,c:0307dd,c:050001,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:09
 1421:00820000:05dc:013e:1:0
 DOMO+ HD
 p:nc+
@@ -17974,7 +17968,7 @@ ProSieben Schweiz
 p:ProSiebenSat.1
 5221:00eb0000:0c99:0003:1:0
 één HD
-p:Familie (en HDTV),c:000203,c:010067,c:020023,c:030203,c:050001,C:0100,C:0500,C:1817,C:1818,C:1819,f:9
+p:Familie (en HDTV),c:000203,c:010067,c:020023,c:030203,c:050001,C:0100,C:0500,C:1817,C:1818,C:1819,f:09
 c521:011a0000:0965:0002:1:0
 Zee Cinema
 p:BSkyB
@@ -18103,7 +18097,7 @@ Planeta HD
 p:SatelliteBG,c:0003e9,c:0103ea,c:0303e9,c:050001
 1c22:00820000:1c20:013e:1:0
 Tunis 7 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1e22:013b0000:146f:0005:1:0
 TEST3
 p:Ukrkosmos
@@ -18121,7 +18115,7 @@ ProSieben Austria
 p:ProSiebenSat.1
 cb22:011a0000:0907:0002:1:0
 Horror Channel+1 (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 d822:011a0000:081e:0002:1:0
 The Active Channel (28)
 p:Vrij te ontvangen,c:000927,c:030927,f:49
@@ -18238,7 +18232,7 @@ DMC TV
 p:Globecast UK
 1e23:011a0000:0809:0002:1:0
 5 Star (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1e23:013b0000:146f:0005:1:0
 Malyatko TV
 p:Ukrkosmos
@@ -18247,7 +18241,7 @@ Service 8227
 p:GlobeCast,c:01084e,c:03084e
 2523:00820000:13ef:013e:1:0
 Abu Dhabi Sports (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2923:00820000:1edc:0071:1:0
 Radio ZET
 p:Cyfrowy Polsat S.A.
@@ -18397,7 +18391,7 @@ Miracle TV
 p:Globecast UK
 1e24:011a0000:0809:0002:1:0
 5*+1 (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 1e24:013b0000:146f:0005:1:0
 HTA
 p:Ukrkosmos
@@ -18574,7 +18568,7 @@ Sony TV
 p:BSkyB
 d025:011a0000:0909:0002:1:0
 Showcase 2 (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 d325:011a0000:0a29:0002:1:0
 ATN Bangla UK
 p:BSkyB
@@ -18682,7 +18676,7 @@ Betar Bangla
 p:GlobeCast
 2526:00820000:13ef:013e:1:0
 Sharqiya (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2c26:00820000:251c:fbff:1:0
 Discovery HD
 p:SkyItalia
@@ -18694,7 +18688,7 @@ SAT.1 CH
 p:ProSiebenSat.1
 5226:00eb0000:0c99:0003:1:0
 Canvas HD
-p:Familie (en HDTV),c:000204,c:010068,c:020024,c:030204,c:050001,C:0100,C:0500,C:1817,C:1818,C:1819,f:9
+p:Familie (en HDTV),c:000204,c:010068,c:020024,c:030204,c:050001,C:0100,C:0500,C:1817,C:1818,C:1819,f:09
 7726:0e080000:02c1:0600:1:0
 Pro Cinema
 p:UPC Direct,c:000097,c:0100a3,c:030097
@@ -18703,7 +18697,7 @@ Zing (28)
 p:Vrij te Ontvangen,c:00090b,c:03090b,f:49
 c526:011a0000:0965:0002:1:0
 Zing (28)
-p:Vrij te Ontvangen,c:00090a,c:010909,c:020905,c:03090a,f:9
+p:Vrij te Ontvangen,c:00090a,c:010909,c:020905,c:03090a,f:09
 cb26:011a0000:0907:0002:1:0
 Jewelry Maker
 p:BSkyB
@@ -18832,7 +18826,7 @@ Acasa
 p:UPC Direct
 cb27:011a0000:0907:0002:1:0
 CBS Action (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d827:011a0000:0a36:0002:1:0
 BT Sport 2
 p:BSkyB
@@ -18949,7 +18943,7 @@ Al Fady
 p:Globecast UK
 1e28:011a0000:0809:0002:1:0
 Channel 5+1 (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 1e28:013b0000:146f:0005:1:0
 Planeta
 p:Ukrkosmos,c:050001
@@ -19093,7 +19087,7 @@ p:BSkyB
 p:NOORSAT,c:00006e,c:010077,c:03006e
 2529:00820000:13ef:013e:1:0
 Al Arabiya (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2929:00820000:1edc:0071:1:0
 Jedynka - PR
 p:Cyfrowy Polsat S.A.
@@ -19147,7 +19141,7 @@ SCOPE KTV
 p:DEFAULT
 002a:0212316c:0001:0001:1:0
 Al Mosullia
-p:DEFAULT,f:1
+p:DEFAULT,f:01
 002a:001f31ac:0001:0001:1:0
 KTO
 p:MALCOLM
@@ -19156,16 +19150,16 @@ AzHARITV
 p:ITSCAIR
 002a:010431be:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 002a:0064aad0:0001:0001:1:0
 APTN Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 002a:0064aada:0001:0001:1:0
 APTN Direct
-p:S@tje07,f:1
+p:S@tje07,f:01
 002a:0186aadd:0001:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 002a:0de80000:0003:0064:1:0
 m1
 p:Magio TV
@@ -19291,10 +19285,10 @@ Antena 3
 p:UPC Direct
 cb2a:011a0000:0907:0002:1:0
 Greatest Hits (28)
-p:Vrij te Ontvangen,c:000922,c:010923,c:030922,f:9
+p:Vrij te Ontvangen,c:000922,c:010923,c:030922,f:09
 d02a:011a0000:0909:0002:1:0
 Hidayat TV (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 002b:0de82a36:0001:0001:1:0
 HBO Comedy Czech
 p:,c:0001fe,c:010194,c:0301fe
@@ -19381,7 +19375,7 @@ Fox Comedy HD
 p:Cyfrowy Polsat S.A.
 0e2b:00820000:0708:00c8:1:0
 DMAX Italia (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 132b:0e080000:0041:0046:1:0
 MTV3 Juniori
 p:Telenor
@@ -19402,7 +19396,7 @@ Ronahi TV
 p:STN Ltd
 252b:00820000:13ef:013e:1:0
 MBC (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 292b:00820000:1edc:0071:1:0
 Discovery Science HD
 p:Cyfrowy Polsat S.A.
@@ -19417,7 +19411,7 @@ p:Unitymedia
 p:ProSiebenSat.1
 522b:00eb0000:0c99:0003:1:0
 Veronica HD/DisneyXD
-p:HDTV,c:000205,c:010069,c:020025,c:030205,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:HDTV,c:000205,c:010069,c:020025,c:030205,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 5e2b:ffff0000:015f:270f:1:0
 Lokalprogramm
 p:Unitymedia
@@ -19597,7 +19591,7 @@ TV 1000 Balkan
 p:Dolce TV,c:000340,c:0103a4,c:030340
 012d:00820000:3e1c:013f:1:0
 TF 1 HD
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 012d:0ce40000:0026:0036:1:0
 Sport TV 2
 p:TV Cabo,c:001c3a,c:011c3b,c:031c3a
@@ -19756,7 +19750,7 @@ Viasat Explorer
 p:Dolce TV,c:00033e,c:0103a2,c:03033e
 012e:00820000:3e1c:013f:1:0
 France 2 HD
-p:TéléSAT,c:000209,c:030209,c:04020b,c:050001,C:1819,C:1813,C:0500,C:0100,f:9
+p:TéléSAT,c:000209,c:030209,c:04020b,c:050001,C:1819,C:1813,C:0500,C:0100,f:09
 012e:0ce40000:0026:0036:1:0
 Canal de Teste
 p:Canal de Teste,c:001200,c:031200
@@ -19918,7 +19912,7 @@ Viasat History
 p:Dolce TV,c:00033d,c:0103a1,c:03033d
 012f:00820000:3e1c:013f:1:0
 France 3
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 012f:0ce40000:0026:0036:1:0
 Canal Parlamento
 p:Zon TV,c:001c4a,c:011c4b,c:031c4a
@@ -20071,7 +20065,7 @@ TV 2 Sport
 p:Viasat,c:000731,c:010732,c:020736,c:030731
 0730:00820000:0578:013e:1:0
 Telenova (13)
-p:Vrij te Ontvangen,c:000731,c:030731,f:9
+p:Vrij te Ontvangen,c:000731,c:030731,f:09
 0730:0082acce:0578:013e:1:0
 TELENOVA
 p:Satlink
@@ -20146,7 +20140,7 @@ JSC Sports HD2
 p:Telespazio
 5230:00eb0000:0c99:0003:1:0
 Ned 3 HD
-p:STD,c:000206,c:020026,c:030206,c:04006a,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:STD,c:000206,c:020026,c:030206,c:04006a,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 5e30:ffff0000:00b5:270f:1:0
 sonnenklar.TV
 p:Unitymedia
@@ -20194,7 +20188,7 @@ Super 1
 p:Dolce TV,c:000342,c:0103a6,c:030342
 0131:00820000:3e1c:013f:1:0
 France 5
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 0131:0ce40000:0026:0036:1:0
 TVI 24
 p:TV Cabo,c:001c6a,c:011c6b,c:031c6a
@@ -20434,7 +20428,7 @@ sixx Austria
 p:sevenonemedia
 3332:00eb0000:0c89:0003:1:0
 Eurosport
-p:Basis,c:000b50,c:010b52,c:030b50,C:0100,C:0624,C:1817,C:1818,f:9
+p:Basis,c:000b50,c:010b52,c:030b50,C:0100,C:0624,C:1817,C:1818,f:09
 3332:00820000:3390:0071:1:0
 Polsat Cafe
 p:Cyfrowy Polsat S.A.,c:000151,c:010152,c:020108,c:030151,C:1861,C:1813,C:1803,C:0b01,C:0500,C:0100
@@ -20503,7 +20497,7 @@ CANAL8 Sport
 p:Telenor
 0133:00820000:3e1c:013f:1:0
 arte HD (F) (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0133:0de82d41:0065:0001:1:0
 HBO HD Adria Bulgaria
 p:Pvu
@@ -20683,7 +20677,7 @@ Sky Premiere
 p:BSkyB
 1134:00820000:2af8:013e:1:0
 4 Fun TV (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1234:00300000:001a:0056:1:0
 TV 2 Lorry
 p:Viasat,c:001235,c:011236,c:02123a,c:031235
@@ -20737,7 +20731,7 @@ Viasat6
 p:UPC Direct
 d034:011a0000:090a:0002:1:0
 Flava (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d334:011a0000:0a29:0002:1:0
 Madani Chnl
 p:BSkyB
@@ -20869,7 +20863,7 @@ Rai Premium HD
 p:Rai
 5235:00eb0000:0c99:0003:1:0
 FOX Sports 2 HD (Inter.)
-p:FOX Sp. International,c:000208,c:01006c,c:030208,c:050001,C:0100,C:1817,f:9
+p:FOX Sp. International,c:000208,c:01006c,c:030208,c:050001,C:0100,C:1817,f:09
 7035:00c00000:041b:0001:1:0
 PHOENIX
 p:ARD
@@ -21049,7 +21043,7 @@ OSN Mov Festival
 p:OSN
 0137:00820000:3e1c:013f:1:0
 NT 1
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 0137:0dde0000:4f4c:055f:1:0
 NT 1
 p:Bis,c:0002c7,c:0102c8,c:0202c9,c:0302c7
@@ -21241,7 +21235,7 @@ CCTV-4
 p:Globecast UK
 1c38:00820000:1c20:013e:1:0
 CCTV 4 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2338:00820000:2328:013e:1:0
 SLNTV
 p:STN PLC
@@ -21406,7 +21400,7 @@ mta-muslim tv
 p:BSkyB
 d039:011a0000:090a:0002:1:0
 Bliss (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d339:011a0000:0a29:0002:1:0
 54073
 p:BSkyB,f:40
@@ -21433,7 +21427,7 @@ OSN Action HD
 p:OSN
 013a:00820000:3e1c:013f:1:0
 France 4
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 013a:0ce40000:0026:0036:1:0
 MOV
 p:TV Cabo,c:001192,c:011193,c:031192
@@ -21673,7 +21667,7 @@ Dolce Sport
 p:DCS
 003c:0212ab74:0001:ffdc:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 003c:0186abb4:0002:0001:1:0
 RCS Map Table (0x3C)
 p:
@@ -21982,7 +21976,7 @@ Disc.Science
 p:BSkyB,c:000915,c:010916,c:020918,c:030915,C:0960,C:0961,C:0963
 1c3e:011a0000:07e1:0002:1:0
 QVC UK (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 2c3e:00820000:251c:fbff:1:0
 Fox Crime HD
 p:SkyItalia
@@ -22018,7 +22012,7 @@ SuperCasino
 p:BSkyB
 d03e:011a0000:090a:0002:1:0
 Scuzz (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d73e:011a0000:0a34:0002:1:0
 High Street TV
 p:BSkyB
@@ -22093,7 +22087,7 @@ QVC Extra
 p:BSkyB
 213f:00820000:3070:013e:1:0
 Rai Uno (13)
-p:Vrij te Ontvangen,c:000200,c:030200,f:9
+p:Vrij te Ontvangen,c:000200,c:030200,f:09
 253f:011a0000:0a34:0002:1:0
 Record TV
 p:BSkyB
@@ -22213,7 +22207,7 @@ LoveWorld Plus
 p:Eutelsat,c:001f42,c:011f43,c:031f42
 2140:00820000:3070:013e:1:0
 Rai Due (13)
-p:Vrij te Ontvangen,c:000201,c:030201,f:9
+p:Vrij te Ontvangen,c:000201,c:030201,f:09
 2540:011a0000:0a34:0002:1:0
 Sangat
 p:BSkyB
@@ -22306,7 +22300,7 @@ Al Sabah TV
 p:Nilesat,c:000f49,c:010f4a,c:030f49
 1141:0de80000:0004:0064:1:0
 Minimax/Anime+
-p:Magio TV,f:1
+p:Magio TV,f:01
 1241:00820000:2b5c:013e:1:0
 RTB Virgilio
 p:Arqiva
@@ -22336,7 +22330,7 @@ CT 1 JM
 p:Skylink
 2141:00820000:3070:013e:1:0
 Rai Tre (13)
-p:Vrij te Ontvangen,c:000202,c:030202,f:9
+p:Vrij te Ontvangen,c:000202,c:030202,f:09
 2441:011a0000:07f9:0002:1:0
 c4 l
 p:BSkyB
@@ -22504,7 +22498,7 @@ Teleitalia Promo 2
 p:Telespazio
 5142:00eb0000:0c8b:0003:1:0
 L1MBURG
-p:Familie,c:000200,c:010050,c:020020,c:031ffe,c:050001,f:9
+p:Familie,c:000200,c:010050,c:020020,c:031ffe,c:050001,f:09
 5a42:ffff0000:00e7:270f:1:0
 Nashe Kino
 p:Unitymedia
@@ -22579,7 +22573,7 @@ Majan
 p:Nilesat,c:000f4f,c:010f50,c:030f4f
 1143:0de80000:0004:0064:1:0
 Duna TV
-p:Magio TV,f:1
+p:Magio TV,f:01
 1243:00820000:2b5c:013e:1:0
 Andisheh TV
 p:Arqiva
@@ -22609,7 +22603,7 @@ CT 1
 p:Skylink
 2843:011a0000:07fe:0002:1:0
 BBC Parliament (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2c43:00820000:251c:fbff:1:0
 Sky Uno HD
 p:SkyItalia
@@ -22639,7 +22633,7 @@ CCTV News
 p:BSkyB
 d043:011a0000:090a:0002:1:0
 Dance Nation (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0044:00300000:0100:016e:1:0
 TCM Russia & South Eastern Europe
 p:Akta,c:000579,c:01057a,c:030579
@@ -22735,7 +22729,7 @@ CT 2
 p:Skylink
 2144:00820000:3070:013e:1:0
 Rai News 24 (13)
-p:Vrij te Ontvangen,c:000208,c:030208,f:9
+p:Vrij te Ontvangen,c:000208,c:030208,f:09
 2c44:00820000:251c:fbff:1:0
 Conto TV 5
 p:SkyItalia,c:0000a3,c:0300a3,C:09cd,C:093b,C:0919
@@ -22753,7 +22747,7 @@ p:EUROSPORT,C:0b0f,C:1861,C:1813,C:0604,C:0931,C:0100,C:1803,C:0b01,C:0500
 p:Cyfrowy Polsat S.A.
 5144:00eb0000:0c8b:0003:1:0
 TV West (06 - 24u)
-p:Familie,c:000201,c:010052,c:020022,c:031ffe,c:050001,f:9
+p:Familie,c:000201,c:010052,c:020022,c:031ffe,c:050001,f:09
 5a44:ffff0000:00e7:270f:1:0
 RTR Planeta
 p:Unitymedia
@@ -22768,7 +22762,7 @@ ComedyCtrl+1
 p:BSkyB
 d744:011a0000:0a34:0002:1:0
 Brit Asia TV (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 0045:00300000:0100:016e:1:0
 HBO Comedy Central Europe
 p:Akta,c:0005dd,c:0105de,c:0305dd
@@ -22975,7 +22969,7 @@ BBC Entertainment Europe
 p:Digitürk,c:00083b,c:0108a0,c:03083b
 1f46:00eb0000:0bc6:0003:1:0
 CT 24
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2346:0dca0000:0013:006e:1:0
 Toyor Al-Janah TV
 p:,c:000830,c:010831
@@ -22996,7 +22990,7 @@ Sirio TV
 p:Telespazio
 5146:00eb0000:0c8b:0003:1:0
 AT5
-p:Familie,c:000202,c:010054,c:020024,c:031ffe,c:050001,C:0100,C:1817,f:9
+p:Familie,c:000202,c:010054,c:020024,c:031ffe,c:050001,C:0100,C:1817,f:09
 5a46:ffff0000:00e7:270f:1:0
 TV Polonia
 p:Unitymedia
@@ -23161,7 +23155,7 @@ Eurosport HD
 p:OTE
 0648:0de80000:0006:0064:1:0
 Nova Cinema
-p:Magio TV,f:1
+p:Magio TV,f:01
 0648:0dca0000:0010:0800:1:0
 Al Saeedah TV
 p:NILESAT,c:000462,c:010463,c:030462
@@ -23218,7 +23212,7 @@ BBC World News
 p:Digitürk,c:00083e,c:0108a3,c:03083e
 1f48:00eb0000:0bc6:0003:1:0
 Noe TV
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2848:011a0000:07fe:0002:1:0
 BBC 2 Wales
 p:BSkyB
@@ -23242,7 +23236,7 @@ Sirio TV
 p:Telespazio
 5148:00eb0000:0c8b:0003:1:0
 Omrop Fryslan
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 5a48:ffff0000:00e7:270f:1:0
 TRT Türk
 p:Unitymedia
@@ -23254,7 +23248,7 @@ SportxxxGirls
 p:BSkyB,c:000926,c:010927,c:030926
 d048:011a0000:090a:0002:1:0
 True Movies (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d748:011a0000:0a34:0002:1:0
 Capital TV
 p:BSkyB
@@ -23284,7 +23278,7 @@ ESPN America HD
 p:OTE
 0649:0de80000:0006:0064:1:0
 Nova
-p:Magio TV,f:1
+p:Magio TV,f:01
 0649:0e080000:0019:0046:1:0
 Star
 p:Telenor
@@ -23365,7 +23359,7 @@ ClublandTV (28)
 p:Vrij te Ontvangen,c:0009fd,c:0309fd,f:49
 d749:011a0000:0a34:0002:1:0
 Clubland TV (28)
-p:Vrij te ontvangen,c:0009fd,c:0309fd,f:9
+p:Vrij te ontvangen,c:0009fd,c:0309fd,f:09
 004a:00c00000:0005:0085:1:0
 Nicer Dicer TV
 p:BetaDigital
@@ -23458,7 +23452,7 @@ Tivu Tivu
 p:Telespazio
 514a:00eb0000:0c8b:0003:1:0
 TV Noord
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 7a4a:00c00000:0410:0001:1:0
 TVGA
 p:TSA
@@ -23467,7 +23461,7 @@ Planet Pop (28)
 p:Vrij te Ontvangen,c:000a00,c:030a00,f:49
 d74a:011a0000:0a34:0002:1:0
 Planet Pop (28)
-p:Vrij te ontvangen,c:000a00,c:030a00,f:9
+p:Vrij te ontvangen,c:000a00,c:030a00,f:09
 014b:00820000:157c:013e:1:0
 Novasports3HD Cy
 p:NetMed
@@ -23551,7 +23545,7 @@ ATN Bangla (28)
 p:Vrij te Ontvangen,c:000924,c:030924,f:49
 d74b:011a0000:0a34:0002:1:0
 ATN Bangla (28)
-p:Vrij te Ontvangen,c:000924,c:030924,f:9
+p:Vrij te Ontvangen,c:000924,c:030924,f:09
 004c:00a02c13:0001:ffff:1:0
 ERA TV
 p:Tring Digital,c:000a96,c:010aa0,c:030a96
@@ -23605,7 +23599,7 @@ Al Soyoof
 p:NILESAT,c:0003ef,c:0103f0,c:0303ef
 0d4c:00820000:1450:013e:1:0
 Rai Med (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0e4c:0e08b1ad:000b:0001:1:0
 VIASAT6
 p:rcs
@@ -23638,7 +23632,7 @@ F3 CENTRE
 p:CSAT
 274c:011a0000:07fc:0002:1:0
 ITV 1 London (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2c4c:00820000:251c:fbff:1:0
 Primafila 5 HD
 p:SkyItalia,c:0000a3,c:0300a3,C:09cd,C:093b,C:0919
@@ -23659,7 +23653,7 @@ Tivu Tivu
 p:Harmonic
 514c:00eb0000:0c8b:0003:1:0
 TV Drenthe
-p:Vrij te Ontvangen,c:000205,c:031ffe,f:9
+p:Vrij te Ontvangen,c:000205,c:031ffe,f:09
 d74c:011a0000:0a34:0002:1:0
 55116
 p:BSkyB,f:40
@@ -23770,7 +23764,7 @@ Tivu Tivu
 p:Telespazio
 d04d:011a0000:090a:0002:1:0
 True Movies 2 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d74d:011a0000:0a34:0002:1:0
 PTC PUNJABI
 p:BSkyB,f:40
@@ -23839,7 +23833,7 @@ Sada TV
 p:NILESAT,c:000404,c:010405,c:030404
 0d4e:00820000:1450:013e:1:0
 Rai Scuola (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 114e:00c00000:0404:0001:1:0
 DW English
 p:DW
@@ -23884,7 +23878,7 @@ Tivu Tivu
 p:Telespazio
 514e:00eb0000:0c8b:0003:1:0
 TV Oost
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d44e:011a0000:0a2c:0002:1:0
 BT Sport 2
 p:BSkyB
@@ -23956,7 +23950,7 @@ DateLine
 p:MB Satellite
 334f:00eb0000:0c93:0003:1:0
 Jim Jam
-p:Familie,c:000c21,c:010c25,c:020c26,c:030c21,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:9
+p:Familie,c:000c21,c:010c25,c:020c26,c:030c21,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:09
 424f:00820000:3db8:013e:1:0
 Tivu Tivu
 p:Harmonic
@@ -24019,7 +24013,7 @@ Al Maaly
 p:NILESAT,c:000406,c:010407,c:030406
 0d50:00820000:1450:013e:1:0
 Senato Italiano (13)
-p:Vrij te Ontvangen,c:001ffe,c:010294,c:02024c,c:031ffe,f:9
+p:Vrij te Ontvangen,c:001ffe,c:010294,c:02024c,c:031ffe,f:09
 0e50:00820000:0320:fbff:1:0
 DMAX+1
 p:SkyItalia
@@ -24058,7 +24052,7 @@ Tivu Tivu
 p:Telespazio
 5150:00eb0000:0c8b:0003:1:0
 TV Gelderland
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 c350:00eb0000:04b0:0064:1:0
 RTS SAT
 p:Telekom Srbija,f:40
@@ -24121,7 +24115,7 @@ AD Sport 1 HD
 p:ADD,c:050001
 1451:00eb0000:0c98:0003:1:0
 Ocko
-p:Vrij te Ontvangen,c:0000a0,c:010050,c:020022,c:0300a0,f:9
+p:Vrij te Ontvangen,c:0000a0,c:010050,c:020022,c:0300a0,f:09
 1651:00eb0000:0ca4:0003:1:0
 Penthouse HD2
 p:,c:000064,c:010065,c:030064,c:050001,C:0500
@@ -24271,7 +24265,7 @@ Tivu Tivu
 p:Telespazio
 5152:00eb0000:0c8b:0003:1:0
 Omroep Zeeland (06-24u)
-p:Vrij te Ontvangen,c:000208,c:031ffe,f:9
+p:Vrij te Ontvangen,c:000208,c:031ffe,f:09
 7852:0e080000:02c4:0600:1:0
 Cartoon Network / TCM
 p:UPC Direct
@@ -24280,7 +24274,7 @@ Northern Birds
 p:BSkyB
 d052:011a0000:090a:0002:1:0
 Tiny Pop (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 d152:011a0000:090c:0002:1:0
 Red Light Rio
 p:BSkyB
@@ -24322,7 +24316,7 @@ Abu Dhabi Sports HD
 p:ADD,c:050001
 1453:00eb0000:0c98:0003:1:0
 Regionalni TV
-p:Vrij te ontvangen,c:00046b,c:01046c,c:03046b,f:9
+p:Vrij te ontvangen,c:00046b,c:01046c,c:03046b,f:09
 1c53:00820000:206c:fbff:1:0
 12360H SID 0x1c53
 p:DVB-S2 8PSK 12360H 13.0Â°E,f:40
@@ -24427,7 +24421,7 @@ JSC sports HD Test 2
 p:ADD,c:050001
 1454:00eb0000:0c98:0003:1:0
 TV Lux
-p:Vrij te ontvangen,c:000206,c:0102c4,c:030206,f:9
+p:Vrij te ontvangen,c:000206,c:0102c4,c:030206,f:09
 1c54:00820000:1c20:013e:1:0
 Chan3es TV
 p:
@@ -24475,7 +24469,7 @@ RETECONOMY
 p:Telespazio
 5154:00eb0000:0c8b:0003:1:0
 Omroep Brabant (06-24u)
-p:Familie,c:000209,c:010062,c:020032,c:031ffe,c:050001,C:0100,C:1817,f:9
+p:Familie,c:000209,c:010062,c:020032,c:031ffe,c:050001,C:0100,C:1817,f:09
 7854:0e080000:02c4:0600:1:0
 Nat Geo
 p:UPC Direct
@@ -24643,7 +24637,7 @@ F3 HNORMANDIE
 p:CSAT
 2756:011a0000:07fc:0002:1:0
 ITV 2 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2c56:00820000:251c:fbff:1:0
 Discovery Travel
 p:SkyItalia
@@ -24667,7 +24661,7 @@ Rai 2 HD
 p:Telespazio
 5156:00eb0000:0c8b:0003:1:0
 SyFy
-p:Entert. (1ste m. STD),c:00020a,c:010066,c:031ffe,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:Entert. (1ste m. STD),c:00020a,c:010066,c:031ffe,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 5656:ffff0000:00dd:270f:1:0
 Detskij Mir
 p:Unitymedia
@@ -24682,7 +24676,7 @@ Travel Channel (28)
 p:Vrij te Ontvangen,c:00092b,c:03092b,f:49
 d356:011a0000:0a2a:0002:1:0
 Travel Channel (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0057:0ce40000:0002:0031:1:0
 C+ RADIOS
 p:Radios,c:0000ad,c:010100,c:0300ad
@@ -24742,7 +24736,7 @@ F3 AQUITAINE
 p:CSAT
 2757:011a0000:07fc:0002:1:0
 CITV U.K. (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2d57:00820000:2260:fbff:1:0
 Primafila 15
 p:SkyItalia,c:0000a0,c:010190,c:0202bd,c:0300a0,C:09cd,C:093b,C:0919
@@ -24757,7 +24751,7 @@ Rai 3 HD
 p:Telespazio
 5157:00eb0000:0c8b:0003:1:0
 iConcerts
-p:Entertainment,f:9
+p:Entertainment,f:09
 5657:ffff0000:00dd:270f:1:0
 itvn
 p:Unitymedia
@@ -24769,7 +24763,7 @@ SouthForYou
 p:BSkyB
 d057:011a0000:090a:0002:1:0
 BuzMuzik (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d157:011a0000:090c:0002:1:0
 PlayboyTV Chat
 p:BSkyB,c:000904,c:010905,c:030904
@@ -24868,7 +24862,7 @@ F3 AUVERGNE
 p:CSAT
 2758:011a0000:07fc:0002:1:0
 ITV 4 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2f58:011a0000:07f4:0002:1:0
 ITV
 p:BSkyB
@@ -24961,7 +24955,7 @@ CNC-001
 p:TandBerg TV
 1c59:00820000:1c20:013e:1:0
 CNC World (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1d59:005a0000:2134:06b2:1:0
 Телеканал РЕН
 p:Platforma DV
@@ -24979,7 +24973,7 @@ LEGENDEN TV
 p:MB Satellite
 3d59:00820000:2c88:013e:1:0
 Tele 5 polska (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 7859:0e080000:02c4:0600:1:0
 Etno
 p:UPC Direct,f:40
@@ -25099,10 +25093,10 @@ nice
 p:MB Satellite
 3d5a:00820000:2c88:013e:1:0
 Polonia 1 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 515a:00eb0000:0c8b:0003:1:0
 Comedy Central/Kindernet (23)
-p:Basis,c:00020e,c:01006a,c:020038,c:031ffe,c:050001,C:0100,C:0500,C:1817,f:9
+p:Basis,c:00020e,c:01006a,c:020038,c:031ffe,c:050001,C:0100,C:0500,C:1817,f:09
 565a:ffff0000:00dd:270f:1:0
 Rai Uno
 p:Unitymedia
@@ -25225,7 +25219,7 @@ CBS Reality
 p:nc+
 515b:00eb0000:0c8b:0003:1:0
 CI crime & investigation
-p:Familie,c:00020f,c:01006b,c:031ffe,c:050001,c:09430202,C:0100,C:0500,C:1817,C:1818,f:9
+p:Familie,c:00020f,c:01006b,c:031ffe,c:09430202,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 565b:ffff0000:00dd:270f:1:0
 Rai Due
 p:Unitymedia
@@ -25366,10 +25360,10 @@ TVA Vicenza
 p:Telespazio
 445c:014a2d4c:0000:0001:1:0
 Feeds
-p:,f:1
+p:,f:01
 445c:014a2cd0:0000:0001:1:0
 Feeds
-p:,f:1
+p:,f:01
 445c:00c00000:0453:0001:1:0
 SAT.1
 p:ProSiebenSat.1
@@ -25390,7 +25384,7 @@ Heat
 p:BSkyB
 d05c:011a0000:090a:0002:1:0
 Pop (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d15c:011a0000:090c:0002:1:0
 Playboy TV
 p:BSkyB,c:000916,c:010917,c:030916,C:0960,C:0961,C:0963
@@ -25666,7 +25660,7 @@ Nile Sports
 p:ERTU,c:000bf5,c:010bf7,c:030bf5
 025f:00820000:3c8c:013e:1:0
 Deutsche Welle (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 025f:00eb0000:0c8e:0003:1:0
 DW Europe
 p:MEDIA BRODCAST
@@ -25756,7 +25750,7 @@ EROTIKA TV - NEU!
 p:MB Satellite
 365f:00820000:1388:013e:1:0
 BBC Arabic (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 3d5f:00820000:2c88:013e:1:0
 Orange Sport
 p:nc+
@@ -25969,7 +25963,7 @@ Wesal Farsi
 p:Noorsat,c:000581,c:010969,c:030581
 1b61:011a0000:07da:0002:1:0
 Viva U.K. (28)
-p:Vrij te ontvangen,c:00092d,c:010903,c:02092f,c:030901,f:9
+p:Vrij te ontvangen,c:00092d,c:010903,c:02092f,c:030901,f:09
 1b61:00c00000:03fc:0001:1:0
 Al Jazeera Channel
 p:GLOBECAST
@@ -26020,7 +26014,7 @@ Magic
 p:BSkyB
 d061:011a0000:090a:0002:1:0
 Tiny Pop +1 (28)
-p:Vrij te ontvangen,c:00091f,c:010920,c:03091f,f:9
+p:Vrij te ontvangen,c:00091f,c:010920,c:03091f,f:09
 d361:011a0000:0a2a:0002:1:0
 QVC Beauty
 p:BSkyB
@@ -26104,7 +26098,7 @@ Libya FM
 p:NOORSAT,c:000582,c:01096a,c:030582
 1b62:00eb0000:0c88:0003:1:0
 Discovery HD Showcase
-p:HDTV,c:000200,c:030200,c:040050,c:050001,c:09330202,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:9
+p:HDTV,c:000200,c:030200,c:040050,c:09330202,c:050001,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:09
 1b62:011a0000:07da:0002:1:0
 MTV
 p:BSkyB,c:00093c,c:010903,c:02093d,c:030901
@@ -26308,7 +26302,7 @@ Sudan TV
 p:
 0064:0212b15b:0000:0001:1:0
 Feeds
-p:S@tje07,f:1
+p:S@tje07,f:01
 0064:00a0b170:0000:0001:1:0
 TVSH-SAT
 p:
@@ -26326,7 +26320,7 @@ Al Masar
 p:
 0064:00642b94:0001:0000:1:0
 Feeds
-p:GlobeCast,f:1
+p:GlobeCast,f:01
 0064:0d933127:0001:0001:1:0
 TUNIS TV
 p:ONT
@@ -26338,7 +26332,7 @@ ALJAZEERA BALKANS
 p:ALJAZEERA BALKANS
 0064:02120000:0001:0fc8:1:0
 ERI-TV
-p:S@tje07,f:1
+p:S@tje07,f:01
 0064:0ce40000:0007:0031:1:0
 C+ TAQUILLA
 p:Digital+ (Hispasat),c:0000ab,c:0100fe,c:0300ab
@@ -26434,7 +26428,7 @@ SES 09
 p:BetaDigital
 1464:00eb0000:0c98:0003:1:0
 Chamber TV Lux
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1564:011a2f26:07e3:0002:1:0
 1476
 p:BSkyB
@@ -26482,7 +26476,7 @@ Cool
 p:UPC Direct
 cd64:011a0000:0902:0002:1:0
 CNC World (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 0065:0030b022:0000:0000:1:0
 Discovery Czech/Slovak
 p:PVU
@@ -26842,10 +26836,10 @@ Spektrum Home
 p:UPC Direct
 cb66:011a0000:0907:0002:1:0
 Klear TV (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d066:011a0000:090a:0002:1:0
 Kix (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0067:0dca0000:0001:0800:1:0
 Secondary education channel
 p:ERTU,c:0003eb,c:0104b3,c:0303eb
@@ -26935,7 +26929,7 @@ Ishtar TV
 p:(null),c:000583,c:01096b,c:030587
 1b67:00eb0000:0c88:0003:1:0
 NGC HD
-p:HDTV,c:000201,c:030201,c:040052,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:HDTV,c:000201,c:030201,c:040052,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 1c67:00820000:1c20:013e:1:0
 + TV
 p:LINK
@@ -27502,7 +27496,7 @@ PRO4
 p:UPC Direct
 d06b:011a0000:090a:0002:1:0
 The Vault (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 006c:0dca0000:0001:0800:1:0
 Al Manarah channel
 p:ERTU,c:0003f0,c:0104b8,c:0303f0
@@ -27589,7 +27583,7 @@ DR 2
 p:Viasat,c:001b6d,c:011b6e,c:021b72,c:031b6d
 1b6c:00eb0000:0c88:0003:1:0
 RTL 4 HD
-p:HDTV,c:000202,c:020022,c:030202,c:040054,c:050001,C:0100,C:1817,f:9
+p:HDTV,c:000202,c:020022,c:030202,c:040054,c:050001,C:0100,C:1817,f:09
 1c6c:00820000:1c20:013e:1:0
 BETHEL
 p:Scopus Network Technologies
@@ -27598,7 +27592,7 @@ p:Scopus Network Technologies
 p:MEDIA BROADCAST
 206c:011a0000:07fa:0002:1:0
 E4 +1 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 296c:00820000:3d54:013e:1:0
 AAA SPORT
 p:BSS
@@ -27706,7 +27700,7 @@ MTV Trax
 p:BSkyB,c:000940,c:01093e,c:030901
 206d:00820000:2328:013e:1:0
 HRT TV 1 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 296d:00820000:3d54:013e:1:0
 Face 1
 p:BSS
@@ -27943,7 +27937,7 @@ HRT-TV3
 p:OIV Zagreb
 286f:011a0000:0800:0002:1:0
 BBC Three (28)
-p:Vrij te Ontvangen,c:001518,c:011519,c:02151b,c:031518,f:9
+p:Vrij te Ontvangen,c:001518,c:011519,c:02151b,c:031518,f:09
 296f:00820000:3d54:013e:1:0
 AAA Music
 p:BSS
@@ -27979,7 +27973,7 @@ BRO
 p:ABS-CBN,c:000cb3,c:010cb4,c:030cb3
 0070:01863115:0004:0001:1:0
 Viasat History
-p:BULSATCOM,f:1
+p:BULSATCOM,f:01
 0070:01680000:0007:0070:1:0
 TBN Africa
 p:Multichoice Africa,c:000426,c:010427,c:030426
@@ -28075,7 +28069,7 @@ p:Viasat,c:001771,c:011772,c:021776,c:031771
 p:BSkyB
 2870:011a0000:0800:0002:1:0
 CBBC (28)
-p:Vrij te Ontvangen,c:001518,c:031518,f:9
+p:Vrij te Ontvangen,c:001518,c:031518,f:09
 2970:00820000:3d54:013e:1:0
 Newroz
 p:BSS
@@ -28111,7 +28105,7 @@ Extreme Sports
 p:BSkyB
 d070:011a0000:090a:0002:1:0
 PopGirl (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0071:0de80000:0001:00d3:1:0
 TCM - Turner Classic Movies| Nights
 p:Boom,c:0003f4,c:0105e8,c:030458
@@ -28183,13 +28177,13 @@ Al Etejah
 p:STN Ltd,c:00177b,c:01177c,c:031ffe
 1b71:00eb0000:0c88:0003:1:0
 Brava HD
-p:HDTV,c:000203,c:030203,c:040056,c:050001,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:9
+p:HDTV,c:000203,c:030203,c:040056,c:050001,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:09
 1f71:00820000:319c:013e:1:0
 Persian Star 1
 p:MEDIA BROADCAST
 2071:011a0000:07fa:0002:1:0
 E4 UK (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2871:011a0000:0800:0002:1:0
 BBC 1 South
 p:BSkyB
@@ -28477,7 +28471,7 @@ Pro Cinema
 p:Dolce TV,c:0000d9,c:01013d,c:0300d9
 0075:00820000:1e14:013e:1:0
 ITV Polska (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0075:0ce40000:0065:0053:1:0
 AXN Black
 p:Meo
@@ -28531,7 +28525,7 @@ Muslim World
 p:BSkyB
 d075:011a0000:090a:0002:1:0
 Chart Show TV (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0076:01c20000:0001:00d5:1:0
 Diva Universal
 p:VIVACOM,c:050001
@@ -28612,13 +28606,13 @@ TV 8 Sweden
 p:Viasat,c:001b77,c:011b78,c:031b77
 1b76:00eb0000:0c88:0003:1:0
 VTM HD
-p:Basic Light,c:000204,c:010058,c:020023,c:030204,c:050001,C:0100,C:0500,C:1818,f:9
+p:Basic Light,c:000204,c:010058,c:020023,c:030204,c:050001,C:0100,C:0500,C:1818,f:09
 2076:00820000:2328:013e:1:0
 HRT-TV4
 p:OIV Zagreb
 2876:011a0000:0800:0002:1:0
 BBC News (28)
-p:Vrij te Ontvangen,c:0013ec,c:0313ec,f:9
+p:Vrij te Ontvangen,c:0013ec,c:0313ec,f:09
 2c76:00820000:251c:fbff:1:0
 Sky Calcio 1 HD
 p:SkyItalia,c:0000a3,c:0300a3,C:09cd,C:093b,C:0919
@@ -28627,7 +28621,7 @@ VOD 164
 p:Cyfrowy Polsat S.A.
 5276:00eb0000:0c96:0003:1:0
 JIM
-p:Basic Light,c:000226,c:030226,f:9
+p:Basic Light,c:000226,c:030226,f:09
 6f76:00c00000:0457:0001:1:0
 WDR Aachen
 p:ARD
@@ -28681,7 +28675,7 @@ Emam Reza
 p:,c:0017b7,c:0117b8,c:031ffe
 2077:011a0000:07fa:0002:1:0
 Channel 4 +1 London (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2477:011a0000:0963:0002:1:0
 8N2
 p:BSkyB
@@ -28759,7 +28753,7 @@ RAI News 24
 p:RAI
 1478:00eb0000:0c98:0003:1:0
 RTL Tele Letzebuerg
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1678:00eb0000:0ca4:0003:1:0
 BBC Entertainment Europe
 p:
@@ -28990,7 +28984,7 @@ CH1-SCR
 p:Nilesat
 177a:00eb0000:0c82:0003:1:0
 Politiek 24 (6-18u.)/Best 24
-p:Familie,c:000200,c:010050,c:030200,c:050001,C:0100,C:1817,C:1819,f:9
+p:Familie,c:000200,c:010050,c:030200,c:050001,C:0100,C:1817,C:1819,f:09
 177a:0dca0000:01f4:5000:1:0
 Al Quds
 p:STN Ltd,c:0017d5,c:0117d6,c:031ffe
@@ -29029,7 +29023,7 @@ M.LCAMPEON1
 p:Movistar+
 d07a:011a0000:090a:0002:1:0
 Popgirl +1 (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 007b:01c20000:0001:00d5:1:0
 TLC
 p:VIVACOM
@@ -29098,7 +29092,7 @@ Really
 p:BSkyB
 1b7b:00eb0000:0c88:0003:1:0
 Ned1 HD
-p:STD,c:000205,c:020024,c:030205,c:04005c,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:STD,c:000205,c:020024,c:030205,c:04005c,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 207b:011a0000:07fa:0002:1:0
 Channel 4 +1
 p:BSkyB
@@ -29209,7 +29203,7 @@ T7 STRM-0
 p:BSkyB
 1b7c:00eb0000:0c88:0003:1:0
 RTL 8 HD
-p:HDTV (en STBP only),c:000206,c:020026,c:030206,c:04005e,c:050001,C:0100,C:1817,f:9
+p:HDTV (en STBP only),c:000206,c:020026,c:030206,c:04005e,c:050001,C:0100,C:1817,f:09
 1e7c:00460000:5208:007e:1:0
 ORT International (Perviy kanal Vsemirnaja set)
 p:Digitürk,c:000838,c:01089e,c:030838
@@ -29245,7 +29239,7 @@ VOD 150
 p:Cyfrowy Polsat S.A.
 527c:00eb0000:0c96:0003:1:0
 vtmKzoom / Kanaal Z
-p:Basic Light,c:00022c,c:03022c,f:9
+p:Basic Light,c:00022c,c:03022c,f:09
 757c:00c00000:0412:0001:1:0
 M.LCAMPEON6
 p:Movistar+
@@ -29260,7 +29254,7 @@ Horse & Country (28)
 p:Vrij te Ontvangen,c:000925,c:030925,f:49
 d37c:011a0000:0a2a:0002:1:0
 Horse & Country (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 007d:0dca0000:0001:0800:1:0
 Abu Dhabi TV
 p:NILESAT,c:000407,c:010409,c:030407
@@ -29344,7 +29338,7 @@ T7 STRM-1
 p:BSkyB
 1b7d:00eb0000:0c88:0003:1:0
 (18+) Penthouse HD1 (00u - 06u)
-p:HDTV,c:000207,c:01005f,c:030207,c:050001,C:0100,C:1817,C:1818,f:9
+p:HDTV,c:000207,c:01005f,c:030207,c:050001,C:0100,C:1817,C:1818,f:09
 1e7d:00460000:5208:007e:1:0
 Wedding TV
 p:Digitürk,c:000839,c:01089f,c:030839
@@ -29380,7 +29374,7 @@ TVR 2
 p:Dolce TV,c:0000e2,c:010146,c:020273,c:0300e2
 007e:00820000:1e14:013e:1:0
 Al Jazeera Sports Global (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 007e:00303082:0065:0001:1:0
 ALPHA TEST1
 p:PVU
@@ -29455,7 +29449,7 @@ OTV Test
 p:NetMed
 1d7e:00eb0000:0c84:0003:1:0
 RAI - Astra HD
-p:Vrij te Ontvangen,c:000025,c:011f43,c:030025,c:050001,f:9
+p:Vrij te Ontvangen,c:000025,c:011f43,c:030025,c:050001,f:09
 367e:00823095:0001:0001:1:0
 CANAL_ALGERIE
 p:TDA
@@ -29464,7 +29458,7 @@ Canal Algerie
 p:Eutelsat
 367e:00820000:00c8:013e:1:0
 Canal Algerie (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 427e:00820000:2bc0:013e:1:0
 xxxVOD2
 p:Cyfrowy Polsat S.A.,c:000105,c:010205,c:030105,c:050001,C:1861,C:1803
@@ -29476,7 +29470,7 @@ BEINLALIGA6
 p:Movistar+
 cf7e:011a0000:0908:0002:1:0
 Al Jazeera Children's Ch. (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 007f:01c20000:0001:00d5:1:0
 Hustler
 p:VIVACOM
@@ -29518,7 +29512,7 @@ CNBC Africa
 p:Multichoice Africa,c:0001b9,c:0101ba,c:0301b9
 0c7f:0d1b0000:0001:0111:1:0
 Glamour Plus VM18 (Nights)
-p:Pangea,f:1
+p:Pangea,f:01
 0e7f:0dca0000:0025:0800:1:0
 Modern Sports
 p:Nilesat,c:000e93,c:010e94,c:030e93
@@ -29536,7 +29530,7 @@ Sama AlMosul
 p:NOORSAT,c:0004bf,c:0108a7,c:0304bf
 177f:00eb0000:0c82:0003:1:0
 Holland Doc 24
-p:Familie,c:000201,c:030201,f:9
+p:Familie,c:000201,c:030201,f:09
 1d7f:00820000:2f44:013e:1:0
 OTV PVR
 p:NetMed
@@ -29554,7 +29548,7 @@ M.LCAMPEON3
 p:CANAL+
 d07f:011a0000:090a:0002:1:0
 True Entertainment (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0080:01c20000:0001:00d5:1:0
 VH1
 p:VIVACOM,c:050001
@@ -29569,7 +29563,7 @@ Discovery Channel Romania
 p:Dolce TV,c:0000e4,c:010148,c:0300e4
 0180:00820000:1c84:013e:1:0
 Kanali Voulis (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0580:00a00000:765c:016e:1:0
 Viasat Nature CEE
 p:Total TV,c:000134,c:0101ad,c:0201fc,c:030134
@@ -29611,7 +29605,7 @@ Da Vinci Learning
 p:Cyfrowy Polsat S.A.
 5280:00eb0000:0c96:0003:1:0
 Vitaya
-p:Basic Light,c:000230,c:010082,c:02003c,c:030230,c:050001,C:0100,C:0500,C:1818,C:1819,f:9
+p:Basic Light,c:000230,c:010082,c:02003c,c:030230,c:050001,C:0100,C:0500,C:1818,C:1819,f:09
 7080:00c00000:0443:0001:1:0
 RTL Austria
 p:RTL
@@ -29794,7 +29788,7 @@ CBS Action
 p:Cyfrowy Polsat S. A.
 5282:00eb0000:0c96:0003:1:0
 Acht
-p:Basic Light,c:000232,c:010084,c:030232,c:050001,C:0100,C:0500,C:1818,C:1819,f:9
+p:Basic Light,c:000232,c:010084,c:030232,c:050001,C:0100,C:0500,C:1818,C:1819,f:09
 7582:00c00000:0412:0001:1:0
 LALIGATVBAR2
 p:Movistar+
@@ -29998,7 +29992,7 @@ ART-Feed
 p:Nilesat
 1784:00eb0000:0c82:0003:1:0
 Zappelin/Zapp 24
-p:Familie,c:000202,c:030202,f:9
+p:Familie,c:000202,c:030202,f:09
 1e84:00460000:5208:007e:1:0
 ProSieben
 p:Digitürk,c:000849,c:0108ae,c:030849
@@ -30016,13 +30010,13 @@ Love
 p:Cyfrowy Polsat S.A.
 5284:00eb0000:0c96:0003:1:0
 (18+) Man-X (00-06u)
-p:ManX,c:000234,c:010086,c:030234,c:050001,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,C:1819,f:9
+p:ManX,c:000234,c:010086,c:030234,c:050001,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,C:1819,f:09
 cb84:011a0000:08fd:0002:1:0
 Travel Channel +1 (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 d084:011a0000:090a:0002:1:0
 True Drama (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 0085:01c20000:0001:00d5:1:0
 Родина
 p:VIVACOM
@@ -30217,7 +30211,7 @@ RTEjr
 p:BSkyB
 2986:00820000:3d54:013e:1:0
 Music Box Russia (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 3786:00820000:044c:013e:1:0
 Novela TV
 p:CYFRA+
@@ -30241,7 +30235,7 @@ ARY World
 p:BSkyB
 cb86:011a0000:08fd:0002:1:0
 CBS Reality +1 (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 d386:011a0000:0a2a:0002:1:0
 JML Direct
 p:BSkyB
@@ -30286,7 +30280,7 @@ Qatar TV
 p:NILESAT,c:0003f1,c:0103f2,c:0303f1
 0c87:00820000:2328:013e:1:0
 TV Slovenija 3 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0c87:0e080000:003e:0046:1:0
 Disney XD (S/F)
 p:Telenor
@@ -30457,7 +30451,7 @@ Sky Livingit+1
 p:BSkyB
 1789:00eb0000:0c82:0003:1:0
 Humor TV/NostalgieNet
-p:Familie,c:000203,c:030203,f:9
+p:Familie,c:000203,c:030203,f:09
 1789:011a0000:07ef:0002:1:0
 Sky Livingit+1
 p:BSkyB,f:40
@@ -30493,7 +30487,7 @@ BET:BlackEntTv
 p:BSkyB,c:0008fd,c:0308fd
 cb89:011a0000:08fd:0002:1:0
 Horror (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 008a:0de80000:0002:00d3:1:0
 Musicmax Adult
 p:Boom,c:0007e1,c:0109d5,c:0307e1
@@ -30544,7 +30538,7 @@ Myar TV
 p:Gulfsat
 178a:011a0000:0966:0002:1:0
 Challenge +1 (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 178a:011a0000:07ef:0002:1:0
 Challenge+1
 p:BSkyB,f:40
@@ -30688,7 +30682,7 @@ ComedyCtrl+1
 p:BSkyB
 cb8b:011a0000:08fd:0002:1:0
 Channel AKA (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 008c:0de80000:0002:00d3:1:0
 Playboy TV| From 21h CET
 p:Boom,c:0007dc,c:0109d0,c:030840
@@ -30970,7 +30964,7 @@ Sky Livingit
 p:BSkyB
 178e:00eb0000:0c82:0003:1:0
 FOX
-p:Basis,c:000204,c:010058,c:030204,c:050001,C:0100,C:1817,f:9
+p:Basis,c:000204,c:010058,c:030204,c:050001,C:0100,C:1817,f:09
 178e:011a0000:07e9:0002:1:0
 Sky Livingit
 p:BSkyB,f:40
@@ -30988,7 +30982,7 @@ p:Digital Platform
 p:BSkyB
 358e:00820000:1388:013e:1:0
 tve internacional (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 3c8e:00820000:1bbc:013e:1:0
 Nat Geo Wild HD
 p:Netmed
@@ -31012,7 +31006,7 @@ ComedyCtralX
 p:BSkyB
 cb8e:011a0000:08fd:0002:1:0
 Daystar TV Network
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 008f:0de80000:0003:00d3:1:0
 National TV
 p:Boom,c:000bba,c:010dae,c:030bba
@@ -31036,7 +31030,7 @@ EPG_data
 p:viasat
 038f:00820000:2134:013e:1:0
 SRF Info (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 038f:0dde0000:4e84:055e:1:0
 Boomerang
 p:Orange
@@ -31075,7 +31069,7 @@ DATA
 p:nc+
 128f:011a0000:07ea:0002:1:0
 Pick TV (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 158f:00eb0000:0c92:0003:1:0
 Da Vinci
 p:SatelliteBG
@@ -31087,7 +31081,7 @@ OrbitLine2
 p:Nilesat
 178f:011a0000:0966:0002:1:0
 Challenge (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 178f:011a0000:07ef:0002:1:0
 Challenge
 p:BSkyB,f:40
@@ -31135,7 +31129,7 @@ ComedyCtlX+1
 p:BSkyB
 cb8f:011a0000:08fd:0002:1:0
 ABN TV (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 0090:0de80000:0003:00d3:1:0
 MTV Hits
 p:Boom,c:000bbb,c:010daf,c:030bbb
@@ -31249,7 +31243,7 @@ Animal Planet
 p:SkyItalia,c:0000b2,c:0101c7,c:0300b2,C:09cd,C:093b,C:0919
 3590:00820000:1388:013e:1:0
 Canal 24 Horas (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 3c90:00820000:1bbc:013e:1:0
 novasports2 HD
 p:Netmed
@@ -31492,7 +31486,7 @@ p:eVision
 p:DVB-S QPSK 12363V 19.2°E
 2492:00820000:23f0:013f:1:0
 Al Jaz. Children (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2792:011a0000:0805:0002:1:0
 ITV
 p:BSkyB
@@ -31603,7 +31597,7 @@ bTV Action
 p:SatelliteBG
 1793:00eb0000:0c82:0003:1:0
 Boomerang
-p:Familie,c:000205,c:01005a,c:020025,c:030205,c:050001,c:09390202,C:0100,C:0500,C:1817,C:1818,f:9
+p:Familie,c:000205,c:01005a,c:020025,c:030205,c:09390202,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 1793:011a0000:07ee:0002:1:0
 Sky Living+1
 p:BSkyB
@@ -31726,7 +31720,7 @@ p:Viasat,c:001b95,c:011b96,c:021b9b,c:031b95
 p:DVB-S QPSK 12188V 13.0°E
 2094:011a0000:07fa:0002:1:0
 More 4 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2394:00c00000:044a:0001:1:0
 12363V SID 0x2394
 p:DVB-S QPSK 12363V 19.2°E
@@ -31837,7 +31831,7 @@ Kurd Channel
 p:BSS
 2a95:00820000:1838:fbff:1:0
 real time (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 3c95:00820000:1bbc:013e:1:0
 novacinema HD
 p:NetMed
@@ -31876,7 +31870,7 @@ Fitness TV (28)
 p:Vrij te Ontvangen,c:00090a,c:03090a,f:49
 d395:011a0000:0a2a:0002:1:0
 Fitness TV (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0096:0de80000:0003:00d3:1:0
 Discovery World
 p:Boom,c:000bc1,c:010db5,c:030bc1
@@ -31960,7 +31954,7 @@ p:Cyfrowy Polsat S.A.
 p:BSkyB
 2096:00820000:2328:013e:1:0
 RBC TV (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2496:00820000:23f0:013f:1:0
 HODHOD arabic
 p:Harmonic
@@ -32002,7 +31996,7 @@ CT24
 p:UPC Direct
 cb96:011a0000:08fe:0002:1:0
 PCNE (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0097:0de80000:0003:00d3:1:0
 U (Romania)
 p:Boom,c:000bc2,c:010db6,c:030bc2
@@ -32155,7 +32149,7 @@ p:MEDIA BROADCAST
 p:
 0898:00642b85:0001:0001:1:0
 Al Jazeera Westminster
-p:S@tje07,f:1
+p:S@tje07,f:01
 0898:00642b85:0001:ffff:1:0
 Al Jazeera English
 p:,c:000899,c:0108a3,c:030899
@@ -32188,7 +32182,7 @@ MTV Nordic
 p:Viasat,c:001799,c:01179a,c:02179e,c:031799
 1798:00eb0000:0c82:0003:1:0
 Animal Planet
-p:Familie,c:000206,c:01005c,c:030206,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:Familie,c:000206,c:01005c,c:030206,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 1798:011a0000:07e5:0002:1:0
 ComedyCentral
 p:BSkyB
@@ -32209,7 +32203,7 @@ Polsat Film HD
 p:Cyfrowy Polsat S.A.
 3a98:00820000:1fa4:013e:1:0
 Roma Uno Sat (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 3c98:00820000:1bbc:013e:1:0
 nova 3D Cy
 p:NETMED
@@ -32557,7 +32551,7 @@ mta-muslim tv
 p:BSkyB
 cf9b:011a0000:0908:0002:1:0
 NHK World HD (28)
-p:Vrij te Ontvangen,c:00090b,c:03090b,f:9
+p:Vrij te Ontvangen,c:00090b,c:03090b,f:09
 009c:00ffad41:0000:0000:1:0
 BBC Persian
 p:JSC
@@ -32731,10 +32725,10 @@ NHK WORLD-JPN
 p:SES
 179d:00eb0000:0c82:0003:1:0
 Investigation Discovery
-p:Entertainment,c:000207,c:01005e,c:030207,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:Entertainment,c:000207,c:01005e,c:030207,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 189d:011a0000:07fd:0002:1:0
 BBC One (28)
-p:Vrij te Ontvangen,c:001388,c:011389,c:02138b,c:031388,f:9
+p:Vrij te Ontvangen,c:001388,c:011389,c:02138b,c:031388,f:09
 1a9d:005a0000:1a90:009e:1:0
 DIGI Sport 1
 p:eVision
@@ -32833,7 +32827,7 @@ Rainbow
 p:RRSat
 189e:011a0000:07fd:0002:1:0
 BBC Two (28)
-p:Vrij te Ontvangen,c:0013ec,c:0113ed,c:0213ef,c:0313ec,f:9
+p:Vrij te Ontvangen,c:0013ec,c:0113ed,c:0213ef,c:0313ec,f:09
 1a9e:005a0000:1a90:009e:1:0
 Film+
 p:eVision
@@ -33109,13 +33103,13 @@ Sky Sports 3
 p:BSkyB
 12a1:00820000:3458:013e:1:0
 World Fashion Channel (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1aa1:005a0000:1a90:009e:1:0
 Discovery Channel
 p:eVision
 27a1:011a0000:0805:0002:1:0
 ITV +1 (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 2ca1:00820000:2580:fbff:1:0
 Class HorseTv
 p:SkyItalia
@@ -33172,7 +33166,7 @@ Q
 p:Meo
 01a2:00820000:26ac:013f:1:0
 Gulli
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 03a2:0dde0000:4e84:055e:1:0
 Orange ciné max HD
 p:Orange
@@ -33235,7 +33229,7 @@ Citizen TV
 p:Multichoice Africa,c:0000c9,c:0100cb,c:0300c9
 43a2:00820000:2cec:013e:1:0
 Nash TV (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 4aa2:ffff0000:006f:270f:1:0
 Kino 06
 p:Unitymedia - KINO AUF ABRUF
@@ -33265,7 +33259,7 @@ Libya Al Watan
 p:,c:000317,c:010318,c:030317
 01a3:00820000:26ac:013f:1:0
 France Ô
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 04a3:0e083163:0003:0001:1:0
 DIGI Sport 2 HU
 p:RCSRDS
@@ -33322,7 +33316,7 @@ TV4 HD
 p:Cyfrowy Polsat S.A.
 43a3:00820000:2cec:013e:1:0
 Fashion TV (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 4aa3:ffff0000:006f:270f:1:0
 Kino 05
 p:Unitymedia - KINO AUF ABRUF
@@ -33661,7 +33655,7 @@ Channel V India
 p:ADD,c:000202,c:01029e,c:030082
 06a7:00820000:3138:013e:1:0
 JN1 - Jewish News 1 (13)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 06a7:00a00000:c544:016e:1:0
 Avala
 p:Total TV
@@ -33685,7 +33679,7 @@ Nova Sport HD
 p:Skylink,c:0007db,c:0307db
 17a7:00eb0000:0c82:0003:1:0
 TVL / ATV / TV Oost (12u - 06u)
-p:Basic Light,c:000209,c:030209,f:9
+p:Basic Light,c:000209,c:030209,f:09
 1aa7:005a0000:1a90:009e:1:0
 Super TV2
 p:eVision
@@ -33721,7 +33715,7 @@ Setanta Ireland
 p:BSkyB
 cba7:011a0000:08fe:0002:1:0
 B4U Music (28)
-p:Vrij te Ontvangen,c:00092f,c:010930,c:030905,f:9
+p:Vrij te Ontvangen,c:00092f,c:010930,c:030905,f:09
 d7a7:011a0000:0900:0002:1:0
 Babestation
 p:BSkyB
@@ -33745,7 +33739,7 @@ Star Gold
 p:ADD,c:000203,c:0102a8,c:030083
 06a8:00820000:3138:013e:1:0
 Shanson (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 06a8:00a00000:c544:016e:1:0
 Prva
 p:Total TV
@@ -33802,7 +33796,7 @@ p:Cyfrowy Polsat S.A.
 p:DVB-S2 8PSK 11411H 13.0Â°E
 43a8:00820000:2cec:013e:1:0
 Thai TV Global Network  (13)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 c5a8:011a0000:0964:0002:1:0
 50370
 p:BSkyB
@@ -33835,7 +33829,7 @@ Star World
 p:ADD,c:000204,c:0102b2,c:030084
 06a9:00820000:3138:013e:1:0
 2M Monde (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 06a9:00a00000:c544:016e:1:0
 B92
 p:Total TV
@@ -33889,7 +33883,7 @@ p:Telefonica Spain
 p:DVB-S2 8PSK 11411H 13.0Â°E
 43a9:00820000:2cec:013e:1:0
 VTV 4 (13)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 75a9:00c00000:0422:0001:1:0
 GUÍA
 p:DIGITAL+
@@ -33901,7 +33895,7 @@ Premier Sports
 p:BSkyB
 d7a9:011a0000:0900:0002:1:0
 Rishtey TV (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 00aa:01860000:0011:001c:1:0
 Travel Channel
 p:Dolce TV,c:00010e,c:010172,c:03010e
@@ -33934,7 +33928,7 @@ EuroNews English
 p:KabelKiosk
 0faa:0d1b0000:0001:0111:1:0
 Espansione TV
-p:Harmonic,f:1
+p:Harmonic,f:01
 0faa:00300000:0006:0056:1:0
 Visjon Norge
 p:Viasat,c:000fab,c:010fac,c:030fab
@@ -33991,7 +33985,7 @@ p:Unitymedia
 p:Digital +
 cbaa:011a0000:08fe:0002:1:0
 Africa Channel (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d7aa:011a0000:0900:0002:1:0
 Star Life OK
 p:BSkyB
@@ -34063,7 +34057,7 @@ Prem Spts Xtra
 p:BSkyB
 cbab:011a0000:08fe:0002:1:0
 BEN - Bright Ent ntwk (28)
-p:Vrij te Ontvangen,c:000944,c:030944,f:9
+p:Vrij te Ontvangen,c:000944,c:030944,f:09
 d7ab:011a0000:0900:0002:1:0
 News 18 India
 p:BSkyB
@@ -34087,7 +34081,7 @@ Star Movies Middle East
 p:ADD,c:000207,c:0102d0,c:030087
 06ac:00820000:3138:013e:1:0
 RTR Planeta (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 06ac:00a00000:c544:016e:1:0
 Sport Klub
 p:Total TV
@@ -34126,10 +34120,10 @@ CH4
 p:Nilesat
 17ac:00eb0000:0c82:0003:1:0
 Body in Balance (06 -12hrs)
-p:Familie,c:00020a,c:010064,c:03020a,c:050001,C:0100,C:0500,C:1817,C:1818,C:1819,f:9
+p:Familie,c:00020a,c:010064,c:03020a,c:050001,C:0100,C:0500,C:1817,C:1818,C:1819,f:09
 18ac:011a0000:07fd:0002:1:0
 BBC Four (28)
-p:Vrij te Ontvangen,c:001450,c:011451,c:021453,c:031450,f:9
+p:Vrij te Ontvangen,c:001450,c:011451,c:021453,c:031450,f:09
 1aac:005a0000:1a90:009e:1:0
 Nickelodeon
 p:eVision
@@ -34147,7 +34141,7 @@ TV2000
 p:SkyItalia
 43ac:00820000:2cec:013e:1:0
 ERT World (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 4aac:ffff0000:00bf:270f:1:0
 Animal Planet
 p:Unitymedia
@@ -34156,10 +34150,10 @@ Movies4men (28)
 p:Vrij te Ontvangen,c:000909,c:030905,f:49
 c7ac:011a0000:096c:0002:1:0
 Movies4men (28)
-p:Vrij te Ontvangen,c:000909,c:01090a,c:030905,f:9
+p:Vrij te Ontvangen,c:000909,c:01090a,c:030905,f:09
 d7ac:011a0000:0900:0002:1:0
 Aastha TV International (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 01ad:0dca0000:0004:0800:1:0
 CNBC Europe
 p:OSN
@@ -34216,7 +34210,7 @@ Sony Movies
 p:BSkyB
 d7ad:011a0000:0900:0002:1:0
 Takbeer TV (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 01ae:0dca0000:0004:0800:1:0
 Discovery ID
 p:OSN
@@ -34225,7 +34219,7 @@ Zee News
 p:ADD,c:000209,c:0102e4,c:030089
 06ae:00820000:3138:013e:1:0
 Russia 24 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 06ae:00a00000:c544:016e:1:0
 SK Prime
 p:Total TV
@@ -34261,7 +34255,7 @@ BB-MV-LokalTV
 p:BMT
 18ae:011a0000:07fd:0002:1:0
 Cbeebies (28)
-p:Vrij te Ontvangen,c:001450,c:031450,f:9
+p:Vrij te Ontvangen,c:001450,c:031450,f:09
 1aae:00300000:0012:0055:1:0
 Sport 1 Lithuania
 p:Viasat,c:001aaf,c:011ab0,c:031aaf
@@ -34285,7 +34279,7 @@ Lazio TV
 p:MX1
 51ae:00eb0000:0c96:0003:1:0
 Film 1 Comedy & Kids (23)
-p:F1/S1 HD,c:000200,c:010050,c:030200,c:050001,C:0100,C:1817,f:9
+p:F1/S1 HD,c:000200,c:010050,c:030200,c:050001,C:0100,C:1817,f:09
 71ae:ffff0000:00c9:270f:1:0
 Türkshow TV
 p:Unitymedia
@@ -34393,7 +34387,7 @@ SET Middle East (Sony Entertainment TV)
 p:ADD,c:00020b,c:0102f8,c:03008b
 06b0:00820000:3138:013e:1:0
 TRT Turk (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 06b0:00a00000:c544:016e:1:0
 Eurosport 2
 p:Total TV
@@ -34516,7 +34510,7 @@ Eurosport 2 HD
 p:Skylink,c:000db7,c:030db7
 17b1:00eb0000:0c82:0003:1:0
 Disney Channel
-p:Basis,c:00020b,c:010066,c:03020b,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:Basis,c:00020b,c:010066,c:03020b,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 1cb1:00820000:332c:013e:1:0
 IRAN B MARZ
 p:Arqiva
@@ -34597,7 +34591,7 @@ Slovak Sport
 p:Skylink,c:000db8,c:010dc2,c:030db8,c:050001
 17b2:00eb0000:0c82:0003:1:0
 HBO HD
-p:HBO (en Top),c:000213,c:030213,c:04006c,c:050001,C:0100,C:1817,f:9
+p:HBO (en Top),c:000213,c:030213,c:04006c,c:050001,C:0100,C:1817,f:09
 1db2:00460000:c544:007e:1:0
 TRT Arapça
 p:Digitürk,c:000835,c:010a29,c:030835
@@ -34681,7 +34675,7 @@ OTA
 p:Skylink,c:031fff
 17b3:00eb0000:0c82:0003:1:0
 HBO 2
-p:HBO (en Top),c:000208,c:030208,c:040060,c:050001,C:0100,C:1817,f:9
+p:HBO (en Top),c:000208,c:030208,c:040060,c:050001,C:0100,C:1817,f:09
 1db3:013b0000:145c:0005:1:0
 ProTV Int
 p:Pro TV
@@ -34705,7 +34699,7 @@ Playboy TV Chat
 p:RRsat
 51b3:00eb0000:0c96:0003:1:0
 Film 1 Sundance
-p:F1/S1 HD,c:000201,c:010052,c:030201,c:050001,C:0100,C:1817,f:9
+p:F1/S1 HD,c:000201,c:010052,c:030201,c:050001,C:0100,C:1817,f:09
 71b3:ffff0000:00d3:270f:1:0
 NTV Avrupa
 p:Unitymedia
@@ -34768,7 +34762,7 @@ NatGeoFarsi
 p:Eutelsat
 17b4:00eb0000:0c82:0003:1:0
 HBO 3
-p:HBO (en Top),c:000212,c:030212,c:04006b,c:050001,C:0100,C:1817,f:9
+p:HBO (en Top),c:000212,c:030212,c:04006b,c:050001,C:0100,C:1817,f:09
 19b4:00300000:000f:0055:1:0
 UBC
 p:TV-100,c:0019b5,c:011965,c:0319b5
@@ -34846,7 +34840,7 @@ GOLD +1
 p:BSkyB
 27b5:011a0000:0805:0002:1:0
 ITV 2 +1 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 29b5:00820000:3d54:013e:1:0
 Moonlight'TV'
 p:BSS
@@ -35056,7 +35050,7 @@ Nickelodeon
 p:BSkyB
 17b8:00eb0000:0c82:0003:1:0
 (18+) Private Spice
-p:Entertainment,c:00020c,c:010068,c:03020c,c:050001,C:0100,C:0500,C:1817,C:1818,C:1819,f:9
+p:Entertainment,c:00020c,c:010068,c:03020c,c:050001,C:0100,C:0500,C:1817,C:1818,C:1819,f:09
 1ab8:00300000:0012:0055:1:0
 Baltijos televizija
 p:Viasat,c:001ab9,c:011aba,c:031ab9
@@ -35086,7 +35080,7 @@ Discovery HD
 p:ITI
 51b8:00eb0000:0c96:0003:1:0
 Film 1 Action
-p:F1/S1 HD,c:000202,c:010054,c:030202,c:050001,C:0100,C:1817,f:9
+p:F1/S1 HD,c:000202,c:010054,c:030202,c:050001,C:0100,C:1817,f:09
 78b8:0e080000:02c5:0600:1:0
 Viasat Explorer
 p:UPC Direct
@@ -35245,7 +35239,7 @@ Pianeta TV
 p:MX1
 36ba:00eb0000:0c8c:0003:1:0
 Parlamentsfernsehen
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 36ba:00eb0000:0c8e:0003:1:0
 BT NEW
 p:MEDIA BROADCAST
@@ -35344,13 +35338,13 @@ SVT2 Mitt
 p:Telenor
 0bbc:00820000:20d0:013e:1:0
 Abu Dhabi TV (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0cbc:0e08b113:000a:0001:1:0
 Nat Geo WILD HU
 p:RCS
 0fbc:00820000:2db4:fbff:1:0
 Nuvolari (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 13bc:00eb0000:0c85:0003:1:0
 Retro Music TV
 p:Skylink
@@ -35491,7 +35485,7 @@ Eurosport 2 HD UPC
 p:nc+
 51bd:00eb0000:0c96:0003:1:0
 Sport 1 Voetbal
-p:F1/S1 HD,c:000203,c:010056,c:030203,c:050001,C:0100,C:1817,f:9
+p:F1/S1 HD,c:000203,c:010056,c:030203,c:050001,C:0100,C:1817,f:09
 78bd:0e080000:02c5:0600:1:0
 Daring!TV
 p:UPC Direct,c:0001f5,c:010200,c:0301f5
@@ -35602,7 +35596,7 @@ BT Sport 1
 p:BSkyB
 c6be:011a0000:0969:0002:1:0
 PCNE (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 cbbe:011a0000:08fe:0002:1:0
 Gospel Channel
 p:BSkyB
@@ -35758,7 +35752,7 @@ Sport Klub
 p:nc+
 13c0:00eb0000:0c95:0003:1:0
 Travel Channel HD
-p:HDTV,c:000fa8,c:011048,c:030fa8,c:050001,c:09e540202,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:9
+p:HDTV,c:000fa8,c:011048,c:030fa8,c:050001,c:09e540202,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,f:09
 14c0:00c00000:0407:0001:1:0
 kabel1 Doku austria
 p:ProSiebenSat.1
@@ -35773,7 +35767,7 @@ Sjuan
 p:Viasat,c:0017c1,c:0117c2,c:0217c6,c:0317c1
 17c0:00eb0000:0c82:0003:1:0
 Ned 2 HD
-p:STD,c:00020d,c:02002b,c:03020d,c:040069,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:STD,c:00020d,c:02002b,c:03020d,c:040069,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 1bc0:00820000:17d4:013e:1:0
 novacinema2
 p:NetMed,c:000201,c:010294,c:030201,C:0604
@@ -35839,7 +35833,7 @@ Fox Life Portugal
 p:TV Cabo,c:001d7a,c:011d7b,c:031d7a
 02c1:00820000:1b58:013e:1:0
 Al Jaz. Documentary (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 02c1:01682e56:ffff:ffff:1:0
 NTA
 p:Multichoice Africa,c:000601,c:010602,c:030601
@@ -35881,7 +35875,7 @@ Travel Channel CDUPC
 p:Skylink
 14c1:00eb0000:0c84:0003:1:0
 High TV 3D
-p:Vrij te Ontvangen,c:0007d3,c:010bbb,c:0307d3,c:050001,f:9
+p:Vrij te Ontvangen,c:0007d3,c:010bbb,c:0307d3,c:050001,f:09
 1bc1:00820000:17d4:013e:1:0
 mottv
 p:NetMed
@@ -35920,7 +35914,7 @@ TVCine 3
 p:TV Cabo,c:001d8a,c:011d8b,c:031d8a
 02c2:00820000:1b58:013e:1:0
 Al Jaz. Mubasher (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 02c2:00a00000:a08c:016e:1:0
 Pop Spot
 p:Total TV
@@ -36019,7 +36013,7 @@ Sky Inside
 p:SkyItalia,c:000a41,c:010a42,c:030a41
 51c2:00eb0000:0c96:0003:1:0
 Sport 1 Golf
-p:F1/S1 HD (en Entertainment),c:000204,c:010058,c:030204,c:050001,C:0100,C:1817,f:9
+p:F1/S1 HD (en Entertainment),c:000204,c:010058,c:030204,c:050001,C:0100,C:1817,f:09
 76c2:00c00000:040e:0001:1:0
 11038V SID 0x76c2
 p:DVB-S QPSK 11038V 19.2°E
@@ -36136,7 +36130,7 @@ iSIS Channel
 p:,c:00006e,c:010064,c:03006e
 01c4:00820000:26ac:013f:1:0
 AB 1
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02c4:0dca0000:0007:0800:1:0
 ART Aflam 2
 p:ADD,c:000204,c:0102b2,c:030084
@@ -36145,7 +36139,7 @@ Canal Panda
 p:TV Cabo,c:001470,c:011471,c:031470
 02c4:00820000:1b58:013e:1:0
 Al Jazeera (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 02c4:00a00000:a08c:016e:1:0
 TV1
 p:Total TV
@@ -36268,7 +36262,7 @@ Venus TV (28)
 p:Vrij te Ontvangen,c:00090f,c:03090e,f:49
 c6c4:011a0000:0969:0002:1:0
 Venus TV (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 ccc4:011a0000:090b:0002:1:0
 DMAX+1
 p:BSkyB
@@ -36283,7 +36277,7 @@ holiday+cruise
 p:BSkyB
 01c5:00820000:26ac:013f:1:0
 AB Moteurs
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02c5:0dca0000:0007:0800:1:0
 ART Cinema
 p:ADD,c:000205,c:0102bc,c:030085
@@ -36394,7 +36388,7 @@ Inspiration
 p:BSkyB
 01c6:00820000:26ac:013f:1:0
 Animaux
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02c6:0dca0000:0007:0800:1:0
 Asianet News
 p:ADD,c:000207,c:0102d0,c:030087
@@ -36493,7 +36487,7 @@ Al Seha
 p:JMC,c:000555,c:010666,c:030555
 01c7:00820000:26ac:013f:1:0
 Chasse et Pêche
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02c7:0d930000:0005:2004:1:0
 Fox Life Greece
 p:Overon
@@ -36550,7 +36544,7 @@ Sky Uno
 p:SkyItalia
 34c7:00820000:3c28:013e:1:0
 Rebel TV (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 35c7:00820000:1388:013e:1:0
 SCT 7
 p:Telefonica Spain,c:00125c,c:01125d,c:03125c,C:09cd,C:093b,C:0919,C:0647,C:0500
@@ -36559,7 +36553,7 @@ POWER TV
 p:TVN
 51c7:00eb0000:0c96:0003:1:0
 FOX Sports 3 Eredivisie
-p:FOX Sports Eredivisie,c:000205,c:01005a,c:020025,c:030205,c:050001,C:0100,C:1817,C:1818,f:9
+p:FOX Sports Eredivisie,c:000205,c:01005a,c:020025,c:030205,c:050001,C:0100,C:1817,C:1818,f:09
 75c7:00c00000:0422:0001:1:0
 
 p:DIGITAL+
@@ -36592,7 +36586,7 @@ TNT Bravo
 p:Dixi
 00c8:00d8ad82:0001:1111:1:0
 2M National
-p:SNRT,f:1
+p:SNRT,f:01
 00c8:00d8ad83:0001:1111:1:0
 2M National
 p:SNRT,c:000bb9,c:010bba,c:030bb9
@@ -36631,7 +36625,7 @@ Arabsat Promotion Channel
 p:JMC,c:000021,c:010022,c:030021
 01c8:00820000:26ac:013f:1:0
 Ciné FX
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02c8:0d930000:0005:2004:1:0
 FX Greece
 p:Overon
@@ -36715,7 +36709,7 @@ VOX Africa (28)
 p:Vrij te Ontvangen,c:00090b,c:03090b,f:49
 c6c8:011a0000:0969:0002:1:0
 VOX Africa (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 cbc8:011a0000:08fd:0002:1:0
 Bio+1
 p:BSkyB
@@ -36754,7 +36748,7 @@ Mukawama
 p:NOORSAT,c:00019b,c:01019c,c:03019b
 00c9:0d342d2b:012d:0001:1:0
 CNN Newsource Europe
-p:S@tje07,f:1
+p:S@tje07,f:01
 00c9:0ce40000:0037:010e:1:0
 Vit TV 1
 p:Vit TV,c:0007db,c:0107dc,c:0307db
@@ -36784,7 +36778,7 @@ Oromia TV
 p:JMC,c:00032b,c:010349,c:03032b
 01c9:00820000:26ac:013f:1:0
 Ciné Polar
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02c9:0d930000:0005:2004:1:0
 Nat geo Adventure
 p:Overon
@@ -36817,7 +36811,7 @@ CANAL+ SPORT
 p:CYFRA +
 13c9:00eb0000:0c95:0003:1:0
 Eurosport 2 HD
-p:Entertainment (en HDTV),c:000db7,c:010ddf,c:030db7,c:050001,C:0100,C:0624,C:1817,f:9
+p:Entertainment (en HDTV),c:000db7,c:010ddf,c:030db7,c:050001,C:0100,C:0624,C:1817,f:09
 14c9:00460000:c6d4:007e:1:0
 PENTHOUSE
 p:Digitürk,c:000848,c:0108ad,c:030848
@@ -36919,7 +36913,7 @@ BBC Entertainment
 p:Multichoice Africa,c:0000ea,c:0100eb,c:0300ea
 01ca:00820000:26ac:013f:1:0
 Escales
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02ca:0ce40000:002a:0036:1:0
 Millenium TV
 p:TV Cabo,c:001c1c,c:011c1d,c:031c1c
@@ -36952,7 +36946,7 @@ TV 4 Film
 p:Viasat,c:0017cb,c:0117cc,c:0217d0,c:0317cb
 17ca:00eb0000:0c82:0003:1:0
 SBS 6 HD
-p:HDTV,c:00020e,c:01006a,c:02002a,c:03020e,c:050001,C:0100,C:1817,f:9
+p:HDTV,c:00020e,c:01006a,c:02002a,c:03020e,c:050001,C:0100,C:1817,f:09
 1bca:00820000:17d4:013e:1:0
 novacinema3 Cy
 p:NetMed
@@ -36976,7 +36970,7 @@ ORF2
 p:ORF
 34ca:00820000:3c28:013e:1:0
 EWTN Catholic TV (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 35ca:00820000:1388:013e:1:0
 SCT PROMO b
 p:TSA
@@ -37075,7 +37069,7 @@ M-Net Stars
 p:Multichoice Africa,c:00012a,c:01012b,c:03012a
 01cb:00820000:26ac:013f:1:0
 Toute l'histoire
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02cb:0dca0000:0007:0800:1:0
 Blue Nile Channel|  evenings
 p:ADD,c:00020c,c:011602,c:03008c
@@ -37195,10 +37189,10 @@ EUROCHANNEL
 p:
 01cc:00820000:1964:013e:1:0
 TRT Belgesel (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 01cc:00820000:26ac:013f:1:0
 AB 3
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02cc:00820000:1b58:013e:1:0
 Telemarket  for You
 p:Telespazio
@@ -37240,7 +37234,7 @@ Eurosport 2 HD HU
 p:Skylink,f:40
 17cc:00eb0000:0c82:0003:1:0
 FOX Sports 1 HD Eredivisie
-p:FOX Sports Eredivisie,c:000210,c:0100e0,c:02002d,c:030210,c:050001,C:0100,C:1817,f:9
+p:FOX Sports Eredivisie,c:000210,c:0100e0,c:02002d,c:030210,c:050001,C:0100,C:1817,f:09
 1acc:00300000:0012:0055:1:0
 ETV 2
 p:Viasat,c:001acd,c:011ace,c:031acd
@@ -37285,7 +37279,7 @@ Cartoon Network
 p:SkyItalia
 51cc:00eb0000:0c96:0003:1:0
 Cartoon/TCM
-p:Familie,c:000206,c:01005c,c:030206,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:Familie,c:000206,c:01005c,c:030206,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 6dcc:00c00000:044d:0001:1:0
 hr-fernsehen
 p:ARD
@@ -37351,7 +37345,7 @@ RTS 1
 p:POLARIS,c:050001
 01cd:00820000:26ac:013f:1:0
 Action
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02cd:0d930000:0204:001d:1:0
 LA7D
 p:TIMB
@@ -37471,7 +37465,7 @@ RTS 2
 p:POLARIS
 01ce:00820000:26ac:013f:1:0
 Mangas
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 03ce:0ce40000:0029:0036:1:0
 Fox Crime Portugal
 p:TV Cabo,c:001b50,c:011b51,c:031b50
@@ -37540,7 +37534,7 @@ ELEVEN SPORTS 4 HD
 p:nc+,C:1884,C:1813,C:0b01,C:0500,C:0100
 34ce:00820000:3c28:013e:1:0
 Alice (13)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 35ce:00820000:1388:013e:1:0
 SCT PROMO f
 p:Telefonica Servicios Audiovisuales,f:40
@@ -37582,7 +37576,7 @@ QUEST+1
 p:BSkyB
 d3ce:011a0000:0a2b:0002:1:0
 Vintage TV (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d7ce:011a0000:0822:0002:1:0
 Dirty Talk
 p:BSkyB,f:40
@@ -37621,7 +37615,7 @@ Arena Sport 1
 p:POLARIS
 01cf:00820000:26ac:013f:1:0
 Encyclopedia
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02cf:00820000:1b58:013e:1:0
 Antichità Chiossone
 p:Telespazio
@@ -37723,7 +37717,7 @@ BEN - Bright Ent ntwk (28)
 p:Vrij te Ontvangen,c:00092c,c:03092c,f:49
 d3cf:011a0000:0a2b:0002:1:0
 BEN - Bright Ent ntwk (28)
-p:Vrij te Ontvangen,c:00092c,c:03092c,f:9
+p:Vrij te Ontvangen,c:00092c,c:03092c,f:09
 00d0:0dca0000:0002:0800:1:0
 MBC+ Drama
 p:OSN
@@ -37756,7 +37750,7 @@ Arena Sport 2
 p:POLARIS
 01d0:00820000:26ac:013f:1:0
 AB 4
-p:TéléSAT,f:9
+p:TéléSAT,f:09
 02d0:0dca0000:0007:0800:1:0
 Melody Aflam
 p:Melody Aflam,c:00020e,c:011616,c:03008e
@@ -37765,7 +37759,7 @@ France 24 (in English)
 p:TV Cabo,c:001071,c:011072,c:031071
 06d0:00820000:0578:013e:1:0
 Fishing TV (13)
-p:Vrij te ontvangen,c:0006d1,c:0306d1,f:9
+p:Vrij te ontvangen,c:0006d1,c:0306d1,f:09
 06d0:0082acce:0578:013e:1:0
 FISHING TV
 p:Satlink
@@ -37828,7 +37822,7 @@ p:Digitürk,c:000880,c:030880
 p:BSkyB
 29d0:00820000:3cf0:013e:1:0
 RTL 102.5 RadioVisione (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2bd0:00820000:1a90:fbff:1:0
 Primafila 1
 p:SkyItalia,c:0000a6,c:0101a8,c:0201dc,c:0300a6,C:09cd,C:093b,C:0919
@@ -37861,7 +37855,7 @@ Kino 16
 p:Unitymedia - KINO AUF ABRUF
 52d0:011a0000:0814:0002:1:0
 Channel 4 HD (28)
-p:Vrij te Ontvangen,c:000901,c:030905,f:9
+p:Vrij te Ontvangen,c:000901,c:030905,f:09
 76d0:0e080000:02c0:0600:1:0
 FilmBox Extra1
 p:UPC Direct,c:000353,c:01035c,c:030353
@@ -37930,7 +37924,7 @@ Canal Panda
 p:Multichoice Africa,c:000121,c:010122,c:030121
 07d1:00a00000:9e98:0078:1:0
 Studio B
-p:Total TV,f:1
+p:Total TV,f:01
 07d1:00820000:22c4:013e:1:0
 RT HD
 p:GlobeCast
@@ -37999,7 +37993,7 @@ Kino 17
 p:Unitymedia - KINO AUF ABRUF
 51d1:00eb0000:0c96:0003:1:0
 Extreme Sports
-p:Familie,c:000207,c:01005e,c:030207,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:Familie,c:000207,c:01005e,c:030207,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 6dd1:00c00000:044d:0001:1:0
 SWR Fernsehen BW
 p:ARD
@@ -38011,7 +38005,7 @@ S4C Digidol (28)
 p:Vrij te Ontvangen,c:000d05,c:030d05,f:49
 c4d1:011a0000:0964:0002:1:0
 S4C Digidol (28)
-p:Vrij te Ontvangen,c:000d05,c:030d05,f:9
+p:Vrij te Ontvangen,c:000d05,c:030d05,f:09
 d7d1:011a0000:0a35:0002:1:0
 Flirt TV 2
 p:BSkyB
@@ -38086,10 +38080,10 @@ Afro Music Channel
 p:Multichoice Africa,c:000141,c:010142,c:030141
 07d2:00a00000:9e98:0078:1:0
 RTRS
-p:Total TV,f:1
+p:Total TV,f:01
 07d2:00820000:22c4:013e:1:0
 RussiaT Doc HD (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 07d2:0de80000:00c8:356e:1:0
 Eurosport 2
 p:Xtra TV,c:0000ca,c:0100cb,c:031ffe
@@ -38239,10 +38233,10 @@ TPA 1
 p:Multichoice Africa,c:000161,c:010162,c:030161
 07d3:00a00000:9e98:0078:1:0
 ATV
-p:Total TV,f:1
+p:Total TV,f:01
 07d3:00820000:22c4:013e:1:0
 Supertennis HD (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 07d3:0de80000:00c8:356e:1:0
 Russkiy Extream
 p:Xtra TV,c:00012e,c:01012f,c:031ffe
@@ -38278,7 +38272,7 @@ Nat Geo Wild
 p:NetMed
 29d3:00820000:3cf0:013e:1:0
 TV Romania Inter. (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2bd3:00820000:1a90:fbff:1:0
 Sky Calcio 4
 p:SkyItalia
@@ -38308,7 +38302,7 @@ Kino 19
 p:Unitymedia - KINO AUF ABRUF
 51d3:00eb0000:0c96:0003:1:0
 MTV NL (23)
-p:Basis,c:000208,c:01005f,c:02002f,c:030208,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:Basis,c:000208,c:01005f,c:02002f,c:030208,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 ccd3:011a0000:090b:0002:1:0
 Disc.History+1
 p:BSkyB,c:00091b,c:01091c,c:02091e,c:03091b,C:0960,C:0961,C:0963
@@ -38359,7 +38353,7 @@ PRVA
 p:POLARIS
 01d4:00820000:26ac:013f:1:0
 (18+) XXL 22h30-3h CET
-p:TéléSAT,c:000076,c:0100da,c:030076,c:050001,C:1819,C:0500,C:0100,f:9
+p:TéléSAT,c:000076,c:0100da,c:030076,c:050001,C:1819,C:0500,C:0100,f:09
 02d4:0dca0000:0007:0800:1:0
 Aqaria Saudi 2
 p:JMC
@@ -38386,7 +38380,7 @@ Discovery World
 p:Multichoice Africa,c:000181,c:010182,c:030181
 07d4:00a00000:9e98:0078:1:0
 Cinemania
-p:Total TV,f:1
+p:Total TV,f:01
 07d4:00820000:22c4:013e:1:0
 Telepace HD
 p:GLOBECAST,f:40
@@ -38464,10 +38458,10 @@ Kino 20
 p:Unitymedia - KINO AUF ABRUF
 51d4:00eb0000:0c96:0003:1:0
 TV Oranje
-p:Basis,c:00020b,c:010066,c:03020b,c:050001,C:0100,C:0500,C:1817,C:1818,f:9
+p:Basis,c:00020b,c:010066,c:03020b,c:050001,C:0100,C:0500,C:1817,C:1818,f:09
 cbd4:011a0000:08fd:0002:1:0
 Vintage TV (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d7d4:011a0000:0822:0002:1:0
 Luxury Life
 p:BSkyB,f:40
@@ -38539,7 +38533,7 @@ QA1
 p:Multichoice Africa,c:0001a1,c:0101a2,c:0301a1
 07d5:00a00000:9e98:0078:1:0
 History Channel
-p:Total TV,f:1
+p:Total TV,f:01
 07d5:0de80000:00c8:356e:1:0
 Boets TV
 p:Xtra TV,c:0001f6,c:0101f7,c:031ffe
@@ -38575,7 +38569,7 @@ Kanal 10 Norge
 p:Telenor
 17d5:00eb0000:0c91:0003:1:0
 Classica HD
-p:Basic,c:0001ff,c:0301ff,f:9
+p:Basic,c:0001ff,c:0301ff,f:09
 1bd5:00820000:17d4:013e:1:0
 Novacinema2HD Cy
 p:NetMed
@@ -38596,7 +38590,7 @@ Videolina
 p:Arqiva
 51d5:00eb0000:0c96:0003:1:0
 TLC
-p:Basis,c:00020c,c:010067,c:02002b,c:03020c,c:050001,C:0100,C:1817,f:9
+p:Basis,c:00020c,c:010067,c:02002b,c:03020c,c:050001,C:0100,C:1817,f:09
 c5d5:011a0000:0907:0002:1:0
 52065
 p:BSkyB
@@ -38662,7 +38656,7 @@ TPA 2
 p:Multichoice Africa,c:0001c1,c:0101c2,c:0301c1
 07d6:00a00000:9e98:0078:1:0
 Cinemax
-p:Total TV,f:1
+p:Total TV,f:01
 07d6:00820000:22c4:013e:1:0
 BBC Brit
 p:GLOBECAST
@@ -38800,10 +38794,10 @@ QA2
 p:Multichoice Africa,c:0001e1,c:0101e2,c:0301e1
 07d7:00a00000:9e98:0078:1:0
 Cinemax 2
-p:Total TV,f:1
+p:Total TV,f:01
 07d7:00820000:22c4:013e:1:0
 KBS World HD (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 07d7:0de80000:00c8:356e:1:0
 Outdoor Channel
 p:Xtra TV,c:0002be,c:0102bf,c:031ffe
@@ -38842,13 +38836,13 @@ p:BSkyB,f:40
 p:CYFRA +
 13d7:00eb0000:0c8a:0003:1:0
 TV 8
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 17d7:0dca0000:003d:0800:1:0
 Test 3
 p:Nilesat,c:0017d9,c:0117da,c:0317d9
 17d7:00eb0000:0c91:0003:1:0
 auto motor sport HD
-p:Entertainment,c:0003ff,c:010400,c:0303ff,c:050001,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,C:1837,f:9
+p:Entertainment,c:0003ff,c:010400,c:0303ff,c:050001,C:0100,C:0500,C:0624,C:0d96,C:1817,C:1818,C:1837,f:09
 29d7:00820000:3cf0:013e:1:0
 Al Atlas
 p:GlobeCast
@@ -38878,7 +38872,7 @@ TTV HD
 p:TVN
 c6d7:011a0000:0900:0002:1:0
 CBS Drama (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 00d8:0de82a36:0001:0001:1:0
 Comedy Adria Macedonia
 p:(null),c:00038e,c:010190,c:03038e
@@ -38932,7 +38926,7 @@ PFC
 p:Multichoice Africa,c:000201,c:010202,c:030201
 07d8:00a00000:9e98:0078:1:0
 Sci Fi
-p:Total TV,f:1
+p:Total TV,f:01
 07d8:0de80000:00c8:356e:1:0
 NTV Plus Nash Futbol
 p:Xtra TV,c:000322,c:010323,c:031ffe
@@ -39052,7 +39046,7 @@ Fashion One
 p:Multichoice Africa,c:000221,c:010222,c:030221
 07d9:00a00000:9e98:0078:1:0
 MGM
-p:Total TV,f:1
+p:Total TV,f:01
 07d9:00820000:22c4:013e:1:0
 BBC CBeebies
 p:GLOBECAST
@@ -39088,7 +39082,7 @@ TVN Siedem
 p:TVN
 13d9:00eb0000:0c8a:0003:1:0
 Slagr TV (23)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 17d9:0dca0000:003d:0800:1:0
 Test 5
 p:Nilesat,c:0017dd,c:0117de,c:0317dd
@@ -39178,7 +39172,7 @@ Fox Portugal
 p:Multichoice Africa,c:000241,c:010242,c:030241
 07da:00a00000:9e98:0078:1:0
 CineStar
-p:Total TV,f:1
+p:Total TV,f:01
 07da:0de80000:00c8:356e:1:0
 National Geographic Russia
 p:Xtra TV,c:0003ea,c:0103eb,c:031ffe
@@ -39271,7 +39265,7 @@ Fox Life Portugal
 p:Multichoice Africa,c:000261,c:010262,c:030261
 07db:00a00000:9e98:0078:1:0
 CineStar A&T
-p:Total TV,f:1
+p:Total TV,f:01
 07db:00820000:22c4:013e:1:0
 Arturo (13)
 p:Vrij te Ontvangen,f:49
@@ -39298,7 +39292,7 @@ Test 7
 p:Nilesat,c:0017e1,c:0117e2,c:0317e1
 29db:00820000:3cf0:013e:1:0
 Arirang TV (13)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 32db:00c00000:045d:0001:1:0
 RiC
 p:-
@@ -39310,7 +39304,7 @@ Rudaw
 p:Arqiva
 51db:00eb0000:0c96:0003:1:0
 Film 1 Premiere HD
-p:F1/S1 HD,c:000209,c:030209,c:04006f,c:050001,C:0100,C:1817,f:9
+p:F1/S1 HD,c:000209,c:030209,c:04006f,c:050001,C:0100,C:1817,f:09
 d8db:011a0000:0962:0002:1:0
 9XM
 p:BSkyB
@@ -39364,7 +39358,7 @@ Fox Crime Portugal
 p:Multichoice Africa,c:000281,c:010282,c:030281
 07dc:00a00000:9e98:0078:1:0
 CineStar
-p:Total TV,f:1
+p:Total TV,f:01
 07dc:00820000:22c4:013e:1:0
 Sport LT Uno (13)
 p:Vrij te Ontvangen,f:49
@@ -39481,7 +39475,7 @@ Odisseia
 p:Multichoice Africa,c:0002a1,c:0102a2,c:0302a1
 07dd:00a00000:9e98:0078:1:0
 CineStar A&T
-p:Total TV,f:1
+p:Total TV,f:01
 07dd:00820000:22c4:013e:1:0
 Sport LT Due (13)
 p:Vrij te Ontvangen,f:49
@@ -39856,7 +39850,7 @@ Russia Al-Yaum
 p:Arqiva
 51e0:00eb0000:0c96:0003:1:0
 Sport 1 Select HD
-p:F1/S1 HD (en Entertainment),c:00020a,c:010064,c:03020a,c:050001,C:0100,C:1817,f:9
+p:F1/S1 HD (en Entertainment),c:00020a,c:010064,c:03020a,c:050001,C:0100,C:1817,f:09
 75e0:00c00000:0422:0001:1:0
 TEST_CSD3
 p:DIGITAL+
@@ -39871,7 +39865,7 @@ ATN Bangla (28)
 p:Vrij te Ontvangen,c:000915,c:030ed7
 d8e0:011a0000:0962:0002:1:0
 Music India (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 00e1:0de82a36:0001:0001:1:0
 HBO Bulgaria
 p:,c:00032a,c:010326,c:03032a
@@ -40171,7 +40165,7 @@ Torino Channel
 p:SkyItalia
 44e3:00820000:0258:013e:1:0
 World Fashion Channel (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 75e3:00c00000:0422:0001:1:0
 
 p:DIGITAL+
@@ -40312,7 +40306,7 @@ TLC Pan Regional - Hungarian
 p:PVU
 0ce5:00820000:1518:013e:1:0
 Rai Sport 2 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0ce5:0030b022:005e:0001:1:0
 TLC Pan Regional - Hungarian
 p:,c:000ce4,c:010ce6,c:020cf1,c:030ce4
@@ -40414,7 +40408,7 @@ TLC Pan Regional - Russian
 p:PVU
 0ce6:00820000:1518:013e:1:0
 Camera dei Deputati (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0ce6:0dca0000:0021:0800:1:0
 Infinity 2
 p:du,c:000cfe,c:010cff,c:030cfe
@@ -40666,7 +40660,7 @@ Live 960
 p:BSkyB
 d7e8:011a0000:0a35:0002:1:0
 Africa Channel (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 00e9:0de82a36:0001:0001:1:0
 Cinemax Poland
 p:,c:0003f2,c:0103ec,c:020404,c:0303f2
@@ -40786,7 +40780,7 @@ TLC Pan Regional - Portuguese
 p:PVU
 0ce9:00820000:1518:013e:1:0
 Rai Sport 1 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0ce9:0030b022:005e:0001:1:0
 TLC Pan Regional - Portuguese
 p:,c:000ce4,c:010cea,c:020cf1,c:030ce4
@@ -41077,7 +41071,7 @@ Equidia PRO1
 p:GlobeCast
 0ceb:00820000:1518:013e:1:0
 Rai Storia (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0ceb:0dca0000:0021:0800:1:0
 Al Waha
 p:du,c:000d1c,c:010d1d,c:030d1c
@@ -41113,7 +41107,7 @@ TVN 7 HD_
 p:TVN
 50eb:011a0000:080f:0002:1:0
 ITV 1 + 1 (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 69eb:ffff0000:0097:270f:1:0
 K-TV
 p:Unitymedia
@@ -41140,7 +41134,7 @@ Cinemax International
 p:PowerVu
 03ec:0c993175:0000:0000:1:0
 Feeds NSSL
-p:S@tje07,f:1
+p:S@tje07,f:01
 03ec:005a0000:0001:00aa:1:0
 ΤΕΣΤ 5
 p:OTE
@@ -41491,7 +41485,7 @@ FEM3
 p:RCS
 0cee:00820000:1518:013e:1:0
 Rai Gulp (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0cee:0dca0000:0021:0800:1:0
 Fatafeat
 p:du,c:000d26,c:010d27,c:030d26
@@ -41509,7 +41503,7 @@ JOJ PLUS
 p:Towercom
 13ee:00820000:05dc:013e:1:0
 TVS-TV Silesia (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 15ee:00eb0000:0c9a:0003:1:0
 Viasat HD CZ
 p:Skylink
@@ -41548,7 +41542,7 @@ JimJam
 p:UPC Direct
 cfee:011a0000:0909:0002:1:0
 Information TV (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 d6ee:011a0000:0a33:0002:1:0
 Vintage TV
 p:BSkyB
@@ -41950,7 +41944,7 @@ VOA TV 242
 p:
 01f2:00820000:1964:013e:1:0
 Saudi Sport 1 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 03f2:0104300f:0000:0000:1:0
 C ESSENTIEL
 p:Le Bouquet Canal+
@@ -42115,7 +42109,7 @@ CBC Drama
 p:NILESAT
 13f3:00eb0000:0c87:0003:1:0
 TA3
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 13f3:00820000:05dc:013e:1:0
 Eleven Sports 1 HD
 p:nc+,C:1884,C:186c,C:1861,C:1813,C:1803,C:0b01,C:06ed,C:0500,C:0100
@@ -42268,7 +42262,7 @@ TEST
 p:Digital Platform
 15f4:00eb0000:0c9a:0003:1:0
 BNT World
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1af4:00300000:0011:0055:1:0
 Viasat Promo
 p:
@@ -42409,7 +42403,7 @@ p:NILESAT
 p:BSkyB,f:40
 13f5:00820000:05dc:013e:1:0
 ITV Polska (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1cf5:00460000:c738:007e:1:0
 NU JAZZ
 p:Digitürk,c:000880,c:010a03,c:030880
@@ -42432,7 +42426,7 @@ p:Eutelsat,C:0604,C:091f,C:0931,C:1803,C:0500
 VH1 Classic
 p:KabelKiosk
 6ff5:00c00000:042a:0001:1:0
-Nick Jr 
+Nick Jr
 p:MTV Networks Europe
 75f5:00c00000:0422:0001:1:0
 
@@ -42559,7 +42553,7 @@ LTV 1
 p:Viasat,c:0018f7,c:0118f8,c:0318f7
 18f6:011a0000:07fd:0002:1:0
 BBC Red Button Stream 1 (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 1af6:0082ad15:03fe:0001:1:0
 beIN SPORTS 1
 p:,C:0000
@@ -42658,7 +42652,7 @@ Al Masry
 p:NILESAT
 18f7:011a0000:07fd:0002:1:0
 BBC Red Button Stream 2 (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 1cf7:00460000:c738:007e:1:0
 BLUES
 p:Digitürk,c:000880,c:010a05,c:030880
@@ -42778,7 +42772,7 @@ Misr 25
 p:NILESAT
 13f8:00820000:05dc:013e:1:0
 TV Puls (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 18f8:00c00000:03f4:0001:1:0
 RT Esp HD
 p:GLOBECAST
@@ -42790,7 +42784,7 @@ Russia Today
 p:GlobeCast
 1bf8:011a0000:07e2:0002:1:0
 S4C Digidol (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1cf8:00460000:c738:007e:1:0
 REGGAE
 p:Digitürk,c:000880,c:010a06,c:030880
@@ -42841,7 +42835,7 @@ Nat Geo Wild HD
 p:Telefonica Spain
 02f9:00eb0000:0c9a:0003:1:0
 NGW (test)
-p:Familie,c:00044d,c:0302f9,f:9
+p:Familie,c:00044d,c:0302f9,f:09
 03f9:0dcaac5a:0000:0000:1:0
 NourSat
 p:STN
@@ -43033,7 +43027,7 @@ Al Jazeera Sport +6
 p:Arabesque,c:00189e,c:01189f,c:03189e
 20fa:00820000:01f4:013e:1:0
 Al Jazeera Sports Global (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 29fa:00820000:3cf0:013e:1:0
 Mediterraneo Sat
 p:GlobeCast
@@ -43129,7 +43123,7 @@ p:Du,c:000d05,c:010d06,c:030d05
 p:Magio TV
 11fb:00820000:2b5c:013e:1:0
 RTP International (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 13fb:00820000:05dc:013e:1:0
 TVP Regionalna
 p:nc+,f:40
@@ -43705,7 +43699,7 @@ PatriaRD
 p:Towercom
 1901:011a0000:07ff:0002:2:0
 BBC Radio Five Live (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 3b01:0168ae69:0001:0001:2:0
 TAR
 p:Multichoice Africa,c:011004,c:031004
@@ -44596,7 +44590,7 @@ Radio 6
 p:Elpitel,c:010304,c:030304
 0c0f:00820000:20d0:013e:2:0
 RFI Francais (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1d0f:01a40000:c5a8:007e:2:0
 MASAL RADYO
 p:Digital Platform
@@ -45259,7 +45253,7 @@ RADIO NAMAYESH
 p:IRIB
 201a:00820000:24b8:013e:2:0
 WRN Francais (13)
-p:Vrij te Ontvangen,c:03083b,f:9
+p:Vrij te Ontvangen,c:03083b,f:09
 3c1a:00820000:0320:fbff:2:0
 STUDIO 54
 p:SkyItalia
@@ -45811,7 +45805,7 @@ Rotana Radio Jordan
 p:ADD,c:01028b,c:03028b
 0e2e:00820000:0708:00c8:2:0
 R.ITALIA s.m.i. (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0e2e:0e082e7c:000c:0001:2:0
 Europa FM Oltenia
 p:RCS
@@ -45967,7 +45961,7 @@ Radio Fresh
 p:ESS
 1932:011a0000:07ff:0002:2:0
 BBC Radio 1 (28)
-p:Vrij te Ontvangen,c:031839,f:9
+p:Vrij te Ontvangen,c:031839,f:09
 1c32:00820000:1c20:013e:2:0
 R Tunisie Culture
 p:AH-EDP
@@ -46066,7 +46060,7 @@ Love Radio
 p:Love Radio,c:011835,c:031835
 1934:011a0000:07ff:0002:2:0
 BBC Radio 2 (28)
-p:Vrij te Ontvangen,c:03189d,f:9
+p:Vrij te Ontvangen,c:03189d,f:09
 5e34:ffff0000:00c9:270f:2:0
 Radio ZET
 p:Unitymedia
@@ -46414,7 +46408,7 @@ WDR 2
 p:ARD WDR
 cb3c:011a0000:0907:0002:2:0
 BFBS Radio (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 003d:005a0000:00c9:000a:2:0
 Test Tone 4 Channel
 p:,C:0e00
@@ -46552,10 +46546,10 @@ RNE RADIO EXTERIOR DE ESPAÑA
 p:RTVE
 1940:011a0000:07ff:0002:2:0
 BBC Radio Five Live Sport (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 3340:00eb0000:0c89:0003:2:0
 Radio Beat
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 6f40:00c00000:0445:0001:2:0
 COSMO
 p:ARD WDR
@@ -46609,7 +46603,7 @@ DISCORADIO
 p:M-Three satcom
 1942:011a0000:07ff:0002:2:0
 BBC 1 Xtra (28)
-p:Vrij te Ontvangen,c:031965,f:9
+p:Vrij te Ontvangen,c:031965,f:09
 3342:00c00000:045b:0001:2:0
 OE1 DD
 p:ORF
@@ -46633,7 +46627,7 @@ RAI R
 p:Multichoice Africa,c:01015d,c:03015d
 0e43:00820000:0708:00c8:2:0
 DEEJAY (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0e43:00820000:1c20:013e:2:0
 DEEJAY
 p:M-Three satcom
@@ -46657,7 +46651,7 @@ InsightRadio
 p:BSkyB
 0e44:00820000:0708:00c8:2:0
 CAPITAL (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0e44:00820000:1c20:013e:2:0
 CAPITAL
 p:M-Three satcom
@@ -46705,7 +46699,7 @@ MOOD RADIO
 p:MOOD MEDIA,c:0100f0,c:0300f0
 1946:011a0000:07ff:0002:2:0
 BBC London (28)
-p:Vrij te Ontvangen,c:0319c9,f:9
+p:Vrij te Ontvangen,c:0319c9,f:09
 3346:00c00000:045b:0001:2:0
 OE2 O
 p:ORF
@@ -46837,7 +46831,7 @@ SS Radio
 p:Digit Alb,c:01084c,c:03084c
 254c:011a0000:0a34:0002:2:0
 Capital Xtra (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 334c:ffff0000:0083:270f:2:0
 R'n'B & Soul Classic
 p:Unitymedia - Music Choice
@@ -46852,7 +46846,7 @@ test2.
 p:Digitürk,c:0108a5,c:0308a5
 254d:011a0000:0a34:0002:2:0
 Choice FM (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 334d:00c00000:045b:0001:2:0
 OE3
 p:ORF
@@ -46966,7 +46960,7 @@ R Tunisie Nationale
 p:AH-EDP
 1f52:00eb0000:0bc6:0003:2:0
 CRo Radiozurnal
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 2552:011a0000:0a34:0002:2:0
 UCB Gospel
 p:BSkyB
@@ -47071,7 +47065,7 @@ CRo REGION
 p:Skylink
 2557:011a0000:0a34:0002:2:0
 XFM (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 1258:00300000:001a:0056:2:0
 Lugna Favoriter
 p:Viasat,c:011259,c:031259
@@ -47080,13 +47074,13 @@ p:Viasat,c:011259,c:031259
 p:BFBS,c:0101a8,c:0301a8
 1f58:00eb0000:0bc6:0003:2:0
 BBC CZ
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 2558:011a0000:081a:0002:2:0
 Capital FM (28)
 p:Vrij te Ontvangen,c:03090e,f:49
 2558:011a0000:0a34:0002:2:0
 Capital FM (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 d758:011a0000:0a34:0002:2:0
 UCB Ireland
 p:BSkyB
@@ -47104,7 +47098,7 @@ Gold (28)
 p:Vrij te Ontvangen,c:030906,f:49
 2559:011a0000:0a34:0002:2:0
 Gold (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 005a:00820000:2e18:00b0:2:0
 Laâyoune
 p:SNRT
@@ -47143,7 +47137,7 @@ p:,c:0107f1,c:0307d7
 p:BFBS,c:0101ab,c:0301ab
 1f5b:00eb0000:0bc6:0003:2:0
 CRo Plus / Jazz
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 255b:011a0000:0a34:0002:2:0
 Khushkhabri
 p:BSkyB
@@ -47161,7 +47155,7 @@ p:NILESAT,c:01040b,c:03040b
 p:BFBS,c:0101ac,c:0301ac
 1f5c:00eb0000:0bc6:0003:2:0
  Radio Wave
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 365c:00820000:1388:013e:2:0
 BBC Arabic
 p:BBC World Service
@@ -47188,7 +47182,7 @@ p:NILESAT,c:0103fe,c:0303fe
 p:BFBS,c:0101ad,c:0301ad
 1f5d:00eb0000:0bc6:0003:2:0
 CRo Radio Praha
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 005e:00303082:0065:0001:2:0
 ALT VC 90 AND 91
 p:,c:0101f6,c:030ce4
@@ -47218,7 +47212,7 @@ Kismat
 p:BSkyB
 335e:00eb0000:0c93:0003:2:0
 Country Radio
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 025f:0e080000:0047:0046:2:0
 DR P1
 p:Telenor
@@ -47242,7 +47236,7 @@ p:
 p:BFBS,c:0101af,c:0301af
 335f:00eb0000:0c93:0003:2:0
 Beat M
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 0260:0e080000:0047:0046:2:0
 DR P3
 p:Telenor
@@ -47317,7 +47311,7 @@ Classic FM uk (28)
 p:Vrij te Ontvangen,c:030928,f:49
 2562:011a0000:0a34:0002:2:0
 Classic FM (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 0063:0de82a36:0001:0001:2:0
 OS Download
 p:,c:010258,c:030262
@@ -47416,7 +47410,7 @@ Planet Rock (28)
 p:Vrij te Ontvangen,c:030929,f:49
 2567:011a0000:0a34:0002:2:0
 Planet Rock (28)
-p:Vrij te ontvangen,f:9
+p:Vrij te ontvangen,f:09
 0068:0212ab24:0004:1111:2:0
 HIT_FM
 p:RSCC
@@ -47536,7 +47530,7 @@ Radio3 mono
 p:RAI
 516c:00eb0000:0c8b:0003:2:0
 Radio Oost
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 6d6c:00c00000:0437:0001:2:0
 Dlf Kultur
 p:ZDFvision
@@ -47574,11 +47568,11 @@ p:BSkyB
 
 p:
 316e:00c00000:0459:0001:2:0
-ffn 
+ffn
 p:MB Satellite
 516e:00eb0000:0c8b:0003:2:0
 Radio Gelderland
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 006f:010430a7:022c:0001:2:0
 OMAN SHABAB RADIO
 p:OMAN TV,c:01008c,c:03008c
@@ -47920,7 +47914,7 @@ Paquetes
 p:Digital+ (Hispasat),c:0100fe,c:0300fe
 147d:00eb0000:0c98:0003:2:0
 RTL Radio Letzebuerg
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2b7d:ffff0000:00bf:270f:2:0
 Total Hits Deutschland
 p:Unitymedia - Music Choice
@@ -47938,7 +47932,7 @@ Persian Radio
 p:RRSat
 147e:00eb0000:0c98:0003:2:0
 Radio 100,7 Letzebuerg
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 2b7e:ffff0000:00bf:270f:2:0
 Total Hits Italien
 p:Unitymedia - Music Choice
@@ -48016,7 +48010,7 @@ Radio B92
 p:Scopus
 cf81:011a0000:0908:0002:2:0
 Absolute Radio (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0082:0dca0000:0001:0800:2:0
 Alforat R
 p:NILESAT,c:010406,c:030406
@@ -48127,7 +48121,7 @@ Cocktail Lounge
 p:Unitymedia - Music Choice
 5186:00eb0000:0c8b:0003:2:0
 Radio Veronica
-p:Vrij te Ontvangen,c:031ffe,f:9
+p:Vrij te Ontvangen,c:031ffe,f:09
 cf86:011a0000:0908:0002:2:0
 Desi Radio
 p:BSkyB
@@ -48166,7 +48160,7 @@ Arabisch
 p:Unitymedia - Music Choice
 5188:00eb0000:0c8b:0003:2:0
 Sky Radio
-p:Vrij te Ontvangen,c:010110,c:030110,f:9
+p:Vrij te Ontvangen,c:010110,c:030110,f:09
 0189:00820000:1c84:013e:2:0
 Radio2
 p:NETMED
@@ -48199,7 +48193,7 @@ Total Hits Spanien
 p:Unitymedia - Music Choice
 518a:00eb0000:0c8b:0003:2:0
 Classic FM
-p:Vrij te Ontvangen,c:031ffe,f:9
+p:Vrij te Ontvangen,c:031ffe,f:09
 028b:0dca0000:0006:0800:2:0
 Al bernameg AL thekafy
 p:NILESAT,c:010c09,c:030c09
@@ -48232,13 +48226,13 @@ RTE 2FM
 p:BSkyB
 288c:011a0000:07fe:0002:2:0
 BBC Radio 3 (28)
-p:Vrij te Ontvangen,c:031771,f:9
+p:Vrij te Ontvangen,c:031771,f:09
 2b8c:ffff0000:008d:270f:2:0
 Total Hits Polen
 p:Unitymedia - Music Choice
 518c:00eb0000:0c8b:0003:2:0
 Radio 538
-p:Vrij te Ontvangen,c:010114,c:030114,f:9
+p:Vrij te Ontvangen,c:010114,c:030114,f:09
 cf8c:011a0000:0908:0002:2:0
 Spectrum 1
 p:BSkyB
@@ -48265,7 +48259,7 @@ RTE R na G
 p:BSkyB
 288d:011a0000:07fe:0002:2:0
 BBC Radio 4 FM (28)
-p:Vrij te Ontvangen,c:031772,f:9
+p:Vrij te Ontvangen,c:031772,f:09
 298d:00820000:3d54:013e:2:0
 ILC Tamil
 p:BSS
@@ -48298,7 +48292,7 @@ p:BSS
 p:Unitymedia - Music Choice
 518e:00eb0000:0c8b:0003:2:0
 Radio 10
-p:Vrij te Ontvangen,c:010116,c:030116,f:9
+p:Vrij te Ontvangen,c:010116,c:030116,f:09
 028f:0dca0000:0006:0800:2:0
 Mowagahat-8
 p:NILESAT,c:010c31,c:030c31
@@ -48316,7 +48310,7 @@ MASAL TV
 p:Digitürk,c:010a30,c:031fff
 288f:011a0000:07fe:0002:2:0
 BBC 6 Music (28)
-p:Vrij te Ontvangen,c:031774,f:9
+p:Vrij te Ontvangen,c:031774,f:09
 298f:00820000:3d54:013e:2:0
 Nawa Arabic Radio
 p:BSS
@@ -48334,13 +48328,13 @@ Soul R&b
 p:Viasat,c:010e91,c:030e91
 2890:011a0000:07fe:0002:2:0
 BBC Radio 4 Extra (28)
-p:Vrij te Ontvangen,c:031775,f:9
+p:Vrij te Ontvangen,c:031775,f:09
 2b90:ffff0000:008d:270f:2:0
 Classic Rock
 p:Unitymedia - Music Choice
 5190:00eb0000:0c8b:0003:2:0
 SLAM FM!
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 cf90:011a0000:0908:0002:2:0
 Yorkshire R
 p:BSkyB
@@ -48379,7 +48373,7 @@ Radio 3
 p:Telefonica Spain
 5192:00eb0000:0c8b:0003:2:0
 BNR Nieuwsradio
-p:STD,f:9
+p:STD,f:09
 cf92:011a0000:0908:0002:2:0
 RTE R1 Extra
 p:BSkyB
@@ -48472,7 +48466,7 @@ BBC Eur Feed 4
 p:BBC World Service
 cf96:011a0000:0908:0002:2:0
 Jazz FM (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0097:005a0000:1838:009e:2:0
 Kossuth Radio
 p:eVision
@@ -48523,7 +48517,7 @@ Bartok Radio
 p:eVision
 0399:00820000:2134:013e:2:0
 SRF 1 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0399:00a00000:76c1:016e:2:0
 My Music Radio
 p:Digit Alb,c:011393,c:031393
@@ -48547,13 +48541,13 @@ Nemzetisegi Adasok
 p:eVision
 039a:00820000:2134:013e:2:0
 SRF 2 Kultur (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1c9a:00820000:1ce8:0071:2:0
 RMF Classic
 p:Cyfrowy Polsat S.A.
 519a:00eb0000:0c8b:0003:2:0
 100% NL
-p:Vrij te Ontvangen,c:0100eb,c:031ffe,f:9
+p:Vrij te Ontvangen,c:0100eb,c:031ffe,f:09
 759a:00c00000:0422:0001:2:0
 10847V SID 0x759a
 p:DVB-S QPSK 10847V 19.2°E
@@ -48565,7 +48559,7 @@ Parlamenti Adasok
 p:eVision
 039b:00820000:2134:013e:2:0
 SRF 3 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1c9b:00820000:1ce8:0071:2:0
 Jedynka - PR
 p:Cyfrowy Polsat S.A.
@@ -48574,7 +48568,7 @@ Millennium Radio
 p:M-Three satcom
 039c:00820000:2134:013e:2:0
 SRF Virus (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 129c:00820000:3458:013e:2:0
 VOISFARSI
 p:Eutelsat
@@ -48586,13 +48580,13 @@ Radio Eviva
 p:BSS
 519c:00eb0000:0c8b:0003:2:0
 Arrow Classic Rock
-p:Vrij te Ontvangen,c:0100ed,c:0300ed,f:9
+p:Vrij te Ontvangen,c:0100ed,c:0300ed,f:09
 009d:005a0000:0001:0064:2:0
 Ecoradio
 p:M-Three satcom
 039d:00820000:2134:013e:2:0
 SRF Musikwelle (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0c9d:0dca0000:0020:0800:2:0
 Chaine 1
 p:NILESAT,c:01040d,c:03040d
@@ -48604,7 +48598,7 @@ RADIO CUORE
 p:M-Three satcom
 039e:00820000:2134:013e:2:0
 SRG-Rumantsch (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 1b9e:013b0000:1464:0005:2:0
 SuperRadio
 p:Novy Obriy
@@ -48616,7 +48610,7 @@ MOSAIQUE RADIOS
 p:CSAT
 519e:00eb0000:0c8b:0003:2:0
 Arrow Caz (23)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 009f:0de80000:0003:00d3:2:0
 Realitatea FM
 p:Boom,c:010e1a,c:030e1a
@@ -48712,7 +48706,7 @@ Radio Tondar
 p:Eutelsat
 03a6:00820000:2134:013e:2:0
 Swiss Classic (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 03a6:005a0000:17d4:009e:2:0
 RFI Afrique
 p:RFI
@@ -48727,7 +48721,7 @@ Jijel
 p:TDA,c:0102ac,c:0302ac
 03a7:00820000:2134:013e:2:0
 Swiss Pop (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 03a7:005a0000:17d4:009e:2:0
 RFI Divers 1
 p:RFI
@@ -48739,7 +48733,7 @@ Naama
 p:TDA,c:0102a3,c:0302a3
 03a8:00820000:2134:013e:2:0
 Swiss Jazz (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 03a8:005a0000:17d4:009e:2:0
 RFI Divers 2
 p:RFI
@@ -48760,7 +48754,7 @@ TEBESSA
 p:TDA,c:01027b,c:03027b
 03a9:00820000:2134:013e:2:0
 SRF 4 News (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 03a9:005a0000:17d4:009e:2:0
 RFI Divers 7
 p:RFI
@@ -49444,7 +49438,7 @@ RFI INTERNAT
 p:CSAT
 36cb:00820000:06a4:013e:2:0
 RTS-La 1ere (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 43cb:00820000:2cec:013e:2:0
 ERA 3
 p:RRSat
@@ -49465,7 +49459,7 @@ RADIO CLASSIQUE
 p:CSAT
 36cc:00820000:06a4:013e:2:0
 RTS-Espace 2 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 43cc:00820000:2cec:013e:2:0
 ERA SPORT
 p:RRSat
@@ -49486,7 +49480,7 @@ RTL
 p:CSAT
 36cd:00820000:06a4:013e:2:0
 RTS-Couleur3 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 42cd:00820000:2bc0:013e:2:0
 TestR1
 p:
@@ -49513,7 +49507,7 @@ EUROPE 1
 p:CSAT
 36ce:00820000:06a4:013e:2:0
 RTS-Option Musique (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 42ce:00820000:2bc0:013e:2:0
 TestR2
 p:
@@ -49531,7 +49525,7 @@ RMC
 p:CSAT
 36cf:00820000:06a4:013e:2:0
 RSI-Rete Uno (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 42cf:00820000:2bc0:013e:2:0
 TestR3
 p:
@@ -49558,7 +49552,7 @@ RIRE & CHANSONS
 p:CSAT
 36d0:00820000:06a4:013e:2:0
 RSI-Rete Due (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 42d0:00820000:2bc0:013e:2:0
 TestR4
 p:
@@ -49576,7 +49570,7 @@ RFI Hispasat2
 p:RFI
 36d1:00820000:06a4:013e:2:0
 RSI-Rete Tre (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 38d1:00820000:2648:fbff:2:0
 Radio DeeJay
 p:SkyItalia
@@ -49687,7 +49681,7 @@ Power Hit Radio
 p:,c:011ad7,c:031ad7
 36d6:00820000:06a4:013e:2:0
 World Radio Switzerland (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 38d6:00820000:2648:fbff:2:0
 Radio KissKiss
 p:SkyItalia
@@ -49708,7 +49702,7 @@ TSF JAZZ
 p:CSAT
 36d7:00820000:06a4:013e:2:0
 RSR Classique (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 38d7:00820000:2648:fbff:2:0
 RTL 102.5
 p:SkyItalia
@@ -49780,7 +49774,7 @@ Radio 24
 p:SkyItalia
 06db:00820000:3138:013e:2:0
 Radio 2M (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 07db:0e080000:0014:0046:2:0
 DR P4 København
 p:Telenor
@@ -50146,7 +50140,7 @@ TRT FM
 p:JMC
 0cef:00820000:1518:013e:2:0
 RADIOUNO (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0eef:0dca0000:0026:0800:2:0
 Test
 p:NILESAT
@@ -50182,7 +50176,7 @@ RFI Bucarest
 p:GLOBECAST
 0cf0:00820000:1518:013e:2:0
 RADIODUE (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 0ff0:00a00000:5e24:016e:2:0
 Radio Glas Drine
 p:NTH,c:010ff3,c:031ffe
@@ -50203,7 +50197,7 @@ test_i2
 p:Digital Platform
 0cf1:00820000:1518:013e:2:0
 RADIOTRE (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 6ef1:00c00000:0445:0001:2:0
 Bayern 2
 p:ARD BR
@@ -50449,10 +50443,10 @@ Litera
 p:Towercom
 27fe:011a0000:0806:0002:2:0
 talkSPORT (28)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 29fe:00820000:3cf0:013e:2:0
 RTL 102.5 (13)
-p:Vrij te Ontvangen,f:9
+p:Vrij te Ontvangen,f:09
 3afe:0168ae69:0001:0001:2:0
 BBC2
 p:Multichoice Africa,c:010fe6,c:030fe6
@@ -54976,7 +54970,7 @@ LA 1 HD
 p:Movisrta+
 0064:0064b157:0000:0000:25:0
 APTN Global
-p:S@tje07,f:1
+p:S@tje07,f:01
 0064:00a00000:1000:2000:25:0
 TV 7 (Moldova)
 p:TDB Service,c:000065,c:010066,c:030065
@@ -60198,4 +60192,4 @@ p:SkyItalia
 Fusion FGDL
 p:SkyItalia
 end
-Have a lot of bugs!
+Edited with dreamboxEDIT 7.1.0.0 on 13Jan2019 13:11:04
