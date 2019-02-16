@@ -27,7 +27,7 @@
 #DESCRIPTION VOX
 #SERVICE 4097:0:1:445E:453:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,578,1711:kabel eins
 #DESCRIPTION kabel eins
-#SERVICE 4097:0:1:30:5:85:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658:kabel eins Doku
+#SERVICE 4097:0:1:4465:453:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,654,658:kabel eins Doku
 #DESCRIPTION kabel eins Doku
 #SERVICE 4097:0:1:3F:21:85:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,548:DMAX
 #DESCRIPTION DMAX
