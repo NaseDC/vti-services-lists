@@ -2,7 +2,7 @@
 <!-- 
 ################################################
 ### satellites.xml by NaseDC VTi Kanallisten ###
-###             date: 10.01.2019             ###
+###             date: 17.02.2019             ###
 ################################################
 
 # <sat name="Eutelsat Hot Bird 13B/13C/13E (13.0E)" flags="0" position="130">
@@ -47,7 +47,7 @@ fec_inner=15: None
 		<transponder frequency="10719000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 110 -->
 		<transponder frequency="10727000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 111 -->
 		<transponder frequency="10758000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 112 -->
-		<transponder frequency="10775000" symbol_rate="27500000" polarization="0" fec_inner="4" system="0" modulation="1"/><!-- TP 113 -->
+		<transponder frequency="10775000" symbol_rate="29900000" polarization="0" fec_inner="7" system="1" modulation="2"/><!-- TP 113 -->
 		<transponder frequency="10796000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 114 -->
 		<transponder frequency="10815000" symbol_rate="27500000" polarization="0" fec_inner="4" system="0" modulation="1"/><!-- TP 115 -->
 		<transponder frequency="10834000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 116 -->

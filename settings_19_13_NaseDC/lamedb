@@ -142,7 +142,7 @@ eeee0000:6f00:2114
 	s 12399000:29700000:0:2:130:2:0:1:2:2:2
 /
 00820000:21fc:013e
-	s 12437000:29900000:0:3:130:2:0:1:1:0:2
+	s 10775000:29900000:0:7:130:2:0:1:2:0:2
 /
 00820000:22c4:013e
 	s 12475500:29900000:0:3:130:2:0:1:2:0:2
@@ -652,6 +652,9 @@ p:
 p:
 3c1e:00820000:0064:fbff:0:0
 
+p:
+0032:00820000:2f44:013e:0:0
+Shant premium HD
 p:
 0033:00820000:2f44:013e:0:0
 Shant Music HD
@@ -1237,7 +1240,7 @@ ESP HD
 p:nc+
 3615:00820000:00c8:013e:1:0
 ESP Turk
-p:Eutelsat
+p:EUROSPORT
 1316:00820000:2e7c:013e:1:0
 Eurosport 2 HD UPC
 p:nc+
@@ -1280,18 +1283,12 @@ p:M-Three satcom
 1419:00c00000:0403:0001:1:0
 TVCI
 p:SES
-3619:00820000:00c8:013e:1:0
-France 24 (en Francais)
-p:Eutelsat
 141a:00c00000:0403:0001:1:0
 STS Int
 p:SES
 291a:00820000:1edc:0071:1:0
 Cartoon Network HD
 p:Cyfrowy Polsat S.A.
-361a:00820000:00c8:013e:1:0
-France 24 (in English)
-p:Eutelsat
 141b:00c00000:0403:0001:1:0
 8 TV RU
 p:SES
@@ -1868,9 +1865,6 @@ p:ARD
 7731:00c00000:0416:0001:1:0
 HISTORIA
 p:HIST
-0032:00820000:2f44:013e:1:0
-Shant Premium HD
-p:
 0132:00820000:3e1c:013f:1:0
 M6 HD
 p:Eutelsat
@@ -2324,9 +2318,6 @@ p:Eutelsat
 0145:00820000:157c:013e:1:0
 ALPHA TV
 p:NetMed
-1f45:00820000:319c:013e:1:0
-VIVID RED HD
-p:MB Satellite
 2145:00820000:3070:013e:1:0
 tivùlink
 p:tivù
@@ -2591,9 +2582,6 @@ p:DVB-S2 8PSK 10729V 19.2°E
 0154:0082afc2:0065:0001:1:0
 Global HD 340
 p:
-1f54:00820000:319c:013e:1:0
-Gala TV
-p:MB Satellite
 2654:00c00000:0460:0001:1:0
 F3 CORSEVIASTELLA
 p:CSAT
@@ -2750,9 +2738,6 @@ p:nc+
 125e:00c00000:03f7:0001:1:0
 .
 p:BetaDigital
-1f5e:00820000:319c:013e:1:0
-Al Alam TV
-p:MB Satellite
 265e:00c00000:0460:0001:1:0
 F3 PICARDIE
 p:CSAT
@@ -3386,6 +3371,9 @@ p:Movistar+
 057e:00820000:0320:fbff:1:0
 Milan TV
 p:SkyItalia
+137e:00820000:33f4:013e:1:0
+Kalsan TV
+p:Telespazio
 757e:00c00000:0412:0001:1:0
 BEINLALIGA6
 p:Movistar+
@@ -3452,6 +3440,9 @@ p:
 0c83:00820000:2328:013e:1:0
 TV K-C
 p:STN Ltd
+0c83:00820000:1f40:013e:1:0
+TCI
+p:overon
 7583:00c00000:0412:0001:1:0
 M.LCAMPEON7
 p:Movistar+
@@ -3476,9 +3467,6 @@ p:NetMed
 0585:00820000:2774:fbff:1:0
 LEI +1
 p:SkyItalia
-1385:00820000:33f4:013e:1:0
-ElKeraza
-p:Telespazio
 1c85:00820000:1ce8:0071:1:0
 Polsat Romans
 p:Cyfrowy Polsat S.A.
@@ -4494,7 +4482,7 @@ p:TVE 1
 Al Jazeera Documentary
 p:Telespazio
 0fc1:00820000:1e14:fbff:1:0
-FoxCrime Profiling
+Fox Crime +1
 p:SkyItalia
 1bc1:00820000:17d4:013e:1:0
 Adult Pack Info
@@ -5159,6 +5147,9 @@ p:nc+
 0fd8:00820000:1e14:fbff:1:0
 Canale Italia 84
 p:SkyItalia
+39d8:00820000:1fa4:013e:1:0
+PMC SD
+p:MX1
 77d8:00c00000:040a:0001:1:0
 NAT GEO WILD
 p:DIGITAL+
@@ -5362,7 +5353,7 @@ RFE/RL Russian HD 230
 p:
 05e6:00820000:2f44:013e:1:0
 SCT
-p:
+p:M-Three satcom
 0ce6:00820000:1518:013e:1:0
 Camera Deputati
 p:Rai
@@ -5690,9 +5681,6 @@ p:SkyItalia
 01fb:00820000:0384:013e:1:0
 WAAR HD
 p:Waar
-11fb:00820000:2b5c:013e:1:0
-TRAVELXP 4K
-p:
 1efb:00820000:21fc:013e:1:0
 PRESS TV HD
 p:IRIB
@@ -6358,13 +6346,13 @@ WDR Event
 p:ARD WDR
 0e44:00820000:1c20:013e:2:0
 CAPITAL
-p:M-Three satcom
+p:M-Three Satcom
 3344:00c00000:045b:0001:2:0
 OE2 N
 p:ORF
 0e45:00820000:1c20:013e:2:0
 M DUE O
-p:M-Three satcom
+p:M-Three Satcom
 3345:00c00000:045b:0001:2:0
 OE2 B
 p:ORF
@@ -7724,15 +7712,27 @@ p:Eutelsat
 0775:00820000:012c:013e:22:0
 MBC DRAMA
 p:Eutelsat
+0777:00820000:012c:013e:22:0
+ENNAHAR
+p:Eutelsat
 5277:00c00000:041d:0001:22:0
 SES 75
 p:BetaDigital
+0778:00820000:012c:013e:22:0
+AL MAJD RAWDA
+p:Eutelsat
 5278:00c00000:041d:0001:22:0
 SOPHIA TV
 p:BetaDigital
+0779:00820000:012c:013e:22:0
+ROTANA CLASSIC
+p:Eutelsat
 5279:00c00000:041d:0001:22:0
 Genius Plus
 p:BetaDigital
+077a:00820000:012c:013e:22:0
+PANORAMA FOOD
+p:Eutelsat
 1081:00c00000:03ee:0001:22:0
 Deutschland Vozrozhdenie
 p:SES
@@ -9545,6 +9545,9 @@ p:ORF
 33fa:00c00000:03ed:0001:25:0
 ORF2T HD
 p:ORF
+11fb:00820000:2b5c:013e:25:0
+TRAVELXP 4K
+p:
 33fb:00c00000:03ed:0001:25:0
 ORF2V HD
 p:ORF
