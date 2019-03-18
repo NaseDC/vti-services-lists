@@ -1,0 +1,377 @@
+#NAME DVB-C FritzBox_Tuner KabelDeu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,103,104,105,106,1176,2070,2171:Das Erste
+#DESCRIPTION Das Erste
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5100,5101,1170,1176,2171,2172,5102,5103,5104,5105:Das Erste HD
+#DESCRIPTION Das Erste HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,110,120,121,122,125,130,131,950:ZDF
+#DESCRIPTION ZDF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,6100,6110,6120,6121,6123,6130,6131,6170:ZDF HD
+#DESCRIPTION ZDF HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,610,620,621,622,625,630,631,950:ZDFinfo
+#DESCRIPTION ZDFinfo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,6700,6710,6720,6721,6723,6730,6731,6770:ZDFinfo HD
+#DESCRIPTION ZDFinfo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,650,660,670,671,672,675,680,681,950:zdf_neo
+#DESCRIPTION zdf_neo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,541,540,542,543,544,546,547:zdf_neo HD
+#DESCRIPTION zdf_neo HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,1701,1700,1702,1704,1706,1707,1708:VOX
+#DESCRIPTION VOX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,1401,1402,1403,1404,1406,1407,1408,6261:RTL
+#DESCRIPTION RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,1601,1600,1602,1604,1606,1607,1608:RTL II
+#DESCRIPTION RTL II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,2411,2412,2414,2416,2417,2418:RTLplus
+#DESCRIPTION RTLplus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,981,980,982,984,986,987,988:NITRO
+#DESCRIPTION NITRO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,2701,2702,2703,2704,2706:SAT.1
+#DESCRIPTION SAT.1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,2431,2432,2434,2436:SAT.1 Gold
+#DESCRIPTION SAT.1 Gold
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2201,2202,2203,2204,2206:ProSieben
+#DESCRIPTION ProSieben
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,6431,6432,6433,6434,6436:ProSieben MAXX
+#DESCRIPTION ProSieben MAXX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,1181,1182,1184,1186:sixx
+#DESCRIPTION sixx
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,101,102,104,170,2171:tagesschau24
+#DESCRIPTION tagesschau24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=586&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,1221,1222,1223,1224,1226,2171:tagesschau24 HD
+#DESCRIPTION tagesschau24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,500,501,502,503,504,570,2171:PHOENIX
+#DESCRIPTION PHOENIX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,581,582,583,584,586,2171:PHOENIX HD
+#DESCRIPTION PHOENIX HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,1901,1902,1903,1904,1906,1907,1908:n-tv
+#DESCRIPTION n-tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,2801,2802,2804:WELT
+#DESCRIPTION WELT
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,1471,1472,1474:N24 Doku
+#DESCRIPTION N24 Doku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,1511,1512,1514,1516:kabel eins Doku
+#DESCRIPTION kabel eins Doku
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,2301,2302,2304,2306:kabel eins
+#DESCRIPTION kabel eins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,210,220,221,222,225,230,231,250:3sat
+#DESCRIPTION 3sat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,110,6691,6690,6692,6693,6694,6696,6697:3sat HD
+#DESCRIPTION 3sat HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,401,402:BBC World News (eng)
+#DESCRIPTION BBC World News (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,451,452,454:TV 5 Monde (fre)
+#DESCRIPTION TV 5 Monde (fre)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,591,592:TOGGO plus
+#DESCRIPTION TOGGO plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,110,2251,2252:CNN (eng)
+#DESCRIPTION CNN (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,2371,2372,2374:ServusTV
+#DESCRIPTION ServusTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1101,1102,1104:1-2-3.tv
+#DESCRIPTION 1-2-3.tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=570&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,1711,1712,1714:1-2-3.tv HD
+#DESCRIPTION 1-2-3.tv HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=402&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,881,882,883,884,886:TLC
+#DESCRIPTION TLC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,310,320,321,325,330,331,350:KiKA
+#DESCRIPTION KiKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=474&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,431,430,432,433,434,436:KiKA HD
+#DESCRIPTION KiKA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,35,602,603,604,670,2176:rbb Berlin
+#DESCRIPTION rbb Berlin
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5310,5311,677,2171,5312,5313,5314,5315:rbb Berlin HD
+#DESCRIPTION rbb Berlin HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2600,2601,34,2602,2603,2604,2670:NDR FS NDS
+#DESCRIPTION NDR FS NDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5220,5221,1770,2171,5222,5223,5224,5225:NDR FS NDS HD
+#DESCRIPTION NDR FS NDS HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5240,5241,1770,2171,2676,5242,5243,5244,5245:NDR FS HH HD
+#DESCRIPTION NDR FS HH HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,2900,2901,33,2870,2902,2903,2904,2905:MDR S-Anhalt
+#DESCRIPTION MDR S-Anhalt
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5320,5321,2171,2870,5322,5323,5324,5325:MDR Sachsen HD
+#DESCRIPTION MDR Sachsen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,205,206,1076,2171,2178:BR Fernsehen Süd
+#DESCRIPTION BR Fernsehen Süd
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5200,5201,32,1570,2171,5202,5203,5204,5205:BR Fernsehen Süd HD
+#DESCRIPTION BR Fernsehen Süd HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,301,302,303,304,2171,2270,2276:hr-fernsehen
+#DESCRIPTION hr-fernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,6551,2171,6550,6552,6553,6554,6556:hr-fernsehen HD
+#DESCRIPTION hr-fernsehen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,600,601,602,603,604,605,2171,2370,2376:WDR Köln
+#DESCRIPTION WDR Köln
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5500,5501,2171,2370,5502,5503,5504,5505:WDR HD Köln
+#DESCRIPTION WDR HD Köln
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,801,802,803,804,806,2171,2470,2476:SWR Fernsehen RP
+#DESCRIPTION SWR Fernsehen RP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,5130,5131,1370,2171,5132,5133,5134,5135:SWR RP HD
+#DESCRIPTION SWR RP HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,1400,1401,1402,1403,1404,1405,1406,2171,2178:ARD-alpha
+#DESCRIPTION ARD-alpha
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=586&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,1211,1210,1212,1213,1214,1216,2171:ARD alpha HD
+#DESCRIPTION ARD alpha HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,200,201,202,203,204,206,270,2171:ONE
+#DESCRIPTION ONE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=570&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1721,1720,1722,1723,1724,1726,2171:ONE HD
+#DESCRIPTION ONE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,400,401,402,403,404,470:arte
+#DESCRIPTION arte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,6661,6662,6663,6664,6665,6666,6667,6669:arte HD
+#DESCRIPTION arte HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=330&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,300,1301,1302,1303,1304,2171,2970:SR Fernsehen
+#DESCRIPTION SR Fernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=586&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,1271,1270,1272,1273,1274,1276,2171:SR Fernsehen HD
+#DESCRIPTION SR Fernsehen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=362&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,100,255,256:Sky Sport News
+#DESCRIPTION Sky Sport News
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=554&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,99,1023,1027:Sky Sport News HD
+#DESCRIPTION Sky Sport News HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=378&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,2815,2816:Sky Select
+#DESCRIPTION Sky Select
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,411,412,414:TELE 5
+#DESCRIPTION TELE 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=442&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,2921,2922,2924,2926:Eurosport 1
+#DESCRIPTION Eurosport 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,2501,2502,2504,2506:SPORT1
+#DESCRIPTION SPORT1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,106,731,732,734,736:Bibel TV
+#DESCRIPTION Bibel TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2261,2262:Al Jazeera Int (eng)
+#DESCRIPTION Al Jazeera Int (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,105,2271,2272,2273,2274:sonnenklar.TV
+#DESCRIPTION sonnenklar.TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,1011,1012,1013,1014:Disney Channel
+#DESCRIPTION Disney Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,421,422,426:MTV
+#DESCRIPTION MTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,2931,2932:NHK WORLD-JAPAN (eng)
+#DESCRIPTION NHK WORLD-JAPAN (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,441,442,443,444,446:Nick
+#DESCRIPTION Nick
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,2941,2942,2944,2946:Comedy Central
+#DESCRIPTION Comedy Central
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,115,2291,2292,2294,2296:DMAX
+#DESCRIPTION DMAX
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,1501,1500,1502,1504,1506,1507,1508:SUPER RTL
+#DESCRIPTION SUPER RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2281,2282,2284,2286,7011:QVC
+#DESCRIPTION QVC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=498&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,6741,6742,6744,6746:QVC HD
+#DESCRIPTION QVC HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,111,961,962,964,966:QVC2
+#DESCRIPTION QVC2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,2311,2312,2314,2316:HSE24
+#DESCRIPTION HSE24
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=498&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,6791,6792,6794,6796:HSE24 HD
+#DESCRIPTION HSE24 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,116,1451,1452:SparhandyTV
+#DESCRIPTION SparhandyTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=466&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,112,811,812,816:eoTV
+#DESCRIPTION eoTV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,1001,1002,1006:ANIXE SD
+#DESCRIPTION ANIXE SD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,118,2351,2352:DELUXE MUSIC
+#DESCRIPTION DELUXE MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,101,2241,2242:Astro TV
+#DESCRIPTION Astro TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=538&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,104,2741,2742:Melodie TV
+#DESCRIPTION Melodie TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,1421,1422:Welt der Wunder TV
+#DESCRIPTION Welt der Wunder TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,102,6411,6412,6414,6416:HSE24 EXTRA
+#DESCRIPTION HSE24 EXTRA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,109,6501,6502,6504,6506:Deutsches Musik Fernsehen
+#DESCRIPTION Deutsches Musik Fernsehen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,108,6471,6472:SONLife (eng)
+#DESCRIPTION SONLife (eng)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,103,6421,6422,6426:Zee.One
+#DESCRIPTION Zee.One
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,107,1201,1202,1206:health tv
+#DESCRIPTION health tv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,114,2391,2392,2394:Channel21
+#DESCRIPTION Channel21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,113,2361,2362,2366:Juwelo TV
+#DESCRIPTION Juwelo TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,110,2601,2602:euronews
+#DESCRIPTION euronews
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Radio...
+#DESCRIPTION Radio...
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,700,710:Dlf Kultur
+#DESCRIPTION Dlf Kultur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,800,810:Dlf
+#DESCRIPTION Dlf
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,411,410:Dlf Nova
+#DESCRIPTION Dlf Nova
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3500,3501,2074,2177:MDR SACHSEN DD
+#DESCRIPTION MDR SACHSEN DD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3510,3511,2074,2177:MDR S-ANHALT MD
+#DESCRIPTION MDR S-ANHALT MD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3520,3521,2074,2177:MDR THÜRINGEN EF
+#DESCRIPTION MDR THÜRINGEN EF
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3530,3531,2074,2177,3532:MDR KULTUR
+#DESCRIPTION MDR KULTUR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3540,3541,2074,2177:MDR JUMP
+#DESCRIPTION MDR JUMP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3550,3551,2074,2177:MDR SPUTNIK
+#DESCRIPTION MDR SPUTNIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3560,3561,2074,2177:MDR AKTUELL
+#DESCRIPTION MDR AKTUELL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3570,3571,2074,2177:MDR KLASSIK
+#DESCRIPTION MDR KLASSIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3600,3601,2074,2177:NDR 2 NDS
+#DESCRIPTION NDR 2 NDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3610,3611,2074,2177:NDR Kultur
+#DESCRIPTION NDR Kultur
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3620,3621,2074,2177:NDR Info NDS
+#DESCRIPTION NDR Info NDS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3630,3631,2074,2177:N-JOY
+#DESCRIPTION N-JOY
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3640,3641,2074,2177:NDR 93
+#DESCRIPTION NDR 93
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3650,3651,2074,2177:NDR1 Welle Nord KI
+#DESCRIPTION NDR1 Welle Nord KI
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3660,3661,2074,2177:NDR 1 Radio MV SN
+#DESCRIPTION NDR 1 Radio MV SN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3670,3671,2074,2177:NDR 1 Nieders. HAN
+#DESCRIPTION NDR 1 Nieders. HAN
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3680,3681,2074,2177:NDR Info Spez.
+#DESCRIPTION NDR Info Spez.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3700,3701,2074,2177:Bremen Eins
+#DESCRIPTION Bremen Eins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3710,3711,2074,2177:Bremen Zwei
+#DESCRIPTION Bremen Zwei
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3720,3721,2074,2177:Bremen Vier
+#DESCRIPTION Bremen Vier
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3800,3801,2074,2177:Inforadio
+#DESCRIPTION Inforadio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3810,3811,2074,2177:Kulturradio
+#DESCRIPTION Kulturradio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3820,3821,2074,2177:Antenne Brandenburg
+#DESCRIPTION Antenne Brandenburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3830,3831,2074,2177:rbb 88.8
+#DESCRIPTION rbb 88.8
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3840,3841,2074,2177:radioeins
+#DESCRIPTION radioeins
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3850,3851,2177,5770:Fritz
+#DESCRIPTION Fritz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4000,4001,2074,2177:SWR1 BW
+#DESCRIPTION SWR1 BW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4010,4011,2074,2177:SWR1 RP
+#DESCRIPTION SWR1 RP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4020,4021,2074,2177,4022:SWR2
+#DESCRIPTION SWR2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4030,4031,2074,2177:SWR3
+#DESCRIPTION SWR3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4040,4041,2074,2177:SWR4 BW
+#DESCRIPTION SWR4 BW
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4050,4051,2074,2177:SWR4 RP
+#DESCRIPTION SWR4 RP
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4060,4061,2074,2177:DASDING
+#DESCRIPTION DASDING
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4070,4071,2074,2177:SWR Aktuell
+#DESCRIPTION SWR Aktuell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3400,3401,2074,2177:hr1
+#DESCRIPTION hr1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3410,3411,2074,2177,3412:hr2
+#DESCRIPTION hr2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3420,3421,2074,2177:hr3
+#DESCRIPTION hr3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3430,3431,2074,2177:hr4
+#DESCRIPTION hr4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3450,3451,2074,2177:YOU FM
+#DESCRIPTION YOU FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3460,3461,2074,2177:hr-iNFO
+#DESCRIPTION hr-iNFO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3900,3901,2074,2177:SR 1 Europawelle
+#DESCRIPTION SR 1 Europawelle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3910,3911,2074,2177:SR 2 KulturRadio
+#DESCRIPTION SR 2 KulturRadio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3920,3921,2074,2177:SR 3 Saarlandwelle
+#DESCRIPTION SR 3 Saarlandwelle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4100,4101,2074,2177:1LIVE
+#DESCRIPTION 1LIVE
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4110,4111,2074,2177:WDR 2 Rheinland
+#DESCRIPTION WDR 2 Rheinland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4120,4121,2074,2177:WDR 3
+#DESCRIPTION WDR 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4130,4131,2074,2177:WDR 4
+#DESCRIPTION WDR 4
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4140,4141,2074,2177:WDR 5
+#DESCRIPTION WDR 5
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4150,4151,2074,2177:COSMO
+#DESCRIPTION COSMO
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4160,4161,2074,2177:1LIVE diGGi
+#DESCRIPTION 1LIVE diGGi
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4170,4171,2074,2177:KIRAKA
+#DESCRIPTION KIRAKA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,4180,4181,2074,2177:WDR Event
+#DESCRIPTION WDR Event
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3690,3691,2074,2177:NDR Blue
+#DESCRIPTION NDR Blue
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=458&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3695,3696,2074,2177:NDR Plus
+#DESCRIPTION NDR Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3100,3101,2074,2177:Bayern 1
+#DESCRIPTION Bayern 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3110,3111,2074,2177:Bayern 2
+#DESCRIPTION Bayern 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3120,3121,2074,2177:BAYERN 3
+#DESCRIPTION BAYERN 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3130,3131,2074,2177,3132:BR-KLASSIK
+#DESCRIPTION BR-KLASSIK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3140,3141,2074,2177:B5 aktuell
+#DESCRIPTION B5 aktuell
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3150,3151,2074,2177:BAYERN plus
+#DESCRIPTION BAYERN plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3160,3161,2074,2177:PULS
+#DESCRIPTION PULS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3180,3181,2074,2177:B5 plus
+#DESCRIPTION B5 plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=338&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,3170,3171,2074,2177:BR Heimat
+#DESCRIPTION BR Heimat
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3840,3841:Radio Aktiv
+#DESCRIPTION Radio Aktiv
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4070,4071:radioB2 SCHLAGER
+#DESCRIPTION radioB2 SCHLAGER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4116,4117:89 0 RTL
+#DESCRIPTION 89 0 RTL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4676,4677:radio ffn - Hannover
+#DESCRIPTION radio ffn - Hannover
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,4936,4937:Antenne Niedersachsen H
+#DESCRIPTION Antenne Niedersachsen H
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7586,7587:Klassik Radio
+#DESCRIPTION Klassik Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,7756,7757:Radio 21
+#DESCRIPTION Radio 21
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3196,3197:radio SAW - Magdeburg
+#DESCRIPTION radio SAW - Magdeburg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3600,3601:NDR 1 Niedersachsen -Südost
+#DESCRIPTION NDR 1 Niedersachsen -Südost
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=122&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=1&pids=0,16,17,18,20,3770,3771:NDR Info
+#DESCRIPTION NDR Info
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,310,6362:Radio Horeb
+#DESCRIPTION Radio Horeb
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,301,6372:ERF Plus
+#DESCRIPTION ERF Plus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,311,6382:sunshine live
+#DESCRIPTION sunshine live
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,316,6302:Klassik Radio
+#DESCRIPTION Klassik Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,315,6312:RTL Radio
+#DESCRIPTION RTL Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,314,6322:Radio Paloma
+#DESCRIPTION Radio Paloma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=546&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,312,6332:JAM FM
+#DESCRIPTION JAM FM
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,201,6462:radioB2 SCHLAGER
+#DESCRIPTION radioB2 SCHLAGER
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,202,5292:MEGA Radio
+#DESCRIPTION MEGA Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,204,3302:UnserDing
+#DESCRIPTION UnserDing
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,205,3312:Bremen Next
+#DESCRIPTION Bremen Next
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,206,3322:antenne Saar
+#DESCRIPTION antenne Saar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=562&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=1&pids=0,16,17,18,20,207,3332:WDR 2 Ostwestfalen-Lippe
+#DESCRIPTION WDR 2 Ostwestfalen-Lippe
