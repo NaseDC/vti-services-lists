@@ -1,16 +1,8 @@
 #NAME Webcams TV (TV)
 #SERVICE 1:64:1:0:0:0:0:0:0:0::Tiere - saisonal Teil 1
 #DESCRIPTION Tiere - saisonal Teil 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas.m3u8:Seeadler-Horst 1
-#DESCRIPTION Seeadler-Horst 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Seeadler-Horst 2
-#DESCRIPTION Seeadler-Horst 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.oessm.org%3a1935/AXIS_P3364/Cam217.stream/chunklist_w717880950.m3u8:Seeadler-Horst 3
-#DESCRIPTION Seeadler-Horst 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//carnyx.tv%3a1935/live/abernethy1/master.m3u8:Fischadler Schottland
 #DESCRIPTION Fischadler Schottland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/haigur.m3u8:Graureiher - lhaigur - Estland
-#DESCRIPTION Graureiher - lhaigur - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kakk.m3u8:Steinkautz
 #DESCRIPTION Steinkautz
 #SERVICE 1:64:1:0:0:0:0:0:0:0::weitere Tiere - saisonal
@@ -369,14 +361,6 @@
 #DESCRIPTION IR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/ie_tralee01.m3u8:Irland Tralee
 #DESCRIPTION Irland Tralee
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aklitmoeller_all/chunklist_w1507887870_b1300000.m3u8:Klitmöller
-#DESCRIPTION Klitmöller
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3athyboroen_all/chunklist_w1074105868_b1300000.m3u8:Thyborön
-#DESCRIPTION Thyborön
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aVorupoer.stream_all/chunklist_w1778006647_b1300000.m3u8:Vorupör
-#DESCRIPTION Vorupör
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aHSW.stream_all/chunklist_w693964615_b1300000.m3u8:Hvide Sande West
-#DESCRIPTION Hvide Sande West
 #SERVICE 1:64:1:0:0:0:0:0:0:0::ISR
 #DESCRIPTION ISR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//EU40.cast-tv.com%3a1935/23595_LIVE_Kotel_Live/23595_LIVE_Kotel_Live:Klagemauer
@@ -1135,8 +1119,6 @@
 #DESCRIPTION Rotwild I - Metskits - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/konnakotkas.m3u8:Schelladler - Konnakotkas - Estland
 #DESCRIPTION Schelladler - Konnakotkas - Estland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/merikotkas.m3u8:Seeadler - Merikotkas - Estland
-#DESCRIPTION Seeadler - Merikotkas - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas.m3u8:Seeadler - Kalakotkas 1 (Estland)
 #DESCRIPTION Seeadler - Kalakotkas 1 (Estland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Seeadler - Kalakotkas 2 (Estland)
