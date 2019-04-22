@@ -1,12 +1,16 @@
 #NAME Webcams TV (TV)
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Tiere - saisonal Teil 1
-#DESCRIPTION Tiere - saisonal Teil 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//carnyx.tv%3a1935/live/abernethy1/master.m3u8:Fischadler Schottland
-#DESCRIPTION Fischadler Schottland
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Tiere - saisonal
+#DESCRIPTION Tiere - saisonal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas.m3u8:Seeadler-Horst 1
+#DESCRIPTION Seeadler-Horst 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Seeadler-Horst 2
+#DESCRIPTION Seeadler-Horst 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.oessm.org%3a1935/AXIS_P3364/Cam217.stream/chunklist_w717880950.m3u8:Seeadler-Horst 3
+#DESCRIPTION Seeadler-Horst 3
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/haigur.m3u8:Graureiher - lhaigur - Estland
+#DESCRIPTION Graureiher - lhaigur - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kakk.m3u8:Steinkautz
 #DESCRIPTION Steinkautz
-#SERVICE 1:64:1:0:0:0:0:0:0:0::weitere Tiere - saisonal
-#DESCRIPTION weitere Tiere - saisonal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/must-toonekurg.m3u8:Schwarzer Storch - Must Tooneburg
 #DESCRIPTION Schwarzer Storch - Must Tooneburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/BOCIANY_LUPCA.stream/playlist.m3u8:Storch 1 Bociany Lubca
@@ -23,6 +27,8 @@
 #DESCRIPTION Storch Vavrisovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/VYSOKAPRIMORAVE.stream/chunklist_w480771217.m3u8:Storch Vysokaprimorave
 #DESCRIPTION Storch Vysokaprimorave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//carnyx.tv%3a1935/live/abernethy1/master.m3u8:Fischadler Schottland
+#DESCRIPTION Fischadler Schottland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/BlijdeWei1.stream/playlist.m3u8:Kohlmeise 1
 #DESCRIPTION Kohlmeise 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Koolmees4.stream/playlist.m3u8:Kohlmeise 2
@@ -92,15 +98,27 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo3 playpath=cam4378 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/elevant5.html:Zoo Elefant V
 #DESCRIPTION Zoo Elefant V
 #SERVICE 1:64:1:0:0:0:0:0:0:0::NASA
-#DESCRIPTION NASA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8:NASA ISS 1
-#DESCRIPTION NASA ISS 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8:NASA ISS 2
-#DESCRIPTION NASA ISS 2
+#DESCRIPTION NASA - temporäre Live Streams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA ISS Earth View exp.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA TV Media
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/7549153/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA ISS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA ISS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/10208765/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA CSBF Operations
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/7549153/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA LaRC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/10766590/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA SSC
 #SERVICE 1:64:1:0:0:0:0:0:0:0::DE
 #DESCRIPTION DE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveonearth.com%3a1935/edge0/BER/chunklist_w1592564031.m3u8?5842ba6cbbf0479c3de0a48f:Berlin-BrandenburgerTor
-#DESCRIPTION Berlin-BrandenburgerTor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveonearth.com%3a1935/edge0/BER/chunklist_w1592564031.m3u8?5842ba6cbbf0479c3de0a48f:Berlin-Brandenburger Tor
+#DESCRIPTION Berlin-Brandenburger Tor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//586fb512206e4.streamlock.net%3a1935/neueDorint-rtp/_definst_/mp4%3aBremen.stream/playlist.m3u8:Bremen Bürgerpark
 #DESCRIPTION Bremen Bürgerpark
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv37.smil/playlist.m3u8:Brunsbüttel, Schleuse
@@ -121,14 +139,6 @@
 #DESCRIPTION Düsseldorf Flughafen, Start- und Landebahn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8:Düsseldorf Flughafen, Rollweg
 #DESCRIPTION Düsseldorf Flughafen, Rollweg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56f2b065c34b1.streamlock.net/live/ddorfcam-bp/.m3u8:Düsseldorf Burgplatz
-#DESCRIPTION Düsseldorf Burgplatz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56f2b065c34b1.streamlock.net/live/ddorfcam-mp/.m3u8:Düsseldorf Marktplatz
-#DESCRIPTION Düsseldorf Marktplatz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56f2b065c34b1.streamlock.net/live/ddorfcam-ru/.m3u8:Düsseldorf Rheinufer
-#DESCRIPTION Düsseldorf Rheinufer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv46.smil/playlist.m3u8:Eckernförde, Hafen
-#DESCRIPTION Eckernförde, Hafen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//57a1a332778cd.streamlock.net%3a1935/danubeHotels-rtplive/_definst_/mp4%3acamera1.stream/playlist.m3u8:Frankfurt InterConti Mainhattan
 #DESCRIPTION Frankfurt InterConti Mainhattan
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv139.smil/playlist.m3u8:Friedrichskroog, Badeturm
@@ -141,13 +151,11 @@
 #DESCRIPTION Hamburg, Blockbräu
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv196.smil/playlist.m3u8:Hamburg, Chilehaus
 #DESCRIPTION Hamburg, Chilehaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3aLS_b5586.smil/playlist.m3u8:Hamburg, Michel
-#DESCRIPTION Hamburg, Michel
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv211.smil/playlist.m3u8:Helgoland, Am Falm
 #DESCRIPTION Helgoland, Am Falm
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv28.smil/playlist.m3u8:Kiel, Hafenpanorama
 #DESCRIPTION Kiel, Hafenpanorama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv38.smil/playlist.m3u8:Kiel, Schleuse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-net.livespotting.com/windit-edge/smil%3avv38.smil/playlist.m3u8:Kiel, Schleuse
 #DESCRIPTION Kiel, Schleuse
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgnC8409D.stream/chunklist_w1529179247.m3u8:Köln Flughafen, Vorfeld Terminal 1 B
 #DESCRIPTION Köln Flughafen, Vorfeld Terminal 1 B
@@ -173,8 +181,6 @@
 #DESCRIPTION Nierendorf/Ostsee, Fischereihafen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cam01.binz-kabel.de/cam1/960.m3u8:Ostseebad Binz
 #DESCRIPTION Ostseebad Binz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv76.smil/playlist.m3u8:Sankt Peter-Ording, Hochhaus Atlantic
-#DESCRIPTION Sankt Peter-Ording, Hochhaus Atlantic
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/vv184.stream/playlist.m3u8:St. Johan, Hotel Kaiserfels
 #DESCRIPTION St. Johan, Hotel Kaiserfels
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv217.smil/playlist.m3u8:Sylt, Rantum - Strand
@@ -183,8 +189,8 @@
 #DESCRIPTION Sylt, Westerland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv208.smil/playlist.m3u8:Travemünde, Strand
 #DESCRIPTION Travemünde, Strand
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv183.smil/playlist.m3u8:Wangerooge - Kurverwaltung
-#DESCRIPTION Wangerooge - Kurverwaltung
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv183.smil/playlist.m3u8:Wangerooge, Kurverwaltung
+#DESCRIPTION Wangerooge, Kurverwaltung
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3aLS_35e49.smil/playlist.m3u8:Warnemünde, Am Strom 72
 #DESCRIPTION Warnemünde, Am Strom 72
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv20.smil/playlist.m3u8:Warnemünde, Best Western Hotel
