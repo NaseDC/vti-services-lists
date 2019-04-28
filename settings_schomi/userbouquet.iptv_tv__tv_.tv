@@ -1,18 +1,8 @@
 #NAME IP TV (TV)
-#SERVICE 4097:0:19:132F:3EF:1:C00000:0:0:0:http%3a//orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8:ORF1 
-#DESCRIPTION ORF1 
-#SERVICE 4097:0:19:33F5:3ED:1:C00000:0:0:0:http%3a//orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8:ORF2 
-#DESCRIPTION ORF2 
-#SERVICE 4097:0:19:33FC:3ED:1:C00000:0:0:0:http%3a//orf3.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8:ORF3 
-#DESCRIPTION ORF3 
-#SERVICE 4097:0:1:33A5:3EB:1:C00000:0:0:0::http%3a//orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8:ORF Sport+ 
-#DESCRIPTION ORF Sport+ 
-#SERVICE 4097:0:19:3402:3ED:1:C00000:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:oe24 TV
-#DESCRIPTION oe24 TV
-#SERVICE 4097:0:1:6DCA:44D:1:C00000:0:0:0:http%3a//daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_2692_av-p.m3u8:Das Erste
-#DESCRIPTION Das Erste
-#SERVICE 4097:0:1:6D66:437:1:C00000:0:0:0:http%3a//zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8:ZDF
-#DESCRIPTION ZDF
+#SERVICE 4097:0:1:6DCA:44D:1:C00000:0:0:0:http%3a//daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-b.m3u8?sd=10&rebase=on:Das Erste HD
+#DESCRIPTION Das Erste HD
+#SERVICE 4097:0:1:6D66:437:1:C00000:0:0:0:http%3a//zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-p.m3u8?sd=10&rebase=on:ZDF HD
+#DESCRIPTION ZDF HD
 #SERVICE 4097:0:1:6DCE:44D:1:C00000:0:0:0:http%3a//livestreams.br.de/i/bfsnord_germany@119898/index_3776_av-b.m3u8:BR Fernsehen
 #DESCRIPTION BR Fernsehen
 #SERVICE 4097:0:1:6DCC:44D:1:C00000:0:0:0:http%3a//live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8:HR Fernsehen
@@ -23,12 +13,18 @@
 #DESCRIPTION SWR Fernsehen
 #SERVICE 4097:0:1:6F46:445:1:C00000:0:0:0:http%3a//live2_sr-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-b.m3u8:SR Fernsehen
 #DESCRIPTION SR Fernsehen
-#SERVICE 4097:0:1:7034:41B:1:C00000:0:0:0:http%3a//artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8:arte
-#DESCRIPTION arte
-#SERVICE 4097:0:1:7035:41B:1:C00000:0:0:0:https%3a//zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8:Phoenix
+#SERVICE 4097:0:1:7034:41B:1:C00000:0:0:0:http%3a//artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8:Arte
+#DESCRIPTION Arte
+#SERVICE 4097:0:19:2B8E:3F2:1:C00000:0:0:0:https%3a//zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-b.m3u8:3Sat
+#DESCRIPTION 3Sat
+#SERVICE 4097:0:19:2888:40F:1:C00000:0:0:0:http%3a//onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_7_av-p.m3u8:One
+#DESCRIPTION One
+#SERVICE 4097:0:19:2BA2:3F2:1:C00000:0:0:0:https%3a//zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-b.m3u8?sd=10&rebase=on:ZDFinfo
+#DESCRIPTION ZDFinfo
+#SERVICE 4097:0:19:2B7A:3F3:1:C00000:0:0:0:https%3a//zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-b.m3u8?sd=10&rebase=on:ZDFneo
+#DESCRIPTION ZDFneo
+#SERVICE 4097:0:1:7035:41B:1:C00000:0:0:0:https%3a//zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8?sd=10&rebase=on:Phoenix
 #DESCRIPTION Phoenix
-#SERVICE 4097:0:1:332F:45B:1:C00000:0:0:0:http%3a//live.vidoo.de/live/weltderwunder/playlist.m3u8:Welt Der Wunder
-#DESCRIPTION Welt Der Wunder
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Events
 #DESCRIPTION Events
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8?sd=10&rebase=on:Arte Concert
@@ -83,14 +79,10 @@
 #DESCRIPTION WDR Event 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_3776_av-p.m3u8:WDR Event 4
 #DESCRIPTION WDR Event 4
+#SERVICE 4097:0:19:3402:3ED:1:C00000:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:oe24 TV
+#DESCRIPTION oe24 TV
 #SERVICE 1:64:1:0:0:0:0:0:0:0::Radio
 #DESCRIPTION Radio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//highvolume03.streampartner.nl%3a1935/radio21germany/ playpath=livestream swfUrl=http%3a//media.streampartner.nl/player.swf pageUrl=http%3a//media.streampartner.nl/player.php?url=131b18978f8ae1093604:Radio 21 TV
-#DESCRIPTION Radio 21 TV
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:mms%3a//apasf.apa.at/oe3_live:OE3_Stream
-#DESCRIPTION OE3_Stream
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//livestream.antenne.at%3a8002:Antenne_Steiermark
-#DESCRIPTION Antenne_Steiermark
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3stream9.apasf.apa.at%3a8000:Radio_Steiermark
 #DESCRIPTION Radio_Steiermark
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//party.bmr-radio.de%3a8100:Ballermann-Radio

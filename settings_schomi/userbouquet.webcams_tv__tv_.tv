@@ -1,22 +1,16 @@
 #NAME Webcams TV (TV)
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Tiere - saisonal Teil 1
-#DESCRIPTION Tiere - saisonal Teil 1
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Tiere - saisonal
+#DESCRIPTION Tiere - saisonal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas.m3u8:Seeadler-Horst 1
 #DESCRIPTION Seeadler-Horst 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Seeadler-Horst 2
 #DESCRIPTION Seeadler-Horst 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.oessm.org%3a1935/AXIS_P3364/Cam217.stream/chunklist_w717880950.m3u8:Seeadler-Horst 3
 #DESCRIPTION Seeadler-Horst 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//carnyx.tv%3a1935/live/abernethy1/master.m3u8:Fischadler Schottland
-#DESCRIPTION Fischadler Schottland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hiireviu.m3u8:Bussard
-#DESCRIPTION Bussard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/haigur.m3u8:Graureiher - lhaigur - Estland
+#DESCRIPTION Graureiher - lhaigur - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kakk.m3u8:Steinkautz
 #DESCRIPTION Steinkautz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hyljes.m3u8:Kegelrobben
-#DESCRIPTION Kegelrobben
-#SERVICE 1:64:1:0:0:0:0:0:0:0::weitere Tiere - saisonal
-#DESCRIPTION weitere Tiere - saisonal
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/must-toonekurg.m3u8:Schwarzer Storch - Must Tooneburg
 #DESCRIPTION Schwarzer Storch - Must Tooneburg
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/BOCIANY_LUPCA.stream/playlist.m3u8:Storch 1 Bociany Lubca
@@ -24,7 +18,7 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/BOCIANY_PRIB.stream/chunklist_w11730904.m3u8:Storch 2 Bociany Lubca
 #DESCRIPTION Storch 2 Bociany Lubca
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/BREST.stream/chunklist_w621160488.m3u8:Storch Brest
-#DESCRIPTION BStorch Brest
+#DESCRIPTION Storch Brest
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/BRZOTIN.stream/chunklist_w1409405543.m3u8:Storch Brzotin
 #DESCRIPTION Storch Brzotin
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/DEMANOVA.stream/chunklist_w1233425132.m3u8:Storch Demanova
@@ -33,6 +27,8 @@
 #DESCRIPTION Storch Vavrisovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/VYSOKAPRIMORAVE.stream/chunklist_w480771217.m3u8:Storch Vysokaprimorave
 #DESCRIPTION Storch Vysokaprimorave
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//carnyx.tv%3a1935/live/abernethy1/master.m3u8:Fischadler Schottland
+#DESCRIPTION Fischadler Schottland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/BlijdeWei1.stream/playlist.m3u8:Kohlmeise 1
 #DESCRIPTION Kohlmeise 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Koolmees4.stream/playlist.m3u8:Kohlmeise 2
@@ -59,8 +55,6 @@
 #DESCRIPTION Kohlmeise Innen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=Koolmees2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Kohlmeise Aussen
 #DESCRIPTION Kohlmeise Aussen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rrr.sz.xlcdn.com/?account=omroepgelderland&file=webcam3&type=live&service=wowza&protocol=http&output=playlist.m3u8:Storch
-#DESCRIPTION Storch
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Slechtvalk1Buiten.stream/playlist.m3u8:Wanderfalke1
 #DESCRIPTION Wanderfalke1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rrr.sz.xlcdn.com/?account=bdl&file=SlechtvalkGemert2&type=live&service=wowza&protocol=https&output=playlist.m3u8:Wanderfalke2
@@ -73,12 +67,12 @@
 #DESCRIPTION Kasmu Meeresmuseum
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//webcam.tt.ee/live/pesakast:Baumstamm Nest - Pesakast
 #DESCRIPTION Baumstamm Nest - Pesakast
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Bijen_Binnen.stream/playlist.m3u8:Bienen - innen
-#DESCRIPTION Bienen - innen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Bijen_Buiten.stream/playlist.m3u8:Bienen - aussen
-#DESCRIPTION Bienen - aussen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.29.18.68/live playpath=camera.stream swfUrl=http%3a//www.strzalowo.eu/plugins/system/flowplayerreloaded/flowplayer_r/players/flowplayer-3.2.15.swf pageUrl=http%3a//www.strzalowo.eu:Strzalowo - Schwarzwild
 #DESCRIPTION Strzalowo - Schwarzwild
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hiireviu.m3u8:Bussard
+#DESCRIPTION Bussard
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hyljes.m3u8:Kegelrobben
+#DESCRIPTION Kegelrobben
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//80.78.116.125/rtplive/ playpath=zoo_ek_hd.stream swfUrl=http%3a//myttk.ru/media/webcam/uppod/uppod.swf pageUrl=http%3a//myttk.ru/media/webcam/cathedral_square/ live=1:Jekaterinburg - Zoo Elefanten
 #DESCRIPTION Jekaterinburg - Zoo Elefanten
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/tm playpath=tm.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.7.swf pageUrl=http%3a//www.africam.com/wildlife/tembe_webcam:Tembe - Elefant Park
@@ -103,75 +97,280 @@
 #DESCRIPTION Zoo Elefant IV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo3 playpath=cam4378 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/elevant5.html:Zoo Elefant V
 #DESCRIPTION Zoo Elefant V
-
+#SERVICE 1:64:1:0:0:0:0:0:0:0::NASA
+#DESCRIPTION NASA - temporäre Live Streams
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17074538/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA ISS Earth View exp.
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/6540154/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/10414700/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA TV Media
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/7549153/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA ISS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/9408562/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA ISS
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/10208765/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA CSBF Operations
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/7549153/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA LaRC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/10766590/streams/live/iphone/playlist.m3u8:NASA
+#DESCRIPTION NASA SSC
 #SERVICE 1:64:1:0:0:0:0:0:0:0::DE
 #DESCRIPTION DE
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveonearth.com%3a1935/edge0/BER/chunklist_w1592564031.m3u8?5842ba6cbbf0479c3de0a48f:Berlin-BrandenburgerTor
-#DESCRIPTION Berlin-BrandenburgerTor
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveonearth.com%3a1935/edge0/BER/chunklist_w1592564031.m3u8?5842ba6cbbf0479c3de0a48f:Berlin-Brandenburger Tor
+#DESCRIPTION Berlin-Brandenburger Tor
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//586fb512206e4.streamlock.net%3a1935/neueDorint-rtp/_definst_/mp4%3aBremen.stream/playlist.m3u8:Bremen Bürgerpark
 #DESCRIPTION Bremen Bürgerpark
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8:DE - Düsseldorf - Airport - Check-in Halle
-#DESCRIPTION Düsseldorf - Airport - Check-in Halle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dus5abb.stream/playlist.m3u8:DE - Düsseldorf - Airport - Flugzeugabfertigung
-#DESCRIPTION Düsseldorf - Airport - Flugzeugabfertigung
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dused0c.stream/playlist.m3u8:DE - Düsseldorf - Airport - Vorfeld
-#DESCRIPTION Düsseldorf - Airport - Vorfeld
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dus5a92.stream/playlist.m3u8:DE - Düsseldorf - Airport - Start- und Landebahn
-#DESCRIPTION Düsseldorf - Airport - Start- und Landebahn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8:DE - Düsseldorf - Airport - Rollweg
-#DESCRIPTION DE - Düsseldorf - Airport - Rollweg
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56f2b065c34b1.streamlock.net/live/ddorfcam-bp/.m3u8:Düsseldorf Burgplatz
-#DESCRIPTION Düsseldorf Burgplatz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56f2b065c34b1.streamlock.net/live/ddorfcam-mp/.m3u8:Düsseldorf Marktplatz
-#DESCRIPTION Düsseldorf Marktplatz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.strandresidenz.info/camera1/stream.m3u8:D Kühlungsborn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv37.smil/playlist.m3u8:Brunsbüttel, Schleuse
+#DESCRIPTION Brunsbüttel, Schleuse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv32.smil/playlist.m3u8:Büsum, Hauptstrand
+#DESCRIPTION Büsum, Hauptstrand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv201.smil/playlist.m3u8:Büsum, Familienlagune
+#DESCRIPTION Büsum, Familienlagune
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv33.smil/playlist.m3u8:Büsum, Museumshafen
+#DESCRIPTION Büsum, Museumshafen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8:Düsseldorf Flughafen, Check-in Halle
+#DESCRIPTION Düsseldorf Flughafen, Check-in Halle
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dus5abb.stream/playlist.m3u8:Düsseldorf Flughafen, Flugzeugabfertigung
+#DESCRIPTION Düsseldorf Flughafen, Flugzeugabfertigung
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dused0c.stream/playlist.m3u8:Düsseldorf Flughafen, Vorfeld
+#DESCRIPTION Düsseldorf Flughafen, Vorfeld
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dus5a92.stream/playlist.m3u8:Düsseldorf Flughafen, Start- und Landebahn
+#DESCRIPTION Düsseldorf Flughafen, Start- und Landebahn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dus1ba9.stream/playlist.m3u8:Düsseldorf Flughafen, Rollweg
+#DESCRIPTION Düsseldorf Flughafen, Rollweg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//57a1a332778cd.streamlock.net%3a1935/danubeHotels-rtplive/_definst_/mp4%3acamera1.stream/playlist.m3u8:Frankfurt InterConti Mainhattan
+#DESCRIPTION Frankfurt InterConti Mainhattan
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv139.smil/playlist.m3u8:Friedrichskroog, Badeturm
+#DESCRIPTION Friedrichskroog, Badeturm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//osltv.stream24.net/osltv1/_definst_/mp4%3agroemitz.stream/.m3u8:Grömitz
+#DESCRIPTION Grömitz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv40.smil/playlist.m3u8:Haffkrug, Lübecker Bucht
+#DESCRIPTION Haffkrug, Lübecker Bucht
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv176.smil/playlist.m3u8:Hamburg, Blockbräu
+#DESCRIPTION Hamburg, Blockbräu
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv196.smil/playlist.m3u8:Hamburg, Chilehaus
+#DESCRIPTION Hamburg, Chilehaus
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv211.smil/playlist.m3u8:Helgoland, Am Falm
+#DESCRIPTION Helgoland, Am Falm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv28.smil/playlist.m3u8:Kiel, Hafenpanorama
+#DESCRIPTION Kiel, Hafenpanorama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-net.livespotting.com/windit-edge/smil%3avv38.smil/playlist.m3u8:Kiel, Schleuse
+#DESCRIPTION Kiel, Schleuse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgnC8409D.stream/chunklist_w1529179247.m3u8:Köln Flughafen, Vorfeld Terminal 1 B
+#DESCRIPTION Köln Flughafen, Vorfeld Terminal 1 B
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/chunklist_w782279539.m3u8:Köln Flughafen, Vorfeld Terminal 1 C
+#DESCRIPTION Köln Flughafen, Vorfeld Terminal 1 C
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8:Köln Flughafen, Terminal 2
+#DESCRIPTION Köln Flughafen, Terminal 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn2C70DD.stream/chunklist_w1119774190.m3u8:Köln Flughafen, Vorfeld Cargo
+#DESCRIPTION Köln Flughafen, Vorfeld Cargo
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgnCAA490.stream/chunklist_w1212927318.m3u8:Köln Flughafen, Parkhäuser
+#DESCRIPTION Köln Flughafen, Parkhäuser
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.strandresidenz.info/camera1/stream.m3u8:Kühlungsborn
 #DESCRIPTION Kühlungsborn
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv35.smil/playlist.m3u8:Kühlungsborn, Strand
+#DESCRIPTION Kühlungsborn, Strand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv12.smil/playlist.m3u8:Neuharlingersiel, Hafen Ost
+#DESCRIPTION Neuharlingersiel, Hafen Ost
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv13.smil/playlist.m3u8:Neuharlingersiel, Hafen West
+#DESCRIPTION Neuharlingersiel, Hafen West
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv14.smil/playlist.m3u8:Neuharlingersiel, Panorama
+#DESCRIPTION Neuharlingersiel, Panorama
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3aLS_bj423.smil/playlist.m3u8:Nierendorf/Ostsee, Fischereihafen
+#DESCRIPTION Nierendorf/Ostsee, Fischereihafen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cam01.binz-kabel.de/cam1/960.m3u8:Ostseebad Binz
+#DESCRIPTION Ostseebad Binz
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/vv184.stream/playlist.m3u8:St. Johan, Hotel Kaiserfels
+#DESCRIPTION St. Johan, Hotel Kaiserfels
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv217.smil/playlist.m3u8:Sylt, Rantum - Strand
+#DESCRIPTION Sylt, Rantum - Strand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv216.smil/playlist.m3u8:Sylt, Westerland
+#DESCRIPTION Sylt, Westerland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv208.smil/playlist.m3u8:Travemünde, Strand
+#DESCRIPTION Travemünde, Strand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv183.smil/playlist.m3u8:Wangerooge, Kurverwaltung
+#DESCRIPTION Wangerooge, Kurverwaltung
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3aLS_35e49.smil/playlist.m3u8:Warnemünde, Am Strom 72
+#DESCRIPTION Warnemünde, Am Strom 72
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv20.smil/playlist.m3u8:Warnemünde, Best Western Hotel
+#DESCRIPTION Warnemünde, Best Western Hotel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//586fb512206e4.streamlock.net/stadtverwaltungWernigerrode-live/_definst_/mp4%3acamera1.stream/.m3u8:Wernigerode, Marktplatz
+#DESCRIPTION Wernigerode, Marktplatz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//edge30.fms.stream24.net/osltv3/_definst_/mp4%3azinnowitz.stream/master.m3u8:Zinnowitz
 #DESCRIPTION Zinnowitz
-
 #SERVICE 1:64:1:0:0:0:0:0:0:0::AUT
 #DESCRIPTION AUT
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//badbleiberg.it-wms.com/clip_current_720p.mp4:Bad Bleiberg
+#DESCRIPTION Bad Bleiberg
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//pfaenderbahn.it-wms.com/clip_current_720p.mp4:Bregenz, Pfänderbahn
+#DESCRIPTION Bregenz, Pfänderbahn
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//finkenstein.it-wms.com/clip_current_720p.mp4:Finkenstein, Burgarena
+#DESCRIPTION Finkenstein, Burgarena
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pacheiner.it-wms.com/clip_current_720p.mp4:Gerlitzen, Pacheiner
+#DESCRIPTION Gerlitzen, Pacheiner
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gerlitzen.it-wms.com/clip_current_720p.mp4:Gerlitzen, Sattendorf
+#DESCRIPTION Gerlitzen, Sattendorf
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//graz-rathausturm.it-wms.com/clip_current_720p.mp4:Graz
+#DESCRIPTION Graz
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//grossarl.it-wms.com/clip_current_720p.mp4:Großarl, Kreuzkogel
+#DESCRIPTION Großarl, Kreuzkogel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//presseggersee.it-wms.com/clip_current_720p.mp4:Hermagor, Presseggersee
+#DESCRIPTION Hermagor, Presseggersee
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pyramidenkogel.it-wms.com/clip_current_720p.mp4:Keutschach, Pyramidenkogel
+#DESCRIPTION Keutschach, Pyramidenkogel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8:Klagenfurt, Neuerplatz
+#DESCRIPTION Klagenfurt, Neuerplatz
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera1.stream/chunklist_w1046920313.m3u8:Lechtal, Elbigenalp
+#DESCRIPTION Lechtal, Elbigenalp
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera2.stream/chunklist_w1596519276.m3u8:Lechtal, Stanzach
+#DESCRIPTION Lechtal, Stanzach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//petzen2.it-wms.com/clip_current_720p.mp4:Petzen, Bergstation
+#DESCRIPTION Petzen, Bergstation
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//schoeckl.it-wms.com/clip_current_720p.mp4:Schöckl
+#DESCRIPTION Schöckl
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//pillersee.it-wms.com/clip_current_720p.mp4:St. Ulrich am Pillersee
+#DESCRIPTION St. Ulrich am Pillersee
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//panodata.panomax.com/cams/1138/videos/1138_HDready.mp4:Tauplitzalm
+#DESCRIPTION Tauplitzalm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//velden3.it-wms.com/clip_current_720p.mp4:Velden, Wörthersee
+#DESCRIPTION Velden, Wörthersee
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//villach.it-wms.com/clip_current_720p.mp4:Villach, Draubrücke
+#DESCRIPTION Villach, Draubrücke
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8:Zell am See, Schmitten
+#DESCRIPTION Zell am See, Schmitten
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//linz.it-wms.com/clip_current_720p.mp4:Linz, Donaulände
 #DESCRIPTION Linz, Donaulände
-
 #SERVICE 1:64:1:0:0:0:0:0:0:0::BL
 #DESCRIPTION BL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamcloud.be/webbxl_live/webcam.stream/playlist.m3u8:Bruessel - Grote Markt
-#DESCRIPTION Bruessel - Grote Markt
-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamcloud.be/webbxl_live/webcam.stream/playlist.m3u8:Bruessel, Grote Markt
+#DESCRIPTION Bruessel, Grote Markt
 #SERVICE 1:64:1:0:0:0:0:0:0:0::BR
 #DESCRIPTION BR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/santuario_aparecida/canal5.stream/live.m3u8:Brasilien - SANTUARIO DE APARECIDA - ALTAR CENTRAL
-#DESCRIPTION Brasilien - SANTUARIO DE APARECIDA - ALTAR CENTRAL
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/santuario_aparecida/canal6.stream/live.m3u8:Brasilien - SANTUARIO DE APARECIDA - SANTUARIO NACIONAL
-#DESCRIPTION Brasilien - SANTUARIO DE APARECIDA - SANTUARIO NACIONAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/santuario_aparecida/canal5.stream/live.m3u8:SANTUARIO DE APARECIDA - ALTAR CENTRAL
+#DESCRIPTION SANTUARIO DE APARECIDA - ALTAR CENTRAL
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/santuario_aparecida/canal6.stream/live.m3u8:SANTUARIO DE APARECIDA - SANTUARIO NACIONAL
+#DESCRIPTION SANTUARIO DE APARECIDA - SANTUARIO NACIONAL
+#SERVICE 1:64:1:0:0:0:0:0:0:0::CH
+#DESCRIPTION CH
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-net.livespotting.com/windit-edge/smil%3avv195.smil/playlist.m3u8:Berghaus Foppa
+#DESCRIPTION Berghaus Foppa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-net.livespotting.com/windit-edge/smil%3avv200.smil/playlist.m3u8:Engelberg, Titlis
+#DESCRIPTION Engelberg, Titlis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-net.livespotting.com/windit-edge/smil%3avv178.smil/playlist.m3u8:Flumserberg Prodalp
+#DESCRIPTION Flumserberg Prodalp
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//586fb512206e4.streamlock.net%3a1935/neueDorint-rtp/_definst_/mp4%3aBeatenberg.stream/playlist.m3u8:Beatenberg
+#DESCRIPTION Beatenberg
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hotelalexander.it-wms.com/clip_current_720p.mp4:Zürich
+#DESCRIPTION Zürich
 #SERVICE 1:64:1:0:0:0:0:0:0:0::CZ
-
 #DESCRIPTION CZ
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.silesnet.net/webcams/jablunkov.m3u8:Jablunkov
 #DESCRIPTION Jablunkov
-
+#SERVICE 1:64:1:0:0:0:0:0:0:0::DK
+#DESCRIPTION DK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/dk_hedeland01.m3u8:Hedeland Skicenter
+#DESCRIPTION Hedeland Skicenter
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aHSW.stream_all/.m3u8:Hvide Sande West
+#DESCRIPTION Hvide Sande West
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aklitmoeller_all/.m3u8:Klitmøller
+#DESCRIPTION Klitmøller
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3athyboroen_all/.m3u8:Thyborøn
+#DESCRIPTION Thyborøn
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aVorupoer.stream_all/.m3u8:Vorupør
+#DESCRIPTION Vorupør
+#SERVICE 1:64:1:0:0:0:0:0:0:0::ES
+#DESCRIPTION ES
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam063.stream/chunklist_w2072621059.m3u8:Mallorca Aquasol
+#DESCRIPTION Mallorca Aquasol
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam004.stream/chunklist_w1835163.m3u8:Mallorca Can Pastilla
+#DESCRIPTION Mallorca Can Pastilla
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam018.stream/chunklist_w1205220231.m3u8:Mallorca Cala Ratjada
+#DESCRIPTION Mallorca Cala Ratjada
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam039.stream/chunklist_w1632404532.m3u8:Mallorca Can Barbara
+#DESCRIPTION Mallorca Can Barbara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam016.stream/chunklist_w717809022.m3u8:Mallorca Colònia de San Pere
+#DESCRIPTION Mallorca Colònia de San Pere
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam041.stream/chunklist_w1796943507.m3u8:Mallorca Costa de la Calma
+#DESCRIPTION Mallorca Costa de la Calma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam070.stream/chunklist_w1938312815.m3u8:Mallorca Es Camp de Mar
+#DESCRIPTION Mallorca Es Camp de Mar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam050.stream/chunklist_w1143011355.m3u8:Mallorca El Arenal
+#DESCRIPTION Mallorca El Arenal
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam026.stream/chunklist_w2124660473.m3u8:Mallorca Palma
+#DESCRIPTION Mallorca Palma
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam053.stream/chunklist_w1913003108.m3u8:Mallorca Port d´Andratx
+#DESCRIPTION Mallorca Port d´Andratx
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam032.stream/chunklist_w1519706300.m3u8:Mallorca Port d´Alcúdia
+#DESCRIPTION Mallorca Port d´Alcúdia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam030.stream/chunklist_w1993164665.m3u8:Mallorca Port de Sóller
+#DESCRIPTION Mallorca Port de Sóller
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam021.stream/chunklist_w808167242.m3u8:Mallorca Portocolom
+#DESCRIPTION Mallorca Portocolom
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam007.stream/chunklist_w1291407165.m3u8:Mallorca Paguera
+#DESCRIPTION Mallorca Paguera
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/es_duquesa01.m3u8:Spanien - Puerto de la Duquesa
+#DESCRIPTION Spanien - Puerto de la Duquesa
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/es_puertorico01.m3u8:Spanien - Puerto Rico Beach Club – Gran Canaria
+#DESCRIPTION Spanien - Puerto Rico Beach Club – Gran Canaria
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/es_laspalmas3.m3u8:Spanien - Las Palmas – LAS CANTERAS Beach
+#DESCRIPTION Spanien - Las Palmas – LAS CANTERAS Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/es_roses02.m3u8:Spanien - Costa Brava – La Perola Beach
+#DESCRIPTION Spanien - Costa Brava – La Perola Beach
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/es_cadiz1.m3u8:Spanien - Cadiz – Beach Santa Maria del Mar
+#DESCRIPTION Spanien - Cadiz – Beach Santa Maria del Mar
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/es_chiclana01.m3u8:Spanien - Chiclana – Marina de Sancti Petri
+#DESCRIPTION Spanien - Chiclana – Marina de Sancti Petri
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/es_barbate01.m3u8:Spanien - Barbate – Playa del Carmen
+#DESCRIPTION Spanien - Barbate – Playa del Carmen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/es_vejer01.m3u8:Spanien - Cadiz - Vejer de la Frontera
+#DESCRIPTION Spanien - Cadiz - Vejer de la Frontera
+#SERVICE 1:64:1:0:0:0:0:0:0:0::CA
+#DESCRIPTION CA
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com%3a1935/fecnetwork/9299.flv/chunklist.m3u8:Kanada - Toronto - CN Tower I
+#DESCRIPTION Kanada - Toronto - CN Tower I
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com%3a1935/fecnetwork/9298.flv/chunklist.m3u8:Kanada - Toronto - CN Tower II
+#DESCRIPTION Kanada - Toronto - CN Tower II
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveonearth.com%3a1935/edge4/YVR/chunklist_w1995524861.m3u8?5842ba6cbbf0479c3de0a48f:Kanada - Vancouver - Segelzentrum Jerich
+#DESCRIPTION Kanada - Vancouver - Segelzentrum Jerich
 #SERVICE 1:64:1:0:0:0:0:0:0:0::EGY
 #DESCRIPTION EGY
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/eg_cairo01.m3u8:Ägypten Pyramiden
 #DESCRIPTION Ägypten Pyramiden
-
 #SERVICE 1:64:1:0:0:0:0:0:0:0::FR
 #DESCRIPTION FR
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam2.stream/playlist.m3u8:Paris - Seine
-#DESCRIPTION Paris - Seine
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam3.stream/playlist.m3u8:Paris - Eiffelturm
-#DESCRIPTION Paris - Eiffelturm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam1.stream/playlist.m3u8:Paris 1
-#DESCRIPTION Paris 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam4.stream/playlist.m3u8:Paris 2
-#DESCRIPTION Paris 2
-
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam3.stream/playlist.m3u8:Paris, Eiffelturm
+#DESCRIPTION Paris, Eiffelturm
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam1.stream/playlist.m3u8:Paris
+#DESCRIPTION Paris
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam4.stream/playlist.m3u8:Paris, Montparnasse
+#DESCRIPTION Paris, Montparnasse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.webcam-hd.fr/64connections/Pariscam2.stream/playlist.m3u8:Paris, Seine
+#DESCRIPTION Paris, Seine
+#SERVICE 1:64:1:0:0:0:0:0:0:0::GR
+#DESCRIPTION GR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/gr_mykonos01.m3u8:Mykonos 1
+#DESCRIPTION Mykonos 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/gr_mykonos03.m3u8:Mykonos 2
+#DESCRIPTION Mykonos 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/gr_mykonos03.m3u8:Mykonos Hafen
+#DESCRIPTION Mykonos Hafen
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58f14b372a413.streamlock.net%3a444/rhodesairport/rhodesairport.stream/.m3u8:Rhodos Flughafen 1
+#DESCRIPTION Rhodos Flughafen 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b8462eb3469a.streamlock.net%3a444/rhodesairport2/rhodesairport2.stream/.m3u8:Rhodos Flughafen 2
+#DESCRIPTION Rhodos Flughafen 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/gr_syros08.m3u8:Syros - Hermoupolis
+#DESCRIPTION Syros - Hermoupolis
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/gr_syros08.m3u8:Syros – Miaoulis Platz
+#DESCRIPTION Syros – Miaoulis Platz
+#SERVICE 1:64:1:0:0:0:0:0:0:0::IR
+#DESCRIPTION IR
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/ie_tralee01.m3u8:Irland Tralee
+#DESCRIPTION Irland Tralee
 #SERVICE 1:64:1:0:0:0:0:0:0:0::ISR
 #DESCRIPTION ISR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//EU40.cast-tv.com%3a1935/23595_LIVE_Kotel_Live/23595_LIVE_Kotel_Live:Klagemauer
 #DESCRIPTION Klagemauer
-
 #SERVICE 1:64:1:0:0:0:0:0:0:0::NL
 #DESCRIPTION NL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webcamserver2.dyndns-remote.com%3a1935/live/amsterdam1.stream/&mp4%3aplaylist.m3u8:Amsterdam - Het IJ (oost)
@@ -470,7 +669,6 @@
 #DESCRIPTION Workum - strand (Friesland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//59f2443a5c9a2.streamlock.net/crossmedia/stream/playlist.m3u8 :Zandvoort - Circuit
 #DESCRIPTION Zandvoort - Circuit
-
 #SERVICE 1:64:1:0:0:0:0:0:0:0::PL
 #DESCRIPTION PL
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kamera.task.gda.pl/rtplive playpath=k109.sdp swfUrl=http%3a//task.gda.pl/tech/uslugi/stream/kamera_player/player.swf?362 pageUrl=http%3a//www.task.gda.pl/uslugi/stream/kamera_gdansk_glowne_miasto live=1:Gdansk - Glowne Miasto
@@ -479,7 +677,6 @@
 #DESCRIPTION Cieszyn
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kamera.task.gda.pl/rtplive playpath=k015.sdp swfUrl=http%3a//task.gda.pl/tech/uslugi/stream/kamera_player/player.swf?213 pageUrl=http%3a//www.task.gda.pl/uslugi/stream/kamera_gdynia_skwer_kosciuszki live=1:Gdynia - Hafen
 #DESCRIPTION Gdynia - Hafen
-
 #SERVICE 1:64:1:0:0:0:0:0:0:0::PRT
 #DESCRIPTION PRT
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/espinho.stream/livestream.m3u8:Praia de Espinho
@@ -500,7 +697,6 @@
 #DESCRIPTION Praia Ribeira
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santacruz.stream/livestream.m3u8:Praia Santa Cruz
 #DESCRIPTION Praia Santa Cruz
-
 #SERVICE 1:64:1:0:0:0:0:0:0:0::RU
 #DESCRIPTION RU
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//80.78.116.125/rtplive/ playpath=5goda_hd.stream swfUrl=http%3a//myttk.ru/media/webcam/uppod/uppod.swf pageUrl=http%3a//myttk.ru/media/webcam/cathedral_square/ live=1:Jekaterinburg - 1905 Platz
@@ -511,12 +707,20 @@
 #DESCRIPTION Solikamsk - Kathedral Platz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//kamera.task.gda.pl/rtplive playpath=molo.sdp swfUrl=http%3a//task.gda.pl/tech/uslugi/stream/kamera_player/player.swf?550 pageUrl=http%3a//www.task.gda.pl/uslugi/stream/kamera_sopot_molo live=1:Sopot - Molo
 #DESCRIPTION Sopot - Molo
-
 #SERVICE 1:64:1:0:0:0:0:0:0:0::SRB
 #DESCRIPTION SRB
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//TrgSlobode.stream:NoviSad - Trg Slobode
 #DESCRIPTION NoviSad - Trg Slobode
-
+#SERVICE 1:64:1:0:0:0:0:0:0:0::UK
+#DESCRIPTION UK
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/5288.flv/playlist.m3u8:Bognor Regis Beach Cam (England)
+#DESCRIPTION Bognor Regis Beach Cam (England)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/AbbeyRoadHD1.flv/playlist.m3u8:London - Abbey Road (England)
+#DESCRIPTION London - Abbey Road (England)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//camsecure.co/HLS/ilfracombe2.m3u8:UK Harbour Cam
+#DESCRIPTION UK Harbour Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//143.167.1.98%3a1935/SheffieldPeregrineWebcast/Perch.stream/chunklist_w2038970171.m3u8:UK Sheffield
+#DESCRIPTION UK Sheffield
 #SERVICE 1:64:1:0:0:0:0:0:0:0::UKR
 #DESCRIPTION UKR
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//85.90.192.233/rtplive2 playpath=veltonMedium49.stream swfUrl=http%3a//velton.ua/ru/webcams/VeltonKhSquareNew.swf pageUrl=http%3a//velton.ua/ru/webcams/Wide1HQ.shtml:Charkow - Platz der Freiheit
@@ -525,7 +729,6 @@
 #DESCRIPTION Odessa  - Catherine Square
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//85.90.192.233/rtplive2 playpath=veltonMedium53.stream swfUrl=http%3a//velton.ua/ru/webcams/VeltonPlayerWideNew.swf pageUrl=http%3a%3a//velton.ua/ru/webcams/Wide3HQ.shtml%3aPoltawa:Poltawa  - Strasse der Oktoberrevolution
 #DESCRIPTION Poltawa  - Strasse der Oktoberrevolution
-
 #SERVICE 1:64:1:0:0:0:0:0:0:0::USA
 #DESCRIPTION USA
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8620.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/AZ/sedona/gateway/:AZ - Sedona Gateway Cam
@@ -588,13 +791,13 @@
 #DESCRIPTION FL - Key West - Sloppy Joe's - Crowd Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd5.flv/playlist.m3u8:FL - Miami Downtown
 #DESCRIPTION FL - Miami Downtown
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7342.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/rivierabeach/manatee/:FL -  Manatee Cam
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=7342.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/rivierabeach/manatee/:FL - Manatee Cam
 #DESCRIPTION FL - Manatee Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd1.flv/playlist.m3u8:FL - Miami Beach
 #DESCRIPTION FL - Miami Beach
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd4.flv/playlist.m3u8:FL - Miami Biscayne Bay
 #DESCRIPTION FL - Miami Biscayne Bay
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videos3.earthcam.com/fecnetwork/15061.flv/playlist.m3u8:Miami News Cafe
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videos3.earthcam.com/fecnetwork/15061.flv/playlist.m3u8:FL - Miami News Cafe
 #DESCRIPTION FL - Miami News Cafe
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd7.flv/playlist.m3u8 :FL - Miami South Beach
 #DESCRIPTION FL - Miami South Beach
@@ -702,14 +905,18 @@
 #DESCRIPTION Dubai Palm-Atlantis
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6405.flv/playlist.m3u8:Dubai Palm-Atlantis
 #DESCRIPTION Dubai Palm-Atlantis
-
-#SERVICE 1:64:1:0:0:0:0:0:0:0::NASA
-#DESCRIPTION NASA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/9408562/streams/live/playlist.m3u8:NASA ISS1
-#DESCRIPTION NASA ISS1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/17074538/streams/live/playlist.m3u8:NASA ISS2
-#DESCRIPTION NASA ISS2
-
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Diverse
+#DESCRIPTION Diverse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/do_buenhombre01.m3u8:Dom Rep Buen Hombre
+#DESCRIPTION Dom Rep Buen Hombre
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/gd_stgeorges02.m3u8:Grenada St.Georges
+#DESCRIPTION Grenada St.Georges
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/mt_kalkara01.m3u8:Malta Kalkara
+#DESCRIPTION Malta Kalkara
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/4559.flv/chunklist_w751354966.m3u8:Costa Rica
+#DESCRIPTION Costa Rica
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/5026.flv/.m3u8:Phillipinien Boracay Island 2
+#DESCRIPTION Phillipinien Boracay Island 2
 #SERVICE 1:64:1:0:0:0:0:0:0:0::Tiere - saisonal Teil 2
 #DESCRIPTION Tiere - saisonal Teil 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.avex.nl/live/valkbinnen/playlist.m3u8:Amsterdam Gustav Mahlerlaan - Slechtvalk binnen
@@ -884,7 +1091,6 @@
 #DESCRIPTION EDINBURGH ZOO - Squirrel monkey cam (soms)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//595b9deb3d6ac.streamlock.net/qlive/edinburghzootiger1.stream/chunklist_w328320233.m3u8:EDINBURGH ZOO - Tiger cam (soms)
 #DESCRIPTION EDINBURGH ZOO - Tiger cam (soms)
-
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.wildlifestreaming.io%3a8443/Marwell/marwell_meerkat.stream/playlist.m3u8:Marwell Zoo - Cusimanse Cam
 #DESCRIPTION Marwell Zoo - Cusimanse Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream.wildlifestreaming.io%3a8443/Marwell/marwell_flamingo.stream/playlist.m3u8:Marwell Zoo - Flamingo Cam (Engeland)
@@ -907,8 +1113,6 @@
 #DESCRIPTION Graureiher - lhaigur - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hirv.m3u8:Herten - Hirv (Estland)
 #DESCRIPTION Herten - Hirv (Estland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hyljes.m3u8:Kegelrobben - Hyljes - Estland
-#DESCRIPTION Kegelrobben - Hyljes - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kasmu.m3u8:Zeemuseum - Kasmu  (Estland)
 #DESCRIPTION Zeemuseum - Kasmu  (Estland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live playpath=kasmu swfUrl=http%3a//www.eenet.ee/EENet/assets/site/player.swf pageUrl=http%3a//www.eenet.ee/EENet/kasmu.html live=1:Kasmu - Ostseekueste - Estland
@@ -921,8 +1125,6 @@
 #DESCRIPTION Rotwild I - Metskits - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/konnakotkas.m3u8:Schelladler - Konnakotkas - Estland
 #DESCRIPTION Schelladler - Konnakotkas - Estland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/merikotkas.m3u8:Seeadler - Merikotkas - Estland
-#DESCRIPTION Seeadler - Merikotkas - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas.m3u8:Seeadler - Kalakotkas 1 (Estland)
 #DESCRIPTION Seeadler - Kalakotkas 1 (Estland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Seeadler - Kalakotkas 2 (Estland)
@@ -1129,171 +1331,20 @@
 #DESCRIPTION Giraffen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kakk.m3u8:Kaak - bruine uil
 #DESCRIPTION Kaak - bruine uil
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/myearthcam/ea0d8fcee269a399533dd195f6f68a33.flv/playlist.m3u8:Piranha - Fütterung freitags 04:00 Uhr MEZ
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/myearthcam/ea0d8fcee269a399533dd195f6f68a33.flv/playlist.m3u8%3aPiranha - Fütterung freitags 04:Piranha - Fütterung freitags 04%3a00 Uhr MEZ
 #DESCRIPTION Piranha - Fütterung freitags 04:00 Uhr MEZ
-
-#SERVICE 1:64:0:0:0:0:0:0:0:0::end
+#SERVICE 1:64:0:0:0:0:0:0:0:0::+++  End +++
 #DESCRIPTION +++  End +++
 #SERVICE 1:64:0:0:0:0:0:0:0:0::Part 2
 #DESCRIPTION Part 2
-#SERVICE 1:64:B:0:0:0:0:0:0:0::Deutschland------------
-#DESCRIPTION Deutschland------------
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//liveonearth.com%3a1935/edge0/BER/chunklist_w235257686.m3u8?5842ba6cbbf0479c3de0a48f:Berlin - Brandenburger Tor
-#DESCRIPTION Berlin - Brandenburger Tor
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//insinceu.fcod.llnwd.net/a4088?ovpfv=1.1 playpath=mp4%3ar1/147blu/hdream/vsaw/tour1_LOW.mp4 swfUrl=http%3a//broadcast.iq-cinema.tv/player/broadcastPlayer.swf pageUrl=http%3a//www.vsaw.de/index.php?id=249:Berlin Wannsee
-#DESCRIPTION Berlin Wannsee
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56f2b065c34b1.streamlock.net/live/ddorfcam-ru/.m3u8:Düsseldorf Rheinufer
-#DESCRIPTION Düsseldorf Rheinufer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/dusfcae.stream/playlist.m3u8:Düsseldorf Airport - Check-in hal (Duitsland)
-#DESCRIPTION Düsseldorf Airport - Check-in hal (Duitsland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv46.smil/.m3u8:Eckernförde Strand
-#DESCRIPTION Eckernförde Strand
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3aLS_6c05b.smil/.m3u8:Eckernförde Unterwasserkamera
-#DESCRIPTION Eckernförde Unterwasserkamera
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//57a1a332778cd.streamlock.net%3a1935/danubeHotels-rtplive/_definst_/mp4%3acamera1.stream/playlist.m3u8:Frankfurt InterConti Mainhattan
-#DESCRIPTION Frankfurt InterConti Mainhattan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv139.smil/.m3u8:Friedrichskroog Badeturm
-#DESCRIPTION Friedrichskroog Badeturm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv179.smil/.m3u8:Greetsiel Krummhörn
-#DESCRIPTION Greetsiel Krummhörn
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//osltv.stream24.net/osltv1/_definst_/mp4%3agroemitz.stream/.m3u8:Grömitz
-#DESCRIPTION Grömitz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv196.smil/.m3u8:Hamburg Chilehaus
-#DESCRIPTION Hamburg Chilehaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv176.smil/.m3u8:Hamburg Blockbräu
-#DESCRIPTION Hamburg Blockbräu
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv47.smil/.m3u8:Hamburg Emporio
-#DESCRIPTION Hamburg Emporio
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3aLS_b5586.smil/.m3u8:Hamburg Michel
-#DESCRIPTION Hamburg Michel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv172.smil/.m3u8:Hamburg BL Gruppe
-#DESCRIPTION Hamburg BL Gruppe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv52.smil/.m3u8:Harz Brocken Torfhaus
-#DESCRIPTION Harz Brocken Torfhaus
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv211.smil/.m3u8:Helgoland Am Falm
-#DESCRIPTION Helgoland Am Falm
+#SERVICE 1:64:B:0:0:0:0:0:0:0::Deutschland
+#DESCRIPTION Deutschland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56f2a99952126.streamlock.net/542/default.stream/chunklist_1131539755_tkd293emF0b2tlbmhhc2g9UVdHTzc2Wl9OamJIMkJKeG01ZXJUR0tNTzUwVExpdjhPem1LSk9TdFAwdz0md293emF0b2tlbmVuZHRpbWU9MTUyNTI3Mjk0NSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE1MjUyNjkzNDU=.m3u8:Kast
 #DESCRIPTION Kast
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv28.smil/.m3u8:Kiel Ostufer
-#DESCRIPTION Kiel Ostufer
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv38.smil/.m3u8:Kiel Schleuse
-#DESCRIPTION Kiel Schleuse
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgnC8409D.stream/.m3u8:Köln Airport Cam1
-#DESCRIPTION Köln Airport Cam1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn2C70DD.stream/.m3u8:Köln Airport Cam2
-#DESCRIPTION Köln Airport Cam2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/.m3u8:Köln Airport Cam3
-#DESCRIPTION Köln Airport Cam3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgnCAA490.stream/.m3u8:Köln Airport Cam4
-#DESCRIPTION Köln Airport Cam4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv18.smil/.m3u8:Kröslin Hafenstrasse
-#DESCRIPTION Kröslin Hafenstrasse
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv82.smil/.m3u8:Laboe Ehrenmal
-#DESCRIPTION Laboe Ehrenmal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv210.smil/.m3u8:Lübecker Bucht Scharbeutz
-#DESCRIPTION Lübecker Bucht Scharbeutz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv40.smil/.m3u8:Lübecker Bucht Haffkrug
-#DESCRIPTION Lübecker Bucht Haffkrug
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//586fb512206e4.streamlock.net/stadtverwaltungWernigerrode-live/_definst_/mp4%3acamera1.stream/.m3u8:Marktplatz Wernigerode
-#DESCRIPTION Marktplatz Wernigerode
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv12.smil/.m3u8:Neuharlingersiel Hafen Ost
-#DESCRIPTION Neuharlingersiel Hafen Ost
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv13.smil/.m3u8:Neuharlingersiel Hafen West
-#DESCRIPTION Neuharlingersiel Hafen West
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv14.smil/.m3u8:Neuharlingersiel Panorama
-#DESCRIPTION Neuharlingersiel Panorama
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cam01.binz-kabel.de/cam1/960.m3u8:Ostseebad Binz
-#DESCRIPTION Ostseebad Binz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//insinceu.hs.llnwd.net/r1/147blu/hdream/yhd/panorama.mp4:Ostsee - Yachthafen
 #DESCRIPTION Ostsee - Yachthafen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv25.smil/.m3u8:Rügen Wiek
-#DESCRIPTION Rügen Wiek
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv76.smil/.m3u8:St Peter-Ording
-#DESCRIPTION St Peter-Ording
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//webcam.cmit-hl.de/herzberg/herzberg/index.m3u8:Scharbeutz Meerblick
-#DESCRIPTION Scharbeutz Meerblick
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv7.smil/.m3u8:Sylt Hörnum
-#DESCRIPTION Sylt Hörnum
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv49.smil/.m3u8:Sylt Kampen
-#DESCRIPTION Sylt Kampen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv217.smil/.m3u8:Sylt Rantum
-#DESCRIPTION Sylt Rantum
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv216.smil/.m3u8:Sylt Westerland
-#DESCRIPTION Sylt Westerland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv9.smil/.m3u8:Timmendorfer Strand
-#DESCRIPTION Timmendorfer Strand
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv208.smil/.m3u8:Travemuende
-#DESCRIPTION Travemuende
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv183.smil/.m3u8:Wangerooge Kurverwaltung
-#DESCRIPTION Wangerooge Kurverwaltung
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/smil%3avv20.smil/.m3u8:Warnemünde Best Western Hotel
-#DESCRIPTION Warnemünde Best Western Hotel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgnCAA490.stream/playlist.m3u8:Köln Bonn Airport - Parkeergarages
-#DESCRIPTION Köln Bonn Airport - Parkeergarages
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgnC8409D.stream/playlist.m3u8:Köln Bonn Airport - Platform Terminal 1 Cam 1
-#DESCRIPTION Köln Bonn Airport - Platform Terminal 1 Cam 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn4463E1.stream/playlist.m3u8:Köln Bonn Airport - Platform Terminal 1 Cam 2
-#DESCRIPTION Köln Bonn Airport - Platform Terminal 1 Cam 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn2C70DD.stream/playlist.m3u8:Köln Bonn Airport - Platform Terminal 1 Cam 3
-#DESCRIPTION Köln Bonn Airport - Platform Terminal 1 Cam 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgn06B1E8.stream/playlist.m3u8:Köln Bonn Airport - Platform Terminal 2
-#DESCRIPTION Köln Bonn Airport - Platform Terminal 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream-5gw.1000eyes.de/cupertino/cgnC84090.stream/playlist.m3u8:Köln Bonn Airport - Terminal 2
-#DESCRIPTION Köln Bonn Airport - Terminal 2
-#SERVICE 1:64:C:0:0:0:0:0:0:0::-----Dänemark
-#DESCRIPTION -----Dänemark
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aHSW.stream_all/.m3u8:Hvide Sande West
-#DESCRIPTION Hvide Sande West
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aklitmoeller_all/.m3u8:Klitmøller
-#DESCRIPTION Klitmøller
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3athyboroen_all/.m3u8:Thyborøn
-#DESCRIPTION Thyborøn
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aVorupoer.stream_all/.m3u8:Vorupør
-#DESCRIPTION Vorupør
-#SERVICE 1:64:D:0:0:0:0:0:0:0::-----Österreich
-#DESCRIPTION -----Österreich
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//badbleiberg.it-wms.com/clip_current_720p.mp4:Bad Bleiberg (Österreich)
-#DESCRIPTION Bad Bleiberg (Österreich)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//pfaenderbahn.it-wms.com/clip_current_720p.mp4:Bregenz - Pfänderbahn (Österreich)
-#DESCRIPTION Bregenz - Pfänderbahn (Österreich)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//finkenstein.it-wms.com/clip_current_720p.mp4:Finkenstein - Burgarena (Österreich)
-#DESCRIPTION Finkenstein - Burgarena (Österreich)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pacheiner.it-wms.com/clip_current_720p.mp4:Gerlitzen - Pacheiner (Österreich)
-#DESCRIPTION Gerlitzen - Pacheiner (Österreich)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//gerlitzen.it-wms.com/clip_current_720p.mp4:Gerlitzen - Sattendorf (Österreich)
-#DESCRIPTION Gerlitzen - Sattendorf (Österreich)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//graz-rathausturm.it-wms.com/clip_current_720p.mp4:Graz (Österreich)
-#DESCRIPTION Graz (Österreich)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//grossarl.it-wms.com/clip_current_720p.mp4:Großarl - Kreuzkogel (Österreich)
-#DESCRIPTION Großarl - Kreuzkogel (Österreich)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//presseggersee.it-wms.com/clip_current_720p.mp4:Hermagor - Presseggersee (Österreich)
-#DESCRIPTION Hermagor - Presseggersee (Österreich)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//pyramidenkogel.it-wms.com/clip_current_720p.mp4:Keutschach - Pyramidenkogel (Österreich)
-#DESCRIPTION Keutschach - Pyramidenkogel (Österreich)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream1.panocloud.com/KlagenfurtNeuerPlatz/KlagenfurtNeuerPlatz.stream/playlist.m3u8:Klagenfurt - Neuerplatz (Österreich)
-#DESCRIPTION Klagenfurt - Neuerplatz (Österreich)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera1.stream/chunklist_w1046920313.m3u8:Lechtal - Elbigenalp (Österreich)
-#DESCRIPTION Lechtal - Elbigenalp (Österreich)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//5857499ee635b.streamlock.net/tourismusverbandlechtal-rtplive/_definst_/mp4%3acamera2.stream/chunklist_w1596519276.m3u8:Lechtal - Stanzach (Österreich)
-#DESCRIPTION Lechtal - Stanzach (Österreich)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//petzen2.it-wms.com/clip_current_720p.mp4:Petzen - Bergstation (Österreich)
-#DESCRIPTION Petzen - Bergstation (Österreich)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//schoeckl.it-wms.com/clip_current_720p.mp4:Schöckl (Österreich)
-#DESCRIPTION Schöckl (Österreich)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//pillersee.it-wms.com/clip_current_720p.mp4:St. Ulrich am Pillersee (Österreich)
-#DESCRIPTION St. Ulrich am Pillersee (Österreich)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//panodata.panomax.com/cams/1138/videos/1138_HDready.mp4:Tauplitzalm (Österreich)
-#DESCRIPTION Tauplitzalm (Österreich)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//velden3.it-wms.com/clip_current_720p.mp4:Velden - Wörthersee (Österreich)
-#DESCRIPTION Velden - Wörthersee (Österreich)
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//villach.it-wms.com/clip_current_720p.mp4:Villach - Draubrücke (Österreich)
-#DESCRIPTION Villach - Draubrücke (Österreich)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//s1.live-panorama.com/keblivestreaming/streams/schmittenTVLow.sdp.stream.m3u8:Zell am See - Schmitten (Österreich)
-#DESCRIPTION Zell am See - Schmitten (Österreich)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//linz.it-wms.com/clip_current_720p.mp4:Linz, Donaulände
-#DESCRIPTION Linz, Donaulände
-#SERVICE 1:64:E:0:0:0:0:0:0:0::-----Schweiz
-#DESCRIPTION -----Schweiz
+#SERVICE 1:64:E:0:0:0:0:0:0:0::-Schweiz
+#DESCRIPTION -Schweiz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/vv195.stream/playlist.m3u8:Berghaus - Foppa (Schweiz)
 #DESCRIPTION Berghaus - Foppa (Schweiz)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv195.stream/.m3u8:Flims - Berghaus Foppa (Schweiz)
@@ -1302,61 +1353,46 @@
 #DESCRIPTION Flumserberg (Schweiz)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hotelalexander.it-wms.com/clip_current_720p.mp4:Zürich (Schweiz)
 #DESCRIPTION Zürich (Schweiz)
-#SERVICE 1:64:F:0:0:0:0:0:0:0::-----Ägypten
-#DESCRIPTION -----Ägypten
-#SERVICE 1:64:10:0:0:0:0:0:0:0::-----Australien
-#DESCRIPTION -----Australien
+#SERVICE 1:64:F:0:0:0:0:0:0:0::-Ägypten
+#DESCRIPTION -Ägypten
+#SERVICE 1:64:10:0:0:0:0:0:0:0::-Australien
+#DESCRIPTION -Australien
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/9189.flv/playlist.m3u8:Queensland (Australië)
 #DESCRIPTION Queensland (Australië)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//s11.ipcamlive.com/streams/0b5b7c4de1ca4385c/stream.m3u8:Sydney (Australië)
 #DESCRIPTION Sydney (Australië)
-#SERVICE 1:64:11:0:0:0:0:0:0:0::-----Belgien
-#DESCRIPTION -----Belgien
+#SERVICE 1:64:11:0:0:0:0:0:0:0::-Belgien
+#DESCRIPTION -Belgien
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58cbb5532ad4f.streamlock.net/artesis/artesis.stream/chunklist_w436625956.m3u8:Antwerpen - bouw Artesis Campus Noord
 #DESCRIPTION Antwerpen - bouw Artesis Campus Noord
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.streamcloud.be/webbxl_live/webcam.stream/playlist.m3u8:Brussel - Grote Markt
 #DESCRIPTION Brussel - Grote Markt
-#SERVICE 1:64:12:0:0:0:0:0:0:0::-----Brasilien
-#DESCRIPTION -----Brasilien
+#SERVICE 1:64:12:0:0:0:0:0:0:0::-Brasilien
+#DESCRIPTION -Brasilien
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6593.flv/chunklist_w104989290.m3u8:Brasilien - Rio de Janerio
 #DESCRIPTION Brasilien - Rio de Janerio
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//69.46.0.170%3a1935/santuario_aparecida/canal5.stream/live.m3u8:Brasilien - SANTUARIO NACIONAL1
 #DESCRIPTION Brasilien - SANTUARIO NACIONAL1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/br_natal1.m3u8:Brasilien - Strand Ponta Negra
 #DESCRIPTION Brasilien - Strand Ponta Negra
-#SERVICE 1:64:13:0:0:0:0:0:0:0::-----China
-#DESCRIPTION -----China
+#SERVICE 1:64:13:0:0:0:0:0:0:0::-China
+#DESCRIPTION -China
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//bililive.kksmg.com/hls/sdi80/playlist.m3u8:Shanghai - Skyline (China)
 #DESCRIPTION Shanghai - Skyline (China)
-#SERVICE 1:64:14:0:0:0:0:0:0:0::-----Curacao
-#DESCRIPTION -----Curacao
+#SERVICE 1:64:14:0:0:0:0:0:0:0::-Curacao
+#DESCRIPTION -Curacao
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56f2a99952126.streamlock.net/498/default.stream/chunklist_w194504348_tkd293emF0b2tlbmhhc2g9UU4wSUp4cTMxcjNGTWJJb01RVHRrVkZySlg5N1BuU1lCX3AtRHQ3NXVSUT0md293emF0b2tlbmVuZHRpbWU9MTUwMjI4NjE2NSZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE1MDIyODI1NjU=.m3u8:Curacao - Lions dive
 #DESCRIPTION Curacao - Lions dive
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.54.176%3a80/64connections/Pariscam3.stream/.m3u8:Paris - Eifelturm
-#DESCRIPTION Paris - Eifelturm
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.54.176%3a80/64connections/Pariscam4.stream/.m3u8:Paris - Montparnasse
-#DESCRIPTION Paris - Montparnasse
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//46.105.54.176%3a80/64connections/Pariscam2.stream/.m3u8:Paris - Seine
-#DESCRIPTION Paris - Seine
-#SERVICE 1:64:15:0:0:0:0:0:0:0::-----Griechenland
-#DESCRIPTION -----Griechenland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/gr_mykonos01.m3u8:Mykonos 1 (Griechenland)
-#DESCRIPTION Mykonos 1 (Griechenland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/gr_mykonos03.m3u8:Mykonos 2 (Griechenland)
-#DESCRIPTION Mykonos 2 (Griechenland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/gr_syros08.m3u8:Syros - Hermoupolis (Griechenland)
-#DESCRIPTION Syros - Hermoupolis (Griechenland)
-#SERVICE 1:64:16:0:0:0:0:0:0:0::-----Irland
-#DESCRIPTION -----Irland
+#SERVICE 1:64:16:0:0:0:0:0:0:0::-Irland
+#DESCRIPTION -Irland
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4054.flv/playlist.m3u8:Dublin - The Temple Bar (Ierland)
 #DESCRIPTION Dublin - The Temple Bar (Ierland)
-#SERVICE 1:64:17:0:0:0:0:0:0:0::-----Island
-#DESCRIPTION -----Island
+#SERVICE 1:64:17:0:0:0:0:0:0:0::-Island
+#DESCRIPTION -Island
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5299.flv/chunklist_w1653203563.m3u8:Island Polarlicht
 #DESCRIPTION Island Polarlicht
-#SERVICE 1:64:18:0:0:0:0:0:0:0::------Israel
-#SERVICE 1:64:19:0:0:0:0:0:0:0::-----Italien
-#DESCRIPTION -----Italien
+#SERVICE 1:64:19:0:0:0:0:0:0:0::-Italien
+#DESCRIPTION -Italien
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/it_rosolinamare01.m3u8:Veneto - Holiday Village Rosapineta
 #DESCRIPTION Veneto - Holiday Village Rosapineta
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/it_aqualandiajesolo01.m3u8:Aqualandia Jesolo – Shark Bay
@@ -1409,18 +1445,18 @@
 #DESCRIPTION Venedig
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/it_vieste01.m3u8:Vieste
 #DESCRIPTION Vieste
-#SERVICE 1:64:1A:0:0:0:0:0:0:0::-----Katar
-#DESCRIPTION -----Katar
+#SERVICE 1:64:1A:0:0:0:0:0:0:0::-Katar
+#DESCRIPTION -Katar
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//liveonearth.com%3a1935/edge0/KA5/chunklist_w890844878.m3u8?5842ba6cbbf0479c3de0a48f:Doha 1
 #DESCRIPTION Doha 1
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/7947.flv/playlist.m3u8:Doha 2
 #DESCRIPTION Doha 2
-#SERVICE 1:64:1B:0:0:0:0:0:0:0::-----Kambotcha
-#DESCRIPTION -----Kambotcha
+#SERVICE 1:64:1B:0:0:0:0:0:0:0::-Kambotcha
+#DESCRIPTION -Kambotcha
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.earthtv.com/a26edb13-81e0-34b9-ab41-ab9ccb35f99a.mp4?token=5842ba6cbbf0479c3de0a48f:Phnom Penh paleis koning (Kambotcha)
 #DESCRIPTION Phnom Penh paleis koning (Kambotcha)
-#SERVICE 1:64:1C:0:0:0:0:0:0:0::-----Kanada
-#DESCRIPTION -----Kanada
+#SERVICE 1:64:1C:0:0:0:0:0:0:0::-Kanada
+#DESCRIPTION -Kanada
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/5230.flv/playlist.m3u8:Algonquin Park Cam
 #DESCRIPTION Algonquin Park Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/9299.flv/chunklist.m3u8:Toronto - CN Tower 1
@@ -1435,8 +1471,8 @@
 #DESCRIPTION Niagara waterval
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//liveonearth.com%3a1935/edge4/YVR/chunklist_w1995524861.m3u8?5842ba6cbbf0479c3de0a48f:Vancouver - Jericho
 #DESCRIPTION Vancouver - Jericho
-#SERVICE 1:64:1D:0:0:0:0:0:0:0::-----Kroatien
-#DESCRIPTION -----Kroatien
+#SERVICE 1:64:1D:0:0:0:0:0:0:0::-Kroatien
+#DESCRIPTION -Kroatien
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_fazana01.m3u8:Kroatien - Istrien - Fazana
 #DESCRIPTION Kroatien - Istrien - Fazana
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_tinjan01.m3u8:Kroatien - Istrien - Tinjan
@@ -1479,8 +1515,8 @@
 #DESCRIPTION Kroatien - Zadar - Pakostane
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/hr_sljeme2.m3u8:Kroatien - Zagreb - Ski Center Sljeme - Medvednica
 #DESCRIPTION Kroatien - Zagreb - Ski Center Sljeme - Medvednica
-#SERVICE 1:64:1E:0:0:0:0:0:0:0::-----Norwegen
-#DESCRIPTION -----Norwegen
+#SERVICE 1:64:1E:0:0:0:0:0:0:0::-Norwegen
+#DESCRIPTION -Norwegen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.vosskom.no%3a1935/bt/Aasanevegen.stream/chunklist_w181480892.m3u8:Aasanevegen
 #DESCRIPTION Aasanevegen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream1.vossaskyen.no/bt/Danmarksplass.stream/playlist.m3u8:Bergen - Danmarks plass
@@ -1527,15 +1563,14 @@
 #DESCRIPTION Norway - Ulriken
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.vosskom.no%3a1935/bt/Vaagen.stream/chunklist_w427786291.m3u8:Norway - Vaagen
 #DESCRIPTION Norway - Vaagen
-
-#SERVICE 1:64:30:0:0:0:0:0:0:0::-----Philipinen
-#DESCRIPTION -----Philipinen
+#SERVICE 1:64:30:0:0:0:0:0:0:0::-Philipinen
+#DESCRIPTION -Philipinen
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/philippinesHD1.flv/.m3u8:Boracay Island 1 (Philipinen)
 #DESCRIPTION Boracay Island 1 (Philipinen)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5026.flv/.m3u8:Boracay Island 2 (Philipinen)
 #DESCRIPTION Boracay Island 2 (Philipinen)
-#SERVICE 1:64:31:0:0:0:0:0:0:0::-----Polen
-#DESCRIPTION -----Polen
+#SERVICE 1:64:31:0:0:0:0:0:0:0::-Polen
+#DESCRIPTION -Polen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ls7.webcamera.pl/skywind_cam_4b0f1c/skywind_cam_4b0f1c.stream/playlist.m3u8:Bania Passage (Polen)
 #DESCRIPTION Bania Passage (Polen)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hoktastream2.webcamera.pl/krakow_cam_4c3e37/krakow_cam_4c3e37.stream/playlist.m3u8:Cracow 1 (Polen)
@@ -1924,8 +1959,8 @@
 #DESCRIPTION Wroclaw (Polen)
 #SERVICE 4097:0:1:1314:0:0:0:0:0:0:http%3a//kamera.task.gda.pl%3a1935/rtplive//k002.sdp/playlist.m3u8:X - jachtHafen (Polen)
 #DESCRIPTION X - jachtHafen (Polen)
-#SERVICE 1:64:32:0:0:0:0:0:0:0::-----Portugal
-#DESCRIPTION -----Portugal
+#SERVICE 1:64:32:0:0:0:0:0:0:0::-Portugal
+#DESCRIPTION -Portugal
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//213.13.26.11%3a1935/live/santuario.stream/index.m3u8:Santuario Fatima (Portugal)
 #DESCRIPTION Santuario Fatima (Portugal)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/alvor/chunks.m3u8:Portugal - Alvor
@@ -1982,8 +2017,8 @@
 #DESCRIPTION Portugal - Vilamoura
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video-auth1.iol.pt%3a1935/beachcam/zambujeira/chunks.m3u8:Portugal - Zambujeira
 #DESCRIPTION Portugal - Zambujeira
-#SERVICE 1:64:33:0:0:0:0:0:0:0::-----Russland
-#DESCRIPTION -----Russland
+#SERVICE 1:64:33:0:0:0:0:0:0:0::-Russland
+#DESCRIPTION -Russland
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//liveonearth.com%3a1935/edge1/LED/chunklist_w1799085063.m3u8?5842ba6cbbf0479c3de0a48f:St. Petersburg (Russland)
 #DESCRIPTION St. Petersburg (Russland)
 #SERVICE 4097:0:1:864:0:0:0:0:0:0:http%3a//s2.moidom.karelia.pro/s/public/0000001049.m3u8:RU - Кондопога - Ледовый дворец (Russisch)
@@ -2022,20 +2057,20 @@
 #DESCRIPTION RU - Псков - Привокзальная площадь
 #SERVICE 4097:0:1:1352:0:0:0:0:0:0:http%3a//stream.ntktv.ua/s/ratusha/ratusha.m3u8:RU - Ратуша UA
 #DESCRIPTION RU - Ратуша UA
-#SERVICE 1:64:34:0:0:0:0:0:0:0::-----Saudi-Arabien
-#DESCRIPTION -----Saudi-Arabien
+#SERVICE 1:64:34:0:0:0:0:0:0:0::-Saudi-Arabien
+#DESCRIPTION -Saudi-Arabien
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.earthtv.com/ab61ce34-133e-335e-a07a-424761e0bd0b.mp4?token=5842ba6cbbf0479c3de0a48f:Medina - Moskee van de Profeet (Saudi-Arabien)
 #DESCRIPTION Medina - Moskee van de Profeet (Saudi-Arabien)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.earthtv.com/ce942c6c-7c3d-3688-9459-3f5ddb1cbd8c.mp4?token=5842ba6cbbf0479c3de0a48f:Mekka - Al Haram Moskee (Saudi-Arabien)
 #DESCRIPTION Mekka - Al Haram Moskee (Saudi-Arabien)
-#SERVICE 1:64:35:0:0:0:0:0:0:0::-----Serbien
-#DESCRIPTION -----Serbien
+#SERVICE 1:64:35:0:0:0:0:0:0:0::-Serbien
+#DESCRIPTION -Serbien
 #SERVICE 4097:0:1:12:0:0:0:0:0:0:http%3a//edith03.blictv.blic.net%3a1935/live/ngrp%3akamera02.stream_all/chunklist_w873016047_b350000.m3u8:Banja luka (Serbien)
 #DESCRIPTION Banja luka (Serbien)
 #SERVICE 4097:0:1:8:0:0:0:0:0:0:rtmp%3a//cam.nsprozor.com/kamere/live//KejZrtavaRacije.stream:Novi Sad Kej zrtava racije (Serbien)
 #DESCRIPTION Novi Sad Kej zrtava racije (Serbien)
-#SERVICE 1:64:36:0:0:0:0:0:0:0::-----Slowakei
-#DESCRIPTION -----Slowakei
+#SERVICE 1:64:36:0:0:0:0:0:0:0::-Slowakei
+#DESCRIPTION -Slowakei
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.tmr.sk%3a1935/tmr//STREAM4.stream/playlist.m3u8:AQUAPARK 1 (Slowakei)
 #DESCRIPTION AQUAPARK 1 (Slowakei)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.zivekamery.sk%3a1935/live/KROMERIZ.stream/playlist.m3u8:KROMERIZ - Hulinska (Slowakei)
@@ -2044,80 +2079,26 @@
 #DESCRIPTION RUZOMBEROK - Stefanicka (Slowakei)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.tmr.sk%3a1935/tmr//STREAM26.stream/playlist.m3u8:SRDIEKO - Jasn (Slowakei)
 #DESCRIPTION SRDIEKO - Jasn (Slowakei)
-#SERVICE 1:64:37:0:0:0:0:0:0:0::-----Spanien
-#DESCRIPTION -----Spanien
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam063.stream/chunklist_w2072621059.m3u8:Mallorca Aquasol
-#DESCRIPTION Mallorca Aquasol
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam004.stream/chunklist_w1835163.m3u8:Mallorca Can Pastilla
-#DESCRIPTION Mallorca Can Pastilla
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam018.stream/chunklist_w1205220231.m3u8:Mallorca Cala Ratjada
-#DESCRIPTION Mallorca Cala Ratjada
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam039.stream/chunklist_w1632404532.m3u8:Mallorca Can Barbara
-#DESCRIPTION Mallorca Can Barbara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam016.stream/chunklist_w717809022.m3u8:Mallorca Colònia de San Pere
-#DESCRIPTION Mallorca Colònia de San Pere
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam041.stream/chunklist_w1796943507.m3u8:Mallorca Costa de la Calma
-#DESCRIPTION Mallorca Costa de la Calma
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam070.stream/chunklist_w1938312815.m3u8:Mallorca Es Camp de Mar
-#DESCRIPTION Mallorca Es Camp de Mar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam050.stream/chunklist_w1143011355.m3u8:Mallorca El Arenal
-#DESCRIPTION Mallorca El Arenal
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam026.stream/chunklist_w2124660473.m3u8:Mallorca Palma
-#DESCRIPTION Mallorca Palma
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam053.stream/chunklist_w1913003108.m3u8:Mallorca Port d´Andratx
-#DESCRIPTION Mallorca Port d´Andratx
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam032.stream/chunklist_w1519706300.m3u8:Mallorca Port d´Alcúdia
-#DESCRIPTION Mallorca Port d´Alcúdia
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam030.stream/chunklist_w1993164665.m3u8:Mallorca Port de Sóller
-#DESCRIPTION Mallorca Port de Sóller
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam021.stream/chunklist_w808167242.m3u8:Mallorca Portocolom
-#DESCRIPTION Mallorca Portocolom
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5811bd721519c.streamlock.net%3a1936/live/livecam007.stream/chunklist_w1291407165.m3u8:Mallorca Paguera
-#DESCRIPTION Mallorca Paguera
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/es_duquesa01.m3u8:Spanien - Puerto de la Duquesa
-#DESCRIPTION Spanien - Puerto de la Duquesa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/es_puertorico01.m3u8:Spanien - Puerto Rico Beach Club – Gran Canaria
-#DESCRIPTION Spanien - Puerto Rico Beach Club – Gran Canaria
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/es_laspalmas3.m3u8:Spanien - Las Palmas – LAS CANTERAS Beach
-#DESCRIPTION Spanien - Las Palmas – LAS CANTERAS Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/es_roses02.m3u8:Spanien - Costa Brava – La Perola Beach
-#DESCRIPTION Spanien - Costa Brava – La Perola Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/es_cadiz1.m3u8:Spanien - Cadiz – Beach Santa Maria del Mar
-#DESCRIPTION Spanien - Cadiz – Beach Santa Maria del Mar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/es_chiclana01.m3u8:Spanien - Chiclana – Marina de Sancti Petri
-#DESCRIPTION Spanien - Chiclana – Marina de Sancti Petri
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/es_barbate01.m3u8:Spanien - Barbate – Playa del Carmen
-#DESCRIPTION Spanien - Barbate – Playa del Carmen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/es_vejer01.m3u8:Spanien - Cadiz - Vejer de la Frontera
-#DESCRIPTION Spanien - Cadiz - Vejer de la Frontera
+#SERVICE 1:64:37:0:0:0:0:0:0:0::-Spanien
+#DESCRIPTION -Spanien
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/do_bayahibe02.m3u8:DomRep - Beach at WeAre Cadaques Resort
 #DESCRIPTION DomRep - Beach at WeAre Cadaques Resort
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/gd_stgeorges02.m3u8:Grenada - Native Spirit Scuba Beach
 #DESCRIPTION Grenada - Native Spirit Scuba Beach
-#SERVICE 1:64:38:0:0:0:0:0:0:0::-----Tschechien
-#DESCRIPTION -----Tschechien
+#SERVICE 1:64:38:0:0:0:0:0:0:0::-Tschechien
+#DESCRIPTION -Tschechien
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//stream.silesnet.net/webcams/jablunkov.m3u8:Jablunkov
 #DESCRIPTION Jablunkov
-#SERVICE 1:64:39:0:0:0:0:0:0:0::-----Türkei
-#DESCRIPTION -----Türkei
+#SERVICE 1:64:39:0:0:0:0:0:0:0::-Türkei
+#DESCRIPTION -Türkei
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//cdn.earthtv.com/3eda477a-8226-303d-bbe9-c2604d836401.mp4?token=5842ba6cbbf0479c3de0a48f:Izmir - Ägäis (Turkije)
 #DESCRIPTION Izmir - Ägäis (Turkije)
-#SERVICE 1:64:3A:0:0:0:0:0:0:0::-----VAE
-#DESCRIPTION -----VAE
+#SERVICE 1:64:3A:0:0:0:0:0:0:0::-VAE
+#DESCRIPTION -VAE
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5868.flv/playlist.m3u8:Dubai Palme - Skyline (VAE)
 #DESCRIPTION Dubai Palme - Skyline (VAE)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//586fb512206e4.streamlock.net%3a1935/neueDorint-rtp/_definst_/mp4%3aBeatenberg.stream/playlist.m3u8:Beatenberg (Schweiz)
-#DESCRIPTION Beatenberg (Schweiz)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ch-par1-645fe1cb.livespotting.com/windit-edge/vv195.stream/playlist.m3u8:Berghaus - Foppa (Schweiz)
-#DESCRIPTION Berghaus - Foppa (Schweiz)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv195.stream/.m3u8:Flims - Berghaus Foppa (Schweiz)
-#DESCRIPTION Flims - Berghaus Foppa (Schweiz)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.livespotting.tv/windit-edge/vv178.stream/.m3u8:Flumserberg (Schweiz)
-#DESCRIPTION Flumserberg (Schweiz)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hotelalexander.it-wms.com/clip_current_720p.mp4:Zürich (Schweiz)
-#DESCRIPTION Zürich (Schweiz)
-#SERVICE 1:64:3B:0:0:0:0:0:0:0::-----UK
-#DESCRIPTION -----UK
+#SERVICE 1:64:3B:0:0:0:0:0:0:0::-UK
+#DESCRIPTION -UK
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/5288.flv/playlist.m3u8:Bognor Regis Beach Cam (England)
 #DESCRIPTION Bognor Regis Beach Cam (England)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/AbbeyRoadHD1.flv/playlist.m3u8:London - Abbey Road (England)
@@ -2178,324 +2159,12 @@
 #DESCRIPTION UK rail - Swanage Station
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mirlees.railcam.co.uk%3a8080/Uphall_96341/index.m3u8:UK rail - Uphall
 #DESCRIPTION UK rail - Uphall
-#SERVICE 1:64:3C:0:0:0:0:0:0:0::-----Ukraine
-#DESCRIPTION -----Ukraine
+#SERVICE 1:64:3C:0:0:0:0:0:0:0::-Ukraine
+#DESCRIPTION -Ukraine
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//85.90.192.233/rtplive2 playpath=veltonMedium53.stream swfUrl=http%3a//velton.ua/ru/webcams/VeltonPlayerWideNew.swf pageUrl=http%3a%3a//velton.ua/ru/webcams/Wide3HQ.shtml%3aPoltawa:Poltawa  - Strasse der Oktoberrevolution - Ukraine
 #DESCRIPTION Poltawa  - Strasse der Oktoberrevolution - Ukraine
-#SERVICE 1:64:3D:0:0:0:0:0:0:0::-----USA
-#DESCRIPTION -----USA
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.hdontap.com/ingest01-hd1/Boca_grande_gasparilla.stream/playlist.m3u8:Boca Grande Beach - Boca Grande, Florida (USA)
-#DESCRIPTION Boca Grande Beach - Boca Grande, Florida (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/7300.flv/playlist.m3u8:Breckenridge Ski Cam (USA)
-#DESCRIPTION Breckenridge Ski Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4049sonesta.flv/playlist.m3u8:Cambridge Boston
-#DESCRIPTION Cambridge Boston
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4281.flv/playlist.m3u8:Cats Meow Karaoke Bar (USA)
-#DESCRIPTION Cats Meow Karaoke Bar (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5187.flv/master.m3u8:Chicago (USA)
-#DESCRIPTION Chicago (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/3186.flv/master.m3u8:Chicago - Wrigley Field (USA)
-#DESCRIPTION Chicago - Wrigley Field (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/6698.flv/playlist.m3u8:City of Cavalier Cam (USA)
-#DESCRIPTION City of Cavalier Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6427.flv/playlist.m3u8:Columbus Circle (USA)
-#DESCRIPTION Columbus Circle (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/7524.flv/playlist.m3u8:Dallas - Reunion Tower
-#DESCRIPTION Dallas - Reunion Tower
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wms-prod-1.wetmet.net/live/207-10-01/playlist.m3u8:Doylestown (USA)
-#DESCRIPTION Doylestown (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/5359.flv/playlist.m3u8:Elvis Wedding Chapel (USA)
-#DESCRIPTION Elvis Wedding Chapel (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/370.flv/playlist.m3u8:Falcon Cam (USA)
-#DESCRIPTION Falcon Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5718.flv/playlist.m3u8:FL - Daytona Beach (USA)
-#DESCRIPTION FL - Daytona Beach (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5663.flv/playlist.m3u8:FL - Destin Sandestin Beach (USA)
-#DESCRIPTION FL - Destin Sandestin Beach (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/7571.flv/master.m3u8:FL - Flight Cam (USA)
-#DESCRIPTION FL - Flight Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/windjammerHD2.flv/playlist.m3u8:FL - Fort Lauderdale (USA)
-#DESCRIPTION FL - Fort Lauderdale (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/8891.flv/playlist.m3u8:FL - Fort Lauderdale Marina (USA)
-#DESCRIPTION FL - Fort Lauderdale Marina (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/7342.flv/master.m3u8:FL - Manatee Cam (USA)
-#DESCRIPTION FL - Manatee Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd1.flv/playlist.m3u8:FL - Miami Beach (USA)
-#DESCRIPTION FL - Miami Beach (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd5.flv/playlist.m3u8:FL - Miami Downtown (USA)
-#DESCRIPTION FL - Miami Downtown (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd7.flv/playlist.m3u8 :FL - Miami South Beach (USA)
-#DESCRIPTION FL - Miami South Beach (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd2.flv/playlist.m3u8 :FL - Miami Sunny Isles
-#DESCRIPTION FL - Miami Sunny Isles
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/8763.flv/master.m3u8:FL - Naples Panorama - Pier
-#DESCRIPTION FL - Naples Panorama - Pier
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//vdn.terrafox.com/NBL/nbl-1.stream/playlist_dvr.m3u8:FL - Navarre Beach Pier
-#DESCRIPTION FL - Navarre Beach Pier
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5663.flv/master.m3u8:FL - Palm Beach
-#DESCRIPTION FL - Palm Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/8838.flv/master.m3u8:FL - Zoo
-#DESCRIPTION FL - Zoo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5a5f765a4fcc2.streamlock.net%3a1935/live/fb.stream/playlist.m3u8:Folly Beach (USA)
-#DESCRIPTION Folly Beach (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live-nDVR/freedomboatclub.stream/playlist.m3u8:Freedom boat club (USA)
-#DESCRIPTION Freedom boat club (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live/greenparrot2.stream/playlist.m3u8:Green Parrot (USA)
-#DESCRIPTION Green Parrot (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live/greeneville.stream/playlist.m3u8:Greeneville (USA)
-#DESCRIPTION Greeneville (USA)
-#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/5758.flv/playlist.m3u8:Hawaii - Waikoloa Cam (USA)
-#DESCRIPTION Hawaii - Waikoloa Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/7384.flv/playlist.m3u8:High Line Cam (USA)
-#DESCRIPTION High Line Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4135.flv/playlist.m3u8:Hillsboro Lighthouse - Oregon (USA)
-#DESCRIPTION Hillsboro Lighthouse - Oregon (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/lacitytours1.flv/playlist.m3u8:Hollywood Boulevard (USA)
-#DESCRIPTION Hollywood Boulevard (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/6954.flv/playlist.m3u8:Jackson Hole Cam (USA)
-#DESCRIPTION Jackson Hole Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wowza2.floridakeysmedia.com%3a1935/liveduvalstreet/liveduvalstreet.stream/playlist.m3u8:Key West - Duval Street (USA)
-#DESCRIPTION Key West - Duval Street (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/6320.flv/playlist.m3u8:Kiawah Island Beach (USA)
-#DESCRIPTION Kiawah Island Beach (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5a5f765a4fcc2.streamlock.net%3a1935/live/kbstreet.stream/playlist.m3u8:Kure Beach Street Cam (USA)
-#DESCRIPTION Kure Beach Street Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.hdontap.com/ingest01-hd1/lakehavasuvc_ttv.stream/playlist.m3u8:Lake Havasu, AZ - Lake Havasu (USA)
-#DESCRIPTION Lake Havasu, AZ - Lake Havasu (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4465.flv/playlist.m3u8:Lake Michigan Cam (USA)
-#DESCRIPTION Lake Michigan Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/eclasvegas.flv/playlist.m3u8:Las Vegas
-#DESCRIPTION Las Vegas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/9314.flv/playlist.m3u8:Lauderdale By The Sea (USA)
-#DESCRIPTION Lauderdale By The Sea (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/8891.flv/chunklist.m3u8:Fort Lauderdale Marina  (USA)
-#DESCRIPTION Fort Lauderdale Marina  (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5460.flv/playlist.m3u8:Long Beach - Gerald Desmond Bridge (USA)
-#DESCRIPTION Long Beach - Gerald Desmond Bridge (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.hdontap.com/ingest02-hd1/pier-mux_ppark/playlist.m3u8:Los Angeles County, CA - Santa Monica Pier (USA)
-#DESCRIPTION Los Angeles County, CA - Santa Monica Pier (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live/madelineisland.stream/playlist.m3u8:Madeline Island (USA)
-#DESCRIPTION Madeline Island (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5a5f765a4fcc2.streamlock.net%3a1935/live/squan.stream/playlist.m3u8:Manasquan (USA)
-#DESCRIPTION Manasquan (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4465.flv/master.m3u8:Michigan - Lake Michigan
-#DESCRIPTION Michigan - Lake Michigan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/7928.flv/master.m3u8:Michigan -Silver Lake Sand Dunes
-#DESCRIPTION Michigan -Silver Lake Sand Dunes
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/7945.flv/master.m3u8:Minnesota - Saint Paul Cam
-#DESCRIPTION Minnesota - Saint Paul Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/meprd_garch.flv/master.m3u8:Missouri - St. Louis Arch
-#DESCRIPTION Missouri - St. Louis Arch
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/5775.flv/playlist.m3u8:Mulberry Street Cam (USA)
-#DESCRIPTION Mulberry Street Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/3635.flv/playlist.m3u8:Myrtle Beach Cam (USA)
-#DESCRIPTION Myrtle Beach Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn.liveonearth.com/stream28/cdnedge/smil%3aLAV.smil/chunklist_b2500000_slENG.m3u8?5842ba6cbbf0479c3de0a48f:Nevada - Las Vegas - Skyline
-#DESCRIPTION Nevada - Las Vegas - Skyline
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5359.flv/playlist.m3u8:Nevada - Las Vegas - Wedding Chapel
-#DESCRIPTION Nevada - Las Vegas - Wedding Chapel
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/eclasvegas.flv/master.m3u8:Nevada - Las Vegas
-#DESCRIPTION Nevada - Las Vegas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5173.flv/master.m3u8:New Jersey - Seaside Heights
-#DESCRIPTION New Jersey - Seaside Heights
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5732.flv/playlist.m3u8:New Jersey - Wildwood
-#DESCRIPTION New Jersey - Wildwood
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5465.flv/master.m3u8:New Mexico - Las Vegas
-#DESCRIPTION New Mexico - Las Vegas
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4831.flv/playlist.m3u8:New Mexico - Santa Fe
-#DESCRIPTION New Mexico - Santa Fe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/5465.flv/playlist.m3u8:New Mexico Cam (USA)
-#DESCRIPTION New Mexico Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/chargingbull.flv/playlist.m3u8:New York - Charging Bull, Wall Street
-#DESCRIPTION New York - Charging Bull, Wall Street
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6427.flv/playlist.m3u8:New York - Columbus Circle
-#DESCRIPTION New York - Columbus Circle
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/7384.flv/playlist.m3u8:New York - High Line
-#DESCRIPTION New York - High Line
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5775.flv/master.m3u8:New York - Mulberry Street
-#DESCRIPTION New York - Mulberry Street
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4544.flv/master.m3u8:New York - Skyline
-#DESCRIPTION New York - Skyline
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8:New York - Times Square, 47th and Broadway
-#DESCRIPTION New York - Times Square, 47th and Broadway
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8:New York - Times Square, South View
-#DESCRIPTION New York - Times Square, South View
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4544.flv/playlist.m3u8:New York Skyline (USA)
-#DESCRIPTION New York Skyline (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/statueoflibertyHD.flv/chunklist.m3u8:New York - Freiheitsstatur (USA)
-#DESCRIPTION New York - Freiheitsstatur (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6698.flv/master.m3u8:North Dakota - City of Cavalier
-#DESCRIPTION North Dakota - City of Cavalier
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//iphone-streaming.ustream.tv/uhls/13415669/streams/live/iphone/playlist.m3u8:North Dakota - Fargo
-#DESCRIPTION North Dakota - Fargo
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4387.flv/playlist.m3u8:Pacolet River (USA)
-#DESCRIPTION Pacolet River (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media5.tripsmarter.com%3a1935/schoonersbeachHDCam830294711349/schbeach/chunklist.m3u8:Panama City - Florida - Schooners - Beach Cam (USA)
-#DESCRIPTION Panama City - Florida - Schooners - Beach Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//media3.tripsmarter.com%3a1935/schoonerssunsetHDCam392023487563/schsun/chunklist.m3u8:Panama City - Florida - Schooners - Sun Cam (USA)
-#DESCRIPTION Panama City - Florida - Schooners - Sun Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4918.flv/playlist.m3u8:Paterson Falls Cam (USA)
-#DESCRIPTION Paterson Falls Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6603.flv/playlist.m3u8:San Francisco (USA)
-#DESCRIPTION San Francisco (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6081.flv/playlist.m3u8:San Jacinto Monument (USA)
-#DESCRIPTION San Jacinto Monument (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cs2.pixelcaster.com%3a1935/live/cedar1.stream/playlist.m3u8:Sandusky - Ohio - Cedar Point Park 01 (USA)
-#DESCRIPTION Sandusky - Ohio - Cedar Point Park 01 (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cs2.pixelcaster.com%3a1935/live/cedar3.stream/playlist.m3u8:Sandusky - Ohio - Cedar Point Park 02 (USA)
-#DESCRIPTION Sandusky - Ohio - Cedar Point Park 02 (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cs2.pixelcaster.com%3a1935/live/cedar2.stream/playlist.m3u8:Sandusky - Ohio - Cedar Point Park (USA)
-#DESCRIPTION Sandusky - Ohio - Cedar Point Park (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video2.earthcam.com/fecnetwork/interactoneHDCam1.flv.flv pageUrl=http%3a//www.earthcam.com swfUrl=http%3a//www.earthcam.com/swf/cam_player_v2/ecnPlayer.swf?20120504_a live=1:Sanibel Island Beach FL United States HD
-#DESCRIPTION Sanibel Island Beach FL United States HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/4831.flv/playlist.m3u8:Santa Fe Cam (USA)
-#DESCRIPTION Santa Fe Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6253.flv/playlist.m3u8:Santa Monica (USA)
-#DESCRIPTION Santa Monica (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.hdontap.com/ingest02-hd1/park-mux_ppark/playlist.m3u8:Santa Monica, CA - Pac Park (USA)
-#DESCRIPTION Santa Monica, CA - Pac Park (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//live.seesarasotalive.com/liveedge/_definst_ playpath=39e1726c4038c70fbe82db2d41c4c4b6/jungle_gardens_flamingos_720p.stream swfUrl=http%3a//cdn.brilliantplatform.com/lib/flowplayer/3.2/licensed/unlimited-3.2.15.swf pageUrl=http%3a//www.seesarasotalive.com/webcams/jungle-gardens-flamingo-cam:Sarasota - Jungle Garden - FL United States
-#DESCRIPTION Sarasota - Jungle Garden - FL United States
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/3635.flv/playlist.m3u8:SC - Myrtle Beach, Beach
-#DESCRIPTION SC - Myrtle Beach, Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com%3a1935/fecnetwork/5173.flv/playlist.m3u8:Seaside Heights Cam (USA)
-#DESCRIPTION Seaside Heights Cam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5805.flv/playlist.m3u8:Sedona Seven Arches (USA)
-#DESCRIPTION Sedona Seven Arches (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.hdontap.com/ingest01-hd1/carruth-solana_beach_cuw.stream/playlist.m3u8:Solana Beach, CA - Carruth Wijnkelder (USA)
-#DESCRIPTION Solana Beach, CA - Carruth Wijnkelder (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//208.43.68.139/surfchex playpath=fishy-super swfUrl=http%3a//www.surfchex.com/player.swf pageUrl=http%3a//www.surfchex.com/fishy-fishy-web-cam.php:Southport - Fishy Fishy Cafe - NC United States
-#DESCRIPTION Southport - Fishy Fishy Cafe - NC United States
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live/staugustine.stream/playlist.m3u8:St. Augustine - St. Augustine Historic Inn (USA)
-#DESCRIPTION St. Augustine - St. Augustine Historic Inn (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//node2.twisted-symmetry.space%3a2000/HLS/st-francis/st-francis.m3u8:St. Francis Catholic Church (religie - USA)
-#DESCRIPTION St. Francis Catholic Church (religie - USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//208.43.68.139/surfchex playpath=surfcityhd-super swfUrl=http%3a//www.surfchex.com/player.swf pageUrl=http%3a//www.surfchex.com/topsail-island-web-cam.php:Surf City - Surf City Fishing Pier - NC United Sta
-#DESCRIPTION Surf City - Surf City Fishing Pier - NC United Sta
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.hdontap.com/ingest02-tahoetv/cobblestone_ttv.stream/playlist.m3u8:Tahoe City, CA - Cobblestone Center (USA)
-#DESCRIPTION Tahoe City, CA - Cobblestone Center (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.hdontap.com/ingest03-hd1/gondola_mountinlodge.stream/playlist.m3u8:Telluride, Colorado - Mountain Lodge Gondolas (USA)
-#DESCRIPTION Telluride, Colorado - Mountain Lodge Gondolas (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/1805.flv/playlist.m3u8:Upper Saddle River (USA)
-#DESCRIPTION Upper Saddle River (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com%3a80/live/massresort3.stream/playlist.m3u8:Virginia - Massanutten Resort Tubing (USA)
-#DESCRIPTION Virginia - Massanutten Resort Tubing (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/7322.flv/master.m3u8:Washington D.C - National Mall
-#DESCRIPTION Washington D.C - National Mall
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live/westjefferson.stream/playlist.m3u8:West Jefferson (USA)
-#DESCRIPTION West Jefferson (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//590804fbbbc47.streamlock.net%3a1935/westland/westland.stream/playlist.m3u8:Westland (USA)
-#DESCRIPTION Westland (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com%3a80/live/madelineisland.stream/playlist.m3u8:Wisconsin - Madeline Island
-#DESCRIPTION Wisconsin - Madeline Island
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//169.47.9.197%3a1935/live/wb.stream/playlist.m3u8:Wrightsville Beach (USA)
-#DESCRIPTION Wrightsville Beach (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/5023.flv/playlist.m3u8:USA - CA - Aliso Beach
-#DESCRIPTION USA - CA - Aliso Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/6603.flv/playlist.m3u8:USA - CA - San Francisco
-#DESCRIPTION USA - CA - San Francisco
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/6253.flv/playlist.m3u8:USA - CA - Santa Monica
-#DESCRIPTION USA - CA - Santa Monica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/5187.flv/master.m3u8:USA - IL - Chicago
-#DESCRIPTION USA - IL - Chicago
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/5663.flv/playlist.m3u8:USA - FL - Destin Sandestin Beach
-#DESCRIPTION USA - FL - Destin Sandestin Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/windjammerHD2.flv/playlist.m3u8:USA - FL - Fort Lauderdale
-#DESCRIPTION USA - FL - Fort Lauderdale
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/8891.flv/playlist.m3u8:USA - FL - Fort Lauderdale Marina
-#DESCRIPTION USA - FL - Fort Lauderdale Marina
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/5719.flv/playlist.m3u8:USA - FL - Fort Myers
-#DESCRIPTION USA - FL - Fort Myers
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/diamondhead.flv/master.m3u8:USA - FL - Fort Myers Beach, The Palms
-#DESCRIPTION USA - FL - Fort Myers Beach, The Palms
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/7571.flv/master.m3u8:USA - FL - Flight Cam
-#DESCRIPTION USA - FL - Flight Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/miamivishd4.flv/playlist.m3u8:USA - FL - Miami Biscayne Bay
-#DESCRIPTION USA - FL - Miami Biscayne Bay
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/miamivishd5.flv/playlist.m3u8:USA - FL - Miami Downtown
-#DESCRIPTION USA - FL - Miami Downtown
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/8763.flv/master.m3u8:USA - FL - Naples Panorama - Pier
-#DESCRIPTION USA - FL - Naples Panorama - Pier
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/5663.flv/master.m3u8:USA - FL - Palm Beach
-#DESCRIPTION USA - FL - Palm Beach
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/7962.flv/master.m3u8:USA - Maryland - Notre Dame
-#DESCRIPTION USA - Maryland - Notre Dame
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/4049sonesta.flv/playlist.m3u8:USA - MA - Cambridge Boston
-#DESCRIPTION USA - MA - Cambridge Boston
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/8584.flv/master.m3u8:USA - Michigan - Mill Pond
-#DESCRIPTION USA - Michigan - Mill Pond
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/4465.flv/master.m3u8:USA - Michgan - Lake Michigan
-#DESCRIPTION USA - Michgan - Lake Michigan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8891.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/fortlauderdale/marina/:Florida Marina Cam
-#DESCRIPTION Florida Marina Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/miamivishd5.flv/playlist.m3u8:Miami Downtown
-#DESCRIPTION Miami Downtown
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/eclasvegas.flv/playlist.m3u8:Nevada - Las Vegas
-#DESCRIPTION Nevada - Las Vegas
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4282.flv/playlist.m3u8:New Orleans Bourbon Street
-#DESCRIPTION New Orleans Bourbon Street
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4831.flv/playlist.m3u8:New Mexico - Santa Fe
-#DESCRIPTION New Mexico - Santa Fe
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/3983.flv/playlist.m3u8:NYC - Hudson River
-#DESCRIPTION NYC - Hudson River
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/chargingbull.flv/playlist.m3u8:NYC - Charging Bull, Wall Street
-#DESCRIPTION NYC - Charging Bull, Wall Street
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6427.flv/playlist.m3u8:NYC - Columbus Circle
-#DESCRIPTION NYC - Columbus Circle
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/7384.flv/playlist.m3u8:NYC - High Line
-#DESCRIPTION NYC - High Line
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/statueoflibertyHD.flv/playlist.m3u8:NYC - Liberty Island
-#DESCRIPTION NYC - Liberty Island
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/5775.flv/master.m3u8:NYC - Mulberry Street
-#DESCRIPTION NYC - Mulberry Street
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4017timessquare.flv/playlist.m3u8:NYC - Times Square, South View
-#DESCRIPTION NYC - Times Square, South View
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/hdtimes10.flv/playlist.m3u8:NYC - Times Square, 47th and Broadway
-#DESCRIPTION NYC - Times Square, 47th and Broadway
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a1935/fecnetwork playpath=8763.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/florida/naples/?cam=naplespier:Naples Panorama - Pier Cam
-#DESCRIPTION Naples Panorama - Pier Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a80/fecnetwork playpath=8471.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/oklahoma/vinita/?cam=route66east:Route 66 Cam - East View
-#DESCRIPTION Route 66 Cam - East View
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//video3.earthcam.com%3a80/fecnetwork playpath=6961.flv swfUrl=http%3a//static.earthcamcdn.com/swf/streaming/stream_viewer_v3.swf?20160420 pageUrl=http%3a//www.earthcam.com/usa/california/sanfrancisco/?cam=sanfranciscoskyline:San Francisco Skyline Cam
-#DESCRIPTION San Francisco Skyline Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/6253.flv/playlist.m3u8:Santa Monica
-#DESCRIPTION Santa Monica
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video3.earthcam.com/fecnetwork/meprd_garch.flv/chunklist_w417904978.m3u8:St. Louis,Missouri
-#DESCRIPTION St. Louis,Missouri
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video3.earthcam.com/fecnetwork/7928.flv/chunklist_w1962960315.m3u8:Silver Lake Michigan
-#DESCRIPTION Silver Lake Michigan
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video3.earthcam.com/fecnetwork/4281.flv/chunklist_w2012393025.m3u8:Cats Meow Karaoke2
-#DESCRIPTION Cats Meow Karaoke2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video3.earthcam.com/fecnetwork/9106.flv/chunklist_w521655171.m3u8:Cats Meow Karaoke1
-#DESCRIPTION Cats Meow Karaoke1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//video3.earthcam.com/fecnetwork/10551.flv/chunklist_w628835867.m3u8:Wanderfalke Boston
-#DESCRIPTION Wanderfalke Boston
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live-audio/hogsbreath3.stream_aac/chunklist.m3u8:Key West - Saloon Stage Cam
-#DESCRIPTION Key West - Saloon Stage Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live-audio/hogsbreath2.stream_aac/chunklist.m3u8:Key West - Saloon Raw Bar Cam
-#DESCRIPTION Key West - Saloon Raw Bar Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse1.resortcams.com/live-audio/hogsbreath1.stream_aac/chunklist.m3u8:Key West - Saloon Bar Cam
-#DESCRIPTION Key West - Saloon Bar Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//52.2.51.240%3a1935/irishkevinsstreet/irishkevinsstreet.stream/chunklist_w187144479.m3u8:Key West Irish Kevins Street
-#DESCRIPTION Key West Irish Kevins Street
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//52.2.51.240%3a1935/irishkevins/irishkevins.stream/chunklist_w38238460.m3u8:Key West Irish Kevins Stage
-#DESCRIPTION Key West Irish Kevins Stage
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//52.2.51.240%3a1935/irishkevinsbar/irishkevinsbar.stream/chunklist_w984927033.m3u8:Key West Irish Kevins Bar
-#DESCRIPTION Key West Irish Kevins Bar
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/4281.flv/playlist.m3u8:New Orleans Bourbon St. Karaokebar
-#DESCRIPTION New Orleans Bourbon St. Karaokebar
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/5173.flv/master.m3u8:USA - New Jersey - Seaside Heights
-#DESCRIPTION USA - New Jersey - Seaside Heights
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/5732.flv/playlist.m3u8:USA - New Jersey - Wildwood
-#DESCRIPTION USA - New Jersey - Wildwood
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/3983.flv/playlist.m3u8:USA - New York - Brooklyn Bridge 1
-#DESCRIPTION USA - New York - Brooklyn Bridge 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/libertyHD1.flv/playlist.m3u8:USA - New York - Liberty
-#DESCRIPTION USA - New York - Liberty
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/4544.flv/master.m3u8:USA - New York - Skyline
-#DESCRIPTION USA - New York - Skyline
-#SERVICE 1:64:3E:0:0:0:0:0:0:0::-----Tiere
-#DESCRIPTION -----Tiere
+#SERVICE 1:64:3E:0:0:0:0:0:0:0::-Tiere
+#DESCRIPTION -Tiere
 #SERVICE 1:64:3F:0:0:0:0:0:0:0::+++nestkastjes vogels+++
 #DESCRIPTION +++nestkastjes vogels+++
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.avex.nl/live/valkbinnen/playlist.m3u8:Amsterdam Gustav Mahlerlaan - Slechtvalk binnen
@@ -2630,20 +2299,20 @@
 #DESCRIPTION Texel - Lammetjes-cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//565c3c746b763.streamlock.net/live/ecomare.stream/playlist.m3u8:Texel - Zeehondjes-cam
 #DESCRIPTION Texel - Zeehondjes-cam
-#SERVICE 1:64:41:0:0:0:0:0:0:0::--- Afrika ---
-#DESCRIPTION --- Afrika ---
+#SERVICE 1:64:41:0:0:0:0:0:0:0::Afrika
+#DESCRIPTION Afrika
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/tm playpath=tm.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.7.swf pageUrl=http%3a//www.africam.com/wildlife/tembe_webcam:Tembe Elephant Reserve - Elephant Park - KwaZulu-N
 #DESCRIPTION Tembe Elephant Reserve - Elephant Park - KwaZulu-N
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/id playpath=id.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.10.swf pageUrl=http%3a//www.africam.com/wildlife/idube_webcam:Idube Game Reserve - Mpumalanga Republic of South
 #DESCRIPTION Idube Game Reserve - Mpumalanga Republic of South
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream.africam.com/be playpath=be.stream swfUrl=http%3a//www.africam.com/wildlife/files/flowplayer/flowplayer.commercial-3.2.7.swf pageUrl=http%3a//www.africam.com/wildlife/black_eagle_webcam:Johannesburg - Walter Sisulu Botanical Garden - Ea
 #DESCRIPTION Johannesburg - Walter Sisulu Botanical Garden - Ea
-#SERVICE 1:64:42:0:0:0:0:0:0:0::--- België ---
-#DESCRIPTION --- België ---
+#SERVICE 1:64:42:0:0:0:0:0:0:0::België
+#DESCRIPTION België
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//56f2a99952126.streamlock.net/829/default.stream/playlist.m3u8?wowzatokenhash=aMSM9YG2zWHRb-gwdzklt9mpmGlTnvXiC505padoTBk=&amp;wowzatokenendtime=1525104147&amp;wowzatokenstarttime=1525100547:Slechtvalk - Wetteren
 #DESCRIPTION Slechtvalk - Wetteren
-#SERVICE 1:64:43:0:0:0:0:0:0:0::--- Canada ---
-#DESCRIPTION --- Canada ---
+#SERVICE 1:64:43:0:0:0:0:0:0:0::Canada
+#DESCRIPTION Canada
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/8715.flv/chunklist_w1795104374.m3u8:Ontario ijsbeer 1 (Canada)
 #DESCRIPTION Ontario ijsbeer 1 (Canada)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/8713.flv/chunklist_w818261160.m3u8:Ontario ijsbeer 2 (Canada)
@@ -2654,8 +2323,8 @@
 #DESCRIPTION Ontario - poolbeer 2 (Canada)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ccurlott.optiktv.telus.net/live-spts/pandacam01/transmux/CCURstream3000000.m3u8:Toronto - Zoo panda (Canada)
 #DESCRIPTION Toronto - Zoo panda (Canada)
-#SERVICE 1:64:44:0:0:0:0:0:0:0::--- Denemarken ---
-#DESCRIPTION --- Denemarken ---
+#SERVICE 1:64:44:0:0:0:0:0:0:0::Denemarken
+#DESCRIPTION Denemarken
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//54.247.179.47/live playpath=camera6.stream swfUrl=https%3a//monitor.y-cam.com/jwplayer/player.swf pageUrl=https%3a//monitor.y-cam.com:Aalborg Zoo ijsbeer 1 (Denemarken)
 #DESCRIPTION Aalborg Zoo ijsbeer 1 (Denemarken)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//54.247.179.47/live playpath=camera7.stream swfUrl=https%3a//monitor.y-cam.com/jwplayer/player.swf pageUrl=https%3a//monitor.y-cam.com:Aalborg Zoo ijsbeer 2 (Denemarken)
@@ -2670,12 +2339,12 @@
 #DESCRIPTION Aalborg Zoo - tijger 2 (Denemarken)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//54.247.179.47/live playpath=camera3.stream swfUrl=https%3a//monitor.y-cam.com/jwplayer/player.swf pageUrl=https%3a//monitor.y-cam.com:Aalborg Zoo - tijger 3 (Denemarken)
 #DESCRIPTION Aalborg Zoo - tijger 3 (Denemarken)
-#SERVICE 1:64:45:0:0:0:0:0:0:0::--- Duitsland ---
-#DESCRIPTION --- Duitsland ---
+#SERVICE 1:64:45:0:0:0:0:0:0:0::Duitsland
+#DESCRIPTION Duitsland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5857db5306b83.streamlock.net/heidelberg-rtplive/_definst_/mp4%3acamera1.stream/playlist.m3u8:Heidelberg - Slechtvalk (Duitsland)
 #DESCRIPTION Heidelberg - Slechtvalk (Duitsland)
-#SERVICE 1:64:46:0:0:0:0:0:0:0::--- Engeland ---
-#DESCRIPTION --- Engeland ---
+#SERVICE 1:64:46:0:0:0:0:0:0:0::Engeland
+#DESCRIPTION Engeland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//595b9deb3d6ac.streamlock.net/qlive/pandas.stream/chunklist_w328320233.m3u8:EDINBURGH ZOO - Panda cam (soms)
 #DESCRIPTION EDINBURGH ZOO - Panda cam (soms)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//595b9deb3d6ac.streamlock.net/qlive/edinburghzoopenguintwo.stream/chunklist_w328320233.m3u8:EDINBURGH ZOO - Penguin cam (soms)
@@ -2700,18 +2369,14 @@
 #DESCRIPTION wildlivekate.co.uk - Mammal Box Cam
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.wildlifestreaming.io%3a1935/WildlifeKate/SnackBar.stream/playlist.m3u8:wildlivekate.co.uk - Snack Bar Cam
 #DESCRIPTION wildlivekate.co.uk - Snack Bar Cam
-#SERVICE 1:64:47:0:0:0:0:0:0:0::--- Estland ---
-#DESCRIPTION --- Estland ---
+#SERVICE 1:64:47:0:0:0:0:0:0:0::Estland
+#DESCRIPTION Estland
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/metsis.m3u8:Auerhuhn - Metsis - Estland
 #DESCRIPTION Auerhuhn - Metsis - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/mager.m3u8:Dachs - Mager - Estland
 #DESCRIPTION Dachs - Mager - Estland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/haigur.m3u8:Graureiher - lhaigur - Estland
-#DESCRIPTION Graureiher - lhaigur - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hirv.m3u8:Herten - Hirv (Estland)
 #DESCRIPTION Herten - Hirv (Estland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/hyljes.m3u8:Kegelrobben - Hyljes - Estland
-#DESCRIPTION Kegelrobben - Hyljes - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kasmu.m3u8:Zeemuseum - Kasmu  (Estland)
 #DESCRIPTION Zeemuseum - Kasmu  (Estland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live playpath=kasmu swfUrl=http%3a//www.eenet.ee/EENet/assets/site/player.swf pageUrl=http%3a//www.eenet.ee/EENet/kasmu.html live=1:Kasmu - Ostseekueste - Estland
@@ -2724,18 +2389,6 @@
 #DESCRIPTION Rotwild I - Metskits - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/konnakotkas.m3u8:Schelladler - Konnakotkas - Estland
 #DESCRIPTION Schelladler - Konnakotkas - Estland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/merikotkas.m3u8:Seeadler - Merikotkas - Estland
-#DESCRIPTION Seeadler - Merikotkas - Estland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas.m3u8:Seeadler - Kalakotkas 1 (Estland)
-#DESCRIPTION Seeadler - Kalakotkas 1 (Estland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kalakotkas2.m3u8:Seeadler - Kalakotkas 2 (Estland)
-#DESCRIPTION Seeadler - Kalakotkas 2 (Estland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.oessm.org%3a1935/AXIS_P3364/Cam217.stream/chunklist_w717880950.m3u8:Seeadler - Kalakotkas 3 (Estland)
-#DESCRIPTION Seeadler - Kalakotkas 3 (Estland)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kaljukotkas.m3u8:Steinadler - Kaljukotkas - Estland
-#DESCRIPTION Steinadler - Kaljukotkas - Estland
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/must-toonekurg.m3u8:Storch Schwarz - Must Tooneburg - Estland
-#DESCRIPTION Storch Schwarz - Must Tooneburg - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo playpath=cam1286 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/oja.html:Tallinn - Zoo Amur-Leopard I - Estland
 #DESCRIPTION Tallinn - Zoo Amur-Leopard I - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee%3a80/tlnzoo playpath=cam7626 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/kannu.html:Tallinn - Zoo Amur-Leopard II - Estland
@@ -2764,14 +2417,14 @@
 #DESCRIPTION Tallinn - Zoo Schneeleopard III - Estland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//193.40.133.138/live playpath=kalakotkas2 swfUrl=http%3a//pontu.eenet.ee/player/player.swf pageUrl=http%3a//pontu.eenet.ee/player/kalakotkas2.html:Tartu - Visarend - Estland
 #DESCRIPTION Tartu - Visarend - Estland
-#SERVICE 1:64:48:0:0:0:0:0:0:0::--- Indonesië ---
-#DESCRIPTION --- Indonesië ---
+#SERVICE 1:64:48:0:0:0:0:0:0:0::Indonesië
+#DESCRIPTION Indonesië
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/4337.flv/.m3u8:Olifant I - Indonesië - Bali
 #DESCRIPTION Olifant I - Indonesië - Bali
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videos3.earthcam.com/fecnetwork/4338.flv/playlist.m3u8:Olifant II - Indonesië - Bali
 #DESCRIPTION Olifant II - Indonesië - Bali
-#SERVICE 1:64:49:0:0:0:0:0:0:0::--- Kroatiё ---
-#DESCRIPTION --- Kroatiё ---
+#SERVICE 1:64:49:0:0:0:0:0:0:0::Kroatiё
+#DESCRIPTION Kroatiё
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/hr_pulaaquarium01.m3u8:Aquarium - Pula (soms)
 #DESCRIPTION Aquarium - Pula (soms)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-002.whatsupcams.com/hls/hr_zgzoo03.m3u8:Erdmännchen - Zagreb Zoo
@@ -2780,8 +2433,8 @@
 #DESCRIPTION Haubenkapuziner - Zagreb Zoo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//cdn-002.whatsupcams.com/hls/hr_zgzoo04.m3u8:Löwe III - Zagreb Zoo
 #DESCRIPTION Löwe III - Zagreb Zoo
-#SERVICE 1:64:4A:0:0:0:0:0:0:0::--- Polen ---
-#DESCRIPTION --- Polen ---
+#SERVICE 1:64:4A:0:0:0:0:0:0:0::Polen
+#DESCRIPTION Polen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream5.nadaje.com%3a12216/live/ playpath=przygodzice5.stream swfUrl=http%3a//p.jwpcdn.com/6/12/jwplayer.flash.swf pageUrl=http%3a//www.bociany.ec.pl:Bociany - ooievaar (Polen)
 #DESCRIPTION Bociany - ooievaar (Polen)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls15.webcamera.pl/klekusiowo_cam_996002/klekusiowo_cam_996002.stream/playlist.m3u8:Klekusiowo (Polen)
@@ -2800,8 +2453,8 @@
 #DESCRIPTION Polen - vogels 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.29.18.68/live playpath=camera.stream swfUrl=http%3a//www.strzalowo.eu/plugins/system/flowplayerreloaded/flowplayer_r/players/flowplayer-3.2.15.swf pageUrl=http%3a//www.strzalowo.eu:Strzalowo - Schwarzwild -  Polen
 #DESCRIPTION Strzalowo - Schwarzwild -  Polen
-#SERVICE 1:64:4B:0:0:0:0:0:0:0::--- Rusland ---
-#DESCRIPTION --- Rusland ---
+#SERVICE 1:64:4B:0:0:0:0:0:0:0::Rusland
+#DESCRIPTION Rusland
 #SERVICE 4097:0:1:498:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/nk/nk.stream_source/playlist.m3u8:Африка 1 (soms)
 #DESCRIPTION Африка 1 (soms)
 #SERVICE 4097:0:1:500:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/id/id.stream_source/playlist.m3u8:Африка 2 (soms)
@@ -2832,8 +2485,8 @@
 #DESCRIPTION Sochi 150 - Zoo luipaard 2 (Rusland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sochi.camera%3a8081/cam_156/tracks-v1/index.m3u8:Sochi 156 - Zoo  lynx (Rusland)
 #DESCRIPTION Sochi 156 - Zoo  lynx (Rusland)
-#SERVICE 1:64:4C:0:0:0:0:0:0:0::--- Slowakije ---
-#DESCRIPTION --- Slowakije ---
+#SERVICE 1:64:4C:0:0:0:0:0:0:0::Slowakije
+#DESCRIPTION Slowakije
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/BOCIANY_LUPCA.stream/playlist.m3u8:Bociany Lubca - ooievaar 1 (Slowakije)
 #DESCRIPTION Bociany Lubca - ooievaar 1 (Slowakije)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/BOCIANY_PRIB.stream/chunklist_w11730904.m3u8:Bociany Lubca - ooievaar 2 (Slowakije)
@@ -2850,8 +2503,8 @@
 #DESCRIPTION Vavrisovo - ooievaar (Slowakije)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/VYSOKAPRIMORAVE.stream/chunklist_w480771217.m3u8:Vysokaprimorave - ooievaar (Slowakije)
 #DESCRIPTION Vysokaprimorave - ooievaar (Slowakije)
-#SERVICE 1:64:4D:0:0:0:0:0:0:0::--- United States of America ---
-#DESCRIPTION --- United States of America ---
+#SERVICE 1:64:4D:0:0:0:0:0:0:0::United States of America
+#DESCRIPTION United States of America
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//americaneagle-lh.akamaihd.net%3a80/i/AEF_DC1@31049/master.m3u8:Adelaarsnest (USA)
 #DESCRIPTION Adelaarsnest (USA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video3.earthcam.com/fecnetwork/8838.flv/master.m3u8:FL - Zoo
@@ -2944,8 +2597,8 @@
 #DESCRIPTION South Africa Wild Webcam - 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/rc/rc.stream/chunklist.m3u8:South Africa Wild Webcam - 3
 #DESCRIPTION South Africa Wild Webcam - 3
-#SERVICE 1:64:4F:0:0:0:0:0:0:0::--- Zwitserland ---
-#DESCRIPTION --- Zwitserland ---
+#SERVICE 1:64:4F:0:0:0:0:0:0:0::Zwitserland
+#DESCRIPTION Zwitserland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//stream2.breitband.ch/live playpath=turmfalke.stream swfUrl=http%3a//stream2.breitband.ch%3a8080/turmfalke/player.swf pageUrl=http%3a//stream2.breitband.ch%3a8080/turmfalke:Turmfalk (Zwitserland)
 #DESCRIPTION Turmfalk (Zwitserland)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//7026037d-c503-42cf-9b2d-962fc79eb792.pub.cloud.scaleway.com/hls/cam1.m3u8:Zoo Zürich - AMURTIGER
@@ -2958,8 +2611,8 @@
 #DESCRIPTION Zoo Zürich - KAENG KRACHAN ELEFANTENPARK, INNEN (2)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//7026037d-c503-42cf-9b2d-962fc79eb792.pub.cloud.scaleway.com/hls/cam2.m3u8:Zoo Zürich - PINGUINE, AUSSENANLAGE
 #DESCRIPTION Zoo Zürich - PINGUINE, AUSSENANLAGE
-#SERVICE 1:64:50:0:0:0:0:0:0:0::--- Diverse  ---
-#DESCRIPTION --- Diverse  ---
+#SERVICE 1:64:50:0:0:0:0:0:0:0::Diverse 
+#DESCRIPTION Diverse 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wse.planeta-online.tv%3a1935/live/channel_3/chunklist.m3u8:Aquarium
 #DESCRIPTION Aquarium
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream4.idnes.cz/vod/1602/01/VF160201_163209_flv_middle.mp4:Giraffen
@@ -2968,51 +2621,5 @@
 #DESCRIPTION Kaak - bruine uil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/myearthcam/ea0d8fcee269a399533dd195f6f68a33.flv/playlist.m3u8%3aPiranha - Fütterung freitags 04:Piranha - Fütterung freitags 04%3a00 Uhr MEZ
 #DESCRIPTION Piranha - Fütterung freitags 04:00 Uhr MEZ
-#SERVICE 1:64:51:0:0:0:0:0:0:0::--- Update 2-3-2019 ---
-#DESCRIPTION --- Update 2-3-2019 ---
-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/ie_tralee01.m3u8:Irland Tralee
-#DESCRIPTION Irland Tralee
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-004.whatsupcams.com/hls/do_buenhombre01.m3u8:Dom Rep Buen Hombre
-#DESCRIPTION Dom Rep Buen Hombre
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/gd_stgeorges02.m3u8:Grenada St.Georges
-#DESCRIPTION Grenada St.Georges
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/mt_kalkara01.m3u8:Malta Kalkara
-#DESCRIPTION Malta Kalkara
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/es_duquesa01.m3u8:ESP Puerto de la Duquesa
-#DESCRIPTION ESP Puerto de la Duquesa
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/4559.flv/chunklist_w751354966.m3u8:Costa Rica
-#DESCRIPTION Costa Rica
-
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-003.whatsupcams.com/hls/dk_hedeland01.m3u8:DK - Hedeland Skicenter
-#DESCRIPTION DK - Hedeland Skicenter
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aklitmoeller_all/chunklist_w1507887870_b1300000.m3u8:DK - Klitmöller
-#DESCRIPTION DK - Klitmöller
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3athyboroen_all/chunklist_w1074105868_b1300000.m3u8:DK - Thyborön
-#DESCRIPTION DK - Thyborön
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aVorupoer.stream_all/chunklist_w1778006647_b1300000.m3u8:DK - Vorupör
-#DESCRIPTION DK - Vorupör
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.waves4you.com%3a1935/w4y/ngrp%3aHSW.stream_all/chunklist_w693964615_b1300000.m3u8:DK - Hvide Sande West
-#DESCRIPTION DK - Hvide Sande West
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//camsecure.co/HLS/ilfracombe2.m3u8:UK Harbour Cam
-#DESCRIPTION UK Harbour Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//143.167.1.98%3a1935/SheffieldPeregrineWebcast/Perch.stream/chunklist_w2038970171.m3u8:UK Sheffield
-#DESCRIPTION UK Sheffield
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-001.whatsupcams.com/hls/gr_mykonos03.m3u8:GR - Mykonos Hafen
-#DESCRIPTION GR - Mykonos Hafen
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//cdn-002.whatsupcams.com/hls/gr_syros08.m3u8:GR - Syros – Miaoulis Platz
-#DESCRIPTION GR - Syros – Miaoulis Platz
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//58f14b372a413.streamlock.net%3a444/rhodesairport/rhodesairport.stream/.m3u8:GR - Rhodos Airport1
-#DESCRIPTION GR - Rhodos Airport1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5b8462eb3469a.streamlock.net%3a444/rhodesairport2/rhodesairport2.stream/.m3u8:GR - Rhodos Airport2
-#DESCRIPTION GR - Rhodos Airport2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/5026.flv/.m3u8:Phillipinien Boracay Island 2
-#DESCRIPTION Phillipinien Boracay Island 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com%3a1935/fecnetwork/9299.flv/chunklist.m3u8:Kanada - Toronto - CN Tower I
-#DESCRIPTION Kanada - Toronto - CN Tower I
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com%3a1935/fecnetwork/9298.flv/chunklist.m3u8:Kanada - Toronto - CN Tower II
-#DESCRIPTION Kanada - Toronto - CN Tower II
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveonearth.com%3a1935/edge4/YVR/chunklist_w1995524861.m3u8?5842ba6cbbf0479c3de0a48f:Kanada - Vancouver - Segelzentrum Jerich
-#DESCRIPTION Kanada - Vancouver - Segelzentrum Jerich
-#SERVICE 1:64:0:0:0:0:0:0:0:0::end
-#DESCRIPTION +++  End +++
+#SERVICE 1:64:0:0:0:0:0:0:0:0::+++  End ++
+#DESCRIPTION +++  End ++
