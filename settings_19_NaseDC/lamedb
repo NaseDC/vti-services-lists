@@ -974,9 +974,6 @@ p:DIGITAL+
 1264:00c00000:03f7:0001:1:0
 SES 09
 p:BetaDigital
-3164:00c00000:0459:0001:1:0
-MB SAT - Test2
-p:MB Satellite
 4464:00c00000:0453:0001:1:0
 SAT.1 NRW
 p:ProSiebenSat.1
@@ -1452,7 +1449,7 @@ p:DIGITAL+
 BB-MV-LokalTV
 p:BMT
 33af:00c00000:03eb:0001:1:0
-Freenet Shopping
+Service 13231
 p:ORS
 75af:00c00000:0422:0001:1:0
 
@@ -2538,7 +2535,7 @@ p:-
 Starparadies A
 p:ORS
 0204:00c00000:0004:0085:22:0
-Sky Cinema Nostalgie
+Sky Cinema High Chaparral
 p:SKY
 3404:00c00000:03ed:0001:22:0
 gotv neu
@@ -2727,7 +2724,7 @@ p:SKY
 Kinowelt TV
 p:SKY
 0197:00c00000:0004:0085:22:0
-Sky Cinema Animation
+Sky Cinema Family
 p:SKY
 00a8:00c00000:000b:0085:22:0
 Motorvision TV
@@ -3097,7 +3094,7 @@ p:CANAL+
 p:SKY
 283d:00c00000:03fb:0001:25:0
 Das Erste HD
-p:ARD,c:0013ed,c:0213f0,c:0313ed,c:0413f2,c:050001
+p:ARD
 013e:00c00000:0002:0085:25:0
 Sky Sport 8 HD
 p:SKY
@@ -3289,7 +3286,7 @@ CANAL+ SERIES
 p:CSAT
 2b66:00c00000:03f3:0001:25:0
 ZDF HD
-p:ZDFvision,c:0017de,c:0217f2,c:0317de,c:0417ea,c:050001
+p:ZDFvision
 1967:00c00000:044e:0001:25:0
 M6 MUSIC
 p:CSAT
@@ -3636,7 +3633,7 @@ ef8a:00c00000:03f9:0001:25:0
 kabel eins HD Austria
 p:ProSiebenSat.1
 008b:00c00000:0002:0085:25:0
-Sky Cinema Animation HD
+Sky Cinema Family HD
 p:SKY
 288b:00c00000:040f:0001:25:0
 Radio Bremen HD
@@ -3751,7 +3748,7 @@ HOPE Channel HD
 p:-
 6eab:00c00000:04b1:0001:25:0
 WDR HD Siegen
-p:ARD,c:00157d,c:021580,c:03157d,c:041582,c:050001
+p:ARD
 16ac:00c00000:03ff:0001:25:0
 intv HD
 p:BMT
@@ -4190,6 +4187,9 @@ p:NRJ
 0362:eeee0000:6f00:2114:31:0
 MDR S-Anhalt HD
 p:ARD
+3164:00c00000:0459:0001:31:0
+MB SAT - Test2
+p:MB Satellite
 1771:00c00000:0423:0001:31:0
 Colors
 p:SES,C:1867
@@ -4761,4 +4761,4 @@ p:
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 28Apr2019 11:22:13
+Edited with dreamboxEDIT 7.2.0.0 on 04Mai2019 17:34:30
