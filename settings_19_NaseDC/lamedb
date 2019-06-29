@@ -460,7 +460,7 @@ Zee One
 p:BetaDigital
 4e23:00c00000:043a:0001:1:0
 Kabel 1 Schweiz
-p:ProSiebenSat.1
+p:ProSiebenSat.1,c:0000a2,c:0100a3,c:0200a5,c:0300a2
 4e24:00c00000:043a:0001:1:0
 Kabel 1 Austria
 p:ProSiebenSat.1
@@ -1504,7 +1504,7 @@ p:DVB-S QPSK 11038V 19.2°E
 p:DIGITAL+
 76c5:00c00000:040e:0001:1:0
 LALIGA123TV
-p:Movistar+
+p:Movistar+,c:0000a5,c:010065,c:0300a5,C:1810,C:0100
 75c6:00c00000:0422:0001:1:0
 PORTADA
 p:DIGITAL+
@@ -1795,7 +1795,7 @@ EURONEWS GERMAN SD
 p:Globecast
 6fff:00c00000:0436:0001:1:0
 MTV Music 24
-p:MTV Networks Europe
+p:MTV Networks Europe,c:000fab,c:010fac,c:030fab,C:1819,C:1818,C:1817,C:0d98,C:0d95,C:0b00,C:0650,C:0648,C:0500,C:0100
 75ff:00c00000:0408:0001:1:0
 CANAL PANDA
 p:PRISA TV
@@ -2581,7 +2581,7 @@ p:SKY
 p:
 001c:00c00000:0003:0085:22:0
 Disney XD
-p:SKY
+p:SKY,c:0004ff,c:010500,c:0304ff,c:050001,C:09c4,C:098d,C:098c
 101d:00c00000:0451:0035:22:0
 AXN Deutschland
 p:M7 Group
@@ -2610,7 +2610,7 @@ p:BetaDigital
 .
 p:BetaDigital
 0029:00c00000:0002:0085:22:0
-Sky Cinema Spider-Man
+Sky Cinema Hits
 p:SKY
 002b:00c00000:0006:0085:22:0
 Sky Cinema +24
@@ -2685,7 +2685,7 @@ p:SES
 Jukebox
 p:SKY
 0192:00c00000:000b:0085:22:0
-A&E
+Crime + Investigation
 p:SKY
 0193:00c00000:000b:0085:22:0
 Boomerang
@@ -2697,7 +2697,7 @@ p:SKY
 Kinowelt TV
 p:SKY
 0197:00c00000:0004:0085:22:0
-Sky Cinema Family
+Sky Cinema Tierisch
 p:SKY
 00a8:00c00000:000b:0085:22:0
 Motorvision TV
@@ -2989,7 +2989,7 @@ M.FORMULA1HD
 p:Movistar+
 1332:00c00000:03ef:0001:25:0
 ServusTV HD Deutschland
-p:ServusTV
+p:ServusTV,c:001338,c:02133d,c:031338,c:04133c,c:050001
 2332:00c00000:0442:0001:25:0
 INFOSPORT+
 p:CSAT
@@ -3264,7 +3264,7 @@ p:CSAT
 WARNER TV
 p:CSAT
 006b:00c00000:000c:0085:25:0
-Sky Cinema Spider-Man HD
+Sky Cinema Hits HD
 p:SKY
 196b:00c00000:044e:0001:25:0
 MAN X
@@ -3286,7 +3286,7 @@ EXTREME SPORTS
 p:CSAT
 206d:00c00000:0432:0001:25:0
 BFM TV
-p:CSAT
+p:CSAT,c:00006e,c:03006e,c:040079,c:050001,C:1883,C:1863,C:1811,C:0500
 226d:00c00000:0438:0001:25:0
 OCS CITY
 p:CSAT
@@ -3487,7 +3487,7 @@ WDR HD Aachen
 p:ARD
 0081:00c00000:0006:0085:25:0
 Sky Sport 1 HD
-p:SKY
+p:SKY,c:0002ff,c:020020,c:0302ff,c:040302,c:050001,C:09c4,C:098d,C:098c
 1581:00c00000:041f:0001:25:0
 SPORT1 HD
 p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
@@ -3591,7 +3591,7 @@ ef8a:00c00000:03f9:0001:25:0
 kabel eins HD Austria
 p:ProSiebenSat.1
 008b:00c00000:0002:0085:25:0
-Sky Cinema Family HD
+Sky Cinema Tierisch HD
 p:SKY
 288b:00c00000:040f:0001:25:0
 Radio Bremen HD
@@ -3859,7 +3859,7 @@ VOYAGE
 p:CSAT
 22cd:00c00000:0434:0001:25:0
 CANAL+
-p:CSAT
+p:CSAT,c:00038e,c:03038e,c:04039a,c:050001
 74cd:00c00000:03f8:0001:25:0
 SYFY HD
 p:DIGITAL+
@@ -4701,4 +4701,4 @@ p:
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 22Jun2019 15:45:27
+Edited with dreamboxEDIT 7.2.0.0 on 29Jun2019 12:57:18
