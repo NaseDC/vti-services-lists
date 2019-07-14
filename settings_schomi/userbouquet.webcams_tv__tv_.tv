@@ -7,8 +7,8 @@
 #DESCRIPTION Seeadler-Horst 2
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streams.oessm.org%3a1935/AXIS_P3364/Cam217.stream/chunklist_w717880950.m3u8:Seeadler-Horst 3
 #DESCRIPTION Seeadler-Horst 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/haigur.m3u8:Graureiher - lhaigur - Estland
-#DESCRIPTION Graureiher - lhaigur - Estland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//carnyx.tv%3a1935/live/abernethy1/master.m3u8:Fischadler Schottland
+#DESCRIPTION Fischadler Schottland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/kakk.m3u8:Steinkautz
 #DESCRIPTION Steinkautz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//tv.eenet.ee/hls/must-toonekurg.m3u8:Schwarzer Storch - Must Tooneburg
@@ -27,8 +27,6 @@
 #DESCRIPTION Storch Vavrisovo
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream5.kukaj.sk%3a1935/live/VYSOKAPRIMORAVE.stream/chunklist_w480771217.m3u8:Storch Vysokaprimorave
 #DESCRIPTION Storch Vysokaprimorave
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//carnyx.tv%3a1935/live/abernethy1/master.m3u8:Fischadler Schottland
-#DESCRIPTION Fischadler Schottland
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/BlijdeWei1.stream/playlist.m3u8:Kohlmeise 1
 #DESCRIPTION Kohlmeise 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//stream.nestkastlive.nl%3a1935/live/Koolmees4.stream/playlist.m3u8:Kohlmeise 2
