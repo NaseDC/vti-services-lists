@@ -2621,7 +2621,5 @@
 #DESCRIPTION Kaak - bruine uil
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//video1.earthcam.com/myearthcam/ea0d8fcee269a399533dd195f6f68a33.flv/playlist.m3u8%3aPiranha - Fütterung freitags 04:Piranha - Fütterung freitags 04%3a00 Uhr MEZ
 #DESCRIPTION Piranha - Fütterung freitags 04:00 Uhr MEZ
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//90.187.15.97:814/hdmi_ext:DAZoo
-#DESCRIPTION DAZoo 
 #SERVICE 1:64:0:0:0:0:0:0:0:0::+++  End ++
 #DESCRIPTION +++  End ++
