@@ -5,12 +5,10 @@
 #DESCRIPTION ORF2 
 #SERVICE 4097:0:19:33FC:3ED:1:C00000:0:0:0:http%3a//orf3.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8:ORF3 
 #DESCRIPTION ORF3 
-#SERVICE 4097:0:1:33A5:3EB:1:C00000:0:0:0::http%3a//orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8:ORF Sport+ 
+#SERVICE 4097:0:1:33A5:3EB:1:C00000:0:0:0:%3ahttp%3a//orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8:ORF Sport+ 
 #DESCRIPTION ORF Sport+ 
 #SERVICE 4097:0:19:3402:3ED:1:C00000:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:oe24 TV
 #DESCRIPTION oe24 TV
-#SERVICE 4097:0:1:6DCA:44D:1:C00000:0:0:0:http%3a//daserstelive-lh.akamaihd.net/i/daserste_de@38086/index_2692_av-p.m3u8:Das Erste
-#DESCRIPTION Das Erste
 #SERVICE 4097:0:1:6D66:437:1:C00000:0:0:0:http%3a//zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8:ZDF
 #DESCRIPTION ZDF
 #SERVICE 4097:0:1:6DCE:44D:1:C00000:0:0:0:http%3a//livestreams.br.de/i/bfsnord_germany@119898/index_3776_av-b.m3u8:BR Fernsehen
