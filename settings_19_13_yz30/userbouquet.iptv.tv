@@ -7,17 +7,6 @@
 #DESCRIPTION Musik_ONE2 Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8:DreamTV Stream
 #DESCRIPTION DreamTV Stream
-#SERVICE 1:64:A:0:0:0:0:0:0:0::Hotbird......................................
-#SERVICE 4097:0:19:132F:3EF:1:C00000:0:0:0:http%3a//orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8:ORF1 
-#DESCRIPTION ORF1 
-#SERVICE 4097:0:19:33F5:3ED:1:C00000:0:0:0:http%3a//orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8:ORF2 
-#DESCRIPTION ORF2 
-#SERVICE 4097:0:19:33FC:3ED:1:C00000:0:0:0:http%3a//orf3.orf.cdn.ors.at/orf3/q8c.sdp/playlist.m3u8:ORF3 
-#DESCRIPTION ORF3 
-#SERVICE 4097:0:1:33A5:3EB:1:C00000:0:0:0:%3ahttp%3a//orfs.orf.cdn.ors.at/orfs/q8c.sdp/playlist.m3u8:ORF Sport+ 
-#DESCRIPTION ORF Sport+ 
-#SERVICE 4097:0:19:3402:3ED:1:C00000:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:oe24 TV
-#DESCRIPTION oe24 TV
 #SERVICE 4097:0:1:6D66:437:1:C00000:0:0:0:http%3a//zdf1314-lh.akamaihd.net/i/de14_v1@392878/master.m3u8:ZDF
 #DESCRIPTION ZDF
 #SERVICE 4097:0:1:6DCE:44D:1:C00000:0:0:0:http%3a//livestreams.br.de/i/bfsnord_germany@119898/index_3776_av-b.m3u8:BR Fernsehen
