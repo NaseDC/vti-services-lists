@@ -1,4 +1,13 @@
 #NAME IP TV (TV)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w1391300262_b1431072.m3u8:NRJ-Hits Stream
+#DESCRIPTION NRJ-Hits Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by:1300:Musik_ONE Stream
+#DESCRIPTION Musik_ONE Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by:2300:Musik_ONE2 Stream
+#DESCRIPTION Musik_ONE2 Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.netd.com.tr/S1/HLS_LIVE/dreamtv/1000/prog_index.m3u8:DreamTV Stream
+#DESCRIPTION DreamTV Stream
+#SERVICE 1:64:A:0:0:0:0:0:0:0::Hotbird......................................
 #SERVICE 4097:0:19:132F:3EF:1:C00000:0:0:0:http%3a//orf1.orf.cdn.ors.at/orf1/q8c.sdp/playlist.m3u8:ORF1 
 #DESCRIPTION ORF1 
 #SERVICE 4097:0:19:33F5:3ED:1:C00000:0:0:0:http%3a//orf2.orf.cdn.ors.at/orf2/q8c.sdp/playlist.m3u8:ORF2 
