@@ -3,6 +3,9 @@ transponders
 eeee0000:0203:2114
 	t 538000000:0:6:6:3:2:4:4:2:0:1:0
 /
+eeee0000:4004:2114
+	t 626000000:0:6:6:3:6:1:4:2:0:1:0
+/
 eeee0000:4034:2114
 	t 650000000:0:6:6:3:6:1:4:2:0:1:0
 /
@@ -14,6 +17,9 @@ eeee0000:4071:2114
 /
 eeee0000:4072:2114
 	t 538000000:0:6:6:3:2:4:4:2:0:1:1
+/
+eeee0000:6a00:2114
+	t 514000000:0:6:6:3:5:6:4:2:0:1:0
 /
 eeee0000:6b00:2114
 	t 674000000:0:6:6:3:5:6:4:2:0:1:0
@@ -1520,6 +1526,9 @@ p:BMT
 75af:00c00000:0422:0001:1:0
 
 p:DIGITAL+
+26b0:00c00000:043e:0001:1:0
+12129V SID 0x26b0
+p:DVB-S2 8PSK 12129V 19.2°E
 33b0:00c00000:03eb:0001:1:0
 Service 13232
 p:ORS
@@ -1609,7 +1618,7 @@ VIAJAR
 p:VJR
 77c9:00c00000:040a:0001:1:0
 TNT
-p:CMA30
+p:CMA30,c:0000a3,c:01005d,c:020029,c:0300a3,c:09290200,C:1810,C:0100
 32ca:00c00000:045d:0001:1:0
 ORF2
 p:ORF
@@ -1687,7 +1696,7 @@ TV TRWAM
 p:SES ASTRA
 32d6:00c00000:045d:0001:1:0
 ORF2E
-p:ORF
+p:ORF,c:0000aa,c:0100ab,c:0201f9,c:0300aa
 32d7:00c00000:045d:0001:1:0
 Mei Musi TV
 p:-
@@ -1894,7 +1903,7 @@ EURONEWS GERMAN SD
 p:Globecast
 11ff:00c00000:03fd:0001:1:0
 TV Oberfranken
-p:FFmpeg
+p:FFmpeg,c:0007ff,c:010800,c:0307ff
 6fff:00c00000:0436:0001:1:0
 MTV Music 24
 p:MTV Networks Europe
@@ -2393,11 +2402,17 @@ p:SES ASTRA
 13fc:00c00000:0403:0001:2:0
 TSR Turkce
 p:SES ASTRA
+080c:eeee0000:6a00:2114:10:0
+1LIVE (Internet)
+p:ARD
 080c:eeee0000:6b00:2114:10:0
 1LIVE (Internet)
 p:ARD
 080c:eeee0000:6e00:2114:10:0
 1LIVE (Internet)
+p:ARD
+080d:eeee0000:6a00:2114:10:0
+WDR 2 Rheinland (Internet)
 p:ARD
 080d:eeee0000:6b00:2114:10:0
 WDR 2 Rheinland (Internet)
@@ -2405,11 +2420,17 @@ p:ARD
 080d:eeee0000:6e00:2114:10:0
 WDR 2 Rheinland (Internet)
 p:ARD
+080e:eeee0000:6a00:2114:10:0
+WDR 3 (Internet)
+p:ARD
 080e:eeee0000:6b00:2114:10:0
 WDR 3 (Internet)
 p:ARD
 080e:eeee0000:6e00:2114:10:0
 WDR 3 (Internet)
+p:ARD
+080f:eeee0000:6a00:2114:10:0
+WDR 4 (Internet)
 p:ARD
 080f:eeee0000:6b00:2114:10:0
 WDR 4 (Internet)
@@ -2417,11 +2438,17 @@ p:ARD
 080f:eeee0000:6e00:2114:10:0
 WDR 4 (Internet)
 p:ARD
+0810:eeee0000:6a00:2114:10:0
+WDR 5 (Internet)
+p:ARD
 0810:eeee0000:6b00:2114:10:0
 WDR 5 (Internet)
 p:ARD
 0810:eeee0000:6e00:2114:10:0
 WDR 5 (Internet)
+p:ARD
+0811:eeee0000:6a00:2114:10:0
+COSMO (Internet)
 p:ARD
 0811:eeee0000:6b00:2114:10:0
 COSMO (Internet)
@@ -2429,17 +2456,26 @@ p:ARD
 0811:eeee0000:6e00:2114:10:0
 COSMO (Internet)
 p:ARD
+0812:eeee0000:6a00:2114:10:0
+KIRAKA (Internet)
+p:ARD
 0812:eeee0000:6b00:2114:10:0
 KIRAKA (Internet)
 p:ARD
 0812:eeee0000:6e00:2114:10:0
 KIRAKA (Internet)
 p:ARD
+0813:eeee0000:6a00:2114:10:0
+1LIVE diGGi (Internet)
+p:ARD
 0813:eeee0000:6b00:2114:10:0
 1LIVE diGGi (Internet)
 p:ARD
 0813:eeee0000:6e00:2114:10:0
 1LIVE diGGi (Internet)
+p:ARD
+0814:eeee0000:6a00:2114:10:0
+WDR Event (Internet)
 p:ARD
 0814:eeee0000:6b00:2114:10:0
 WDR Event (Internet)
@@ -2641,7 +2677,7 @@ p:M7 Group
 p:
 0012:00c00000:0004:0085:22:0
 Sky Select
-p:SKY
+p:SKY,c:0009ff,c:010a00,c:0309ff,c:050001
 0013:00c00000:0004:0085:22:0
 Junior
 p:SKY
@@ -2914,7 +2950,7 @@ M6 BOUTIQUE
 p:CSAT
 170f:00c00000:0419:0001:25:0
 tv oberfranken HD
-p:BMT
+p:BMT,c:0007f8,c:0107f9,c:0307f8,c:050001
 200f:00c00000:0430:0001:25:0
 VICELAND
 p:CSAT
@@ -2956,7 +2992,7 @@ p:CBC
 p:SKY
 2015:00c00000:0430:0001:25:0
 TMC
-p:CSAT
+p:CSAT,c:00051e,c:03051e,c:04052a,c:050001,C:1883,C:1863,C:1811,C:0500
 ef15:00c00000:0421:0001:25:0
 RTLII HD
 p:CBC
@@ -3124,7 +3160,7 @@ p:CANAL+
 p:SKY
 283d:00c00000:03fb:0001:25:0
 Das Erste HD
-p:ARD
+p:ARD,c:0013ed,c:0213f0,c:0313ed,c:0413f2,c:050001
 013e:00c00000:0002:0085:25:0
 Sky Sport 8 HD
 p:SKY
@@ -4076,15 +4112,27 @@ p:Movistar+
 0001:00c00000:040b:0001:31:0
 SES UHD Demo Channel
 p:SES
+0301:eeee0000:6a00:2114:31:0
+Das Erste HD
+p:ARD
 0301:eeee0000:6b00:2114:31:0
 Das Erste HD
 p:ARD
 0301:eeee0000:6e00:2114:31:0
 Das Erste HD
 p:ARD
+0401:eeee0000:6a00:2114:31:0
+WDR HD Aachen
+p:ARD
+4201:eeee0000:4004:2114:31:0
+VOX HD
+p:RTL Group
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
 p:SES ASTRA
+0302:eeee0000:6a00:2114:31:0
+arte HD
+p:ARD
 0302:eeee0000:6b00:2114:31:0
 arte HD
 p:ARD
@@ -4094,14 +4142,26 @@ p:ARD
 0402:eeee0000:6e00:2114:31:0
 WDR HD Bielefeld
 p:ARD
+4202:eeee0000:4004:2114:31:0
+SUPER RTL HD
+p:RTL Group
 0303:eeee0000:6f00:2114:31:0
 phoenix HD
 p:ARD
+4203:eeee0000:4004:2114:31:0
+RTL II HD
+p:RTL Group
 0304:eeee0000:6f00:2114:31:0
 tagesschau24 HD
 p:ARD
 0404:eeee0000:6b00:2114:31:0
 WDR HD Düsseldorf
+p:ARD
+4204:eeee0000:4004:2114:31:0
+n-tv HD
+p:RTL Group
+0305:eeee0000:6a00:2114:31:0
+ONE HD
 p:ARD
 0305:eeee0000:6b00:2114:31:0
 ONE HD
@@ -4109,14 +4169,35 @@ p:ARD
 0305:eeee0000:6e00:2114:31:0
 ONE HD
 p:ARD
+4205:eeee0000:4004:2114:31:0
+NITRO HD
+p:RTL Group
+0406:eeee0000:6a00:2114:31:0
+WDR HD Köln
+p:ARD
+4206:eeee0000:4004:2114:31:0
+Tele 5 HD
+p:RTL Group
 0408:eeee0000:6e00:2114:31:0
 WDR HD Siegen
 p:ARD
 0409:eeee0000:6b00:2114:31:0
 WDR HD Wuppertal
 p:ARD
+4209:eeee0000:4004:2114:31:0
+RTL HD NRW
+p:RTL Group
+040a:eeee0000:6a00:2114:31:0
+WDR HD Bonn
+p:ARD
 040b:eeee0000:6b00:2114:31:0
 WDR HD Duisburg
+p:ARD
+040c:eeee0000:6a00:2114:31:0
+Test-R
+p:WDR
+0815:eeee0000:6a00:2114:31:0
+WDR Mediathek (Internet)
 p:ARD
 0815:eeee0000:6b00:2114:31:0
 WDR Mediathek (Internet)
@@ -4127,6 +4208,9 @@ p:ARD
 4221:eeee0000:4034:2114:31:0
 ProSieben HD
 p:ProSiebenSat.1 Media
+0622:eeee0000:6a00:2114:31:0
+BR Fernsehen Süd HD (Internet)
+p:ARD
 0622:eeee0000:6b00:2114:31:0
 BR Fernsehen Süd HD (Internet)
 p:ARD
@@ -4136,6 +4220,9 @@ p:ARD
 4222:eeee0000:4034:2114:31:0
 kabel eins HD
 p:ProSiebenSat.1 Media
+0623:eeee0000:6a00:2114:31:0
+ARD-alpha HD (Internet)
+p:ARD
 0623:eeee0000:6b00:2114:31:0
 ARD-alpha HD (Internet)
 p:ARD
@@ -4169,6 +4256,9 @@ p:MX1,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 4240:eeee0000:4061:2114:31:0
 Disney Channel HD
 p:MEDIA BROADCAST
+0641:eeee0000:6a00:2114:31:0
+hr-fernsehen HD (Internet)
+p:ARD
 0641:eeee0000:6b00:2114:31:0
 hr-fernsehen HD (Internet)
 p:ARD
@@ -4304,6 +4394,9 @@ p:MEDIA BROADCAST
 219f:00c00000:0448:0001:31:0
 RMC SPORT 1
 p:CSAT
+06b1:eeee0000:6a00:2114:31:0
+rbb Berlin HD (Internet)
+p:ARD
 06b1:eeee0000:6b00:2114:31:0
 rbb Berlin HD (Internet)
 p:ARD
@@ -4316,6 +4409,9 @@ p:CSAT
 07d0:00c00000:0449:0001:31:0
 INSIGHT TV UHD
 p:SES ASTRA
+06d1:eeee0000:6a00:2114:31:0
+SR Fernsehen HD (Internet)
+p:ARD
 06d1:eeee0000:6b00:2114:31:0
 SR Fernsehen HD (Internet)
 p:ARD
@@ -4779,4 +4875,4 @@ p:SKY
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 02Okt2019 19:40:43
+Edited with dreamboxEDIT 7.2.0.0 on 05Okt2019 17:03:47
