@@ -1,5 +1,5 @@
 #NAME IP TV (TV)
-#SERVICE 4097:0:1:6DCA:44D:1:C00000:0:0:0:http%3a//daserstehdde-lh.akamaihd.net/i/daserstehd_de@629196/index_3776_av-b.m3u8?sd=10&rebase=on:Das Erste HD
+#SERVICE 4097:0:1:6DCA:44D:1:C00000:0:0:0:https%3a//mcdn.daserste.de/daserste/de/master.m3u8:Das Erste HD
 #DESCRIPTION Das Erste HD
 #SERVICE 4097:0:1:6D66:437:1:C00000:0:0:0:http%3a//zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-p.m3u8?sd=10&rebase=on:ZDF HD
 #DESCRIPTION ZDF HD
@@ -25,8 +25,6 @@
 #DESCRIPTION ZDFneo
 #SERVICE 4097:0:1:7035:41B:1:C00000:0:0:0:https%3a//zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8?sd=10&rebase=on:Phoenix
 #DESCRIPTION Phoenix
-#SERVICE 1:64:0:0:0:0:0:0:0:0::Events
-#DESCRIPTION Events
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8?sd=10&rebase=on:Arte Concert
 #DESCRIPTION Arte Concert
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8:BR Event 1
@@ -79,11 +77,11 @@
 #DESCRIPTION WDR Event 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_3776_av-p.m3u8:WDR Event 4
 #DESCRIPTION WDR Event 4
-#SERVICE 4097:0:19:3402:3ED:1:C00000:0:0:0:http%3a//apasfoe24l.sf.apa.at/ipad/oe24-live1/oe24.sdp/playlist.m3u8:oe24 TV
-#DESCRIPTION oe24 TV
 #SERVICE 1:64:1:0:0:0:0:0:0:0::Radio
 #DESCRIPTION Radio
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3stream9.apasf.apa.at%3a8000:Radio_Steiermark
 #DESCRIPTION Radio_Steiermark
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//party.bmr-radio.de%3a8100:Ballermann-Radio
 #DESCRIPTION Ballermann-Radio
+#SERVICE 4097:0:1:0:0:0:0:0:0:100:https%3a//wdrevent1geo-lh.akamaihd.net/i/wdrevent1_geo@566649/index_3776_av-p.m3u8?sd=10&b=0-&rebase=on:Ironman Hawaii 2019
+#DESCRIPTION Ironman Hawaii 2019
