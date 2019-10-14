@@ -2,8 +2,8 @@
 <!--
 ################################################
 ### terrestial.xml by NaseDC VTi Kanallisten ###
-###        Kanalbelegung ab 29.03.2017       ###
-###            Stand: 05.12.2018             ###
+###        Kanalbelegung ab 29.08.2019       ###
+###            Stand: 13.10.2018             ###
 ###                                          ###
 ###           ! ! ! Attention ! ! !          ###
 ### DVB-T2 works with the Dualtuner (TT3L10) ###
@@ -29,6 +29,9 @@
     1 = 7 MHz
     2 = 6 MHz
     3 = Auto (unsupported, default)
+	4 = 5 MHz,
+	5 = 1.712 MHz,
+	6 = 10 MHz
     
     constellation:
     0 = QPSK
@@ -45,9 +48,10 @@
     4 = 7/8
     5 = Auto (default)
     6 = None
-	7 = 3/5
-	8 = 4/5
-    
+	7 = 8/9
+	8 = 3/5
+	9 = 4/5
+	
     guard_interval:
     0 = 1/32
     1 = 1/16
@@ -247,14 +251,6 @@
 		<transponder centre_frequency="858000000" bandwidth="0" constellation="3"/><!-- Ch 69 -->
 	</terrestrial>
 	<terrestrial name="Europe, Middle East, Africa: DVB-T/T2 Frequencies" flags="5">
-		<transponder centre_frequency="177500000" bandwidth="1" constellation="3"/><!-- Ch 05 -->
-		<transponder centre_frequency="184500000" bandwidth="1" constellation="3"/><!-- Ch 06 -->
-		<transponder centre_frequency="191500000" bandwidth="1" constellation="3"/><!-- Ch 07 -->
-		<transponder centre_frequency="198500000" bandwidth="1" constellation="3"/><!-- Ch 08 -->
-		<transponder centre_frequency="205500000" bandwidth="1" constellation="3"/><!-- Ch 09 -->
-		<transponder centre_frequency="212500000" bandwidth="1" constellation="3"/><!-- Ch 10 -->
-		<transponder centre_frequency="219500000" bandwidth="1" constellation="3"/><!-- Ch 11 -->
-		<transponder centre_frequency="226500000" bandwidth="1" constellation="3"/><!-- Ch 12 -->
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="3"/><!-- Ch 21 -->
 		<transponder centre_frequency="482000000" bandwidth="0" constellation="3"/><!-- Ch 22 -->
 		<transponder centre_frequency="490000000" bandwidth="0" constellation="3"/><!-- Ch 23 -->
@@ -294,16 +290,16 @@
 		<transponder centre_frequency="762000000" bandwidth="0" constellation="3"/><!-- Ch 57 -->
 		<transponder centre_frequency="770000000" bandwidth="0" constellation="3"/><!-- Ch 58 -->
 		<transponder centre_frequency="778000000" bandwidth="0" constellation="3"/><!-- Ch 59 -->
-		<transponder centre_frequency="786000000" bandwidth="0" constellation="3"/><!-- Ch 60 -->
-		<transponder centre_frequency="794000000" bandwidth="0" constellation="3"/><!-- Ch 61 -->
-		<transponder centre_frequency="802000000" bandwidth="0" constellation="3"/><!-- Ch 62 -->
-		<transponder centre_frequency="810000000" bandwidth="0" constellation="3"/><!-- Ch 63 -->
-		<transponder centre_frequency="818000000" bandwidth="0" constellation="3"/><!-- Ch 64 -->
-		<transponder centre_frequency="826000000" bandwidth="0" constellation="3"/><!-- Ch 65 -->
-		<transponder centre_frequency="834000000" bandwidth="0" constellation="3"/><!-- Ch 66 -->
-		<transponder centre_frequency="842000000" bandwidth="0" constellation="3"/><!-- Ch 67 -->
-		<transponder centre_frequency="850000000" bandwidth="0" constellation="3"/><!-- Ch 68 -->
-		<transponder centre_frequency="858000000" bandwidth="0" constellation="3"/><!-- Ch 69 -->
+		<transponder centre_frequency="786000000" bandwidth="0" constellation="3"/><!-- Ch 60 --><!-- nicht in DVB-T2 Nutzung -->
+		<transponder centre_frequency="794000000" bandwidth="0" constellation="3"/><!-- Ch 61 --><!-- nicht in DVB-T2 Nutzung -->
+		<transponder centre_frequency="802000000" bandwidth="0" constellation="3"/><!-- Ch 62 --><!-- nicht in DVB-T2 Nutzung -->
+		<transponder centre_frequency="810000000" bandwidth="0" constellation="3"/><!-- Ch 63 --><!-- nicht in DVB-T2 Nutzung -->
+		<transponder centre_frequency="818000000" bandwidth="0" constellation="3"/><!-- Ch 64 --><!-- nicht in DVB-T2 Nutzung -->
+		<transponder centre_frequency="826000000" bandwidth="0" constellation="3"/><!-- Ch 65 --><!-- nicht in DVB-T2 Nutzung -->
+		<transponder centre_frequency="834000000" bandwidth="0" constellation="3"/><!-- Ch 66 --><!-- nicht in DVB-T2 Nutzung -->
+		<transponder centre_frequency="842000000" bandwidth="0" constellation="3"/><!-- Ch 67 --><!-- nicht in DVB-T2 Nutzung -->
+		<transponder centre_frequency="850000000" bandwidth="0" constellation="3"/><!-- Ch 68 --><!-- nicht in DVB-T2 Nutzung -->
+		<transponder centre_frequency="858000000" bandwidth="0" constellation="3"/><!-- Ch 69 --><!-- nicht in DVB-T2 Nutzung -->
 	</terrestrial>
 	<terrestrial name="Baden-Württemberg: DVB-T2" flags="5" countrycode="DEU" system="1">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="0" guard_interval="6" transmission_mode="5" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
@@ -660,9 +656,9 @@
 		<transponder centre_frequency="746000000" bandwidth="0" constellation="1" code_rate_hp="1" code_rate_lp="6" guard_interval="3" transmission_mode="1" hierarchy_information="4" inversion="2"/><!-- Ch 55 -->
 	</terrestrial>
  	<terrestrial name="Dortmund: DVB-T/T2" flags="5" countrycode="DEU">
-		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 25 -->
-		<transponder centre_frequency="538000000" bandwidth="0" constellation="2" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
-		<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="506000000" bandwidth="0" constellation="2" code_rate_hp="5" code_rate_lp="5" guard_interval="6" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 25 -->
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="2" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="5" code_rate_lp="5" guard_interval="5" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
 		<transponder centre_frequency="626000000" bandwidth="0" constellation="2" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
 		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" code_rate_hp="5" code_rate_lp="5" guard_interval="4" transmission_mode="2" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
