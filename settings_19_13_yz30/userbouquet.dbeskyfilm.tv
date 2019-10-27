@@ -1,7 +1,7 @@
 #NAME Sky Film/Selekt
 #SERVICE 1:0:16:A:4:85:C00000:0:0:0:
 #SERVICE 1:64:0:0:0:0:0:0:0:0::! Nachfolgender nur mit SKY Original Modul
-#DESCRIPTION ! Nachfolgender nur mit SKY original Modul
+#DESCRIPTION ! Nachfolgender nur mit SKY Original Modul
 #SERVICE 1:0:19:83:6:85:C00000:0:0:0:
 #SERVICE 1:0:19:86:B:85:C00000:0:0:0:
 #SERVICE 1:0:19:87:B:85:C00000:0:0:0:
@@ -13,5 +13,4 @@
 #SERVICE 1:0:16:14:4:85:C00000:0:0:0:
 #SERVICE 1:0:19:6E:D:85:C00000:0:0:0:
 #SERVICE 1:0:19:7E:C:85:C00000:0:0:0:
-#SERVICE 1:64:10:0:0:0:0:0:0:0::Selekt nur noch auf Abruf.
-#DESCRIPTION Selekt nur noch auf Abruf.
+
