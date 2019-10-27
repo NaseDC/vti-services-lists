@@ -7,14 +7,14 @@
 #SERVICE 1:0:19:30D6:413:1:C00000:0:0:0:
 #SERVICE 1:0:19:6D:B:85:C00000:0:0:0:
 #SERVICE 1:0:19:30D7:413:1:C00000:0:0:0:
-#SERVICE 1:64:0:0:0:0:0:0:0:0::! nachfolgender nur mit CI Modul
-#DESCRIPTION ! nachfolgender nur mit CI Modul
+#SERVICE 1:64:0:0:0:0:0:0:0:0::! Nachfolgender nur mit SKY Original Modul
+#DESCRIPTION ! Nachfolgender nur mit SKY Original Modul
 #SERVICE 1:0:19:81:6:85:C00000:0:0:0:
 #SERVICE 1:0:16:DD:4:85:C00000:0:0:0:
 #SERVICE 1:0:19:72:D:85:C00000:0:0:0:
 #SERVICE 1:0:16:DE:2:85:C00000:0:0:0:
-#SERVICE 1:64:2:0:0:0:0:0:0:0::! nachfolgender nur mit CI Modul
-#DESCRIPTION ! nachfolgender nur mit CI Modul
+#SERVICE 1:64:2:0:0:0:0:0:0:0::! Nachfolgender nur mit SKY Original Modul
+#DESCRIPTION ! Nachfolgender nur mit SKY Original Modul
 #SERVICE 1:0:19:10C:6:85:C00000:0:0:0:
 #SERVICE 1:0:19:116:D:85:C00000:0:0:0:
 #SERVICE 1:0:19:120:C:85:C00000:0:0:0:
@@ -28,8 +28,8 @@
 #SERVICE 1:0:19:187:D:85:C00000:0:0:0:
 #SERVICE 1:0:19:69:C:85:C00000:0:0:0:
 #SERVICE 1:0:16:DF:4:85:C00000:0:0:0:
-#SERVICE 1:64:1:0:0:0:0:0:0:0::! nachfolgender nur mit CI Modul
-#DESCRIPTION ! nachfolgender nur mit CI Modul
+#SERVICE 1:64:1:0:0:0:0:0:0:0::! Nachfolgender nur mit SKY Original Modul
+#DESCRIPTION ! Nachfolgender nur mit SKY Original Modul
 #SERVICE 1:0:19:10B:6:85:C00000:0:0:0:
 #SERVICE 1:0:19:115:D:85:C00000:0:0:0:
 #SERVICE 1:0:19:11F:C:85:C00000:0:0:0:
