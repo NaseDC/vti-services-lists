@@ -2637,7 +2637,7 @@ p:SKY
 Starparadies A
 p:ORS
 0204:00c00000:0004:0085:22:0
-Sky Cinema Bud Spencer
+Sky Cinema Nostalgie
 p:SKY
 3404:00c00000:03ed:0001:22:0
 gotv neu
@@ -3163,7 +3163,7 @@ p:CANAL+
 p:SKY
 283d:00c00000:03fb:0001:25:0
 Das Erste HD
-p:ARD
+p:ARD,c:0013ed,c:0213f0,c:0313ed,c:0413f2,c:050001
 013e:00c00000:0002:0085:25:0
 Sky Sport 8 HD
 p:SKY
@@ -3358,7 +3358,7 @@ CANAL+ SERIES
 p:CSAT
 2b66:00c00000:03f3:0001:25:0
 ZDF HD
-p:ZDFvision
+p:ZDFvision,c:0017de,c:0217f2,c:0317de,c:0417ea,c:050001
 1967:00c00000:044e:0001:25:0
 M6 MUSIC
 p:CSAT
@@ -3429,7 +3429,7 @@ p:CSAT
 rbb Brandenburg HD
 p:ARD
 006f:00c00000:000d:0085:25:0
-Sky Cinema Special HD
+Sky Cinema Best Of 2019 HD
 p:SKY
 196f:00c00000:044e:0001:25:0
 CANAL J
@@ -4863,4 +4863,4 @@ p:SKY
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 07Dez2019 12:36:21
+Edited with dreamboxEDIT 7.2.0.0 on 15Dez2019 17:40:56
