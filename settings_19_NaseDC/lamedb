@@ -344,6 +344,9 @@ p:Movistar+
 0301:00c00000:0007:0085:1:0
 Channel21
 p:BetaDigital
+0401:eeee0000:6b00:2114:1:0
+674000 SID 0x401
+p:
 0701:00c00000:0005:0085:1:0
 Disney Channel
 p:BetaDigital
@@ -383,6 +386,9 @@ p:MTV Network europe
 0306:00c00000:0007:0085:1:0
 .
 p:BetaDigital
+0406:eeee0000:6b00:2114:1:0
+674000 SID 0x406
+p:
 1b06:00c00000:03fe:0001:1:0
 TRT World HD
 p:GLOBECAST
@@ -2675,6 +2681,9 @@ p:SKY
 100b:00c00000:0451:0035:22:0
 Hustler TV
 p:M7 Group
+140b:00c00000:0403:0001:22:0
+Kaufbei.tv
+p:SES
 100d:00c00000:0451:0035:22:0
 Hustler TV CZ
 p:M7 Group
@@ -3163,7 +3172,7 @@ p:CANAL+
 p:SKY
 283d:00c00000:03fb:0001:25:0
 Das Erste HD
-p:ARD,c:0013ed,c:0213f0,c:0313ed,c:0413f2,c:050001
+p:ARD
 013e:00c00000:0002:0085:25:0
 Sky Sport 8 HD
 p:SKY
@@ -3358,7 +3367,7 @@ CANAL+ SERIES
 p:CSAT
 2b66:00c00000:03f3:0001:25:0
 ZDF HD
-p:ZDFvision,c:0017de,c:0217f2,c:0317de,c:0417ea,c:050001
+p:ZDFvision
 1967:00c00000:044e:0001:25:0
 M6 MUSIC
 p:CSAT
@@ -4862,5 +4871,8 @@ p:SKY
 1c1e:00c00000:0451:0035:212:0
 EPG Nagraguide
 p:M7 Group
+040a:eeee0000:6b00:2114:255:0
+674000 SID 0x40a
+p:
 end
-Edited with dreamboxEDIT 7.2.0.0 on 15Dez2019 17:40:56
+Edited with dreamboxEDIT 7.2.0.0 on 21Dez2019 14:39:10
