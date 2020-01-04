@@ -734,6 +734,9 @@ p:BetaDigital
 0702:00c00000:0005:0085:1:0
 QVC
 p:BetaDigital
+1102:00820000:1644:fbff:1:0
+11861H SID 0x1102
+p:DVB-S QPSK 11861H 13.0°E
 1b02:00c00000:03fe:0001:1:0
 CGTN
 p:GLOBECAST
@@ -944,6 +947,9 @@ p:nc+
 3609:00820000:00c8:013e:1:0
 ESP Dutch
 p:Eutelsat
+4209:00820000:3db8:013e:1:0
+Pinko TV
+p:Telespazio,C:0604
 000a:00820000:2e18:00b0:1:0
 Arryadia HD
 p:SNRT
@@ -1181,9 +1187,6 @@ p:SkyItalia
 1313:00820000:2e7c:013e:1:0
 CANAL+ SPORT 4 HD
 p:nc+
-2013:00820000:24b8:013e:1:0
-Euronews
-p:Globecast
 2913:00820000:1edc:0071:1:0
 Polsat Sport News HD
 p:Cyfrowy Polsat S.A.
@@ -1245,8 +1248,8 @@ p:Eutelsat
 NITEGATE DTT12
 p:Telespazio
 0217:00820000:0384:013e:1:0
-ETV NEWS
-p:
+11373H SID 0x217
+p:DVB-S2 8PSK 11373H 13.0°E
 1417:00c00000:0403:0001:1:0
 TBN Russia
 p:RR Media
@@ -1409,9 +1412,6 @@ p:SkyItalia
 3e22:00820000:2ee0:013e:1:0
 History 2 HD
 p:Cyfrowy Polsat S.A
-4222:00820000:3db8:013e:1:0
-Private TV HD
-p:Telespazio
 4e22:00c00000:043a:0001:1:0
 ProSieben Austria
 p:ProSiebenSat.1
@@ -1452,7 +1452,7 @@ p:Cyfrowy Polsat S.A.
 YAS Sports HD
 p:
 3424:00820000:2710:fbff:1:0
-NatGeo Wild +1
+NG Wild Dr. Pol
 p:SkyItalia
 3e24:00820000:2ee0:013e:1:0
 Fightbox HD
@@ -1736,9 +1736,6 @@ p:ORF
 332d:00820000:1388:013e:1:0
 DW English HD
 p:GLOBECAST
-422d:00820000:3db8:013e:1:0
-Private TV  HD!
-p:Telespazio
 6e2d:00c00000:0431:0001:1:0
 rbb Brandenburg
 p:ARD
@@ -1896,7 +1893,7 @@ p:Eutelsat
 R5
 p:NetMed
 0532:00820000:3d54:013e:1:0
-DWT
+DTW
 p:M-Three satcom
 0c32:00820000:1e78:0071:1:0
 History HD
@@ -3582,7 +3579,7 @@ p:SES ASTRA
 M.LCAMPEON1
 p:Movistar+
 427b:00820000:2bc0:013e:1:0
-Stopklatka TV
+Stopklatka
 p:Cyfrowy Polsat S.A.
 757b:00c00000:0412:0001:1:0
 M.LCAMPEONES
@@ -3681,7 +3678,7 @@ p:Telespazio
 Toute L Histoire
 p:AB SAT,C:0500,C:0100
 4282:00820000:2bc0:013e:1:0
-CBS Action
+TestC
 p:Cyfrowy Polsat S. A.
 7582:00c00000:0412:0001:1:0
 LALIGATVBAR4
@@ -3828,7 +3825,7 @@ p:NetMed
 National Geographic Wild
 p:Cyfrowy Polsat S.A
 2c8b:00820000:2774:fbff:1:0
-Topolino Channel
+Ladybug Channel
 p:SkyItalia
 428b:00820000:2bc0:013e:1:0
 Test 1
@@ -4127,9 +4124,6 @@ p:NetMed
 429a:00820000:2bc0:013e:1:0
 Polo TV
 p:Cyfrowy Polsat S.A.
-439a:00820000:2cec:013e:1:0
-NetViet
-p:MX1
 749a:00c00000:041c:0001:1:0
 DIVINITY
 p:DIGITAL+
@@ -4302,7 +4296,7 @@ p:Movistar+
 MULTIDEPORTE
 p:DIGITAL+
 01a4:00820000:26ac:013f:1:0
-Game One
+Ushuaia
 p:Eutelsat
 08a4:00820000:01f4:013e:1:0
 Kazakh TV
@@ -4446,7 +4440,7 @@ p:-
 
 p:Digital +
 06ab:00820000:3138:013e:1:0
-STS International
+TVRUS
 p:GLOBECAST
 75ab:00c00000:0422:0001:1:0
 
@@ -4481,9 +4475,6 @@ p:SkyItalia
 75af:00c00000:0422:0001:1:0
 
 p:DIGITAL+
-06b0:00820000:3138:013e:1:0
-TVRUS
-p:GLOBECAST
 0db0:00820000:2d50:013e:1:0
 Animal Planet HD
 p:nc+
@@ -4677,7 +4668,7 @@ p:SkyItalia
 Pro7 MAXX Austria
 p:ProSiebenSat.1
 1bbf:00820000:17d4:013e:1:0
-The History Channel
+Viasat History HD
 p:NetMed
 1fbf:00820000:189c:fbff:1:0
 Fox
@@ -4884,7 +4875,7 @@ p:Digital+
 CurrentTime HD 200
 p:
 01c8:00820000:26ac:013f:1:0
-Paramount Channel
+TV Breizh
 p:AB Sat
 12c8:00820000:2e7c:013e:1:0
 PLAYBOY TV HD
@@ -6566,6 +6557,9 @@ p:SNRT
 005b:00820000:2e18:00b0:2:0
 Dakhla
 p:SNRT
+0160:00820000:2c24:013e:2:0
+RADIO TEST IRAN
+p:IRIB
 2360:00820000:2328:013e:2:0
 Radio Hargeisa
 p:STN PLC
@@ -7209,7 +7203,7 @@ p:ARD BR
 RFI Erevan
 p:GLOBECAST
 0cf3:00820000:1518:013e:2:0
-Rai Radio Classica
+Rai Radio 3 Classica
 p:Rai
 6ef3:00c00000:0445:0001:2:0
 BR-KLASSIK
@@ -9826,7 +9820,7 @@ VOX HD
 p:RTL Group
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
+p:SES ASTRA
 0302:eeee0000:6b00:2114:31:0
 arte HD
 p:ARD
@@ -10417,9 +10411,6 @@ Downl CAM 2
 p:M7 Group
 3401:00820000:2710:fbff:130:0
 TG24Elezioni
-p:SkyItalia
-1102:00820000:1644:fbff:130:0
-Sky Meteo24 Active
 p:SkyItalia
 3409:00820000:2710:fbff:130:0
 ITV_TRIAL_100
