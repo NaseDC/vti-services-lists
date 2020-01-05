@@ -848,6 +848,9 @@ p:nc+
 3606:00820000:00c8:013e:1:0
 ESP Italy
 p:
+4206:00820000:3db8:013e:1:0
+Prive
+p:Telespazio
 7006:00c00000:0436:0001:1:0
 MTV
 p:MTV Networks Europe
@@ -911,6 +914,9 @@ p:CBC
 3308:00820000:0190:013e:1:0
 ESP HD Russian
 p:nc+
+4208:00820000:3db8:013e:1:0
+Sexto Senso
+p:Telespazio
 7008:00c00000:0436:0001:1:0
 NICK/MTV+
 p:MTV Networks Europe
@@ -980,6 +986,9 @@ p:nc+
 360a:00820000:00c8:013e:1:0
 ESP Polish
 p:Eutelsat
+420a:00820000:3db8:013e:1:0
+Passion
+p:Telespazio
 750a:00c00000:0420:0001:1:0
 10817V SID 0x750a
 p:DVB-S2 8PSK 10817V 19.2°E
@@ -1334,6 +1343,9 @@ p:SkyItalia
 3e1e:00820000:2ee0:013e:1:0
 E! Entertainment
 p:Cyfrowy Polsat S.A.
+421e:00820000:3db8:013e:1:0
+SCT
+p:Telespazio
 031f:00820000:3bc4:013e:1:0
 TRT Arabi HD
 p:GLOBECAST
@@ -1343,6 +1355,9 @@ p:Telenorba
 0c1f:00820000:1e78:0071:1:0
 Fox Comedy HD
 p:Cyfrowy Polsat S.A.
+421f:00820000:3db8:013e:1:0
+Platinum TV
+p:Telespazio
 0020:00c00000:0021:0085:1:0
 Sonnenklar TV
 p:BetaDigital
@@ -1367,6 +1382,9 @@ p:
 3e20:00820000:2ee0:013e:1:0
 SciFi HD
 p:Cyfrowy Polsat S.A.
+4220:00820000:3db8:013e:1:0
+Diabloxtv
+p:Telespazio
 0021:00c00000:000f:0085:1:0
 Genius family
 p:BetaDigital
@@ -1391,6 +1409,9 @@ p:SkyItalia
 3e21:00820000:2ee0:013e:1:0
 TLC HD
 p:Cyfrowy Polsat S.A.
+4221:00820000:3db8:013e:1:0
+Just89 TV
+p:Telespazio
 4e21:00c00000:043a:0001:1:0
 ProSieben Schweiz
 p:ProSiebenSat.1
@@ -2241,7 +2262,7 @@ p:BetaDigital
 VOD 204
 p:Cyfrowy Polsat SA
 013e:00820000:157c:013e:1:0
-NovachristmasHD
+NovastarsHD
 p:NetMed
 053e:00820000:3d54:013e:1:0
 DIPRE'TV 2
@@ -5756,6 +5777,9 @@ p:GLOBECAST
 32f8:00820000:0190:013e:1:0
 11278V SID 0x32f8
 p:DVB-S2 8PSK 11278V 13.0°E
+05f9:00820000:2c24:013e:1:0
+SAHAR KURDISH
+p:IRIB
 11f9:00820000:2b5c:013e:1:0
 4K  Universe
 p:
@@ -5765,9 +5789,6 @@ p:nc+
 1af9:00c00000:03fe:0001:1:0
 France 24 (en Français)
 p:GLOBECAST
-1ef9:00820000:2c24:013e:1:0
-SAHAR KURDISH
-p:IRIB
 32f9:00820000:0190:013e:1:0
 11278V SID 0x32f9
 p:DVB-S2 8PSK 11278V 13.0°E
@@ -5798,9 +5819,6 @@ p:Waar
 05fb:00820000:2c24:013e:1:0
 PRESS TV HD
 p:IRIB
-11fb:00820000:2b5c:013e:1:0
-TRAVELXP 4K
-p:
 75fb:00c00000:0408:0001:1:0
 .
 p:Movistar+
@@ -6557,9 +6575,6 @@ p:SNRT
 005b:00820000:2e18:00b0:2:0
 Dakhla
 p:SNRT
-0160:00820000:2c24:013e:2:0
-RADIO TEST IRAN
-p:IRIB
 2360:00820000:2328:013e:2:0
 Radio Hargeisa
 p:STN PLC
@@ -9776,6 +9791,9 @@ p:ORF
 33fa:00c00000:03ed:0001:25:0
 ORF2T HD
 p:ORF
+11fb:00820000:2b5c:013e:25:0
+TRAVELXP 4K
+p:
 33fb:00c00000:03ed:0001:25:0
 ORF2V HD
 p:ORF
@@ -9820,7 +9838,7 @@ VOX HD
 p:RTL Group
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA
+p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 0302:eeee0000:6b00:2114:31:0
 arte HD
 p:ARD

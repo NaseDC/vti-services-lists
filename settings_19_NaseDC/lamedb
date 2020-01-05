@@ -4135,7 +4135,7 @@ VOX HD
 p:RTL Group
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA
+p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 0302:eeee0000:6b00:2114:31:0
 arte HD
 p:ARD
@@ -4866,4 +4866,4 @@ p:SKY
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 04Jan2020 15:45:22
+Edited with dreamboxEDIT 7.2.0.0 on 05Jan2020 17:57:14
