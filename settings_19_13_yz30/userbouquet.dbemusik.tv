@@ -23,6 +23,8 @@
 #DESCRIPTION VH1 Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.252%3a5004/play/a06u:Musik Channel
 #DESCRIPTION Musik Channel
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch.iptvmate.net/43e6fe891a6f362dc979bce108d0d2fd.m3u8:Russian MusicBox
+#DESCRIPTION Russian MusicBox
 #SERVICE 1:64:A:0:0:0:0:0:0:0::Hotbird......................................
 #DESCRIPTION Hotbird......................................
 #SERVICE 1:0:1:428F:2BC0:13E:820000:0:0:0:
