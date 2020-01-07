@@ -21,6 +21,8 @@
 #DESCRIPTION DreamTV Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//92.124.134.3:1234/udp/233.7.70.2%3a5000:VH1 Stream
 #DESCRIPTION VH1 Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//5.255.90.252%3a5004/play/a06u:Musik Channel
+#DESCRIPTION Musik Channel
 #SERVICE 1:64:A:0:0:0:0:0:0:0::Hotbird......................................
 #DESCRIPTION Hotbird......................................
 #SERVICE 1:0:1:428F:2BC0:13E:820000:0:0:0:
