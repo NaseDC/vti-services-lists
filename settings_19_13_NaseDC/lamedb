@@ -486,6 +486,9 @@ eeee0000:6f00:2114
 00c00000:0428:0001
 	s 10935500:22000000:1:2:192:2:0:1:2:0:2
 /
+00c00000:042c:0001
+	s 11778000:30000000:1:9:192:2:0:1:2:0:2
+/
 00c00000:042e:0001
 	s 11817000:29700000:1:2:192:2:0:1:2:1:2
 /
@@ -867,7 +870,7 @@ p:SkyItalia
 NITEGATE DTT
 p:Telespazio
 7607:00c00000:0408:0001:1:0
-TEST P
+M. Oscars
 p:Movistar+
 0008:00820000:2e18:00b0:1:0
 Medi1 TV
@@ -1242,8 +1245,8 @@ p:Eutelsat
 NITEGATE DTT12
 p:Telespazio
 0217:00820000:0384:013e:1:0
-11373H SID 0x217
-p:DVB-S2 8PSK 11373H 13.0°E
+ETV NEWS
+p:
 1417:00c00000:0403:0001:1:0
 TBN Russia
 p:RR Media
@@ -1579,7 +1582,7 @@ Polsat Sport Extra HD
 p:Cyfrowy Polsat SA
 0e28:00820000:0708:00c8:1:0
 Spike
-p:Persidera,C:1856,C:183e,C:183d
+p:Persidera,C:0919,C:093b,C:09cd,C:1856,C:183e,C:183d
 1328:00820000:33f4:013e:1:0
 Al Karma TV-ME
 p:Telespazio
@@ -1606,7 +1609,7 @@ Cinemax 2 HD
 p:Cyfrowy Polsat S.A.
 0e29:00820000:0708:00c8:1:0
 VH1
-p:Persidera,C:1856,C:183e,C:183d
+p:Persidera,C:0919,C:093b,C:09cd,C:1856,C:183e,C:183d
 2529:00820000:13ef:013e:1:0
 AL Arabia HD
 p:
@@ -1666,7 +1669,7 @@ Fox Comedy HD
 p:Cyfrowy Polsat S.A.
 0e2b:00820000:0708:00c8:1:0
 Paramount Network
-p:Persidera,C:1856,C:183e,C:183d
+p:Persidera,C:0919,C:093b,C:09cd,C:1856,C:183e,C:183d
 132b:00820000:33f4:013e:1:0
 TVP Polonia
 p:Telespazio
@@ -2469,7 +2472,7 @@ p:EUTELSAT
 RTVi Archive
 p:Kartina Satellite
 3147:00c00000:0459:0001:1:0
-Deutsche Girls 24 TV 
+Deutsche Girls 24 TV
 p:MB Satellite
 4247:00820000:3db8:013e:1:0
 SURYOYO SAT
@@ -2628,7 +2631,7 @@ p:MB Satellite
 Fuego TV
 p:Telespazio 
 7a4d:00c00000:0410:0001:1:0
-TELEMAROC
+Telemaroc
 p:TSA
 044e:00820000:238c:013e:1:0
 FTV UHD
@@ -2656,7 +2659,7 @@ Love Nature 4K
 p:BCE
 064f:00820000:2454:013e:1:0
 Canal Algerie
-p:EUTELSAT
+p:Eutelsat
 0d4f:00820000:1450:013e:1:0
 Rai 5 HD
 p:Rai
@@ -2677,7 +2680,7 @@ MyZen 4K
 p:
 0650:00820000:2454:013e:1:0
 A3
-p:EUTELSAT
+p:Eutelsat
 0e50:00820000:2580:fbff:1:0
 DMAX+1
 p:SkyItalia
@@ -3086,9 +3089,6 @@ p:BetaDigital
 1f64:00820000:319c:013e:1:0
 MB Sat - Test 5
 p:MB Satellite
-3164:00c00000:0459:0001:1:0
-MB SAT - Test2
-p:MB Satellite
 3464:00c00000:03e9:0001:1:0
 Service 13412
 p:ORF
@@ -3482,9 +3482,6 @@ p:Movistar+
 017c:00820000:1c84:013e:1:0
 MAD TV
 p:NetMed
-027c:00820000:3c8c:013e:1:0
-IRAN E ARYAEE TV
-p: 
 057c:00820000:0320:fbff:1:0
 Comedy Central
 p:SkyItalia
@@ -3497,9 +3494,6 @@ p:Movistar+
 017d:00820000:1c84:013e:1:0
 Animal Planet
 p:NetMed
-027d:00820000:3c8c:013e:1:0
-TVRUS
-p: 
 757d:00c00000:0412:0001:1:0
 M.LCAMPEON5
 p:Movistar+
@@ -3791,9 +3785,6 @@ p:SkyItalia
 1090:00c00000:03ee:0001:1:0
 D7 TV
 p:Harmonic
-1c90:00820000:1ce8:0071:1:0
-12188V SID 0x1c90
-p:DVB-S2 8PSK 12188V 13.0°E
 3c90:00820000:1bbc:013e:1:0
 Novasports2HD
 p:Netmed
@@ -4881,7 +4872,7 @@ p:SkyItalia
 Primafila 6 
 p:SkyItalia
 2dcc:00820000:1a2c:fbff:1:0
-John Travolta Collection
+Cinema Adventure
 p:SkyItalia
 32cc:00c00000:045d:0001:1:0
 ORF2 N
@@ -7454,9 +7445,6 @@ p:CSAT
 0fff:00c00000:0451:0035:12:0
 M7 DL DSR7141
 p:M7 Group
-0500:00820000:005e:0055:22:0
-Sea TV
-p:XTRA TV
 0201:00c00000:000b:0085:22:0
 Blue Movie
 p:SKY
@@ -7802,6 +7790,9 @@ p:ProSiebenSat.1
 14c2:00c00000:0407:0001:22:0
 kabel eins classics
 p:ProSiebenSat.1
+04c4:00820000:005e:0055:22:0
+Ukraina 24
+p:XTRA TV
 07d0:00820000:005f:0055:22:0
 Viasat Sport
 p:XTRA TV
@@ -8661,7 +8652,7 @@ p:SkyItalia
 Sky Sport News HD
 p:SKY
 106c:00820000:14b4:fbff:25:0
-John Travolta Collection HD
+Cinema Adventure HD
 p:SkyItalia
 196c:00c00000:044e:0001:25:0
 COMEDIE+
@@ -9860,6 +9851,9 @@ p:ORS
 1163:00820000:2af8:013e:31:0
 4451
 p:nc+
+3164:00c00000:0459:0001:31:0
+MB SAT - Test2
+p:MB Satellite
 2d6c:00820000:1d4c:fbff:31:0
 4K HDR
 p:SkyItalia
@@ -10229,15 +10223,9 @@ p:DVB-S QPSK 12363V 19.2°E
 77ca:00c00000:040a:0001:100:0
 10979V SID 0x77ca
 p:DVB-S QPSK 10979V 19.2°E
-52cb:00c00000:041d:0001:100:0
-10773H SID 0x52cb
-p:DVB-S2 8PSK 10773H 19.2°E
 77cb:00c00000:040a:0001:100:0
 10979V SID 0x77cb
 p:DVB-S QPSK 10979V 19.2°E
-52cc:00c00000:041d:0001:100:0
-10773H SID 0x52cc
-p:DVB-S2 8PSK 10773H 19.2°E
 76cd:00c00000:040e:0001:100:0
 11038V SID 0x76cd
 p:DVB-S QPSK 11038V 19.2°E
