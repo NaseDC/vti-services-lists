@@ -1,5 +1,4 @@
-#NAME Fluxus.tv Test 
-#NAME OpenPLi based IPTV converter - 4097:0:1:0
+#NAME FluxusTV IPTV Liste 
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fluxustv.blogspot.com@bit.ly/FluxusFireplace?.mp4:* Fluxus.tv
 #DESCRIPTION * Fluxus.tv
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//fluxustv.blogspot.com@bit.ly/FluxusTV-Wallpapers?.mp4:Fluxus Wallpapers (MP4)
