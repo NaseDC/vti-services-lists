@@ -12,17 +12,11 @@ eeee0000:4034:2114
 eeee0000:4061:2114
 	t 690000000:0:6:6:3:2:4:4:2:0:1:0
 /
-eeee0000:4071:2114
-	t 690000000:0:6:6:3:6:1:4:2:0:1:1
-/
 eeee0000:4072:2114
 	t 538000000:0:6:6:3:2:4:4:2:0:1:1
 /
 eeee0000:6b00:2114
 	t 674000000:0:6:6:3:5:6:4:2:0:1:0
-/
-eeee0000:6c00:2114
-	t 506000000:0:6:6:3:2:4:4:2:0:1:0
 /
 eeee0000:6e00:2114
 	t 658000000:0:6:6:3:6:1:4:2:0:1:0
@@ -1089,7 +1083,7 @@ p:Movistar+
 .3.
 p:BetaDigital,C:186a,C:1860,C:1843,C:1842,C:1830
 3070:00c00000:03f5:0001:1:0
-RTL 2 CH
+.
 p:BetaDigital
 7570:00c00000:0412:0001:1:0
 TOROS
@@ -1493,9 +1487,6 @@ p:ORS
 75b2:00c00000:0422:0001:1:0
 ALQUILER
 p:DIGITAL+
-78b9:00c00000:03ec:0001:1:0
-11258V SID 0x78b9
-p:DVB-S2 8PSK 11258V 19.2°E
 23bc:00c00000:044a:0001:1:0
 12363V SID 0x23bc
 p:DVB-S QPSK 12363V 19.2°E
@@ -2333,16 +2324,10 @@ p:SES ASTRA
 080c:eeee0000:6b00:2114:10:0
 1LIVE (Internet)
 p:ARD
-080c:eeee0000:6c00:2114:10:0
-1LIVE (Internet)
-p:ARD
 080c:eeee0000:6e00:2114:10:0
 1LIVE (Internet)
 p:ARD
 080d:eeee0000:6b00:2114:10:0
-WDR 2 Rheinland (Internet)
-p:ARD
-080d:eeee0000:6c00:2114:10:0
 WDR 2 Rheinland (Internet)
 p:ARD
 080d:eeee0000:6e00:2114:10:0
@@ -2351,16 +2336,10 @@ p:ARD
 080e:eeee0000:6b00:2114:10:0
 WDR 3 (Internet)
 p:ARD
-080e:eeee0000:6c00:2114:10:0
-WDR 3 (Internet)
-p:ARD
 080e:eeee0000:6e00:2114:10:0
 WDR 3 (Internet)
 p:ARD
 080f:eeee0000:6b00:2114:10:0
-WDR 4 (Internet)
-p:ARD
-080f:eeee0000:6c00:2114:10:0
 WDR 4 (Internet)
 p:ARD
 080f:eeee0000:6e00:2114:10:0
@@ -2369,16 +2348,10 @@ p:ARD
 0810:eeee0000:6b00:2114:10:0
 WDR 5 (Internet)
 p:ARD
-0810:eeee0000:6c00:2114:10:0
-WDR 5 (Internet)
-p:ARD
 0810:eeee0000:6e00:2114:10:0
 WDR 5 (Internet)
 p:ARD
 0811:eeee0000:6b00:2114:10:0
-COSMO (Internet)
-p:ARD
-0811:eeee0000:6c00:2114:10:0
 COSMO (Internet)
 p:ARD
 0811:eeee0000:6e00:2114:10:0
@@ -2387,25 +2360,16 @@ p:ARD
 0812:eeee0000:6b00:2114:10:0
 WDR Maus (Internet)
 p:ARD
-0812:eeee0000:6c00:2114:10:0
-WDR Maus (Internet)
-p:ARD
 0812:eeee0000:6e00:2114:10:0
 WDR Maus (Internet)
 p:ARD
 0813:eeee0000:6b00:2114:10:0
 1LIVE diGGi (Internet)
 p:ARD
-0813:eeee0000:6c00:2114:10:0
-1LIVE diGGi (Internet)
-p:ARD
 0813:eeee0000:6e00:2114:10:0
 1LIVE diGGi (Internet)
 p:ARD
 0814:eeee0000:6b00:2114:10:0
-WDR Event (Internet)
-p:ARD
-0814:eeee0000:6c00:2114:10:0
 WDR Event (Internet)
 p:ARD
 0814:eeee0000:6e00:2114:10:0
@@ -2438,7 +2402,7 @@ p:CSAT
 3145:00c00000:0459:0001:12:0
 RAPS
 p:MB Satellite
-424c:eeee0000:4071:2114:12:0
+424c:eeee0000:4061:2114:12:0
 ssu
 p:Harmonic
 144f:00c00000:0403:0001:12:0
@@ -2729,9 +2693,6 @@ p:BetaDigital
 5279:00c00000:041d:0001:22:0
 Genius Plus
 p:BetaDigital
-1081:00c00000:03ee:0001:22:0
-Deutschland Vozrozhdenie
-p:SES
 0191:00c00000:0009:0085:22:0
 Jukebox
 p:SKY
@@ -3360,7 +3321,7 @@ p:CSAT
 rbb Brandenburg HD
 p:ARD
 006f:00c00000:000d:0085:25:0
-Sky Cinema  Fast & Furious HD
+Sky Cinema Special HD
 p:SKY
 196f:00c00000:044e:0001:25:0
 CANAL J
@@ -3680,6 +3641,9 @@ p:AB SAT
 788d:00c00000:0414:0001:25:0
 CAZAyPESCA HD
 p:Movistar+
+ef8d:00c00000:03f9:0001:25:0
+Kabel 1 Doku HD Austria
+p:ProSiebenSat.1
 2b8e:00c00000:03f2:0001:25:0
 3sat HD
 p:ZDFvision
@@ -3739,7 +3703,7 @@ WDR HD Bielefeld
 p:ARD
 13a7:00c00000:03ea:0001:25:0
 Al Jazeera English HD
-p:Al Jazeera
+p:Arqiva
 6ea7:00c00000:04b1:0001:25:0
 WDR HD Dortmund
 p:ARD
@@ -4058,9 +4022,6 @@ p:SES
 0301:eeee0000:6b00:2114:31:0
 Das Erste HD
 p:ARD
-0301:eeee0000:6c00:2114:31:0
-Das Erste HD
-p:ARD
 0301:eeee0000:6e00:2114:31:0
 Das Erste HD
 p:ARD
@@ -4071,9 +4032,6 @@ p:RTL Group
 UHD1 by ASTRA / HD+
 p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 0302:eeee0000:6b00:2114:31:0
-arte HD
-p:ARD
-0302:eeee0000:6c00:2114:31:0
 arte HD
 p:ARD
 0302:eeee0000:6e00:2114:31:0
@@ -4087,9 +4045,6 @@ SUPER RTL HD
 p:RTL Group
 0303:eeee0000:6f00:2114:31:0
 phoenix HD
-p:ARD
-0403:eeee0000:6c00:2114:31:0
-WDR HD Dortmund
 p:ARD
 4203:eeee0000:4004:2114:31:0
 RTL II HD
@@ -4106,14 +4061,8 @@ p:RTL Group
 0305:eeee0000:6b00:2114:31:0
 ONE HD
 p:ARD
-0305:eeee0000:6c00:2114:31:0
-ONE HD
-p:ARD
 0305:eeee0000:6e00:2114:31:0
 ONE HD
-p:ARD
-0405:eeee0000:6c00:2114:31:0
-WDR HD Essen
 p:ARD
 4205:eeee0000:4004:2114:31:0
 NITRO HD
@@ -4136,9 +4085,6 @@ p:ARD
 0815:eeee0000:6b00:2114:31:0
 WDR Mediathek (Internet)
 p:ARD
-0815:eeee0000:6c00:2114:31:0
-WDR Mediathek (Internet)
-p:ARD
 0815:eeee0000:6e00:2114:31:0
 WDR Mediathek (Internet)
 p:ARD
@@ -4148,9 +4094,6 @@ p:ProSiebenSat.1 Media
 0622:eeee0000:6b00:2114:31:0
 BR Fernsehen Süd HD (Internet)
 p:ARD
-0622:eeee0000:6c00:2114:31:0
-BR Fernsehen Süd HD (Internet)
-p:ARD
 0622:eeee0000:6e00:2114:31:0
 BR Fernsehen Süd HD (Internet)
 p:ARD
@@ -4158,9 +4101,6 @@ p:ARD
 kabel eins HD
 p:ProSiebenSat.1 Media
 0623:eeee0000:6b00:2114:31:0
-ARD-alpha HD (Internet)
-p:ARD
-0623:eeee0000:6c00:2114:31:0
 ARD-alpha HD (Internet)
 p:ARD
 0623:eeee0000:6e00:2114:31:0
@@ -4196,9 +4136,6 @@ p:MEDIA BROADCAST
 0641:eeee0000:6b00:2114:31:0
 hr-fernsehen HD (Internet)
 p:ARD
-0641:eeee0000:6c00:2114:31:0
-hr-fernsehen HD (Internet)
-p:ARD
 0641:eeee0000:6e00:2114:31:0
 hr-fernsehen HD (Internet)
 p:ARD
@@ -4232,7 +4169,7 @@ p:MEDIA BROADCAST
 424a:eeee0000:4061:2114:31:0
 QVC2 HD
 p:MEDIA BROADCAST
-424e:eeee0000:4071:2114:31:0
+424e:eeee0000:4061:2114:31:0
 Infokanal
 p:MEDIA BROADCAST
 3459:00c00000:03e9:0001:31:0
@@ -4340,9 +4277,6 @@ p:CSAT
 06b1:eeee0000:6b00:2114:31:0
 rbb Berlin HD (Internet)
 p:ARD
-06b1:eeee0000:6c00:2114:31:0
-rbb Berlin HD (Internet)
-p:ARD
 06b1:eeee0000:6e00:2114:31:0
 rbb Berlin HD (Internet)
 p:ARD
@@ -4353,9 +4287,6 @@ p:CSAT
 INSIGHT TV UHD
 p:SES ASTRA
 06d1:eeee0000:6b00:2114:31:0
-SR Fernsehen HD (Internet)
-p:ARD
-06d1:eeee0000:6c00:2114:31:0
 SR Fernsehen HD (Internet)
 p:ARD
 06d1:eeee0000:6e00:2114:31:0
@@ -4406,6 +4337,9 @@ p:DVB-S QPSK 11685V 19.2°E
 7510:00c00000:0420:0001:100:0
 10817V SID 0x7510
 p:DVB-S2 8PSK 10817V 19.2°E
+7511:00c00000:0420:0001:100:0
+10817V SID 0x7511
+p:DVB-S2 8PSK 10817V 19.2°E
 7725:00c00000:0416:0001:100:0
 11156V SID 0x7725
 p:DVB-S QPSK 11156V 19.2°E
@@ -4418,9 +4352,6 @@ p:DVB-S QPSK 11156V 19.2°E
 7728:00c00000:0416:0001:100:0
 11156V SID 0x7728
 p:DVB-S QPSK 11156V 19.2°E
-782c:00c00000:0428:0001:100:0
-10935V SID 0x782c
-p:DVB-S2 8PSK 10935V 19.2°E
 782e:00c00000:0428:0001:100:0
 10935V SID 0x782e
 p:DVB-S2 8PSK 10935V 19.2°E
@@ -4821,4 +4752,4 @@ p:SKY
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 16Mai2020 21:28:59
+Edited with dreamboxEDIT 7.2.0.0 on 27Mai2020 21:33:45
