@@ -18,6 +18,9 @@ eeee0000:4072:2114
 eeee0000:6b00:2114
 	t 674000000:0:6:6:3:5:6:4:2:0:1:0
 /
+eeee0000:6c00:2114
+	t 506000000:0:6:6:3:2:4:4:2:0:1:0
+/
 eeee0000:6e00:2114
 	t 658000000:0:6:6:3:6:1:4:2:0:1:0
 /
@@ -233,9 +236,6 @@ eeee0000:6f00:2114
 /
 00820000:3e1c:013f
 	s 11681000:27500000:0:3:130:2:0:1:2:2:2
-/
-00820000:25e4:02be
-	s 12654000:27500000:0:4:130:2:0
 /
 00820000:0320:fbff
 	s 11355000:29900000:1:4:130:2:0
@@ -737,9 +737,6 @@ p:Cyfrowy Polsat S.A.
 0003:00820000:1770:0110:1:0
 Rete 4
 p:Mediaset
-0003:00820000:25e4:02be:1:0
-SAUDI1
-p:Arabsat
 1b03:00c00000:03fe:0001:1:0
 TV5MONDE EUROPE
 p:GlobeCast
@@ -1044,7 +1041,7 @@ p:
 Telesur SD
 p:TSA
 070f:00820000:32c8:013e:1:0
-TEST
+PPV HD FEN 28 MMA
 p:Cyfrowy Polsat SA
 290f:00820000:1edc:0071:1:0
 HBO HD
@@ -1147,7 +1144,7 @@ ESP HD
 p:nc+
 3615:00820000:00c8:013e:1:0
 ESP Turk
-p:EUROSPORT
+p:Eutelsat
 1316:00820000:2e7c:013e:1:0
 Eurosport 2 HD UPC
 p:nc+
@@ -1511,9 +1508,6 @@ p:ProSiebenSat.1
 7729:00c00000:0416:0001:1:0
 CANAL SUR A.
 p:CANAL +
-002a:00820000:25e4:02be:1:0
-SAUDI-QURAN
-p:Arabsat
 032a:00820000:1f40:013e:1:0
 Kanal Hayat
 p:OVERON
@@ -1550,9 +1544,6 @@ p:Persidera,C:0919,C:093b,C:09cd,C:1856,C:183e,C:183d
 292b:00820000:1edc:0071:1:0
 Discovery Science HD
 p:Cyfrowy Polsat S.A.
-422b:00820000:3db8:013e:1:0
-LIFE 120
-p:Telespazio
 4e2b:00c00000:043a:0001:1:0
 .
 p:ProSiebenSat.1
@@ -1983,7 +1974,7 @@ p:BetaDigital
 VOD 204
 p:Cyfrowy Polsat SA
 013e:00820000:157c:013e:1:0
-NovacinemaextraHD
+NovasummerkidsHD
 p:NetMed
 313e:00c00000:0459:0001:1:0
 MB SAT - Test 8
@@ -2384,6 +2375,9 @@ p:EUTELSAT
 0d4f:00820000:1450:013e:1:0
 Rai 5 HD
 p:Rai
+164f:00c00000:042c:0001:1:0
+Asteroid Day TV
+p:Harmonic
 264f:00c00000:0460:0001:1:0
 F3 CHAMP ARDENNE
 p:CSAT
@@ -2430,7 +2424,7 @@ p:SkyItalia
 Mobile Sex
 p:MB Satellite
 4251:00820000:3db8:013e:1:0
-RDS TV
+RDS  Social TV
 p:Telespazio
 2652:00c00000:0460:0001:1:0
 F3 ALSACE
@@ -3617,6 +3611,9 @@ p:CBC
 0295:00c00000:0021:0085:1:0
 AstroTV
 p:BetaDigital
+0395:00820000:2134:013e:1:0
+Kuwait TV1 HD
+p:ETISALAT
 3c95:00820000:1bbc:013e:1:0
 Novacinema1HD
 p:NetMed
@@ -4358,9 +4355,6 @@ p:DIGITAL+
 01c5:00820000:26ac:013f:1:0
 AUTOMOTO la chaine
 p:AB Sat
-0bc5:00820000:20d0:013e:1:0
-CGN TV
-p:GLOBECAST
 0dc5:00820000:1af4:fbff:1:0
 Arte Channel
 p:SkyItalia
@@ -4560,7 +4554,7 @@ p:SkyItalia
 Primafila 6 
 p:SkyItalia
 2dcc:00820000:1a2c:fbff:1:0
-Sky Cinema 007
+Sky Cinema Sci-Fi
 p:SkyItalia
 32cc:00c00000:045d:0001:1:0
 ORF2 N
@@ -4946,9 +4940,6 @@ p:nc+
 38e0:00820000:2648:fbff:1:0
 Primafila 3
 p:SkyItalia
-44e0:00820000:0258:013e:1:0
-RT Arab
-p:
 75e0:00c00000:0422:0001:1:0
 TEST_CSD3
 p:DIGITAL+
@@ -5477,9 +5468,6 @@ p:SkyItalia
 6f0c:00c00000:0445:0001:2:0
 MDR SACHSEN DD
 p:ARD MDR
-000d:00820000:25e4:02be:2:0
-SAUDI R1
-p:Arabsat
 060d:00820000:20d0:013e:2:0
 RFI Test
 p:GLOBECAST
@@ -5639,9 +5627,6 @@ p:M7 Group
 6f16:00c00000:0445:0001:2:0
 NDR Kultur
 p:ARD NDR
-0017:00820000:25e4:02be:2:0
-SAUDI R2
-p:Arabsat
 0617:00820000:2c24:013e:2:0
 RADIO EGHTESAD
 p:IRIB
@@ -5694,7 +5679,7 @@ p:M7 Group
 NC+ RADIO
 p:nc+
 3c1a:00820000:189c:fbff:2:0
-CANTAUTORI
+SOLO PIANO
 p:SkyItalia
 421a:00820000:2f44:013e:2:0
 Bel RTL
@@ -6266,9 +6251,15 @@ p:ETISALAT
 2395:00c00000:044a:0001:2:0
 SUD RADIO
 p:CSAT
+0396:00820000:2134:013e:2:0
+Kuwait Radio 1
+p:ETISALAT
 2396:00c00000:044a:0001:2:0
 12363V SID 0x2396
 p:DVB-S QPSK 12363V 19.2°E
+0397:00820000:2134:013e:2:0
+Kuwait Holy Quran
+p:EISALAT
 2397:00c00000:044a:0001:2:0
 12363V SID 0x2397
 p:DVB-S QPSK 12363V 19.2°E
@@ -6768,7 +6759,7 @@ p:GLOBECAST
 Rai Radio Kids
 p:Rai
 0cfa:00820000:1518:013e:2:0
-Rai Radio2 Indie
+Rai Radio2 indie
 p:Rai
 1efb:00c00000:0457:0001:2:0
 RTL RADIO
@@ -6806,10 +6797,16 @@ p:SkyItalia
 080c:eeee0000:6b00:2114:10:0
 1LIVE (Internet)
 p:ARD
+080c:eeee0000:6c00:2114:10:0
+1LIVE (Internet)
+p:ARD
 080c:eeee0000:6e00:2114:10:0
 1LIVE (Internet)
 p:ARD
 080d:eeee0000:6b00:2114:10:0
+WDR 2 Rheinland (Internet)
+p:ARD
+080d:eeee0000:6c00:2114:10:0
 WDR 2 Rheinland (Internet)
 p:ARD
 080d:eeee0000:6e00:2114:10:0
@@ -6818,10 +6815,16 @@ p:ARD
 080e:eeee0000:6b00:2114:10:0
 WDR 3 (Internet)
 p:ARD
+080e:eeee0000:6c00:2114:10:0
+WDR 3 (Internet)
+p:ARD
 080e:eeee0000:6e00:2114:10:0
 WDR 3 (Internet)
 p:ARD
 080f:eeee0000:6b00:2114:10:0
+WDR 4 (Internet)
+p:ARD
+080f:eeee0000:6c00:2114:10:0
 WDR 4 (Internet)
 p:ARD
 080f:eeee0000:6e00:2114:10:0
@@ -6830,10 +6833,16 @@ p:ARD
 0810:eeee0000:6b00:2114:10:0
 WDR 5 (Internet)
 p:ARD
+0810:eeee0000:6c00:2114:10:0
+WDR 5 (Internet)
+p:ARD
 0810:eeee0000:6e00:2114:10:0
 WDR 5 (Internet)
 p:ARD
 0811:eeee0000:6b00:2114:10:0
+COSMO (Internet)
+p:ARD
+0811:eeee0000:6c00:2114:10:0
 COSMO (Internet)
 p:ARD
 0811:eeee0000:6e00:2114:10:0
@@ -6842,16 +6851,25 @@ p:ARD
 0812:eeee0000:6b00:2114:10:0
 WDR Maus (Internet)
 p:ARD
+0812:eeee0000:6c00:2114:10:0
+WDR Maus (Internet)
+p:ARD
 0812:eeee0000:6e00:2114:10:0
 WDR Maus (Internet)
 p:ARD
 0813:eeee0000:6b00:2114:10:0
 1LIVE diGGi (Internet)
 p:ARD
+0813:eeee0000:6c00:2114:10:0
+1LIVE diGGi (Internet)
+p:ARD
 0813:eeee0000:6e00:2114:10:0
 1LIVE diGGi (Internet)
 p:ARD
 0814:eeee0000:6b00:2114:10:0
+WDR Event (Internet)
+p:ARD
+0814:eeee0000:6c00:2114:10:0
 WDR Event (Internet)
 p:ARD
 0814:eeee0000:6e00:2114:10:0
@@ -7103,15 +7121,9 @@ p:SKY
 3401:00c00000:03ed:0001:22:0
 krone.tv
 p:-
-0002:00820000:25e4:02be:22:0
-TEST
-p:ARABSAT
 3403:00c00000:03ed:0001:22:0
 Starparadies A
 p:ORS
-0004:00820000:25e4:02be:22:0
-TEST
-p:ARABSAT
 0204:00c00000:0006:0085:22:0
 Sky Cinema Classics
 p:SKY
@@ -7142,9 +7154,6 @@ p:SKY
 0009:00c00000:0003:0085:22:0
 Sky Cinema Action
 p:SKY
-0009:00820000:25e4:02be:22:0
-TEST
-p:ARABSAT
 1009:00c00000:0451:0035:22:0
 Brazzers TV
 p:M7 Group
@@ -7152,7 +7161,7 @@ p:M7 Group
 Sky Cinema Premieren
 p:SKY
 100a:00c00000:0451:0035:22:0
-Eurosport2 ger
+Elevensports 1 FR
 p:M7 Group
 100b:00c00000:0451:0035:22:0
 Hustler TV
@@ -7211,9 +7220,6 @@ p:SKY
 421c:00820000:2f44:013e:22:0
 UATV
 p:COSMONOVA LLC
-001d:00820000:25e4:02be:22:0
-TEST
-p:ARABSAT
 101d:00c00000:0451:0035:22:0
 AXN Deutschland
 p:M7 Group
@@ -7515,7 +7521,7 @@ p:ORF
 ..
 p:CSAT
 2d00:00820000:206c:fbff:25:0
-Sky Atlantic Confidential
+Sky Atlantic Lupin III
 p:SkyItalia
 3400:00c00000:03ed:0001:25:0
 R9 Oesterreich HD
@@ -8298,7 +8304,7 @@ p:SkyItalia
 Sky Sport News HD
 p:SKY
 106c:00820000:14b4:fbff:25:0
-Sky Cinema 007 HD
+Sky Cinema Sci-Fi HD
 p:SkyItalia
 196c:00c00000:044e:0001:25:0
 COMEDIE+
@@ -9302,6 +9308,9 @@ p:SES
 0301:eeee0000:6b00:2114:31:0
 Das Erste HD
 p:ARD
+0301:eeee0000:6c00:2114:31:0
+Das Erste HD
+p:ARD
 0301:eeee0000:6e00:2114:31:0
 Das Erste HD
 p:ARD
@@ -9310,8 +9319,11 @@ VOX HD
 p:RTL Group
 0002:00c00000:040b:0001:31:0
 UHD1 by ASTRA / HD+
-p:SES ASTRA,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
+p:SES ASTRA
 0302:eeee0000:6b00:2114:31:0
+arte HD
+p:ARD
+0302:eeee0000:6c00:2114:31:0
 arte HD
 p:ARD
 0302:eeee0000:6e00:2114:31:0
@@ -9325,6 +9337,9 @@ SUPER RTL HD
 p:RTL Group
 0303:eeee0000:6f00:2114:31:0
 phoenix HD
+p:ARD
+0403:eeee0000:6c00:2114:31:0
+WDR HD Dortmund
 p:ARD
 4203:eeee0000:4004:2114:31:0
 RTL II HD
@@ -9341,8 +9356,14 @@ p:RTL Group
 0305:eeee0000:6b00:2114:31:0
 ONE HD
 p:ARD
+0305:eeee0000:6c00:2114:31:0
+ONE HD
+p:ARD
 0305:eeee0000:6e00:2114:31:0
 ONE HD
+p:ARD
+0405:eeee0000:6c00:2114:31:0
+WDR HD Essen
 p:ARD
 4205:eeee0000:4004:2114:31:0
 NITRO HD
@@ -9365,6 +9386,9 @@ p:ARD
 0815:eeee0000:6b00:2114:31:0
 WDR Mediathek (Internet)
 p:ARD
+0815:eeee0000:6c00:2114:31:0
+WDR Mediathek (Internet)
+p:ARD
 0815:eeee0000:6e00:2114:31:0
 WDR Mediathek (Internet)
 p:ARD
@@ -9374,6 +9398,9 @@ p:ProSiebenSat.1 Media
 0622:eeee0000:6b00:2114:31:0
 BR Fernsehen Süd HD (Internet)
 p:ARD
+0622:eeee0000:6c00:2114:31:0
+BR Fernsehen Süd HD (Internet)
+p:ARD
 0622:eeee0000:6e00:2114:31:0
 BR Fernsehen Süd HD (Internet)
 p:ARD
@@ -9381,6 +9408,9 @@ p:ARD
 kabel eins HD
 p:ProSiebenSat.1 Media
 0623:eeee0000:6b00:2114:31:0
+ARD-alpha HD (Internet)
+p:ARD
+0623:eeee0000:6c00:2114:31:0
 ARD-alpha HD (Internet)
 p:ARD
 0623:eeee0000:6e00:2114:31:0
@@ -9420,6 +9450,9 @@ p:nc+
 Disney Channel HD
 p:MEDIA BROADCAST
 0641:eeee0000:6b00:2114:31:0
+hr-fernsehen HD (Internet)
+p:ARD
+0641:eeee0000:6c00:2114:31:0
 hr-fernsehen HD (Internet)
 p:ARD
 0641:eeee0000:6e00:2114:31:0
@@ -9581,6 +9614,9 @@ p:CSAT
 06b1:eeee0000:6b00:2114:31:0
 rbb Berlin HD (Internet)
 p:ARD
+06b1:eeee0000:6c00:2114:31:0
+rbb Berlin HD (Internet)
+p:ARD
 06b1:eeee0000:6e00:2114:31:0
 rbb Berlin HD (Internet)
 p:ARD
@@ -9591,6 +9627,9 @@ p:CSAT
 INSIGHT TV UHD
 p:SES ASTRA
 06d1:eeee0000:6b00:2114:31:0
+SR Fernsehen HD (Internet)
+p:ARD
+06d1:eeee0000:6c00:2114:31:0
 SR Fernsehen HD (Internet)
 p:ARD
 06d1:eeee0000:6e00:2114:31:0
