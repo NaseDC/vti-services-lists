@@ -9,10 +9,8 @@
 #SERVICE 1:0:1:6FFF:436:1:C00000:0:0:0:
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//xite2065.cloudycdn.services/tlive/_definst_/xite_xite_1_tbc_42077_default_45_hls.smil/index.m3u8:XITE HD Belgique (720p)
 #DESCRIPTION XITE HD Belgique (720p)
-#SERVICE 4097:0:19:200C:430:1:C00000:0:0:0:https%3a//5be019f0d8c6e.streamlock.net/ngroup/ngrp%3aNRJHitsTV_all/playlist.m3u8:NRJ Hits Belgique (1080p)
-#DESCRIPTION NRJ Hits Belgique (1080p)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5be019f0d8c6e.streamlock.net/ngroup/ngrp:NRJHitsTV_all/chunklist_w1391300262_b1431072.m3u8:NRJ-Hits Stream
-#DESCRIPTION NRJ-Hits Stream
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//5be019f0d8c6e.streamlock.net/ngroup/ngrp%3aNRJHitsTV_all/playlist.m3u8:NRJ Hits TV
+#DESCRIPTION NRJ Hits TV
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a1300:Musik_ONE Stream
 #DESCRIPTION Musik_ONE Stream
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rtmp.one.by%3a2300:Musik_ONE2 Stream
