@@ -94,4 +94,3 @@
 #DESCRIPTION Webradio
 #SERVICE 4097:1:0:0:0:0:0:0:0:0:http%3a//party.bmr-radio.de%3a8100:Ballermann-Radio
 #DESCRIPTION Ballermann-Radio
-#SERVICE 1:64:10:0:0:0:0:0:0:0::Kamera
