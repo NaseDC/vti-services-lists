@@ -187,6 +187,12 @@
 #DESCRIPTION Sylt, Rantum - Strand
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv216.smil/playlist.m3u8:Sylt, Westerland
 #DESCRIPTION Sylt, Westerland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-fra-n2.livespotting.com/vpu/4b7r3v86/xhn7c8l2_720.m3u8:Sylt, Westerland
+#DESCRIPTION Sylt, Westerland
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-fra-n2.livespotting.com/vpu/g6106xv4/hbh26r3r_720.m3u8: Wangerooge Strand
+#DESCRIPTION Wangerooge Strand
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-fra-n2.livespotting.com/vpu/o5wgrlg8/65is5kui_720.m3u8: Sassnitz
+#DESCRIPTION Sassnitz
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv208.smil/playlist.m3u8:Travemünde, Strand
 #DESCRIPTION Travemünde, Strand
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ch-net.livespotting.com/windit-edge/smil%3avv183.smil/playlist.m3u8:Wangerooge, Kurverwaltung

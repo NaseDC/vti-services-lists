@@ -17,3 +17,5 @@
 #DESCRIPTION SR Fernsehen
 #SERVICE 4097:0:1:7034:41B:1:C00000:0:0:0:http%3a//artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8:arte
 #DESCRIPTION arte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.magenta-musik-360.de/hls/live/573870/magentamusik1/magentamusik1_1/magentamusik1.m3u8
+#DESCRIPTION Wacken 2020
