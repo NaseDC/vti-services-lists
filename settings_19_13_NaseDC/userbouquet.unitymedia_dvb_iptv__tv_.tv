@@ -177,5 +177,7 @@
 #DESCRIPTION HOPE CHANNEL
 #SERVICE 4097:0:1:3139:459:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=298&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554:k-tv
 #DESCRIPTION k-tv
-#SERVICE 4097:0:1:2760:402:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,272,663,664:SonLife
+#SERVICE 4097:0:1:E84:3200:13E:820000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,272,663,664:SonLife
 #DESCRIPTION SonLife
+#SERVICE 4097:0:1:2760:402:1:C00000:0:0:0:https%3a//5856e1a25f71a.streamlock.net/easycast10-live/_definst_/mp4%3alivestream/chunklist_w91624313.m3u8?ref=www.mytvplus.de:MyTVplus
+#DESCRIPTION MyTVplus
