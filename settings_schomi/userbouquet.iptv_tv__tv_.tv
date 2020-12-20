@@ -79,9 +79,3 @@
 #DESCRIPTION WDR Event 4
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8:NRj TV
 #DESCRIPTION NRj TV
-#SERVICE 1:64:1:0:0:0:0:0:0:0::Radio
-#DESCRIPTION Radio
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3stream9.apasf.apa.at%3a8000:Radio_Steiermark
-#DESCRIPTION Radio_Steiermark
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//party.bmr-radio.de%3a8100:Ballermann-Radio
-#DESCRIPTION Ballermann-Radio
