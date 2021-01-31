@@ -1,9 +1,9 @@
 #NAME IP Radio (TV)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//party.bmr-radio.de%3a8100:Ballermann-Radio
 #DESCRIPTION Ballermann-Radio
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3stream9.apasf.apa.at%3a8000:Radio_Steiermark
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:http%3a//mp3stream9.apasf.apa.at%3a8000:Radio Steiermark
 #DESCRIPTION Radio Steiermark
-#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.securestream.radioaustria.at/radioaustria:Radio Austria allgemein
+#SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//onair.securestream.radioaustria.at/radioaustria:Radio Austria - allgemein
 #DESCRIPTION Radio Austria - allgemein
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//60.securestream.radioaustria.at/60:Radio Austria - Best of 60s
 #DESCRIPTION Radio Austria - Best of 60s
@@ -55,6 +55,8 @@
 #DESCRIPTION Radio 21 & Rockland Radio - X-Mas Rock Nonstop
 #SERVICE 4097:0:2:0:0:0:0:0:0:0:https%3a//radio21.streamabc.net/radio21-80errock-mp3-256-6624232:Radio 21 & Rockland Radio - Zurück in die 80er
 #DESCRIPTION Radio 21 & Rockland Radio - Zurück in die 80er
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Interpret
+#DESCRIPTION Interpret
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/10cc/icecast.audio   :10cc
 #DESCRIPTION 10cc
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//streaming.exclusive.radio/er/aha/icecast.audio   :A-Ha   

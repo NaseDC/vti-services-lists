@@ -1,81 +1,245 @@
 #NAME IP TV (TV)
 #SERVICE 4097:0:1:6DCA:44D:1:C00000:0:0:0:https%3a//mcdn.daserste.de/daserste/de/master.m3u8:Das Erste HD
 #DESCRIPTION Das Erste HD
-#SERVICE 4097:0:1:6D66:437:1:C00000:0:0:0:http%3a//zdf1314-lh.akamaihd.net/i/de14_v1@392878/index_3096_av-p.m3u8?sd=10&rebase=on:ZDF HD
+#SERVICE 4097:0:1:6D66:437:1:C00000:0:0:0:https%3a//zdf-hls-15.akamaized.net/hls/live/2016498/de/high/master.m3u8:ZDF HD
 #DESCRIPTION ZDF HD
-#SERVICE 4097:0:1:6DCE:44D:1:C00000:0:0:0:http%3a//livestreams.br.de/i/bfsnord_germany@119898/index_3776_av-b.m3u8:BR Fernsehen
-#DESCRIPTION BR Fernsehen
-#SERVICE 4097:0:1:6DCC:44D:1:C00000:0:0:0:http%3a//live1_hr-lh.akamaihd.net/i/hr_fernsehen@75910/index_3584_av-b.m3u8:HR Fernsehen
-#DESCRIPTION HR Fernsehen
-#SERVICE 4097:0:1:6E2E:431:1:C00000:0:0:0:http%3a//rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_7_av-b.m3u8:RBB Berlin
-#DESCRIPTION RBB Berlin
-#SERVICE 4097:0:1:6E47:431:1:C00000:0:0:0:http%3a//swrrp-lh.akamaihd.net/i/swrrp_live@196739/index_3584_av-p.m3u8:SWR Fernsehen
-#DESCRIPTION SWR Fernsehen
-#SERVICE 4097:0:1:6F46:445:1:C00000:0:0:0:http%3a//live2_sr-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-b.m3u8:SR Fernsehen
-#DESCRIPTION SR Fernsehen
-#SERVICE 4097:0:1:7034:41B:1:C00000:0:0:0:http%3a//artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8:Arte
-#DESCRIPTION Arte
-#SERVICE 4097:0:19:2B8E:3F2:1:C00000:0:0:0:https%3a//zdf0910-lh.akamaihd.net/i/dach10_v1@392872/index_1496_av-b.m3u8:3Sat
-#DESCRIPTION 3Sat
-#SERVICE 4097:0:19:2888:40F:1:C00000:0:0:0:http%3a//onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_7_av-p.m3u8:One
-#DESCRIPTION One
-#SERVICE 4097:0:19:2BA2:3F2:1:C00000:0:0:0:https%3a//zdf1112-lh.akamaihd.net/i/de12_v1@392882/index_3096_av-b.m3u8?sd=10&rebase=on:ZDFinfo
-#DESCRIPTION ZDFinfo
-#SERVICE 4097:0:19:2B7A:3F3:1:C00000:0:0:0:https%3a//zdf1314-lh.akamaihd.net/i/de13_v1@392877/index_3096_av-b.m3u8?sd=10&rebase=on:ZDFneo
-#DESCRIPTION ZDFneo
-#SERVICE 4097:0:1:7035:41B:1:C00000:0:0:0:https%3a//zdf0910-lh.akamaihd.net/i/de09_v1@392871/master.m3u8?sd=10&rebase=on:Phoenix
-#DESCRIPTION Phoenix
+#SERVICE 4097:0:1:6DCE:44D:1:C00000:0:0:0:https%3a//brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_3660_av-p.m3u8:BR Fernsehen HD
+#DESCRIPTION BR Fernsehen HD
+#SERVICE 4097:0:1:6DCC:44D:1:C00000:0:0:0:https%3a//brlive-lh.akamaihd.net/i/bfsnord_germany@119898/index_3660_av-p.m3u8:HR Fernsehen HD
+#DESCRIPTION HR Fernsehen HD
+#SERVICE 4097:0:1:6E2E:431:1:C00000:0:0:0:https%3a//rbblive-lh.akamaihd.net/i/rbb_berlin@144674/index_4_av-p.m3u8:RBB Berlin HD
+#DESCRIPTION RBB Berlin HD
+#SERVICE 4097:0:1:6E47:431:1:C00000:0:0:0:https%3a//swrbwhls-i.akamaihd.net/hls/live/667638/swrbwd/master.m3u8:SWR Fernsehen HD
+#DESCRIPTION SWR Fernsehen HD
+#SERVICE 4097:0:1:6F46:445:1:C00000:0:0:0:http%3a//live2_sr-lh.akamaihd.net/i/sr_universal02@107595/index_1662_av-b.m3u8:SR Fernsehen HD
+#DESCRIPTION SR Fernsehen HD
+#SERVICE 4097:0:1:7034:41B:1:C00000:0:0:0:http%3a//artelive-lh.akamaihd.net/i/artelive_de@393591/index_1_av-p.m3u8:Arte HD
+#DESCRIPTION Arte HD
+#SERVICE 4097:0:19:2B8E:3F2:1:C00000:0:0:0:https%3a//zdf-hls-18.akamaized.net/hls/live/2016501/de/high/master.m3u8:3Sat HD
+#DESCRIPTION 3Sat HD
+#SERVICE 4097:0:19:2888:40F:1:C00000:0:0:0:https%3a//onelivestream-lh.akamaihd.net/i/one_livestream@568814/index_4_av-p.m3u8:One HD
+#DESCRIPTION One HD
+#SERVICE 4097:0:19:2BA2:3F2:1:C00000:0:0:0:https%3a//zdf-hls-17.akamaized.net/hls/live/2016500/de/high/master.m3u8:ZDFinfo HD
+#DESCRIPTION ZDFinfo HD
+#SERVICE 4097:0:19:2B7A:3F3:1:C00000:0:0:0:https%3a//zdf-hls-16.akamaized.net/hls/live/2016499/de/high/master.m3u8:ZDFneo HD
+#DESCRIPTION ZDFneo HD
+#SERVICE 4097:0:1:7035:41B:1:C00000:0:0:0:https%3a//zdf-hls-19.akamaized.net/hls/live/2016502/de/high/master.m3u8:Phoenix HD
+#DESCRIPTION Phoenix HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Dritte
+#DESCRIPTION Dritte
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdrsnhls-lh.akamaihd.net/i/livetvmdrsachsen_de@513998/index_3776_av-b.m3u8:MDR Sachsen HD
+#DESCRIPTION MDR Sachsen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdrsahls-lh.akamaihd.net/i/livetvmdrsachsenanhalt_de@513999/index_3776_av-p.m3u8:MDR Sachsen-Anhalt HD
+#DESCRIPTION MDR Sachsen-Anhalt HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdrthuhls-lh.akamaihd.net/i/livetvmdrthueringen_de@514027/index_3776_av-p.m3u8:MDR Thüringen HD
+#DESCRIPTION MDR Thüringen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/index_3776_av-p.m3u8:NDR Hamburg HD
+#DESCRIPTION NDR Hamburg HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8:NDR Mecklenburg-Vorpommern HD
+#DESCRIPTION NDR Mecklenburg-Vorpommern HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/index_3776_av-p.m3u8:NDR Niedersachsen HD
+#DESCRIPTION NDR Niedersachsen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/index_3776_av-p.m3u8:NDR Schleswig-Holstein HD
+#DESCRIPTION NDR Schleswig-Holstein HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbblive-lh.akamaihd.net/i/rbb_brandenburg@349369/index_4_av-p.m3u8:RBB Brandenburg HD
+#DESCRIPTION RBB Brandenburg HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Diverse
+#DESCRIPTION Diverse
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ma.anixa.tv/clips/stream/anixehd/index.m3u8:ANIXE HD
+#DESCRIPTION ANIXE HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//kikade-lh.akamaihd.net/i/livetvkika_de@450035/index_3776_av-b.m3u8:KiKA HD
+#DESCRIPTION KiKA HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8:ServusTV HD
+#DESCRIPTION ServusTV HD
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Musik
+#DESCRIPTION Musik
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//unilivemtveu-lh.akamaihd.net/i/mtvde_1@134922/index_3500_av-p.m3u8:MTV HD
+#DESCRIPTION MTV HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//1000338copo-app2749759488.r53.cdn.tv1.eu/1000518lf/1000338copo/live/app2749759488/w2928771075/live247.smil/chunklist_b1000000_slde.m3u8:DELUXE MUSIC
+#DESCRIPTION DELUXE MUSIC
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tv.artcom-venture.de/dmf/tv_720.m3u8:Deutsches Musik Fernsehen HD
+#DESCRIPTION Deutsches Musik Fernsehen HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//123tv.cdn.ses-ps.com/index.m3u8:1-2-3.tv
+#DESCRIPTION 1-2-3.tv
+#SERVICE 1:64:0:0:0:0:0:0:0:0::Events
+#DESCRIPTION Events
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//arteevent01-lh.akamaihd.net/i/arte_event01@395110/index_1_av-p.m3u8?sd=10&rebase=on:Arte Concert
 #DESCRIPTION Arte Concert
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/index_1_av-p.m3u8:BR Event 1
-#DESCRIPTION BR Event 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/index_1_av-p.m3u8:BR Event 2
-#DESCRIPTION BR Event 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/index_1_av-p.m3u8:BR Event 3
-#DESCRIPTION BR Event 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/SWR_event04isma@111250/index_1_av-p.m3u8:BR Event 4
-#DESCRIPTION BR Event 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hrevent-lh.akamaihd.net/i/hr_event@309239/index_3128_av-p.m3u8:HR Event
-#DESCRIPTION HR Event
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_1@119227/index_3776_av-p.m3u8:NDR Spezial 1
-#DESCRIPTION NDR Spezial 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_2@119228/index_3776_av-p.m3u8:NDR Spezial 2
-#DESCRIPTION NDR Spezial 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_3@119229/index_3776_av-p.m3u8:NDR Spezial 3
-#DESCRIPTION NDR Spezial 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_4@119230/index_3776_av-p.m3u8:NDR Spezial 4
-#DESCRIPTION NDR Spezial 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_5@384495/index_3776_av-p.m3u8:NDR Spezial 5
-#DESCRIPTION NDR Spezial 5
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_spezial-lh.akamaihd.net/i/spezial_6@364638/index_3776_av-p.m3u8:NDR Spezial 6
-#DESCRIPTION NDR Spezial 6
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_events-lh.akamaihd.net/i/ndrevent_1@119220/index_3776_av-p.m3u8:NDR Event 1
-#DESCRIPTION NDR Event 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_events-lh.akamaihd.net/i/ndrevent_2@119221/index_3776_av-p.m3u8:NDR Event 2
-#DESCRIPTION NDR Event 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//ndr_events-lh.akamaihd.net/i/ndrevent_3@119222/index_3776_av-p.m3u8:NDR Event 3
-#DESCRIPTION NDR Event 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdr_event1_hls-lh.akamaihd.net/i/livetvmdrevent1_de@106904/index_1728_av-p.m3u8:MDR Event 1
-#DESCRIPTION MDR Event 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//liveevent2.mdr.de/i/livetvmdrevent2_de@106905/index_1728_av-p.m3u8:MDR Event 2
-#DESCRIPTION MDR Event 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbb_event-lh.akamaihd.net/i/rbbevent_nongeo@107643/index_1728_av-p.m3u8:RBB Event
-#DESCRIPTION RBB Event
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event01_uni-lh.akamaihd.net/i/swr_event01@112805/index_3584_av-p.m3u8?sd=10&rebase=on:SWR Event 1
-#DESCRIPTION SWR Event 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event02_uni-lh.akamaihd.net/i/swr_event02@112806/index_3584_av-p.m3u8?sd=10&rebase=on:SWR Event 2
-#DESCRIPTION SWR Event 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event03_uni-lh.akamaihd.net/i/swr_event03@198168/index_3584_av-p.m3u8?sd=10&rebase=on:SWR Event 3
-#DESCRIPTION SWR Event 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event04_uni-lh.akamaihd.net/i/swr_event04@198169/index_3584_av-p.m3u8?sd=10&rebase=on:SWR Event 4
-#DESCRIPTION SWR Event 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_ardevent1-lh.akamaihd.net/i/wdrardevent1_weltweit@112049/index_3776_av-p.m3u8:WDR Event 1
-#DESCRIPTION WDR Event 1
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_event2-lh.akamaihd.net/i/wdrevent2_weltweit@112052/index_3776_av-p.m3u8:WDR Event 2
-#DESCRIPTION WDR Event 2
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_event3-lh.akamaihd.net/i/wdrevent3_weltweit@112053/index_3776_av-p.m3u8:WDR Event 3
-#DESCRIPTION WDR Event 3
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdr_event4-lh.akamaihd.net/i/wdrevent4_weltweit@112054/index_3776_av-p.m3u8:WDR Event 4
-#DESCRIPTION WDR Event 4
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//energytv.vedge.infomaniak.com/livecast/energytv/playlist.m3u8:NRj TV
-#DESCRIPTION NRj TV
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdrardevent1-lh.akamaihd.net/i/ardevent1_weltweit@566648/master.m3u8:ARD Event 1 HD
+#DESCRIPTION ARD Event 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ardevent2.akamaized.net/hls/live/681512/ardevent2_geo/master.m3u8:ARD Event 2 HD
+#DESCRIPTION ARD Event 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdrardevent2-lh.akamaihd.net/i/wdrardevent2_geo@100869/master.m3u8:ARD Event 2 HD Alternative
+#DESCRIPTION ARD Event 2 HD Alternative
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//arteevent01-lh.akamaihd.net/i/arte_event01@395110/master.m3u8:ARTE Event 1 HD
+#DESCRIPTION ARTE Event 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//arteevent02-lh.akamaihd.net/i/arte_event02@308866/master.m3u8:ARTE Event 2 HD
+#DESCRIPTION ARTE Event 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//arteevent03-lh.akamaihd.net/i/arte_event03@305298/master.m3u8:ARTE Event 3 HD
+#DESCRIPTION ARTE Event 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//arteevent04-lh.akamaihd.net/i/arte_event04@308879/master.m3u8:ARTE Event 4 HD
+#DESCRIPTION ARTE Event 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//arteevent05-lh.akamaihd.net/i/arte_event05@391593/master.m3u8:ARTE Event 5 HD
+#DESCRIPTION ARTE Event 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event01isma@86390/master.m3u8:BR Event 1 HD
+#DESCRIPTION BR Event 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event02isma@111248/master.m3u8:BR Event 2 HD
+#DESCRIPTION BR Event 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event03isma@111249/master.m3u8:BR Event 3 HD
+#DESCRIPTION BR Event 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event04isma@111250/master.m3u8:BR Event 4 HD
+#DESCRIPTION BR Event 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event05isma@145760/master.m3u8:BR Event 5 HD
+#DESCRIPTION BR Event 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//brevent1hds-lh.akamaihd.net/i/br_event06isma@145761/master.m3u8:BR Event 6 HD
+#DESCRIPTION BR Event 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event07isma@145762/master.m3u8:BR Event 7 HD
+#DESCRIPTION BR Event 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//brevent1hds-lh.akamaihd.net/i/br_event08isma@145763/master.m3u8:BR Event 8 HD
+#DESCRIPTION BR Event 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hrevent-lh.akamaihd.net/i/hr_event1@309239/master.m3u8:HR Event 1 HD
+#DESCRIPTION HR Event 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hrevent2-lh.akamaihd.net/i/hr_event2@309240/master.m3u8:HR Event 2 HD
+#DESCRIPTION HR Event 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdrevent3hls-lh.akamaihd.net/i/livetvmdrevent1_de@513994/master.m3u8:MDRPlus 1 HD
+#DESCRIPTION MDRPlus 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdrevent3hls-lh.akamaihd.net/i/livetvmdrevent2_de@513994/master.m3u8:MDRPlus 2 HD
+#DESCRIPTION MDRPlus 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdrevent3hls-lh.akamaihd.net/i/livetvmdrevent3_de@513994/master.m3u8:MDRPlus 3 HD
+#DESCRIPTION MDRPlus 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdrevent4hls-lh.akamaihd.net/i/livetvmdrevent4_de@513995/master.m3u8:MDRPlus 4 HD
+#DESCRIPTION MDRPlus 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdrevent4hls-lh.akamaihd.net/i/livetvmdrevent5_de@513995/master.m3u8:MDRPlus 5 HD
+#DESCRIPTION MDRPlus 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdrevent4hls-lh.akamaihd.net/i/livetvmdrevent6_de@513995/master.m3u8:MDRPlus 6 HD
+#DESCRIPTION MDRPlus 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdrevent1hls-lh.akamaihd.net/i/livetvmdrevent1_ww@513989/master.m3u8:MDRPlus 1 HD World
+#DESCRIPTION MDRPlus 1 HD World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdrevent2hls-lh.akamaihd.net/i/livetvmdrevent2_ww@513991/master.m3u8:MDRPlus 2 HD World
+#DESCRIPTION MDRPlus 2 HD World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//mdrevent2hls-lh.akamaihd.net/i/livetvmdrevent3_ww@513991/master.m3u8:MDRPlus 3 HD World
+#DESCRIPTION MDRPlus 3 HD World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdrevent5hls-lh.akamaihd.net/i/livetvmdrevent4_ww@513996/master.m3u8:MDRPlus 4 HD World
+#DESCRIPTION MDRPlus 4 HD World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdrevent5hls-lh.akamaihd.net/i/livetvmdrevent5_ww@513996/master.m3u8:MDRPlus 5 HD World
+#DESCRIPTION MDRPlus 5 HD World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//mdrevent6hls-lh.akamaihd.net/i/livetvmdrevent6_ww@513997/master.m3u8:MDRPlus 6 HD World
+#DESCRIPTION MDRPlus 6 HD World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrevent-lh.akamaihd.net/i/ndrevent_1@409066/master.m3u8:NDR Event 1 HD
+#DESCRIPTION NDR Event 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrevent-lh.akamaihd.net/i/ndrevent_2@429805/master.m3u8:NDR Event 2 HD
+#DESCRIPTION NDR Event 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8:NDR Event 3 HD
+#DESCRIPTION NDR Event 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_1@430235/master.m3u8:NDR Spezial 1 HD
+#DESCRIPTION NDR Spezial 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8:NDR Spezial 2 HD
+#DESCRIPTION NDR Spezial 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_3@430237/master.m3u8:NDR Spezial 3 HD
+#DESCRIPTION NDR Spezial 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_4@430238/master.m3u8:NDR Spezial 4 HD
+#DESCRIPTION NDR Spezial 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_5@430239/master.m3u8:NDR Spezial 5 HD
+#DESCRIPTION NDR Spezial 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8:NDR Spezial 6 HD
+#DESCRIPTION NDR Spezial 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8:n-tv Spezial 1
+#DESCRIPTION n-tv Spezial 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event2_1@409368/master.m3u8:n-tv Spezial 2
+#DESCRIPTION n-tv Spezial 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk1.m3u8:Parlamentsfernsehen 1
+#DESCRIPTION Parlamentsfernsehen 1
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//c13014-l-hls.u.core.cdn.streamfarm.net/1000153copo/hk2.m3u8:Parlamentsfernsehen 2
+#DESCRIPTION Parlamentsfernsehen 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbbevent01-hls.akamaized.net/hls/live/685984/rbbevent01/master.m3u8:rbb Event 1 HD
+#DESCRIPTION rbb Event 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbbevent02-hls.akamaized.net/hls/live/685985/rbbevent02/master.m3u8:rbb Event 2 HD
+#DESCRIPTION rbb Event 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbbevent03-hls.akamaized.net/hls/live/685986/rbbevent03/master.m3u8:rbb Event 3 HD
+#DESCRIPTION rbb Event 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//rbbevent04-hls.akamaized.net/hls/live/685987/rbbevent04/master.m3u8:rbb Event 4 HD
+#DESCRIPTION rbb Event 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbbevent01-lh.akamaihd.net/i/rbbevent01_nongeo@22155/master.m3u8:rbb Event 1 HD World
+#DESCRIPTION rbb Event 1 HD World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbbevent02-lh.akamaihd.net/i/rbbevent02_nongeo@22197/master.m3u8:rbb Event 2 HD World
+#DESCRIPTION rbb Event 2 HD World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//rbbevent03-lh.akamaihd.net/i/rbbevent03_nongeo@22764/master.m3u8:rbb Event 3 HD World
+#DESCRIPTION rbb Event 3 HD World
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swrevent01uni-lh.akamaihd.net/i/swr_event01@154022/master.m3u8:SWR Event 1 HD
+#DESCRIPTION SWR Event 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swrevent02uni-lh.akamaihd.net/i/swr_event02@154023/master.m3u8:SWR Event 2 HD
+#DESCRIPTION SWR Event 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swrevent03uni-lh.akamaihd.net/i/swr_event03@863151/master.m3u8:SWR Event 3 HD
+#DESCRIPTION SWR Event 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swrevent04uni-lh.akamaihd.net/i/swr_event04geo@863152/master.m3u8:SWR Event 4 HD
+#DESCRIPTION SWR Event 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swrevent05uni-lh.akamaihd.net/i/swr_event05geo@863153/master.m3u8:SWR Event 5 HD
+#DESCRIPTION SWR Event 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event06_uni-lh.akamaihd.net/i/swr_event06@141323/master.m3u8:SWR Event 6 HD
+#DESCRIPTION SWR Event 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event07_uni-lh.akamaihd.net/i/swr_event07@141324/master.m3u8:SWR Event 7 HD
+#DESCRIPTION SWR Event 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event08_uni-lh.akamaihd.net/i/swr_event08@141325/master.m3u8:SWR Event 8 HD
+#DESCRIPTION SWR Event 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event09_uni-lh.akamaihd.net/i/swr_event09@141326/master.m3u8:SWR Event 9 HD
+#DESCRIPTION SWR Event 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//swr_event10_uni-lh.akamaihd.net/i/swr_event10@141327/master.m3u8:SWR Event 10 HD
+#DESCRIPTION SWR Event 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//srevent1-lh.akamaihd.net/i/sr_universal01@105663/master.m3u8:SR Event 1 HD
+#DESCRIPTION SR Event 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live_sr-lh.akamaihd.net/i/sr_universal01@105663/master.m3u8:SR Event 1 HD Alternative
+#DESCRIPTION SR Event 1 HD Alternative
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//tagesschau-lh.akamaihd.net/i/tagesschau_2@119232/master.m3u8:Tagesschau24 Event HD
+#DESCRIPTION Tagesschau24 Event HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdrevent1geo-lh.akamaihd.net/i/wdrevent1_geo@566649/master.m3u8:WDR Event 1 HD
+#DESCRIPTION WDR Event 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wdrevent2-lh.akamaihd.net/i/wdrevent2_weltweit@566650/master.m3u8:WDR Event 2 HD
+#DESCRIPTION WDR Event 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wdrevent3-lh.akamaihd.net/i/wdrevent3_weltweit@566651/master.m3u8:WDR Event 3 HD
+#DESCRIPTION WDR Event 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wdrevent4-lh.akamaihd.net/i/wdrevent4_weltweit@566652/master.m3u8:WDR Event 4 HD
+#DESCRIPTION WDR Event 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//wdrevent5-lh.akamaihd.net/i/wdrevent5_weltweit@553673/master.m3u8:WDR Event 5 HD
+#DESCRIPTION WDR Event 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//wdrevent6-lh.akamaihd.net/i/wdrevent6_weltweit@553674/master.m3u8:WDR Event 6 HD
+#DESCRIPTION WDR Event 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls01-i.akamaihd.net/hls/live/743881/de/high/master.m3u8:ZDF Event 1 HD
+#DESCRIPTION ZDF Event 1 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls02-i.akamaihd.net/hls/live/743882/de/high/master.m3u8:ZDF Event 2 HD
+#DESCRIPTION ZDF Event 2 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls03-i.akamaihd.net/hls/live/743883/de/high/master.m3u8:ZDF Event 3 HD
+#DESCRIPTION ZDF Event 3 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls04-i.akamaihd.net/hls/live/743884/de/high/master.m3u8:ZDF Event 4 HD
+#DESCRIPTION ZDF Event 4 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls05-i.akamaihd.net/hls/live/743885/de/high/master.m3u8:ZDF Event 5 HD
+#DESCRIPTION ZDF Event 5 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls06-i.akamaihd.net/hls/live/743886/de/high/master.m3u8:ZDF Event 6 HD
+#DESCRIPTION ZDF Event 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls07-i.akamaihd.net/hls/live/743887/de/high/master.m3u8:ZDF Event 7 HD
+#DESCRIPTION ZDF Event 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls08-i.akamaihd.net/hls/live/743888/de/high/master.m3u8:ZDF Event 8 HD
+#DESCRIPTION ZDF Event 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls09-i.akamaihd.net/hls/live/743889/de/high/master.m3u8:ZDF Event 9 HD
+#DESCRIPTION ZDF Event 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls10-i.akamaihd.net/hls/live/743890/de/high/master.m3u8:ZDF Event 10 HD
+#DESCRIPTION ZDF Event 10 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls11-i.akamaihd.net/hls/live/743629/de/high/master.m3u8:ZDF Event 11 HD
+#DESCRIPTION ZDF Event 11 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls12-i.akamaihd.net/hls/live/744742/de/high/master.m3u8:ZDF Event 12 HD
+#DESCRIPTION ZDF Event 12 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls13-i.akamaihd.net/hls/live/744743/de/high/master.m3u8:ZDF Event 13 HD
+#DESCRIPTION ZDF Event 13 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls14-i.akamaihd.net/hls/live/744744/de/high/master.m3u8:ZDF Event 14 HD
+#DESCRIPTION ZDF Event 14 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls15-i.akamaihd.net/hls/live/744748/de/high/master.m3u8:ZDF Event 15 HD
+#DESCRIPTION ZDF Event 15 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls16-i.akamaihd.net/hls/live/744749/de/high/master.m3u8:ZDF Event 16 HD
+#DESCRIPTION ZDF Event 16 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls17-i.akamaihd.net/hls/live/744750/de/high/master.m3u8:ZDF Event 17 HD
+#DESCRIPTION ZDF Event 17 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls18-i.akamaihd.net/hls/live/744751/de/high/master.m3u8:ZDF Event 18 HD
+#DESCRIPTION ZDF Event 18 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls19-i.akamaihd.net/hls/live/744752/de/high/master.m3u8:ZDF Event 19 HD
+#DESCRIPTION ZDF Event 19 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//zdfhls20-i.akamaihd.net/hls/live/744753/de/high/master.m3u8:ZDF Event 20 HD
+#DESCRIPTION ZDF Event 20 HD
