@@ -927,7 +927,7 @@ p:BetaDigital
 Arirang  HD
 p:GLOBECAST
 3164:00c00000:0459:0001:1:0
-MB SAT - Test2
+Schlagerradio
 p:MB Satellite
 3464:00c00000:03e9:0001:1:0
 Service 13412
@@ -1356,7 +1356,7 @@ p:Movistar+
 NHK WORLD-JPN
 p:SES
 749d:00c00000:041c:0001:1:0
-M. Crimen
+M. Oscars
 p:Movistar+
 769d:00c00000:041e:0001:1:0
 10788V SID 0x769d
@@ -1442,9 +1442,15 @@ p:DIGITAL+
 16ae:00c00000:03ff:0001:1:0
 BB-MV-LokalTV
 p:BMT
+16af:00c00000:03ff:0001:1:0
+NIEDERBAYERN TV HD - neu
+p:
 75af:00c00000:0422:0001:1:0
 
 p:DIGITAL+
+16b0:00c00000:03ff:0001:1:0
+TVA - OTV HD
+p:
 33b0:00c00000:03eb:0001:1:0
 Service 13232
 p:ORS
@@ -1739,9 +1745,6 @@ p:Digital+
 75f3:00c00000:0422:0001:1:0
 
 p:Contactanos
-18f4:00c00000:03f4:0001:1:0
-SENDER NEU JERUSALEM
-p:GLOBECAST
 2ef4:00c00000:0441:0001:1:0
 RTL2
 p:CBC
@@ -2070,7 +2073,7 @@ p:MB Satellite
 Dlf Nova
 p:ZDFvision
 3172:00c00000:0459:0001:2:0
-Schlager Radio B2
+Schlager Radio
 p:MB Satellite
 3173:00c00000:0459:0001:2:0
 Radio Gloria
@@ -2085,7 +2088,7 @@ p:MB Satellite
 harmony.fm
 p:MB Satellite
 3178:00c00000:0459:0001:2:0
-Schlager Radio B2
+Schlager Radio
 p:MB Satellite
 1c79:00c00000:0457:0001:2:0
 Radio Horeb
@@ -2622,7 +2625,7 @@ p:SKY
 Kinowelt TV
 p:SKY
 0197:00c00000:0004:0085:22:0
-Sky Cinema Family
+Sky Cinema Dreamworks Animation
 p:SKY
 00a8:00c00000:000b:0085:22:0
 Motorvision TV
@@ -2759,12 +2762,18 @@ p:CSAT
 750c:00c00000:0420:0001:25:0
 HOLLYWOODHD
 p:DIGITAL+
+000d:00c00000:0006:0085:25:0
+Sky Crime HD
+p:SKY
 170d:00c00000:0419:0001:25:0
 Franken Fernsehen HD
 p:BMT
 750d:00c00000:0420:0001:25:0
 DreamWorks HD
 p:Movistar+
+000e:00c00000:0002:0085:25:0
+Sky Comedy HD
+p:SKY
 010e:00c00000:0006:0085:25:0
 Eurosport360HD 1
 p:SKY
@@ -3261,7 +3270,7 @@ p:CSAT
 rbb Brandenburg HD
 p:ARD
 006f:00c00000:000d:0085:25:0
-Sky Cinema Special HD
+Sky Cinema Mittelerde HD
 p:SKY
 206f:00c00000:0432:0001:25:0
 BFM BUSINESS
@@ -3546,7 +3555,7 @@ ef8a:00c00000:03f9:0001:25:0
 kabel eins HD Austria
 p:ProSiebenSat.1
 008b:00c00000:0002:0085:25:0
-Sky Cinema Family HD
+Sky Cinema Dreamworks Animation HD
 p:SKY
 288b:00c00000:040f:0001:25:0
 Radio Bremen HD
@@ -3611,6 +3620,9 @@ p:SES,C:1867
 2b98:00c00000:03f2:0001:25:0
 KiKA HD
 p:ZDFvision
+119a:00c00000:0406:0001:25:0
+ClipMyHorse.TV
+p:SES,C:1867
 2e9b:00c00000:0411:0001:25:0
 SUPER RTL HD
 p:CBC
@@ -3954,7 +3966,7 @@ p:CSAT
 ORF SPORT+ HD
 p:ORF
 33fe:00c00000:03ed:0001:25:0
-flimmit Zusatzpaket
+Flimmit
 p:ORF
 21ff:00c00000:044c:0001:25:0
 ES1
@@ -3964,7 +3976,7 @@ M. LaLiga 1 HD
 p:Movistar+
 0001:00c00000:040b:0001:31:0
 SES UHD Demo Channel
-p:SES
+p:SES,c:0001ff,c:0301ff,c:050006
 0301:eeee0000:6b00:2114:31:0
 Das Erste HD
 p:ARD
@@ -3991,7 +4003,7 @@ SUPER RTL HD
 p:RTL Group
 0003:00c00000:040b:0001:31:0
 SES UHD Demo Channel 02
-p:SES
+p:SES,c:0001ff,c:0301ff,c:050006
 0303:eeee0000:6f00:2114:31:0
 phoenix HD
 p:ARD
@@ -4000,7 +4012,7 @@ RTL II HD
 p:RTL Group
 0004:00c00000:040b:0001:31:0
 SES UHD Demo Channel 03
-p:SES
+p:SES,c:0001ff,c:0301ff,c:050006
 0304:eeee0000:6f00:2114:31:0
 tagesschau24 HD
 p:ARD
@@ -4012,7 +4024,7 @@ n-tv HD
 p:RTL Group
 0005:00c00000:040b:0001:31:0
 SES UHD Demo Channel 04
-p:SES
+p:SES,c:0001ff,c:0301ff,c:050006
 0305:eeee0000:6b00:2114:31:0
 ONE HD
 p:ARD
@@ -4024,7 +4036,7 @@ NITRO HD
 p:RTL Group
 0006:00c00000:040b:0001:31:0
 SES UHD Demo Channel 05
-p:SES
+p:SES,c:0001ff,c:0301ff,c:050006
 4206:eeee0000:4004:2114:31:0
 Tele 5 HD
 p:RTL Group
@@ -4143,13 +4155,13 @@ p:MEDIA BROADCAST
 NDR FS NDS HD
 p:ARD
 4281:eeee0000:4072:2114:31:0
-Bloomberg (connect)
+Bloomberg Europe TV (connect)
 p:MEDIA BROADCAST
 4282:eeee0000:4072:2114:31:0
-CNN (connect)
+CNN Int. (connect)
 p:MEDIA BROADCAST
 4283:eeee0000:4072:2114:31:0
-Euronews (connect)
+Euronews HD (connect)
 p:MEDIA BROADCAST
 4284:eeee0000:4072:2114:31:0
 Test (connect)
@@ -4161,7 +4173,7 @@ p:MEDIA BROADCAST
 QVC UHD
 p:MX1
 4286:eeee0000:4072:2114:31:0
-InSight (connect)
+INSIGHT TV HD (connect)
 p:MEDIA BROADCAST
 4288:eeee0000:4072:2114:31:0
 Sportdigital (connect)
@@ -4176,37 +4188,37 @@ p:MEDIA BROADCAST
 Motorvision.TV (connect)
 p:MEDIA BROADCAST
 428d:eeee0000:4072:2114:31:0
-Der Aktionär TV (conncet)
+DER AKTIONÄR TV (conncet)
 p:MEDIA BROADCAST
 428e:eeee0000:4072:2114:31:0
-hopechannel (connect)
+HOPE TV (connect)
 p:MEDIA BROADCAST
 428f:eeee0000:4072:2114:31:0
 Lokal-TV (connect)
 p:MEDIA BROADCAST
 4290:eeee0000:4072:2114:31:0
-Health TV (connect)
+health.tv (connect)
 p:MEDIA BROADCAST
 4291:eeee0000:4072:2114:31:0
-QVC style (connect)
+QVC STYLE HD (connect)
 p:MEDIA BROADCAST
 4292:eeee0000:4072:2114:31:0
 Welt der Wunder TV (connect)
 p:MEDIA BROADCAST
 4293:eeee0000:4072:2114:31:0
-Rhein-Main-TV (connect)
+rhein main tv (connect)
 p:MEDIA BROADCAST
 4294:eeee0000:4072:2114:31:0
-Sonnenklar.tv (connect)
+sonnenklar.TV HD (connect)
 p:MEDIA BROADCAST
 4295:eeee0000:4072:2114:31:0
-N24 Doku (connect)
+N24 DOKU (connect)
 p:MEDIA BROADCAST
 4296:eeee0000:4072:2114:31:0
-TCL (connect)
+TLC (connect)
 p:MEDIA BROADCAST
 4297:eeee0000:4072:2114:31:0
-MTV (connect)
+MTV HD (connect)
 p:MEDIA BROADCAST
 4298:eeee0000:4072:2114:31:0
 Comedy Central (connect)
@@ -4218,7 +4230,7 @@ p:CSAT
 DELUXE MUSIK TV (connect)
 p:MEDIA BROADCAST
 429a:eeee0000:4072:2114:31:0
-Kabel eine Doku (connect)
+kabel eins Doku (connect)
 p:MEDIA BROADCAST
 219b:00c00000:0448:0001:31:0
 CANAL+
@@ -4686,4 +4698,4 @@ p:SKY
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 20Mrz2021 13:24:34
+Edited with dreamboxEDIT 7.2.0.0 on 02Apr2021 12:04:48
