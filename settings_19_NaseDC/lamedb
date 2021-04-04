@@ -3976,7 +3976,7 @@ M. LaLiga 1 HD
 p:Movistar+
 0001:00c00000:040b:0001:31:0
 SES UHD Demo Channel
-p:SES,c:0001ff,c:0301ff,c:050006
+p:SES
 0301:eeee0000:6b00:2114:31:0
 Das Erste HD
 p:ARD
@@ -4003,7 +4003,7 @@ SUPER RTL HD
 p:RTL Group
 0003:00c00000:040b:0001:31:0
 SES UHD Demo Channel 02
-p:SES,c:0001ff,c:0301ff,c:050006
+p:SES
 0303:eeee0000:6f00:2114:31:0
 phoenix HD
 p:ARD
@@ -4012,7 +4012,7 @@ RTL II HD
 p:RTL Group
 0004:00c00000:040b:0001:31:0
 SES UHD Demo Channel 03
-p:SES,c:0001ff,c:0301ff,c:050006
+p:SES
 0304:eeee0000:6f00:2114:31:0
 tagesschau24 HD
 p:ARD
@@ -4024,7 +4024,7 @@ n-tv HD
 p:RTL Group
 0005:00c00000:040b:0001:31:0
 SES UHD Demo Channel 04
-p:SES,c:0001ff,c:0301ff,c:050006
+p:SES
 0305:eeee0000:6b00:2114:31:0
 ONE HD
 p:ARD
@@ -4036,7 +4036,7 @@ NITRO HD
 p:RTL Group
 0006:00c00000:040b:0001:31:0
 SES UHD Demo Channel 05
-p:SES,c:0001ff,c:0301ff,c:050006
+p:SES
 4206:eeee0000:4004:2114:31:0
 Tele 5 HD
 p:RTL Group
@@ -4698,4 +4698,4 @@ p:SKY
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 02Apr2021 12:04:48
+Edited with dreamboxEDIT 7.2.0.0 on 04Apr2021 11:50:27
