@@ -133,7 +133,7 @@
 #DESCRIPTION KiKA HD
 #SERVICE 4097:0:1:1AFA:3FE:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=266&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,533,534:France 24 (in English)
 #DESCRIPTION France 24 (in English)
-#SERVICE 4097:0:1:0:0:0:0:0:7:3:rtsp%3a//192.168.178.254%3a554/?freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618:Nederland 2
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,267,613,614,618:Nederland 2
 #DESCRIPTION Nederland 2
 #SERVICE 4097:0:1:1C9A:332C:13E:8200000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,588,1731,1732,1733,1734,1735,1736,1737:TV5MONDE Europe
 #DESCRIPTION TV5MONDE Europe
@@ -159,9 +159,9 @@
 #DESCRIPTION Sonnenklar TV HD
 #SERVICE 4097:0:1:293:5:85:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,270,643,644:Handystar
 #DESCRIPTION Handystar
-#SERVICE 4097:0:1:0:0:0:0:0:8:3:rtsp%3a//192.168.178.254%3a554/?freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514:Videothek - Unitymedia
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=610&bw=8&msys=dvbc&mtype=64qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514:Videothek - Unitymedia
 #DESCRIPTION Videothek - Unitymedia
-#SERVICE 4097:0:1:0:0:0:0:0:9:3:rtsp%3a//192.168.178.254%3a554/?freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,1621:NRWision HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,1621:NRWision HD
 #DESCRIPTION NRWision HD
 #SERVICE 4097:0:1:3138:459:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,1531:Home & Garden TV
 #DESCRIPTION Home & Garden TV
