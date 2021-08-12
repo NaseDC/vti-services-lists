@@ -8,6 +8,16 @@
 #SERVICE 1:0:19:2205:44C:1:C00000:0:0:0:
 #SERVICE 1:0:19:2204:44C:1:C00000:0:0:0:
 #SERVICE 1:0:19:429E:446:1:C00000:0:0:0:
+#SERVICE 4097:0:1:E475:E382:EC:0:0:0:0:https%3a//www.filmon.com/vr-streams/6152.high/playlist.m3u8:Filmon Adult 1
+#DESCRIPTION Filmon Adult 1
+#SERVICE 4097:0:1:A4E7:A448:EC:0:0:0:0:https%3a//www.filmon.com/vr-streams/6158.high/playlist.m3u:Filmon Adult 2
+#DESCRIPTION Filmon Adult 2
+#SERVICE 4097:0:1:1E21:747A:EC:0:0:0:0:https%3a//www.filmon.com/vr-streams/6170.high/playlist.m3u8:Filmon Adult 3
+#DESCRIPTION Filmon Adult 3
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//51.15.0.141%3a88/hustlerhd/index.m3u8:Hustler TV HD
+#DESCRIPTION Hustler TV HD
+#SERVICE 4097:0:1:1:0:0:0:0:0:0:http%3a//51.15.0.141%3a88/redlightHD/index.m3u8:Redlight TV HD
+#DESCRIPTION Redlight TV HD
 #SERVICE 1:64:14:0:0:0:0:0:0:0::Hotbird 24Std.......................................
 #DESCRIPTION Hotbird 24Std.......................................
 #SERVICE 1:0:1:4205:2F44:13E:820000:0:0:0:
