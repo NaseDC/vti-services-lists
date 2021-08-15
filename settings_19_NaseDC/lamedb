@@ -820,7 +820,7 @@ F3 PARIS IDF
 p:CSAT
 345d:00c00000:03e9:0001:1:0
 Service13405
-p:ORS,c:031fff
+p:ORS
 445d:00c00000:0453:0001:1:0
 ProSieben
 p:ProSiebenSat.1
@@ -925,7 +925,7 @@ Schlager Radio
 p:MB Satellite
 3464:00c00000:03e9:0001:1:0
 Service 13412
-p:ORF,c:031fff
+p:ORF
 4464:00c00000:0453:0001:1:0
 SAT.1 NRW
 p:ProSiebenSat.1
@@ -4824,4 +4824,4 @@ p:SKY
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 14Aug2021 11:21:59
+Edited with dreamboxEDIT 7.2.0.0 on 15Aug2021 11:41:34
