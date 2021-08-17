@@ -131,6 +131,8 @@
 #DESCRIPTION NDR Event 2 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrevent-lh.akamaihd.net/i/ndrevent_3@409068/master.m3u8:NDR Event 3 HD
 #DESCRIPTION NDR Event 3 HD
+#SERVICE 1:64:1:0:0:0:0:0:0:0::Olympia usw
+#DESCRIPTION Olympia usw
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_1@430235/master.m3u8:NDR Spezial 1 HD
 #DESCRIPTION NDR Spezial 1 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_2@430236/master.m3u8:NDR Spezial 2 HD
@@ -143,6 +145,14 @@
 #DESCRIPTION NDR Spezial 5 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial-lh.akamaihd.net/i/spezial_6@430240/master.m3u8:NDR Spezial 6 HD
 #DESCRIPTION NDR Spezial 6 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial7sp-lh.akamaihd.net/i/spezial_7@322396/master.m3u8:NDR Spezial 7 HD
+#DESCRIPTION NDR Spezial 7 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial8sp-lh.akamaihd.net/i/spezial_8@425044/master.m3u8:NDR Spezial 8 HD
+#DESCRIPTION NDR Spezial 8 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial9sp-lh.akamaihd.net/i/spezial_9@426506/master.m3u8:NDR Spezial 9 HD
+#DESCRIPTION NDR Spezial 9 HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ndrspezial10sp-lh.akamaihd.net/i/spezial_10@9732/master.m3u8:NDR Spezial 10 HD
+#DESCRIPTION NDR Spezial 10 HD
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event1_1@409295/master.m3u8:n-tv Spezial 1
 #DESCRIPTION n-tv Spezial 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//ntvlivehls-lh.akamaihd.net/i/ntvlivehls_event2_1@409368/master.m3u8:n-tv Spezial 2
