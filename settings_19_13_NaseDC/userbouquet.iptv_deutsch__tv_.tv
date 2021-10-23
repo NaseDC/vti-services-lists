@@ -51,17 +51,17 @@
 #DESCRIPTION arte HD
 #SERVICE 4097:0:19:285B:401:1:C00000:0:0:0:https%3a//zdf-hls-19.akamaized.net/hls/live/2016502/de/veryhigh/master.m3u8:Phoenix HD
 #DESCRIPTION Phoenix HD
-#SERVICE 4097:0:1:79FE:443:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=426&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,275,633,694:euronews (D)
+#SERVICE 4097:0:1:79FE:443:1:C00000:0:0:0:https://rakuten-euronews-5-de.samsung.wurl.com/manifest/playlist.m3u8:euronews (D)
 #DESCRIPTION euronews (D)
-#SERVICE 4097:0:1:1146:404:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554:CNN
+#SERVICE 4097:0:1:1146:404:1:C00000:0:0:0:https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8:CNN
 #DESCRIPTION CNN
 #SERVICE 4097:0:1:1389:3EA:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=226&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554:BBC HD
 #DESCRIPTION BBC HD
-#SERVICE 4097:0:1:1389:3EA:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,283,773,774:BBC World News
+#SERVICE 4097:0:1:1389:3EA:1:C00000:0:0:0:http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8:BBC World News
 #DESCRIPTION BBC World News
 #SERVICE 4097:0:1:2753:402:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604:Bloomberg
 #DESCRIPTION Bloomberg
-#SERVICE 4097:0:1:272E:402:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=274&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,259,8190,533,534:CNBC
+#SERVICE 4097:0:1:272E:402:1:C00000:0:0:0:http://ott-cdn.ucom.am/s65/index.m3u8:CNBC
 #DESCRIPTION CNBC
 #SERVICE 4097:0:1:1B02:3FE:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=410&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,273,673,674:CGTN
 #DESCRIPTION CGTN
