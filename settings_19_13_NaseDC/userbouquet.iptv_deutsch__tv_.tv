@@ -43,7 +43,7 @@
 #DESCRIPTION BILD HD
 #SERVICE 4097:0:1:445F:453:1:C00000:0:0:0:http%3a//live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8:WELT
 #DESCRIPTION WELT
-#SERVICE 4097:0:1:30:5:85:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=434&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,271,653,517,654,658:N24 DOKU
+#SERVICE 4097:0:1:30:5:85:C00000:0:0:0:http%3a//service-stitcher.clusters.pluto.tv/stitch/hls/channel/60080e8a4bf36000076a81b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=d1bacfe3-a1ac-11eb-845e-15a769433892&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d2f1fad4-fca7-4e89-8757-53fa42fe69e8&userId=&serverSideAds=true:N24 DOKU
 #DESCRIPTION N24 DOKU
 #SERVICE 4097:0:1:2F3A:441:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=394&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,593,594,595,598,1801,1802,1803:ntv
 #DESCRIPTION ntv
@@ -57,7 +57,7 @@
 #DESCRIPTION CNN
 #SERVICE 4097:0:1:1389:3EA:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=226&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554:BBC HD
 #DESCRIPTION BBC HD
-#SERVICE 4097:0:1:1389:3EA:1:C00000:0:0:0:http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8:BBC World News
+#SERVICE 4097:0:1:1389:3EA:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=450&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,283,773,774:BBC World News
 #DESCRIPTION BBC World News
 #SERVICE 4097:0:1:2753:402:1:C00000:0:0:0:rtsp%3a//192.168.178.254%3a554/?freq=418&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,266,603,604:Bloomberg
 #DESCRIPTION Bloomberg
