@@ -1887,7 +1887,7 @@ p:ARD NDR
 alt_NDR Blue
 p:ARD NDR
 6f1f:00c00000:0445:0001:2:0
-alt_NDR Plus
+alt_NDR Schlager
 p:ARD NDR
 6f20:00c00000:0445:0001:2:0
 alt_Bremen Eins
@@ -2367,7 +2367,7 @@ p:ARD NDR
 NDR Blue
 p:ARD NDR
 28b6:00c00000:040f:0001:10:0
-NDR Plus
+NDR Schlager
 p:ARD NDR
 28ba:00c00000:040f:0001:10:0
 Bremen Eins
@@ -2766,7 +2766,7 @@ p:SKY
 Kinowelt TV
 p:SKY
 0197:00c00000:0004:0085:22:0
-Sky Cinema Spooky Halloween
+Sky Cinema Family
 p:SKY
 00a8:00c00000:000b:0085:22:0
 Motorvision TV
@@ -3361,7 +3361,7 @@ CANAL+ SERIES
 p:CSAT
 2b66:00c00000:03f3:0001:25:0
 ZDF HD
-p:ZDFvision,c:0017de,c:0217f2,c:0317de,c:0417ea,c:050001
+p:ZDFvision
 2267:00c00000:0438:0001:25:0
 CINE+ FRISSON
 p:CSAT
@@ -3417,7 +3417,7 @@ p:CSAT
 rbb Brandenburg HD
 p:ARD
 006f:00c00000:000d:0085:25:0
-Sky Cinema Special HD
+Sky Cinema Harry Potter HD
 p:SKY
 206f:00c00000:0432:0001:25:0
 BFM BUSINESS
@@ -3690,7 +3690,7 @@ ef8a:00c00000:03f9:0001:25:0
 kabel eins HD Austria
 p:ProSiebenSat.1
 008b:00c00000:0002:0085:25:0
-Sky Cinema Spooky Halloween HD
+Sky Cinema Family HD
 p:SKY
 288b:00c00000:040f:0001:25:0
 Radio Bremen HD
@@ -4860,4 +4860,4 @@ p:SKY
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 30Okt2021 12:44:19
+Edited with dreamboxEDIT 7.2.0.0 on 06Nov2021 12:34:14
