@@ -425,9 +425,6 @@ p:CBC
 0020:00c00000:0021:0085:1:0
 Sonnenklar TV
 p:BetaDigital
-0021:00c00000:000f:0085:1:0
-Genius family
-p:BetaDigital
 4e21:00c00000:043a:0001:1:0
 ProSieben Schweiz
 p:ProSiebenSat.1
@@ -443,9 +440,6 @@ p:ProSiebenSat.1
 4e24:00c00000:043a:0001:1:0
 Kabel 1 Austria
 p:ProSiebenSat.1
-0025:00c00000:000f:0085:1:0
-Sky Sport News
-p:SKY
 4e25:00c00000:043a:0001:1:0
 SAT.1 A
 p:ProSiebenSat.1
@@ -746,6 +740,9 @@ p:ProSiebenSat.1
 125d:00c00000:03f7:0001:1:0
 SES 02
 p:BetaDigital
+345d:00c00000:03e9:0001:1:0
+Service13405
+p:ORS
 445d:00c00000:0453:0001:1:0
 ProSieben
 p:ProSiebenSat.1
@@ -836,6 +833,9 @@ p:GLOBECAST
 3164:00c00000:0459:0001:1:0
 Schlager Radio
 p:MB Satellite
+3464:00c00000:03e9:0001:1:0
+Service 13412
+p:ORF
 4464:00c00000:0453:0001:1:0
 SAT.1 NRW
 p:ProSiebenSat.1
@@ -1471,7 +1471,7 @@ ORF2
 p:ORF
 6dca:00c00000:044d:0001:1:0
 Das Erste
-p:ARD,c:000065,c:020068,c:030065,c:04006a
+p:ARD
 75ca:00c00000:0422:0001:1:0
 
 p:DIGITAL+
@@ -2615,6 +2615,9 @@ p:M7 Group
 0320:00c00000:0008:0085:22:0
 STEST1
 p:SKY
+0021:00c00000:000f:0085:22:0
+Genius family
+p:BetaDigital
 0321:00c00000:000c:0085:22:0
 STEST2
 p:SKY
@@ -2624,6 +2627,9 @@ p:BetaDigital
 1524:00c00000:0455:0001:22:0
 .
 p:BetaDigital
+0025:00c00000:000f:0085:22:0
+Nicer Dicer TV
+p:Beta Digital
 0029:00c00000:0004:0085:22:0
 Sky Cinema Best Of
 p:SKY
@@ -2679,7 +2685,7 @@ p:BetaDigital
 SES 75
 p:BetaDigital
 5278:00c00000:041d:0001:22:0
-Nicer Dicer TV
+Astra Demo
 p:BetaDigital
 5279:00c00000:041d:0001:22:0
 Genius Plus
@@ -3295,7 +3301,7 @@ CANAL+SERIES
 p:CSAT
 2b66:00c00000:03f3:0001:25:0
 ZDF HD
-p:ZDFvision,c:0017de,c:0217f2,c:0317de,c:0417ea,c:050001
+p:ZDFvision
 2267:00c00000:0438:0001:25:0
 CINE+ FRISSON
 p:CSAT
@@ -4220,18 +4226,12 @@ p:MEDIA BROADCAST
 3459:00c00000:03e9:0001:31:0
 Service 13401
 p:ORS
-345d:00c00000:03e9:0001:31:0
-Service13405
-p:ORS
 0362:eeee0000:6f00:2114:31:0
 MDR S-Anhalt HD
 p:ARD
 3462:00c00000:03e9:0001:31:0
 RTL UHD Austria
 p:ORS
-3464:00c00000:03e9:0001:31:0
-Service13412
-p:ORF
 307a:00c00000:03f5:0001:31:0
 RTL UHD
 p:MX1,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
@@ -4785,4 +4785,4 @@ p:SKY
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 27Nov2021 11:25:17
+Edited with dreamboxEDIT 7.2.0.0 on 04Dez2021 12:03:53
