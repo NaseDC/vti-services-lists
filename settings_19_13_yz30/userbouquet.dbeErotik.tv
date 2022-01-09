@@ -9,8 +9,8 @@
 #SERVICE 1:0:19:2204:44C:1:C00000:0:0:0:
 #SERVICE 4097:0:1:E475:E382:EC:0:0:0:0:https%3a//www.filmon.com/vr-streams/6152.high/playlist.m3u8:Filmon Adult 1
 #DESCRIPTION Filmon Adult 1
-#SERVICE 4097:0:1:A4E7:A448:EC:0:0:0:0:https%3a//www.filmon.com/vr-streams/6158.high/playlist.m3u:Filmon Adult 2
-#DESCRIPTION Filmon Adult 2
+#SERVICE 4097:0:1:A4E7:A448:EC:0:0:0:0:https%3a//www.filmon.com/vr-streams/6158.high/playlist.m3u:Filmon Adult 2 (Achtung Quer Beet)
+#DESCRIPTION Filmon Adult 2 (Achtung Quer Beet)
 #SERVICE 4097:0:1:1E21:747A:EC:0:0:0:0:https%3a//www.filmon.com/vr-streams/6170.high/playlist.m3u8:Filmon Adult 3
 #DESCRIPTION Filmon Adult 3
 #SERVICE 1:64:14:0:0:0:0:0:0:0::Hotbird 24Std.......................................
