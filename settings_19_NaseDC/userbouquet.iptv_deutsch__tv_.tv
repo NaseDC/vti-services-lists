@@ -99,13 +99,13 @@
 #DESCRIPTION Al Jazeera International
 #SERVICE 4097:0:0:0:0:0:8:0:0:0:https%3a//tv-trtturk.medya.trt.com.tr/master_720.m3u8:TRT Türk
 #DESCRIPTION TRT Türk
-#SERVICE 4097:0:19:1332:3EF:1:C00000:0:0:0:https%3a//rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master_6692.m3u8:Servus TV HD
+#SERVICE 4097:0:19:1332:3EF:1:C00000:0:0:0:https%3a//stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master_6692.m3u8:Servus TV HD
 #DESCRIPTION Servus TV HD
-#SERVICE 4097:0:19:2887:40F:1:C00000:0:0:0:https%3a//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3712_av-p.m3u8?sd=4&set-segment-duration=responsive&rebase=on//tagesschau-lh.akamaihd.net/i/tagesschau_1@119231/index_3776_av-b.m3u8:tagesschau24 HD
+#SERVICE 4097:0:19:2887:40F:1:C00000:0:0:0:https%3a//tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master_720.m3u8:tagesschau24 HD
 #DESCRIPTION tagesschau24 HD
 #SERVICE 4097:0:19:2888:40F:1:C00000:0:0:0:https%3a//mcdn.one.ard.de/ardone/hls/master-1080p-5128.m3u8:ONE HD
 #DESCRIPTION ONE HD
-#SERVICE 4097:0:1:6F47:445:1:C00000:0:0:0:https%3a//mcdn.br.de/br/fs/ard_alpha/hls/de/master_1280p_3628.m3u8:ARD-alpha
+#SERVICE 4097:0:1:6F47:445:1:C00000:0:0:0:https%3a//mcdn.br.de/br/fs/ard_alpha/hls/de/master_1280p_3328.m3u8:ARD-alpha
 #DESCRIPTION ARD-alpha
 #SERVICE 4097:0:19:2B7A:3F3:1:C00000:0:0:0:https%3a//zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8:ZDF_neo HD
 #DESCRIPTION ZDF_neo HD
@@ -119,12 +119,14 @@
 #DESCRIPTION MDR Thüringen HD
 #SERVICE 4097:0:19:2857:401:1:C00000:0:0:0:https%3a//mcdn.ndr.de/ndr/hls/ndr_fs/ndr_nds/master_720.m3u8:NDR Niedersachsen HD
 #DESCRIPTION NDR Niedersachsen HD
-#SERVICE 4097:0:19:283F:3FB:1:C00000:0:0:0:https%3a//swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-720p-3628.m3u8:SWR BW HD
+#SERVICE 4097:0:19:283F:3FB:1:C00000:0:0:0:https%3a//swrbwd-hls.akamaized.net/hls/live/2018672/swrbwd/master-720p-3328.m3u8:SWR BW HD
 #DESCRIPTION SWR BW HD
 #SERVICE 4097:0:19:286F:425:1:C00000:0:0:0:https%3a//rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master-1080p-5128.m3u8:rbb Berlin HD
 #DESCRIPTION rbb Berlin HD
 #SERVICE 4097:0:19:288A:40F:1:C00000:0:0:0:http%3a//fs.live.sr.de/i/sr_universal02@107595/index_1662_av-b.m3u8:SR Fernsehen HD
 #DESCRIPTION SR Fernsehen HD
+#SERVICE 4097:0:19:3767:6A4:13E:820000:0:0:0:https%3a//tvoosa-pez0303.sctv.ch/http_adaptive_streaming/LHBHPMAAOONICACG.m3u8/Level(4):auftanken.tv
+#DESCRIPTION auftanken.tv
 #SERVICE 4097:0:1:6EE1:4B1:1:C00000:0:0:0:https%3a//rbhlslive.akamaized.net/hls/live/2020435/rbfs/master-720p-3628.m3u8:Radio Bremen TV
 #DESCRIPTION Radio Bremen TV
 #SERVICE 4097:0:19:1644:42C:1:C00000:0:0:0:https%3a//dwamdstream107.akamaized.net/hls/live/2017968/dwstream107/stream04/streamPlaylist.m3u8:Deutsche Welle TV
