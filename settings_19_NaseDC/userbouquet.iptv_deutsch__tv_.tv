@@ -65,8 +65,6 @@
 #DESCRIPTION CGTN Documentary
 #SERVICE 4097:0:1:139D:3EA:1:C00000:0:0:0:https%3a//nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp-en/index_1M.m3u8:NHK WORLD-JAPAN
 #DESCRIPTION NHK WORLD-JAPAN
-#SERVICE 4097:0:1:1AF8:3FE:1:C00000:0:0:0:https%3a//rt-ger.gcdn.co/live/rtdeutsch/playlist_4500Kb.m3u8:Russia Today DE
-#DESCRIPTION Russia Today DE
 #SERVICE 4097:0:1:1B61:3FC:1:C00000:0:0:0:rtsp%3a//192.168.178.1%3a554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544:Al Jazeera International
 #DESCRIPTION Al Jazeera International
 #SERVICE 4097:0:0:0:0:0:8:0:0:0:https%3a//tv-trtturk.medya.trt.com.tr/master_720.m3u8:TRT Türk
@@ -83,7 +81,7 @@
 #DESCRIPTION ZDF_neo HD
 #SERVICE 4097:0:19:2BA2:3F2:1:C00000:0:0:0:https%3a//zdf-hls-17.akamaized.net/hls/live/2016500/de/veryhigh/master.m3u8:ZDFinfo HD
 #DESCRIPTION ZDFinfo HD
-#SERVICE 4097:0:19:2873:425:1:C00000:0:0:0:https%3a//hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master-1080.m3u8:hr-fernsehen HD
+#SERVICE 4097:0:19:2873:425:1:C00000:0:0:0:https%3a//hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master-1080p-6596.m3u8:hr-fernsehen HD
 #DESCRIPTION hr-fernsehen HD
 #SERVICE 4097:0:19:2855:401:1:C00000:0:0:0:https%3a//mcdn.br.de/br/fs/bfs_sued/hls/de/master_1280p_3328.m3u8:BR Fernsehen Süd HD
 #DESCRIPTION BR Fernsehen Süd HD
