@@ -149,7 +149,7 @@
 #DESCRIPTION Juwelo
 #SERVICE 4097:0:19:1518:455:1:C00000:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=242&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,518,1531:Sonnenklar TV HD
 #DESCRIPTION Sonnenklar TV HD
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,1621:NRWision HD
+#SERVICE 4097:0:1:0:0:0:0:6:7:9:rtsp%3a//192.168.178.1%3a554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,1621:NRWision HD
 #DESCRIPTION NRWision HD
 #SERVICE 4097:0:1:3138:459:1:C00000:0:0:0:rtsp%3a//192.168.178.1%3a554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,1741:Home & Garden TV
 #DESCRIPTION Home & Garden TV
