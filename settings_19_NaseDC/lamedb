@@ -3337,7 +3337,7 @@ p:SKY
 p:SKY
 157c:00c00000:041f:0001:25:0
 Disney Channel HD
-p:BetaDigital,C:1830,C:1842,C:1843,C:1860,C:186a,C:186d
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 427c:00c00000:0446:0001:25:0
 AUTOMOTO la chaine
 p:AB SAT,C:0100,C:0500
@@ -3373,7 +3373,7 @@ p:BetaDigital
 p:SKY
 157f:00c00000:041f:0001:25:0
 Deluxe Music HD
-p:BetaDigital,C:1830,C:1842,C:1843,C:1860,C:186a,C:186d
+p:BetaDigital,c:0003ff,c:0303ff,c:040403,c:050001,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 427f:00c00000:0446:0001:25:0
 Science et Vie
 p:AB SAT,C:0100,C:0500
@@ -3391,7 +3391,7 @@ p:AB SAT
 p:SKY
 1581:00c00000:041f:0001:25:0
 SPORT1 HD
-p:BetaDigital,C:1830,C:1842,C:1843,C:1860,C:186a,C:186d
+p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 2081:00c00000:0432:0001:25:0
 ARTE
 p:CSAT
@@ -3589,7 +3589,7 @@ Hope TV
 p:-
 16ac:00c00000:03ff:0001:25:0
 tv.ingolstadt HD
-p:
+p:BMT
 33ac:00c00000:03eb:0001:25:0
 ATV HD
 p:ATV
@@ -4587,4 +4587,4 @@ p:SKY
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 08Apr2022 18:42:03
+Edited with dreamboxEDIT 7.2.0.0 on 15Apr2022 16:51:38
