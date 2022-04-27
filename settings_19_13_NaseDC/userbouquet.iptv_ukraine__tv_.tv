@@ -15,15 +15,11 @@
 #DESCRIPTION   Odessa  |  novyny  |  Nachrichten
 
 
-
-
 #SERVICE 4097:0:19:66:0:0:0:0:0:8:https%3a//media.ukraine-inform.com/ef/stream.m3u8:YHT  | rozvahy | Unterhaltung
 #DESCRIPTION    YHT  | rozvahy | Unterhaltung
 
 
 
-#SERVICE 4097:0:19:66:0:0:0:0:0:12:https%3a//service-stitcher-ipv4.clusters.pluto.tv/v2/stitch/hls/channel/622882350f6aad0008c76e77/2142297/playlist.m3u8?terminate=false&embedPartner=&serverSideAds=true&paln=&includeExtendedEvents=&architecture=&deviceId=292590e0-4376-463e-8e1a-73055c4111b9&deviceVersion=99.0.0&appVersion=6.0.2-271615f9537e59ad39ce3706c1f53e155e4f8dc8&deviceType=web&deviceMake=firefox&sid=e164836f-c639-11ec-97ef-0242ac110003&advertisingId=&deviceLat=51.2283&deviceLon=7.6291&deviceDNT=0&deviceModel=web&userId=&appName=web&e2eBeacons=false&jwt=eyJhbGciOiJIUzI1NiIsImtpZCI6IjFlZmE1MGJhLWExMjctNDYzMC05Yzk3LWQyNzUzYjI1NWQ5NCIsInR5cCI6IkpXVCJ9.eyJzZXNzaW9uSUQiOiJlMTY0ODM2Zi1jNjM5LTExZWMtOTdlZi0wMjQyYWMxMTAwMDMiLCJjbGllbnRJUCI6IjE3Ni4xOTguMzcuOTMiLCJjaXR5IjoiTMO8ZGVuc2NoZWlkIiwicG9zdGFsQ29kZSI6IjU4NTA3IiwiY291bnRyeSI6IkRFIiwiZG1hIjowLCJhY3RpdmVSZWdpb24iOiJERSIsImRldmljZUxhdCI6NTEuMjI4MywiZGV2aWNlTG9uIjo3LjYyOTEsInByZWZlcnJlZExhbmd1YWdlIjoiZGUiLCJkZXZpY2VUeXBlIjoid2ViIiwiZGV2aWNlVmVyc2lvbiI6Ijk5LjAuMCIsImRldmljZU1ha2UiOiJmaXJlZm94IiwiZGV2aWNlTW9kZWwiOiJ3ZWIiLCJhcHBOYW1lIjoid2ViIiwiYXBwVmVyc2lvbiI6IjYuMC4yLTI3MTYxNWY5NTM3ZTU5YWQzOWNlMzcwNmMxZjUzZTE1NWU0ZjhkYzgiLCJjbGllbnRJRCI6IjI5MjU5MGUwLTQzNzYtNDYzZS04ZTFhLTczMDU1YzQxMTFiOSIsImNtQXVkaWVuY2VJRCI6IiIsImlzQ2xpZW50RE5UIjpmYWxzZSwidXNlcklEIjoiIiwibG9nTGV2ZWwiOiJERUZBVUxUIiwidGltZVpvbmUiOiJFdXJvcGUvQmVybGluIiwic2VydmVyU2lkZUFkcyI6dHJ1ZSwiZTJlQmVhY29ucyI6ZmFsc2UsImZlYXR1cmVzIjp7fSwiYXVkIjoiKi5wbHV0by50diIsImV4cCI6MTY1MTEwMDA0MywianRpIjoiZTUxZDlhYzMtY2I2Mi00MjBmLTgzY2YtNzdkNTBkNGYwNzVkIiwiaWF0IjoxNjUxMDcxMjQzLCJpc3MiOiJib290LnBsdXRvLnR2Iiwic3ViIjoicHJpOnYxOnBsdXRvOmRldmljZXM6REU6TWpreU5Ua3daVEF0TkRNM05pMDBOak5sTFRobE1XRXROek13TlRWak5ERXhNV0k1In0.IUZLGzXd7v7OT32qJGbmtOvDy0sXr6T4psoYjUtkQXw:nick Ukraine  | ditey | Kinder
-#DESCRIPTION nick Ukrayina  | ditey  |  Kinder
 #SERVICE 4097:0:1:66:0:0:0:0:0:3:http%3a//stream.atr.ua/lale/live/index.m3u8:LaLe  | ditey | Kinder
 #DESCRIPTION LaLe  | ditey  |  Kinder
 
