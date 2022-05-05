@@ -1,14 +1,20 @@
 #NAME IPTV Ukrayina | Ukraine (TV)
+#SERVICE 4097:0:1:66:0:0:0:0:0:0:https%3a//live-k2303-kbp.1plus1.video/live/1652065440/64991nS5-n1H1fV_6q5cww/184723/smil:1+1  |  novyny  |  Nachrichten
+#DESCRIPTION 1+1  |  novyny  |  Nachrichten
 #SERVICE 4097:0:1:66:0:0:0:0:0:0:https%3a//kv-k21-mc03.ollcdn.net/trku-live/20/2cd64b8df9370872830fc8ee2017bff3/62670bd0/ukrainahd/ukrainahd.m3u8:Telekanal Ukraina  |  novyny  |  Nachrichten
 #DESCRIPTION Telekanal Ukraina  |  novyny  |  Nachrichten
 #SERVICE 4097:0:19:66:0:0:0:0:0:0:http%3a//91.194.79.46:1TB Odesa  |  novyny  |  Nachrichten
 #DESCRIPTION 1TB Odesa  |  novyny  |  Nachrichten
 #SERVICE 4097:0:19:66:0:0:0:0:0:0:https%3a//streamvideol.luxnet.ua/34ua/34ua.stream/chunklist.m3u8:Kanal 34  |  novyny  |  Nachrichten
 #DESCRIPTION Kanal 34  |  novyny  |  Nachrichten
+#SERVICE 4097:0:19:66:0:0:0:0:0:0:https%3a//live-k2302-kbp.1plus1.video/live/1652065440/iLefrBZIagI4_85A3TVpRw/s-kvartal-tv/smil:KVARTAL TV  |  novyny  |  Nachrichten
+#DESCRIPTION KVARTAL TV  |  novyny  |  Nachrichten
 #SERVICE 4097:0:19:66:0:0:0:0:0:0:https%3a//d188n8dlntn7yl.cloudfront.net/hls/06.m3u8:Kyiv Live  |  novyny  |  Nachrichten
 #DESCRIPTION Kyiv Live  |  novyny  |  Nachrichten
 #SERVICE 4097:0:19:66:0:0:0:0:0:0:https%3a//d20b9e9hf06guk.cloudfront.net/hls/odesalive.m3u8:Odessa  |  novyny  |  Nachrichten
 #DESCRIPTION Odessa  |  novyny  |  Nachrichten
+#SERVICE 4097:0:19:66:0:0:0:0:0:0:https%3a//live-k2303-kbp.1plus1.video/live/1652065440/swR-xcSdIh192RgJ-UxzyQ/s-paramount-comedy/smil:Paramount Comedy  | rozvahy | Unterhaltung
+#DESCRIPTION Paramount Comedy  | rozvahy | Unterhaltung
 #SERVICE 4097:0:19:66:0:0:0:0:0:0:https%3a//media.ukraine-inform.com/ef/stream.m3u8:YHT  | rozvahy | Unterhaltung
 #DESCRIPTION YHT  | rozvahy | Unterhaltung
 #SERVICE 4097:0:1:66:0:0:0:0:0:0:http%3a//stream.atr.ua/lale/live/index.m3u8:LaLe  | ditey  |  Kinder
