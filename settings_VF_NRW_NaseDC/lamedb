@@ -40,7 +40,7 @@ ffff0000:00a1:270f
 	c 394000:6900000:2:5:15:0
 /
 ffff0000:00ab:270f
-	c 305998:6899975:2:5:0:0
+	c 306001:6900031:2:5:0:0
 /
 ffff0000:00b5:270f
 	c 282000:6900000:2:5:15:0
@@ -114,7 +114,7 @@ ffff0000:044d:a401
 end
 services
 e300:ffff0000:0245:270f:1:0
-KAZAKH TV
+Ukraina 24
 p:Unitymedia
 e301:ffff0000:0245:270f:1:0
 Pro TV International
@@ -607,7 +607,7 @@ p:Unitymedia
 p:Unitymedia
 6dca:ffff0000:044d:a401:1:0
 Das Erste
-p:ARD,c:000065,c:010066,c:020068,c:030065
+p:ARD
 6dcb:ffff0000:044d:a401:1:0
 BR Fernsehen Süd
 p:ARD
@@ -681,7 +681,7 @@ e6e5:ffff0000:024f:270f:1:0
 RTS Sat
 p:Unitymedia
 e6e6:ffff0000:024f:270f:1:0
-Spiegel TV Wissen
+Curiosity Channel
 p:Unitymedia
 e6e7:ffff0000:024f:270f:1:0
 Nick.Jr.
@@ -1224,7 +1224,7 @@ p:Unitymedia
 13th Street HD
 p:Unitymedia
 621b:ffff0000:01b9:270f:25:0
-Spiegel TV Wissen HD 
+Curiosity Channel HD
 p:Unitymedia
 011f:ffff0000:000c:0085:25:0
 Sky Sport Bundesliga 4 HD
@@ -1357,7 +1357,7 @@ Prime Video Sportsbar
 p:SKY
 2b5c:ffff0000:041b:a401:25:0
 Das Erste HD
-p:ARD,c:00177a,c:011784,c:02178e,c:03177a,c:050001
+p:ARD
 a85d:ffff0000:01af:270f:25:0
 CNN International HD
 p:Unitymedia
@@ -1728,3 +1728,4 @@ p:ARD
 Lokalprogramm
 p:Unitymedia
 end
+Edited with dreamboxEDIT 7.2.0.0 on 07Mai2022 13:35:17
