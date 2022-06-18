@@ -1,6 +1,4 @@
 #NAME IPTV Ukrayina | Ukraine (TV)
-#SERVICE 4097:0:1:66:0:0:0:0:0:0:https%3a//kv-k21-mc03.ollcdn.net/trku-live/20/2cd64b8df9370872830fc8ee2017bff3/62670bd0/ukrainahd/ukrainahd.m3u8:Telekanal Ukraina  |  novyny  |  Nachrichten
-#DESCRIPTION Telekanal Ukraina  |  novyny  |  Nachrichten
 #SERVICE 4097:0:19:66:0:0:0:0:0:0:http%3a//91.194.79.46%3a8081/stream1/channel1/chunks.m3u8:1TB Odesa  |  novyny  |  Nachrichten
 #DESCRIPTION 1TB Odesa  |  novyny  |  Nachrichten
 #SERVICE 4097:0:19:66:0:0:0:0:0:0:https%3a//d188n8dlntn7yl.cloudfront.net/hls/06.m3u8:Kyiv Live  |  novyny  |  Nachrichten
