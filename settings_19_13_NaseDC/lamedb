@@ -1165,7 +1165,7 @@ Cinemax 2 HD
 p:Cyfrowy Polsat S.A.
 1326:00820000:33f4:013e:1:0
 JSTV 2 HD
-p:Harmonic
+p:Telespazio
 3e26:00820000:2ee0:013e:1:0
 13 Ulica HD
 p:Cyfrowy Polsat S.A.
@@ -1248,7 +1248,7 @@ p:OVERON
 AXN HD
 p:Cyfrowy Polsat S.A.
 132a:00820000:33f4:013e:1:0
-Rik Sat
+RIKSat
 p:Telespazio
 332a:00820000:0190:013e:1:0
 11278V SID 0x332a
@@ -1301,6 +1301,9 @@ p:NetMed
 0c2d:00820000:1e78:0071:1:0
 FOX HD
 p:Cyfrowy Polsat S.A.
+232d:00820000:2328:013e:1:0
+Esteghlal
+p:STN
 292d:00820000:1edc:0071:1:0
 Warner TV
 p:Cyfrowy Polsat S.A.
@@ -1920,8 +1923,8 @@ p:Telespazio
 Novasports3HD Cy
 p:NetMed
 134b:00820000:33f4:013e:1:0
-HADI 3
-p:Harmonic
+HADI TV 3
+p:Telespazio
 1f4b:00820000:319c:013e:1:0
 MBS - Test 1
 p:MB Satellite
@@ -1943,6 +1946,9 @@ p:NetMed
 064c:00820000:2454:013e:1:0
 CNC World English
 p:Service Provider
+134c:00820000:33f4:013e:1:0
+Esteghlal FC TV
+p:Harmonic
 264c:00c00000:0460:0001:1:0
 F3 CENTRE
 p:CSAT
@@ -1982,6 +1988,9 @@ p:GLOBECAST
 144f:00820000:05dc:013e:1:0
 Eleven Sports 2 HD
 p:CANAL+
+164f:00c00000:042c:0001:1:0
+Asteroid Day 2022 HD
+p:Harmonic
 2c4f:00820000:1af4:fbff:1:0
 Boomerang +1
 p:SkyItalia
@@ -2080,7 +2089,7 @@ Sky Sport F1
 p:SkyItalia
 2f5a:00c00000:0454:0001:1:0
 Bibel TV
-p:SES ASTRA
+p:HMS GmbH
 315a:00c00000:0459:0001:1:0
 nice
 p:MB Satellite
@@ -2206,7 +2215,7 @@ SES 06
 p:BetaDigital
 1361:00820000:33f4:013e:1:0
 Canale Italia 83
-p:Harmonic
+p:Telespazio
 1f61:00820000:319c:013e:1:0
 MBS - Test 2
 p:MB Satellite
@@ -2239,7 +2248,7 @@ SES 07
 p:BetaDigital
 1362:00820000:33f4:013e:1:0
 Canale Italia 84
-p:Harmonic
+p:Telespazio
 1f62:00820000:319c:013e:1:0
 MBS - Test 3
 p:MB Satellite
@@ -2731,7 +2740,7 @@ FOLX MUSIC TELEVISION
 p:MB Satellite
 1381:00820000:33f4:013e:1:0
 Arte Investimenti
-p:Telespazio
+p:Harmonic
 7581:00c00000:0412:0001:1:0
 11097V SID 0x7581
 p:DVB-S QPSK 11097V 19.2°E
@@ -3742,7 +3751,7 @@ Polsat 2 HD
 p:Cyfrowy Polsat S.A.
 1cbb:00820000:332c:013e:1:0
 Manoto
-p:Manoto
+p:
 1cbb:00820000:1ce8:0071:1:0
 Vivid Touch SD
 p:Cyfrowy Polsat S.A.
@@ -3975,7 +3984,7 @@ p:AB Sat
 PLAYBOY TV HD
 p:CANAL+
 1bc8:00820000:17d4:013e:1:0
-CNNi HD
+EpDr
 p:NetMed
 22c8:00c00000:0434:0001:1:0
 11934V SID 0x22c8
@@ -4272,8 +4281,8 @@ p:NetMed
 ORF2 K
 p:ORF
 39d3:00820000:1fa4:013e:1:0
-Detskiy Mir - TeleClub
-p:Eutelsat
+Detskii Mir
+p:ARC/DCM2 TSOIP
 3dd3:00820000:0640:013e:1:0
 TVN 7 HD
 p:TVN
@@ -4818,7 +4827,7 @@ p:Movistar+
 PRESS TV HD
 p:IRIB
 11fb:00820000:2b5c:013e:1:0
-TRAVELXP 4K
+TravelXP 4K
 p:
 6ffb:00c00000:0436:0001:1:0
 Nick.Jr.
@@ -5287,7 +5296,7 @@ Swiss Jazz
 p:Swiss Satellite Radio
 1355:00820000:33f4:013e:2:0
 Radio Radio
-p:Harmonic
+p:Telespazio
 3355:00820000:1388:013e:2:0
 RFI Chisinau
 p:GLOBECAST
@@ -5314,7 +5323,7 @@ SRF 1 AG SO
 p:Schweizer Radio und Fernsehen
 1359:00820000:33f4:013e:2:0
 Radio Sintony
-p:Harmonic
+p:Telespazio
 3359:00820000:1388:013e:2:0
 RFI Test
 p:GLOBECAST
@@ -5326,7 +5335,7 @@ Laâyoune
 p:SNRT
 135a:00820000:33f4:013e:2:0
 Radio Supersound
-p:Harmonic
+p:Telespazio
 435a:00820000:300c:013e:2:0
 SRF 1 BE FR VS
 p:Schweizer Radio und Fernsehen
@@ -5335,13 +5344,10 @@ Dakhla
 p:SNRT
 135b:00820000:33f4:013e:2:0
 Radio Gamma Stereo
-p:Harmonic
+p:Telespazio
 435b:00820000:300c:013e:2:0
 SRF 1 LU
 p:Schweizer Radio und Fernsehen
-135c:00820000:33f4:013e:2:0
-RIK 3
-p:Telespazio
 435c:00820000:300c:013e:2:0
 SRF 1 SG
 p:Schweizer Radio und Fernsehen
@@ -5352,7 +5358,7 @@ p:Telespazio
 SRF 1 ZH SH
 p:Schweizer Radio und Fernsehen
 135e:00820000:33f4:013e:2:0
-Radio Cusano
+Radio Cusano Campus
 p:Telespazio
 435e:00820000:300c:013e:2:0
 SRF 1 GR
@@ -5369,6 +5375,9 @@ p:STN
 0065:0082afc2:0065:0001:2:0
 VOA Radio ch101
 p:
+1365:00820000:33f4:013e:2:0
+Radio Dimensione Stereo
+p:Telespazio
 0067:0082afc2:0065:0001:2:0
 VOA Radio ch103
 p:
@@ -7527,7 +7536,7 @@ p:ARD
 M+COMEDIA HD
 p:Movistar+
 0f58:00820000:206c:fbff:25:0
-Sky Documentaries
+Sky Documentaries +1 HD
 p:SkyItalia
 1e58:00820000:2198:fbff:25:0
 Sky Sport Action HD
@@ -7587,7 +7596,7 @@ p:CSAT
 Kabelio BBC4/CBBCs
 p:KABELIO.CH
 0f5e:00820000:206c:fbff:25:0
-Sky Documentaries
+Sky Documentaries +1 HD
 p:SkyItalia
 245e:00c00000:0440:0001:25:0
 TOONAMI
@@ -8199,19 +8208,19 @@ p:SKY
 INSIGHT TV HD INT
 p:SES ASTRA
 1194:00c00000:0406:0001:25:0
-SPORTDIGITAL FUSSBALL HD
+SPORTDIGITAL FUSSBALL HD_alt
 p:SES,C:1867
 1195:00c00000:0406:0001:25:0
-SPORT1+
+SPORT1+_alt
 p:SES,C:1867
 1196:00c00000:0406:0001:25:0
-eSPORTS1
+eSPORTS1_alt
 p:SES,C:1867
 1197:00c00000:0406:0001:25:0
-EDGEsport
+EDGEsport_alt
 p:SES,C:1867
 1198:00c00000:0406:0001:25:0
-WAIDWERK
+WAIDWERK_alt
 p:SES,C:1867
 2b98:00c00000:03f2:0001:25:0
 KiKA HD
@@ -8220,7 +8229,7 @@ p:ZDFvision
 Sky Arte +1 HD
 p:SkyItalia
 119a:00c00000:0406:0001:25:0
-ClipMyHorse.TV
+ClipMyHorse.TV_alt
 p:SES,C:1867
 219a:00c00000:0448:0001:25:0
 OCS GEANTS

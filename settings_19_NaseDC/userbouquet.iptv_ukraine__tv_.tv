@@ -5,6 +5,10 @@
 #DESCRIPTION Kyiv Live  |  novyny  |  Nachrichten
 #SERVICE 4097:0:19:66:0:0:0:0:0:0:https%3a//d20b9e9hf06guk.cloudfront.net/hls/odesalive.m3u8:Odessa  |  novyny  |  Nachrichten
 #DESCRIPTION Odessa  |  novyny  |  Nachrichten
+#SERVICE 4097:0:19:66:0:0:0:0:0:0:https%3a//streamvideol.luxnet.ua/34ua/34ua.stream/chunklist.m3u8:YKPAIHA 24  |  novyny  |  Nachrichten
+#DESCRIPTION YKPAIHA 24  |  novyny  |  Nachrichten
+#SERVICE 4097:0:19:66:0:0:0:0:0:0:https%3a//kv-g50-mc05.ollcdn.net/trku-live/17/f3eff9e69a1b5182031b1a3b2bba42cf/62b23ab0/indigo/indigo.m3u8:Indigo TV  | rozvahy | Unterhaltung
+#DESCRIPTION Indigo TV  | rozvahy | Unterhaltung
 #SERVICE 4097:0:19:66:0:0:0:0:0:0:https%3a//media.ukraine-inform.com/ef/stream.m3u8:YHT  | rozvahy | Unterhaltung
 #DESCRIPTION YHT  | rozvahy | Unterhaltung
 #SERVICE 4097:0:1:66:0:0:0:0:0:0:http%3a//stream.atr.ua/lale/live/index.m3u8:LaLe  | ditey  |  Kinder
