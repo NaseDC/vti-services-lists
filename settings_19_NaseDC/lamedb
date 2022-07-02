@@ -323,6 +323,9 @@ services
 0300:00c00000:0007:0085:1:0
 .
 p:BetaDigital
+7000:00c00000:0436:0001:1:0
+Comedy Central HD.
+p:MTV Networks Europe
 7600:00c00000:0408:0001:1:0
 M+ La Resistencia
 p:Movistar+
@@ -683,9 +686,6 @@ p:BetaDigital
 3148:00c00000:0459:0001:1:0
 JuweloTV
 p:MB Satellite
-7a48:00c00000:0410:0001:1:0
-Telesur SD
-p:TSA
 0049:00c00000:0007:0085:1:0
 DMAX Austria
 p:BetaDigital
@@ -1766,6 +1766,9 @@ p:MTV Networks Europe
 18f8:00c00000:03f4:0001:1:0
 RT Esp HD
 p:GLOBECAST
+18f9:00c00000:03f4:0001:1:0
+Telesur English
+p:GLOBECAST
 1af9:00c00000:03fe:0001:1:0
 France 24 (en Francais)
 p:GLOBECAST
@@ -2531,9 +2534,6 @@ p:BetaDigital
 3355:00c00000:045b:0001:22:0
 TV1 OOE
 p:-
-1663:00c00000:042c:0001:22:0
-RADA eng
-p:
 1269:00c00000:03f7:0001:22:0
 Die Neue Zeit TV
 p:BetaDigital
@@ -3622,7 +3622,7 @@ Hope TV
 p:-
 16ac:00c00000:03ff:0001:25:0
 tv.ingolstadt HD
-p:BMT
+p:
 33ac:00c00000:03eb:0001:25:0
 ATV HD
 p:ATV
@@ -3951,7 +3951,7 @@ p:SES
 phoenix HD
 p:ARD
 4203:eeee0000:4004:2114:31:0
-RTL II HD
+RTLZWEI HD
 p:RTL Group
 0004:00c00000:040b:0001:31:0
 SES UHD Demo Channel 03
@@ -4641,4 +4641,4 @@ p:SKY
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 25Jun2022 14:57:49
+Edited with dreamboxEDIT 7.2.0.0 on 02Jul2022 18:13:58
