@@ -999,12 +999,12 @@
 #DESCRIPTION Bociany - ooievaar (Polen)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls15.webcamera.pl/klekusiowo_cam_996002/klekusiowo_cam_996002.stream/playlist.m3u8:Klekusiowo (Polen)
 #DESCRIPTION Klekusiowo (Polen)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls9.webcamera.pl/gminapaslek_cam_7d31ac/gminapaslek_cam_7d31ac.stream/playlist.m3u8:Pasłęk - ooievaar (Polen)
-#DESCRIPTION Pasłęk - ooievaar (Polen)
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//hls9.webcamera.pl/gminapaslek_cam_7d31ac/gminapaslek_cam_7d31ac.stream/playlist.m3u8:Paslek - ooievaar (Polen)
+#DESCRIPTION Paslek - ooievaar (Polen)
 #SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//hoktastream1.webcamera.pl/krakow_cam_66c146/krakow_cam_66c146.stream/playlist.m3u8:Polen - Kraków Pasieka - bijen
 #DESCRIPTION Polen - Kraków Pasieka - bijen
-#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/pszczoly_cam_41eddc/pszczoly_cam_41eddc.stream/playlist.m3u8:Polen - Pszczoły na żywo - bijen
-#DESCRIPTION Polen - Pszczoły na żywo - bijen
+#SERVICE 4097:0:0:0:0:0:0:0:0:0:https%3a//hoktastream2.webcamera.pl/pszczoly_cam_41eddc/pszczoly_cam_41eddc.stream/playlist.m3u8:Polen - Pszczoly na zywo - bijen
+#DESCRIPTION Polen - Pszczoly na zywo - bijen
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls1.webcamera.pl/um_wejherowo_cam_d5888b/um_wejherowo_cam_d5888b.stream/playlist.m3u8:Polen - vogels 1
 #DESCRIPTION Polen - vogels 1
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//hls15.webcamera.pl/klekusiowo_cam_f86c9b/klekusiowo_cam_f86c9b.stream/playlist.m3u8:Polen - vogels 2
@@ -1013,18 +1013,18 @@
 #DESCRIPTION Polen - vogels 3
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//46.29.18.68/live playpath=camera.stream swfUrl=http%3a//www.strzalowo.eu/plugins/system/flowplayerreloaded/flowplayer_r/players/flowplayer-3.2.15.swf pageUrl=http%3a//www.strzalowo.eu:Strzalowo - Schwarzwild -  Polen
 #DESCRIPTION Strzalowo - Schwarzwild -  Polen
-#SERVICE 4097:0:1:498:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/nk/nk.stream_source/playlist.m3u8:Африка 1 (soms)
-#DESCRIPTION Африка 1 (soms)
-#SERVICE 4097:0:1:500:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/id/id.stream_source/playlist.m3u8:Африка 2 (soms)
-#DESCRIPTION Африка 2 (soms)
-#SERVICE 4097:0:1:502:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/tm/tm.stream_source/playlist.m3u8:Африка 3 (soms)
-#DESCRIPTION Африка 3 (soms)
-#SERVICE 4097:0:1:504:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/na/na.stream_source/playlist.m3u8:Африка 4 (soms)
-#DESCRIPTION Африка 4 (soms)
-#SERVICE 4097:0:1:506:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/rc/rc.stream_source/playlist.m3u8:Африка 5 (soms)
-#DESCRIPTION Африка 5 (soms)
-#SERVICE 4097:0:1:508:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/be/be.stream_source/playlist.m3u8:Африка 6 (soms)
-#DESCRIPTION Африка 6 (soms)
+#SERVICE 4097:0:1:498:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/nk/nk.stream_source/playlist.m3u8:?????? 1 (soms)
+#DESCRIPTION ?????? 1 (soms)
+#SERVICE 4097:0:1:500:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/id/id.stream_source/playlist.m3u8:?????? 2 (soms)
+#DESCRIPTION ?????? 2 (soms)
+#SERVICE 4097:0:1:502:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/tm/tm.stream_source/playlist.m3u8:?????? 3 (soms)
+#DESCRIPTION ?????? 3 (soms)
+#SERVICE 4097:0:1:504:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/na/na.stream_source/playlist.m3u8:?????? 4 (soms)
+#DESCRIPTION ?????? 4 (soms)
+#SERVICE 4097:0:1:506:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/rc/rc.stream_source/playlist.m3u8:?????? 5 (soms)
+#DESCRIPTION ?????? 5 (soms)
+#SERVICE 4097:0:1:508:0:0:0:0:0:0:http%3a//stream.africam.com%3a1935/be/be.stream_source/playlist.m3u8:?????? 6 (soms)
+#DESCRIPTION ?????? 6 (soms)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//80.78.116.125/rtplive/ playpath=zoo_ek_hd.stream swfUrl=http%3a//myttk.ru/media/webcam/uppod/uppod.swf pageUrl=http%3a//myttk.ru/media/webcam/cathedral_square/ live=1:Jekaterinburg - Zoo Elefanten - Russian Federation
 #DESCRIPTION Jekaterinburg - Zoo Elefanten - Russian Federation
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//sochi.camera%3a8081/cam_39/tracks-v1/index.m3u8:Sochi 39 - Aquarium Koi
@@ -1061,20 +1061,11 @@
 #DESCRIPTION Milwaukee Zoo - olifanten (USA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.zoosociety.org%3a1935/live/tiger.stream/.m3u8:Milwaukee Zoo - tijger (USA)
 #DESCRIPTION Milwaukee Zoo - tijger (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge01.hdontap.com/ingest02-hd1/oaklandzoocondor_oz.stream/chunklist_w1194867596.m3u8:Oakland Zoo - Black Bear Cam
-#DESCRIPTION Oakland Zoo - Black Bear Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge04.hdontap.com/ingest02-hd1/ventana-ridge_oz.stream/chunklist_w1194867596.m3u8:Oakland Zoo - Condor Cam
-#DESCRIPTION Oakland Zoo - Condor Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge04.hdontap.com/ingest02-hd1/elephant_oz.stream/playlist.m3u8:Oakland Zoo - Elephant Cam
-#DESCRIPTION Oakland Zoo - Elephant Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge02.hdontap.com/ingest02-hd1/sunbear_oz.stream/playlist.m3u8:Oakland Zoo - Sun Bear Cam
-#DESCRIPTION Oakland Zoo - Sun Bear Cam
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//videos3.earthcam.com/fecnetwork/14327.flv/playlist.m3u8:Osprey Cam (USA)
-#DESCRIPTION Osprey Cam (USA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-us1-foxtrot.dropcam.com/nexus_aac/bda684bac9f44198ad6c00965548978a/chunklist_w50024147.m3u8:Piranha Webcam (USA)
 #DESCRIPTION Piranha Webcam (USA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge04.hdontap.com/ingest03-reidparkzoo/elephant-exhibit_rpz.stream/chunklist_w143667312.m3u8:REID PARK ZOO - ELEPHANT
 #DESCRIPTION REID PARK ZOO - ELEPHANT
-#SERVICE 4097:0:19:69:C:85:C00000:0:0:0:http%3a//web%3aout@30.doesntexist.org%3a99/stream/channelid/1710758027?profile=pass:1:noSignal
+#SERVICE 4097:0:19:69:C:85:C00000:0:0:0:http%3a//web%3aout@30.doesntexist.org%3a99/stream/channelid/1710758027?profile=pass%3a1:noSignal
 #DESCRIPTION noSignal
-#SERVICE 1:64:0:0:0:0:0:0:0:0::+++  End ++
+#SERVICE 1:64:0:0:0:0:0:0:0:0::+++  End +
+#DESCRIPTION +++  End +
