@@ -1,10 +1,14 @@
-#NAME Sky Deutschland iCAM
-#SERVICE 1:64:42:0:0:0:0:0:0:0::---------- HD Deutschland ----------
-#DESCRIPTION ---------- HD Deutschland ----------
-#SERVICE 1:0:19:14B7:407:1:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a14B7%3a407%3a1%3aC00000%3a0%3a0%3a0%3a:PULS4 HD Austria
-#DESCRIPTION PULS4 HD Austria
-#SERVICE 1:64:44:0:0:0:0:0:0:0::---------- Kino ----------
-#DESCRIPTION ---------- Kino ----------
+#NAME Sky Deutschland streamrelay
+#SERVICE 1:0:16:194:B:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a16%3a194%3aB%3a85%3aC00000%3a0%3a0%3a0%3a:Cartoon Network
+#DESCRIPTION Cartoon Network
+#SERVICE 1:0:16:1C:C:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a16%3a1C%3aC%3a85%3aC00000%3a0%3a0%3a0:Boomerang
+#DESCRIPTION Boomerang
+#SERVICE 1:0:16:13:2:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a16%3a13%3a2%3a85%3aC00000%3a0%3a0%3a0%3a:Junior
+#DESCRIPTION Junior
+#SERVICE 1:0:16:1B:D:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a16%3a1B%3aD%3a85%3aC00000%3a0%3a0%3a0%3a:Nicktoons
+#DESCRIPTION Nicktoons
+#SERVICE 1:0:1:6FFB:436:1:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a1%3a6FFB%3a436%3a1%3aC00000%3a0%3a0%3a0:Nick Jr
+#DESCRIPTION Nick Jr
 #SERVICE 1:0:19:83:6:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a83%3a6%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Cinema Premieren HD
 #DESCRIPTION Sky Cinema Premieren HD
 #SERVICE 1:0:19:87:B:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a87%3aB%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Cinema Premieren +24 HD
@@ -31,8 +35,6 @@
 #DESCRIPTION Warner TV Film HD
 #SERVICE 1:0:19:88:B:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a88%3aB%3a85%3aC00000%3a0%3a0%3a0%3a:Warner TV Comedy HD
 #DESCRIPTION Warner TV Comedy HD
-#SERVICE 1:64:45:0:0:0:0:0:0:0::---------- Fernsehserie ----------
-#DESCRIPTION ---------- Fernsehserie ----------
 #SERVICE 1:0:19:6E:D:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a6E%3aD%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Atlantic HD
 #DESCRIPTION Sky Atlantic HD
 #SERVICE 1:0:19:7C:C:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a7C%3aC%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Replay HD
@@ -49,8 +51,6 @@
 #DESCRIPTION Warner TV Serie HD
 #SERVICE 1:0:16:206:2:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a16%3a206%3a2%3a85%3aC00000%3a0%3a0%3a0%3a:Romance TV
 #DESCRIPTION Romance TV
-#SERVICE 1:64:46:0:0:0:0:0:0:0::---------- Unterhaltung ----------
-#DESCRIPTION ---------- Unterhaltung ----------
 #SERVICE 1:0:19:93:2:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a93%3a2%3a85%3aC00000%3a0%3a0%3a0%3a:Sky One HD
 #DESCRIPTION Sky One HD
 #SERVICE 1:0:19:80:B:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a80%3aB%3a85%3aC00000%3a0%3a0%3a0%3a:E! Entertainm. HD
@@ -61,8 +61,6 @@
 #DESCRIPTION Heimatkanal
 #SERVICE 1:0:19:8E:B:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a8E%3aB%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Showcase HD
 #DESCRIPTION Sky Showcase HD
-#SERVICE 1:64:47:0:0:0:0:0:0:0::---------- Sport ----------
-#DESCRIPTION ---------- Sport ----------
 #SERVICE 1:0:19:6C:C:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a6C%3aC%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Sport News HD
 #DESCRIPTION Sky Sport News HD
 #SERVICE 1:0:19:155:3:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a155%3a3%3a85%3aC00000%3a0%3a0%3a0%3a:Prime Video Sportsbar
@@ -145,26 +143,6 @@
 #DESCRIPTION Sky Sport Austria 6 HD
 #SERVICE 1:0:19:105:B:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a105%3aB%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Sport Austria 7 HD
 #DESCRIPTION Sky Sport Austria 7 HD
-#SERVICE 1:0:19:10E:6:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a10E%3a6%3a85%3aC00000%3a0%3a0%3a0%3a:Eurosport360HD 1
-#DESCRIPTION Eurosport360HD 1
-#SERVICE 1:0:19:118:2:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a118%3a2%3a85%3aC00000%3a0%3a0%3a0%3a:Eurosport360HD 2
-#DESCRIPTION Eurosport360HD 2
-#SERVICE 1:0:19:122:C:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a122%3aC%3a85%3aC00000%3a0%3a0%3a0%3a:Eurosport360HD 3
-#DESCRIPTION Eurosport360HD 3
-#SERVICE 1:0:19:12C:9:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a12C%3a9%3a85%3aC00000%3a0%3a0%3a0%3a:Eurosport360HD 4
-#DESCRIPTION Eurosport360HD 4
-#SERVICE 1:0:19:136:4:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a136%3a4%3a85%3aC00000%3a0%3a0%3a0%3a:Eurosport360HD 5
-#DESCRIPTION Eurosport360HD 5
-#SERVICE 1:0:19:140:3:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a140%3a3%3a85%3aC00000%3a0%3a0%3a0%3a:Eurosport360HD 6
-#DESCRIPTION Eurosport360HD 6
-#SERVICE 1:0:19:14A:3:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a14A%3a3%3a85%3aC00000%3a0%3a0%3a0%3a:Eurosport360HD 7
-#DESCRIPTION Eurosport360HD 7
-#SERVICE 1:0:19:154:10:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a154%3a10%3a85%3aC00000%3a0%3a0%3a0%3a:Eurosport360HD 8
-#DESCRIPTION Eurosport360HD 8
-#SERVICE 1:0:19:104:B:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a104%3aB%3a85%3aC00000%3a0%3a0%3a0%3a:Eurosport360HD 9
-#DESCRIPTION Eurosport360HD 9
-#SERVICE 1:64:48:0:0:0:0:0:0:0::---------- Kultur ----------
-#DESCRIPTION ---------- Kultur ----------
 #SERVICE 1:0:19:70:D:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a70%3aD%3a85%3aC00000%3a0%3a0%3a0%3a:NatGeo HD
 #DESCRIPTION NatGeo HD
 #SERVICE 1:0:19:76:6:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a76%3a6%3a85%3aC00000%3a0%3a0%3a0%3a:Nat Geo Wild HD
@@ -181,23 +159,7 @@
 #DESCRIPTION Sky Documentaries HD
 #SERVICE 1:0:19:F:2:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3aF%3a2%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Nature HD
 #DESCRIPTION Sky Nature HD
-#SERVICE 1:64:49:0:0:0:0:0:0:0::---------- Musik ----------
-#DESCRIPTION ---------- Musik ----------
 #SERVICE 1:0:16:191:B:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a16%3a191%3aB%3a85%3aC00000%3a0%3a0%3a0%3a:Jukebox
 #DESCRIPTION Jukebox
-#SERVICE 1:64:4A:0:0:0:0:0:0:0::---------- Kinder ----------
-#DESCRIPTION ---------- Kinder ----------
-#SERVICE 1:0:16:194:B:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a16%3a194%3aB%3a85%3aC00000%3a0%3a0%3a0%3a:Cartoon Network
-#DESCRIPTION Cartoon Network
-#SERVICE 1:0:16:1C:C:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a16%3a1C%3aC%3a85%3aC00000%3a0%3a0%3a0:Boomerang
-#DESCRIPTION Boomerang
-#SERVICE 1:0:16:13:2:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a16%3a13%3a2%3a85%3aC00000%3a0%3a0%3a0%3a:Junior
-#DESCRIPTION Junior
-#SERVICE 1:0:16:1B:D:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a16%3a1B%3aD%3a85%3aC00000%3a0%3a0%3a0%3a:Nicktoons
-#DESCRIPTION Nicktoons
-#SERVICE 1:0:1:6FFB:436:1:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a1%3a6FFB%3a436%3a1%3aC00000%3a0%3a0%3a0:Nick Jr
-#DESCRIPTION Nick Jr
-#SERVICE 1:64:4B:0:0:0:0:0:0:0::---------- Erotische ----------
-#DESCRIPTION ---------- Erotische ----------
 #SERVICE 1:0:19:85:3:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a85%3a3%3a85%3aC00000%3a0%3a0%3a0%3a:Beate Uhse HD
 #DESCRIPTION Beate Uhse HD
