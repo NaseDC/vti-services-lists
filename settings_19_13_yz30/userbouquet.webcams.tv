@@ -1063,8 +1063,6 @@
 #DESCRIPTION Milwaukee Zoo - tijger (USA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-us1-foxtrot.dropcam.com/nexus_aac/bda684bac9f44198ad6c00965548978a/chunklist_w50024147.m3u8:Piranha Webcam (USA)
 #DESCRIPTION Piranha Webcam (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//edge04.hdontap.com/ingest03-reidparkzoo/elephant-exhibit_rpz.stream/chunklist_w143667312.m3u8:REID PARK ZOO - ELEPHANT
-#DESCRIPTION REID PARK ZOO - ELEPHANT
 #SERVICE 4097:0:19:8D:1:85:C00000:0:0:0:http%3a//web%3aout@3derghbbkgftreshkljkj.dontexist.org%3a9981/stream/channelid/1843014749?profile=pass%3a1:noSignal
 #DESCRIPTION noSignal
 #SERVICE 1:64:0:0:0:0:0:0:0:0::+++  End +
