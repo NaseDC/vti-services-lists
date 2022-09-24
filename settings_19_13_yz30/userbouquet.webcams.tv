@@ -1057,8 +1057,6 @@
 #DESCRIPTION Milwaukee Zoo - ijsbeer (USA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.zoosociety.org%3a1935/live/lion.stream/.m3u8:Milwaukee Zoo - leeuw (USA)
 #DESCRIPTION Milwaukee Zoo - leeuw (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.zoosociety.org%3a1935/live/elephant.stream/.m3u8:Milwaukee Zoo - olifanten (USA)
-#DESCRIPTION Milwaukee Zoo - olifanten (USA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.zoosociety.org%3a1935/live/tiger.stream/.m3u8:Milwaukee Zoo - tijger (USA)
 #DESCRIPTION Milwaukee Zoo - tijger (USA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-us1-foxtrot.dropcam.com/nexus_aac/bda684bac9f44198ad6c00965548978a/chunklist_w50024147.m3u8:Piranha Webcam (USA)
