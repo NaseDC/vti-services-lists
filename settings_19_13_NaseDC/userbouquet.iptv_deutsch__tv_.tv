@@ -73,9 +73,9 @@
 #DESCRIPTION Servus TV HD
 #SERVICE 4097:0:19:2887:40F:1:C00000:0:0:0:https%3a//tagesschau.akamaized.net/hls/live/2020117/tagesschau/tagesschau_3/master_720.m3u8:tagesschau24 HD
 #DESCRIPTION tagesschau24 HD
-#SERVICE 4097:0:19:2888:40F:1:C00000:0:0:0:rtsp%3a//192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,558,1641,1651,1652,1653:ONE HD
+#SERVICE 4097:0:19:2888:40F:1:C00000:0:0:0:rtsp%3a//192.168.178.1:ONE HD
 #DESCRIPTION ONE HD
-#SERVICE 4097:0:1:6F47:445:1:C00000:0:0:0:rtsp%3a//192.168.178.1:554/?avm=1&freq=210&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,558,1641,1651,1652,1653:ARD-alpha
+#SERVICE 4097:0:1:6F47:445:1:C00000:0:0:0:rtsp%3a//192.168.178.1:ARD-alpha
 #DESCRIPTION ARD-alpha
 #SERVICE 4097:0:19:2B7A:3F3:1:C00000:0:0:0:https%3a//zdf-hls-16.akamaized.net/hls/live/2016499/de/veryhigh/master.m3u8:ZDF_neo HD
 #DESCRIPTION ZDF_neo HD
@@ -83,7 +83,7 @@
 #DESCRIPTION ZDFinfo HD
 #SERVICE 4097:0:19:2873:425:1:C00000:0:0:0:https%3a//hrhlsde.akamaized.net/hls/live/2024526/hrhlsde/master-1080p-6596.m3u8:hr-fernsehen HD
 #DESCRIPTION hr-fernsehen HD
-#SERVICE 4097:0:19:2855:401:1:C00000:0:0:0:rtsp%3a//192.168.178.1:554/?avm=1&freq=250&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,258,523,524,525,526,528,1551,1561,1562,1563,1564,5209:BR Fernsehen Süd HD
+#SERVICE 4097:0:19:2855:401:1:C00000:0:0:0:rtsp%3a//192.168.178.1:BR Fernsehen Süd HD
 #DESCRIPTION BR Fernsehen Süd HD
 #SERVICE 4097:0:19:2872:425:1:C00000:0:0:0:https%3a//mdrtvsnhls.akamaized.net/hls/live/2016928/mdrtvsn/master_1280x720.m3u8:MDR Thüringen HD
 #DESCRIPTION MDR Thüringen HD
@@ -93,7 +93,7 @@
 #DESCRIPTION SWR BW HD
 #SERVICE 4097:0:19:286F:425:1:C00000:0:0:0:https%3a//rbb-hls-brandenburg.akamaized.net/hls/live/2017825/rbb_brandenburg/master-1080p-5128.m3u8:rbb Berlin HD
 #DESCRIPTION rbb Berlin HD
-#SERVICE 4097:0:19:288A:40F:1:C00000:0:0:0:rtsp%3a//192.168.178.1:554/?avm=1&freq=250&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,261,553,554,555,556,558,1641,1652,1653,4370,4372:SR Fernsehen HD
+#SERVICE 4097:0:19:288A:40F:1:C00000:0:0:0:rtsp%3a//192.168.178.1:SR Fernsehen HD
 #DESCRIPTION SR Fernsehen HD
 #SERVICE 4097:0:1:6EE1:4B1:1:C00000:0:0:0:https%3a//rbhlslive.akamaized.net/hls/live/2020435/rbfs/master-720p-3628.m3u8:Radio Bremen TV
 #DESCRIPTION Radio Bremen TV
@@ -113,9 +113,9 @@
 #DESCRIPTION Super RTL
 #SERVICE 4097:0:1:32DB:45D:1:C00000:0:0:0:rtsp%3a//192.168.178.1%3a554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,269,633,634:RiC
 #DESCRIPTION RiC
-#SERVICE 4097:0:1:7008:436:1:C00000:0:0:0:rtsp%3a//192.168.178.1:554/?avm=1&freq=226&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,265,593,594,595,1771:Nick
+#SERVICE 4097:0:1:7008:436:1:C00000:0:0:0:rtsp%3a//192.168.178.1:Nick
 #DESCRIPTION Nick
-#SERVICE 4097:0:19:2777:409:1:C00000:0:0:0:rtsp%3a//192.168.178.1:554/?avm=1&freq=282&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,263,573,574,575,1711:MTV
+#SERVICE 4097:0:19:2777:409:1:C00000:0:0:0:rtsp%3a//192.168.178.1:MTV
 #DESCRIPTION MTV
 #SERVICE 4097:0:1:41:7:85:C00000:0:0:0:rtsp%3a//192.168.178.1%3a554/?avm=1&freq=306&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,1621:DELUXE MUSIC
 #DESCRIPTION DELUXE MUSIC
@@ -149,7 +149,7 @@
 #DESCRIPTION Juwelo
 #SERVICE 4097:0:19:1518:455:1:C00000:0:0:0:rtsp%3a//192.168.178.1%3a554/?freq=242&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,257,513,514,518,1531:Sonnenklar TV HD
 #DESCRIPTION Sonnenklar TV HD
-#SERVICE 4097:0:1:0:0:0:0:6:7:9:rtsp%3a//192.168.178.1%3a554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,1621:NRWision HD
+#SERVICE 4097:0:1:0:0:0:0:0:0:0:rtsp%3a//192.168.178.1%3a554/?avm=1&freq=138&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,260,543,544,1621:NRWision HD
 #DESCRIPTION NRWision HD
 #SERVICE 4097:0:1:3138:459:1:C00000:0:0:0:rtsp%3a//192.168.178.1%3a554/?avm=1&freq=186&bw=8&msys=dvbc&mtype=256qam&sr=6900&specinv=0&pids=0,16,17,18,20,264,583,584,1741:Home & Garden TV
 #DESCRIPTION Home & Garden TV
