@@ -32,6 +32,8 @@
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//80.78.116.125/rtplive/ playpath=zoo_ek_hd.stream swfUrl=http%3a//myttk.ru/media/webcam/uppod/uppod.swf pageUrl=http%3a//myttk.ru/media/webcam/cathedral_square/ live=1:Jekaterinburg - Zoo Elefanten
 #DESCRIPTION Jekaterinburg - Zoo Elefanten
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee/tlnzoo playpath=cam1286 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/oja.html:Zoo Amur-Leopard I
+#SERVICE 4097:0:19:8D:1:85:C00000:0:0:0:http%3a//web%3aout@30.doesntexist.org%3a9981/stream/channelid/1710758027?profile=pass%3a1:noSignal
+#DESCRIPTION noSignal
 #DESCRIPTION Zoo Amur-Leopard I
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:rtmp%3a//rtmp1.digisilm.ee%3a80/tlnzoo playpath=cam7626 swfUrl=http%3a//www.interactivezoo.eu/player.swf pageUrl=http%3a//www.interactivezoo.eu/kannu.html:Zoo Amur-Leopard II
 #DESCRIPTION Zoo Amur-Leopard II
@@ -1051,17 +1053,7 @@
 #DESCRIPTION Gainesville - vogels (USA)
 #SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videos3.earthcam.com/fecnetwork/4798.flv/playlist.m3u8:Greenville Zoo - giraf 1 (USA)
 #DESCRIPTION Greenville Zoo - giraf 1 (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//videos3.earthcam.com/fecnetwork/4597.flv/playlist.m3u8:Greenville Zoo - giraf 2 (USA)
-#DESCRIPTION Greenville Zoo - giraf 2 (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.zoosociety.org%3a1935/live/polarbear.stream/.m3u8:Milwaukee Zoo - ijsbeer (USA)
-#DESCRIPTION Milwaukee Zoo - ijsbeer (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.zoosociety.org%3a1935/live/lion.stream/.m3u8:Milwaukee Zoo - leeuw (USA)
-#DESCRIPTION Milwaukee Zoo - leeuw (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:http%3a//live.zoosociety.org%3a1935/live/tiger.stream/.m3u8:Milwaukee Zoo - tijger (USA)
-#DESCRIPTION Milwaukee Zoo - tijger (USA)
-#SERVICE 4097:0:1:0:0:0:0:0:0:0:https%3a//stream-us1-foxtrot.dropcam.com/nexus_aac/bda684bac9f44198ad6c00965548978a/chunklist_w50024147.m3u8:Piranha Webcam (USA)
-#DESCRIPTION Piranha Webcam (USA)
-#SERVICE 4097:0:19:8D:1:85:C00000:0:0:0:http%3a//web%3aout@3derghbbkgftreshkljkj.dontexist.org%3a9981/stream/channelid/1843014749?profile=pass%3a1:noSignal
+#SERVICE 4097:0:19:8D:1:85:C00000:0:0:0:http%3a//web%3aout@30.doesntexist.org%3a9981/stream/channelid/1710758027?profile=pass%3a1:noSignal
 #DESCRIPTION noSignal
 #SERVICE 1:64:0:0:0:0:0:0:0:0::+++  End +
 #DESCRIPTION +++  End +
