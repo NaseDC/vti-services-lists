@@ -1,4 +1,4 @@
-NAME Kabel TV - SAT-IP Client
+#NAME Kabel-TV
 #SERVICE 1:64:C:0:0:0:0:0:0:0::Kabel FritzBox 6xxx hat virtuelle C Tuner
 #DESCRIPTION Kabel FritzBox 6xxx hat virtuelle C Tuner
 #SERVICE 1:0:19:7F:1:85:FFFF0000:0:0:0:
