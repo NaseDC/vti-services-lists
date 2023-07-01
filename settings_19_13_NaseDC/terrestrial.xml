@@ -3,7 +3,7 @@
 ################################################
 ### terrestial.xml by NaseDC VTi Kanallisten ###
 ###        Kanalbelegung ab 29.08.2019       ###
-###            Stand: 25.12.2020             ###
+###            Stand: 09.06.2023             ###
 ###                                          ###
 ###           ! ! ! Attention ! ! !          ###
 ### DVB-T2 works with the Dualtuner (TT3L10) ###
@@ -280,6 +280,13 @@
 		<transponder centre_frequency="682000000" bandwidth="0" constellation="3"/><!-- Ch 47 -->
 		<transponder centre_frequency="690000000" bandwidth="0" constellation="3"/><!-- Ch 48 -->
 		<transponder centre_frequency="698000000" bandwidth="0" constellation="3"/><!-- Ch 49 -->
+	</terrestrial>
+ 	<terrestrial name="1 meins: DVB-T2" flags="1" countrycode="DEU" system="1">
+		<transponder centre_frequency="538000000" bandwidth="0" constellation="2" code_rate_hp="8" code_rate_lp="8" guard_interval="7" transmission_mode="5" hierarchy_information="4" inversion="2"/><!-- Ch 29 -->
+		<transponder centre_frequency="586000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="0" guard_interval="7" transmission_mode="5" hierarchy_information="4" inversion="2"/><!-- Ch 35 -->
+		<transponder centre_frequency="626000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="1" transmission_mode="6" hierarchy_information="4" inversion="2"/><!-- Ch 40 -->
+		<transponder centre_frequency="650000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="1" transmission_mode="6" hierarchy_information="4" inversion="2"/><!-- Ch 43 -->
+		<transponder centre_frequency="690000000" bandwidth="0" constellation="2" code_rate_hp="1" code_rate_lp="1" guard_interval="1" transmission_mode="6" hierarchy_information="4" inversion="2"/><!-- Ch 48 -->
 	</terrestrial>
 	<terrestrial name="Baden-Württemberg: DVB-T2" flags="1" countrycode="DEU" system="1">
 		<transponder centre_frequency="474000000" bandwidth="0" constellation="2" code_rate_hp="0" code_rate_lp="0" guard_interval="6" transmission_mode="5" hierarchy_information="4" inversion="2"/><!-- Ch 21 -->
