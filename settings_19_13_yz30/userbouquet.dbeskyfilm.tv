@@ -7,8 +7,6 @@
 #DESCRIPTION Sky Cinema Family HD
 #SERVICE 1:0:19:74:3:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a74%3a3%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Cinema Action HD
 #DESCRIPTION Sky Cinema Action HD
-#SERVICE 1:0:19:E:2:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3aE%3a2%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Comedy HD
-#DESCRIPTION Sky Comedy HD
 #SERVICE 1:0:19:B:4:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3aB%3a4%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Cinema Thriller HD
 #DESCRIPTION Sky Cinema Thriller HD
 #SERVICE 1:0:19:6B:C:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a6B%3aC%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Cinema Best Of HD
