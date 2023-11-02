@@ -2,7 +2,7 @@
 <!-- 
 ################################################
 ### satellites.xml by NaseDC VTi Kanallisten ###
-###             date: 21.08.2023            ###
+###             date: 19.10.2023            ###
 ################################################
 
 # <sat name="Astra 1KR/1L/1M/1N (19.2E)" flags="5" position="192">
@@ -66,7 +66,7 @@ fec_inner=15: None
 		<transponder frequency="11117000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 130 -->
 		<transponder frequency="11137000" symbol_rate="27500000" polarization="0" fec_inner="3" system="0" modulation="1"/><!-- TP 131 -->
 		<transponder frequency="11158000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 132 -->
-		<transponder frequency="11179000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 133 -->
+		<transponder frequency="11179000" symbol_rate="27500000" polarization="0" fec_inner="2" system="1" modulation="2"/><!-- TP 133 -->
 		<transponder frequency="11258000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 3 -->
 		<transponder frequency="11278000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 4 -->
 		<transponder frequency="11296000" symbol_rate="27500000" polarization="0" fec_inner="4" system="0" modulation="1"/><!-- TP 5 -->
@@ -82,7 +82,7 @@ fec_inner=15: None
 		<transponder frequency="11566000" symbol_rate="29900000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 153 -->
 		<transponder frequency="11585000" symbol_rate="27500000" polarization="1" fec_inner="4" system="1" modulation="2"/><!-- TP 154 -->
 		<transponder frequency="11642000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 157 -->
-		<transponder frequency="11662000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 158 -->
+		<transponder frequency="11662000" symbol_rate="27500000" polarization="1" fec_inner="2" system="1" modulation="2"/><!-- TP 158 -->
 		<transponder frequency="11681000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 159 -->
 		<transponder frequency="11727000" symbol_rate="29900000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 50 -->
 		<transponder frequency="11747000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 51 -->
@@ -102,13 +102,14 @@ fec_inner=15: None
 		<transponder frequency="12015000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 65 -->
 		<transponder frequency="12034000" symbol_rate="29900000" polarization="1" fec_inner="4" system="1" modulation="1"/><!-- TP 66 -->
 		<transponder frequency="12054000" symbol_rate="29900000" polarization="0" fec_inner="4" system="1" modulation="1"/><!-- TP 67 -->
+		<transponder frequency="12054000" symbol_rate="29900000" polarization="1" fec_inner="4" system="1" modulation="1"/><!-- TP 68 -->
 		<transponder frequency="12092000" symbol_rate="29900000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 69 -->
 		<transponder frequency="12111000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1"/><!-- TP 70 -->
 		<transponder frequency="12130000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 71 -->
 		<transponder frequency="12149000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1"/><!-- TP 72 -->
 		<transponder frequency="12169000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 73 -->
 		<transponder frequency="12188000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 74 -->
-		<transponder frequency="12207000" symbol_rate="29700000" polarization="1" fec_inner="2" system="1" modulation="1"/><!-- TP 75 -->
+		<transponder frequency="12207000" symbol_rate="29700000" polarization="1" fec_inner="2" system="1" modulation="2"/><!-- TP 75 -->
 		<transponder frequency="12226000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1"/><!-- TP 76 -->
 		<transponder frequency="12245000" symbol_rate="29900000" polarization="0" fec_inner="4" system="1" modulation="1"/><!-- TP 77 -->
 		<transponder frequency="12265000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 78 -->
@@ -123,7 +124,6 @@ fec_inner=15: None
 		<transponder frequency="12466000" symbol_rate="29900000" polarization="1" fec_inner="4" system="1" modulation="1"/><!-- TP 88 -->
 		<transponder frequency="12476000" symbol_rate="29900000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 89 -->
 		<transponder frequency="12520000" symbol_rate="27500000" polarization="1" fec_inner="4" system="1" modulation="1"/><!-- TP 90 -->
-		<transponder frequency="12539000" symbol_rate="31430000" polarization="0" fec_inner="2" system="1" modulation="1"/><!-- TP 91 -->		
 		<transponder frequency="12558000" symbol_rate="27500000" polarization="1" fec_inner="4" system="1" modulation="2"/><!-- TP 92 -->
 		<transponder frequency="12577000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 93 -->
 		<transponder frequency="12597000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1"/><!-- TP 94 -->
@@ -168,6 +168,7 @@ fec_inner=15: None
 		<transponder frequency="11362000" symbol_rate="22000000" polarization="0" fec_inner="2" system="1" modulation="2"/><!-- TP 11 -->
 		<transponder frequency="11376000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2"/><!-- TP 12 -->
 		<transponder frequency="11391000" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1"/><!-- TP 13 -->
+		<transponder frequency="11406000" symbol_rate="26000000" polarization="1" fec_inner="5" system="1" modulation="2"/><!-- TP 14 -->
 		<transponder frequency="11421000" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1"/><!-- TP 15 -->
 		<transponder frequency="11436000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2"/><!-- TP 16 -->
 		<transponder frequency="11464000" symbol_rate="22000000" polarization="0" fec_inner="2" system="1" modulation="2"/><!-- TP 17 -->

@@ -2,7 +2,7 @@
 <!-- 
 ################################################
 ### satellites.xml by NaseDC VTi Kanallisten ###
-###             date: 21.08.2023            ###
+###             date: 19.10.2023            ###
 ################################################
 
 # <sat name="Astra 1KR/1L/1M/1N (19.2E)" flags="5" position="192">
@@ -86,6 +86,7 @@ fec_inner=15: None
 		<transponder frequency="11362000" symbol_rate="22000000" polarization="0" fec_inner="2" system="1" modulation="2"/><!-- TP 11 -->
 		<transponder frequency="11376000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2"/><!-- TP 12 -->
 		<transponder frequency="11391000" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1"/><!-- TP 13 -->
+		<transponder frequency="11406000" symbol_rate="26000000" polarization="1" fec_inner="5" system="1" modulation="2"/><!-- TP 14 -->
 		<transponder frequency="11421000" symbol_rate="22000000" polarization="0" fec_inner="4" system="0" modulation="1"/><!-- TP 15 -->
 		<transponder frequency="11436000" symbol_rate="22000000" polarization="1" fec_inner="2" system="1" modulation="2"/><!-- TP 16 -->
 		<transponder frequency="11464000" symbol_rate="22000000" polarization="0" fec_inner="2" system="1" modulation="2"/><!-- TP 17 -->
