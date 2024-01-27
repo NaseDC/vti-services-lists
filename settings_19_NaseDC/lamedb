@@ -308,6 +308,9 @@ p:BetaDigital
 7000:00c00000:0436:0001:1:0
 Comedy Central HD.
 p:MTV Networks Europe
+0001:00c00000:0001:0001:1:0
+MM2 Service 1
+p:RR
 0301:00c00000:0007:0085:1:0
 Channel21
 p:BetaDigital
@@ -316,7 +319,7 @@ Disney Channel
 p:BetaDigital
 0002:00c00000:0001:0001:1:0
 MM2 Service 2
-p:MX1
+p:RR
 0202:00c00000:0007:0085:1:0
 Immer etwas Neues TV
 p:BetaDigital
@@ -696,7 +699,7 @@ p:ARD
 .
 p:BetaDigital
 3146:00c00000:0459:0001:1:0
-rhein main tv
+JuweloTV
 p:MB Satellite
 6e46:00c00000:0431:0001:1:0
 MDR Thüringen
@@ -777,7 +780,7 @@ p:MB Satellite
 Bibel TV
 p:SES ASTRA
 315a:00c00000:0459:0001:1:0
-nice
+Trigger.FM
 p:MB Satellite
 315b:00c00000:0459:0001:1:0
 Babestation24
@@ -869,9 +872,6 @@ p:ProSiebenSat.1
 1265:00c00000:03f7:0001:1:0
 SES 10
 p:BetaDigital
-3165:00c00000:0459:0001:1:0
-Trigger.FM
-p:MB Satellite
 4465:00c00000:0453:0001:1:0
 kabel eins Doku
 p:ProSiebenSat.1
@@ -1134,7 +1134,7 @@ p:RTL
 11097V SID 0x7585
 p:DVB-S QPSK 11097V 19.2°E
 7885:00c00000:0414:0001:1:0
-M+ VACACIONES
+M+ LOS GOYA
 p:Movistar+
 7586:00c00000:0412:0001:1:0
 11097V SID 0x7586
@@ -1387,7 +1387,7 @@ F3 POITOUCHAR
 p:CSAT
 33a6:00c00000:03eb:0001:1:0
 Volksmusik.TV NEU
-p:-
+p:
 74a6:00c00000:041c:0001:1:0
 10758V SID 0x74a6
 p:DVB-S2 8PSK 10758V 19.2°E
@@ -1454,6 +1454,9 @@ p:ORS
 75b2:00c00000:0422:0001:1:0
 ALQUILER
 p:DIGITAL+
+24b9:00c00000:043c:0001:1:0
+12090V SID 0x24b9
+p:DVB-S2 8PSK 12090V 19.2°E
 23bc:00c00000:044a:0001:1:0
 12363V SID 0x23bc
 p:DVB-S QPSK 12363V 19.2°E
@@ -1467,7 +1470,7 @@ p:ProSiebenSat.1
 F3 PROV ALPES
 p:CSAT
 77bd:00c00000:040a:0001:1:0
-M+ LALIGA TV 3
+M+ Copa del Rey
 p:Movistar+
 14be:00c00000:0407:0001:1:0
 SAT.1 Gold Österreich
@@ -1870,7 +1873,7 @@ Radio Gloria
 p:MB Satellite
 3178:00c00000:0459:0001:2:0
 Schlager Radio
-p:MB Satellite,c:031fff
+p:MB Satellite
 1c79:00c00000:0457:0001:2:0
 Radio Horeb
 p:SES ASTRA
@@ -2248,7 +2251,7 @@ MDR KULTUR
 p:ARD MDR
 28ee:00c00000:0425:0001:10:0
 MDR JUMP
-p:ARD MDR,c:030349
+p:ARD MDR
 28ef:00c00000:0425:0001:10:0
 MDR SPUTNIK
 p:ARD MDR
@@ -2269,7 +2272,7 @@ Antenne Brbg.
 p:ARD rbb
 28f7:00c00000:0425:0001:10:0
 rbb 88.8
-p:ARD rbb,c:0303a3
+p:ARD rbb
 28f8:00c00000:0425:0001:10:0
 radioeins
 p:ARD rbb
@@ -2484,7 +2487,7 @@ p:BetaDigital
 Aristo.TV
 p:ORF
 1269:00c00000:03f7:0001:22:0
-Die Neue Zeit TV
+.
 p:BetaDigital
 5277:00c00000:041d:0001:22:0
 SES 75
@@ -2785,7 +2788,7 @@ DAZN F1 HD
 p:Movistar+
 1332:00c00000:03ef:0001:25:0
 DF1 HD
-p:ServusTV
+p:DF1 Medien
 2332:00c00000:0442:0001:25:0
 INFOSPORT+
 p:CSAT
@@ -2977,7 +2980,7 @@ CANAL+SERIES
 p:CSAT
 2b66:00c00000:03f3:0001:25:0
 ZDF HD
-p:ZDFvision,c:0017de,c:0217f2,c:0317de,c:0417ea,c:050001
+p:ZDFvision
 2267:00c00000:0438:0001:25:0
 CINE+ FRISSON
 p:CSAT
@@ -3048,7 +3051,7 @@ p:ARD
 Deluxe Rock HD
 p:SES,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 006f:00c00000:000d:0085:25:0
-Sky Cinema Special HD
+Sky Cinema Transformers HD
 p:SKY
 206f:00c00000:0432:0001:25:0
 BFM BUSINESS
@@ -3126,7 +3129,7 @@ p:ProSiebenSat.1,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
 RMC STORY
 p:CSAT
 2775:00c00000:0409:0001:25:0
-BILD HD
+1-2-3.tv HD2
 p:BetaDigital
 ef75:00c00000:03f9:0001:25:0
 ProSieben HD
@@ -3188,6 +3191,9 @@ p:SKY
 157c:00c00000:041f:0001:25:0
 Disney Channel HD
 p:BetaDigital,C:186d,C:186a,C:1860,C:1843,C:1842,C:1830
+277c:00c00000:0409:0001:25:0
+BILD HD
+p:BetaDigital
 427c:00c00000:0446:0001:25:0
 AUTOMOTO la chaine
 p:AB SAT,C:0500,C:0100
@@ -3396,7 +3402,7 @@ p:ZDFvision
 MEZZO LIVE
 p:DIGITAL+
 74a3:00c00000:041c:0001:25:0
-M+ LALIGA TV 3 HD
+M+ Copa del Rey HD
 p:Movistar+
 23a4:00c00000:044a:0001:25:0
 ASSOCIATION MATERIEL
@@ -3406,7 +3412,7 @@ RTLZWEI HD Austria
 p:CBC
 13a7:00c00000:03ea:0001:25:0
 Al Jazeera English HD
-p:SES ASTRA
+p:Al Jazeera
 33a7:00c00000:03eb:0001:25:0
 ATV2 HD
 p:ATV
@@ -3723,7 +3729,7 @@ p:ORF
 NATIONAL GEOGRAPHIC  WILD
 p:CSAT
 33fe:00c00000:03ed:0001:25:0
-Flimmit
+Service 13310
 p:ORF
 21ff:00c00000:044c:0001:25:0
 TF1 SERIES FILMS
@@ -3936,7 +3942,7 @@ p:MEDIA BROADCAST
 QVC UHD
 p:MX1
 4286:eeee0000:4072:2114:31:0
-INSIGHT TV HD (connect)
+INPLUS. (connect)
 p:MEDIA BROADCAST
 4289:eeee0000:4072:2114:31:0
 Couchplay (connect)
@@ -3990,7 +3996,7 @@ p:MEDIA BROADCAST
 kabel eins Doku (connect)
 p:MEDIA BROADCAST
 429b:eeee0000:4072:2114:31:0
-Servus TV (connect)
+under construction (connect)
 p:MEDIA BROADCAST
 06b1:eeee0000:6b00:2114:31:0
 rbb Berlin HD (Internet)
@@ -4395,4 +4401,4 @@ p:CSAT
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.0.0 on 03Jan2024 12:50:20
+Edited with dreamboxEDIT 7.2.0.0 on 27Jan2024 15:10:08
