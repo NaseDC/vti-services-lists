@@ -9,7 +9,7 @@
 #DESCRIPTION Sky Cinema Action
 #SERVICE 1:0:19:8B:2:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a8B%3a2%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Cinema Family
 #DESCRIPTION Sky Cinema Family
-#SERVICE 1:0:19:204:6:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a204%3a6%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Cinema Classics
+#SERVICE 1:0:19:6B:C:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a6B%3aC%3a85%3aC00000%3a0%3a0%3a0%3a:Sky Cinema Classics
 #DESCRIPTION Sky Cinema Classics
 #SERVICE 1:0:19:93:2:85:21:0:0:0:http%3a//127.0.0.1%3a17999/1%3a0%3a19%3a93%3a2%3a85%3aC00000%3a0%3a0%3a0%3a:Sky One
 #DESCRIPTION Sky One
