@@ -3739,10 +3739,10 @@ tagesschau24 HD
 p:ARD
 0404:eeee0000:6b00:2114:31:0
 WDR HD Düsseldorf
-p:ARD
+p:ARD,c:0000d3,c:0200d6,c:0300d3,c:050006
 4204:eeee0000:4004:2114:31:0
 n-tv HD
-p:RTL Group
+p:RTL Group,c:000191,c:020196,c:030191,c:050006,C:06cb
 0005:00c00000:040b:0001:31:0
 SES UHD Demo Channel 04
 p:SES
@@ -3763,7 +3763,7 @@ SES UHD Demo Channel 05
 p:SES
 0406:eeee0000:6a00:2114:31:0
 WDR HD Köln
-p:ARD
+p:ARD,c:00006f,c:020072,c:03006f,c:050006
 4206:eeee0000:4004:2114:31:0
 RTLup HD
 p:RTL Group
@@ -3784,10 +3784,10 @@ WDR HD Bonn
 p:ARD
 040b:eeee0000:6b00:2114:31:0
 WDR HD Duisburg
-p:ARD
+p:ARD,c:0000d3,c:0200d6,c:0300d3,c:050006
 040c:eeee0000:6a00:2114:31:0
 Test-R
-p:WDR
+p:WDR,c:00006f,c:020072,c:03006f,c:050006
 101f:00c00000:0451:0035:31:0
 Canal+ Action B2B
 p:M7 Group
@@ -3805,7 +3805,7 @@ BR Fernsehen Süd HD (Internet)
 p:ARD
 4222:eeee0000:4034:2114:31:0
 kabel eins HD
-p:ProSiebenSat.1 Media
+p:ProSiebenSat.1 Media,c:000371,c:020376,c:030371,c:050006,C:06cb
 0623:eeee0000:6a00:2114:31:0
 ARD alpha HD (Internet)
 p:ARD
@@ -3814,7 +3814,7 @@ ARD alpha HD (Internet)
 p:ARD
 0623:eeee0000:6e00:2114:31:0
 ARD alpha HD (Internet)
-p:ARD
+p:ARD,c:000c0d,c:030c0d,c:050006
 4223:eeee0000:4034:2114:31:0
 SIXX HD
 p:ProSiebenSat.1 Media
@@ -3856,7 +3856,7 @@ hr-fernsehen HD (Internet)
 p:ARD
 4241:eeee0000:4061:2114:31:0
 WELT HD
-p:MEDIA BROADCAST
+p:MEDIA BROADCAST,c:000561,c:030561,c:050006,C:06cb
 4242:eeee0000:4061:2114:31:0
 DMAX HD
 p:MEDIA BROADCAST
@@ -3919,10 +3919,10 @@ INPLUS. (connect)
 p:MEDIA BROADCAST
 4289:eeee0000:4072:2114:31:0
 Couchplay (connect)
-p:MEDIA BROADCAST
+p:MEDIA BROADCAST,c:000951,c:030951,c:050006
 428b:eeee0000:4072:2114:31:0
 ANIXE HD Serie (connect)
-p:MEDIA BROADCAST
+p:MEDIA BROADCAST,c:000951,c:030951,c:050006
 428c:eeee0000:4072:2114:31:0
 Motorvision.TV (connect)
 p:MEDIA BROADCAST
@@ -4389,4 +4389,4 @@ p:CSAT
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.1.0 on 26Jan2025 15:08:10
+Edited with dreamboxEDIT 7.2.1.0 on 26Jan2025 15:17:23
