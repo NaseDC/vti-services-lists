@@ -216,14 +216,8 @@ eeee0000:6f00:2114
 00820000:170c:013f
 	s 11900100:27500000:0:3:130:2:0:1:2:2:2
 /
-00820000:26ac:013f
-	s 12692000:27500000:0:3:130:2:0:1:2:2:2
-/
 00820000:2e7c:013f
 	s 10892000:27500000:0:3:130:2:0:1:2:2:2
-/
-00820000:3e1c:013f
-	s 11680820:27500000:0:3:130:2:0:1:2:2:2
 /
 00820000:15e0:fbff
 	s 11843000:29900000:1:3:130:2:0:1:2:0:2
@@ -1041,7 +1035,7 @@ p:Eutelsat
 TVP 2 HD
 p:Cyfrowy Polsat S.A.
 232c:00820000:2328:013e:1:0
-Med Music
+JIN TV
 p:STN
 3e2c:00820000:2ee0:013e:1:0
 Polsat Sport Extra 4
@@ -1052,9 +1046,6 @@ p:DIGITAL +
 782c:00c00000:0428:0001:1:0
 M+LCAMPEON9
 p:Movistar+
-012d:00820000:3e1c:013f:1:0
-TF1
-p:Eutelsat
 052d:00820000:2e7c:013f:1:0
 RMC LIFE
 p:Eutelsat
@@ -1079,9 +1070,6 @@ p:Movistar+
 002e:00c00000:0021:0085:1:0
 Handystar TV 2
 p:BetaDigital
-012e:00820000:3e1c:013f:1:0
-FRANCE 2
-p:Eutelsat
 052e:00820000:2e7c:013f:1:0
 LCI
 p:Eutelsat
@@ -1094,9 +1082,6 @@ p:Telespazio
 772e:00c00000:0416:0001:1:0
 NICKELODEON
 p:Movistar+
-012f:00820000:3e1c:013f:1:0
-FRANCE 3
-p:Eutelsat
 0c2f:00820000:1e78:0071:1:0
 History HD
 p:Cyfrowy Polsat S.A.
@@ -1136,9 +1121,6 @@ p:COSMO
 7830:00c00000:0428:0001:1:0
 LALIGA TV BAR 4
 p:Movistar+
-0131:00820000:3e1c:013f:1:0
-FRANCE 5
-p:Eutelsat
 0c31:00820000:1e78:0071:1:0
 CI Polsat HD
 p:
@@ -1160,9 +1142,6 @@ p:Movistar+
 7831:00c00000:0428:0001:1:0
 LALIGA TV HYPERMOTION 2
 p:Movistar+
-0132:00820000:3e1c:013f:1:0
-M6
-p:Eutelsat
 0c32:00820000:1e78:0071:1:0
 History HD
 p:
@@ -1181,9 +1160,6 @@ p:BetaDigital
 0033:00820000:2580:00d5:1:0
 NOVA
 p:VIVACOM
-0133:00820000:3e1c:013f:1:0
-ARTE
-p:Eutelsat
 0c33:00820000:1e78:0071:1:0
 Polsat Sport Extra 1
 p:Cyfrowy Polsat S.A.
@@ -1202,9 +1178,6 @@ p:Cyfrowy Polsat S.A.
 7733:00c00000:0416:0001:1:0
 M+ VAMOS
 p:Movistar+
-0134:00820000:3e1c:013f:1:0
-T18
-p:Eutelsat
 0134:00820000:157c:013e:1:0
 ANT1 HD
 p:NOVA
@@ -1229,18 +1202,12 @@ p:Movistar+
 0035:00c00000:0007:0085:1:0
 .
 p:BetaDigital
-0135:00820000:3e1c:013f:1:0
-W9
-p:Eutelsat
 1135:00820000:2af8:013e:1:0
 TVS
 p:CANAL+
 4235:00820000:2f44:013e:1:0
 BeJoy.kids
 p:M-Three Satcom
-0136:00820000:3e1c:013f:1:0
-TMC
-p:Eutelsat
 2336:00820000:2328:013e:1:0
 GO-TV CHANNEL
 p:STN
@@ -1253,9 +1220,6 @@ p:Rai
 7736:00c00000:0416:0001:1:0
 M+Cine Español
 p:Movistar+
-0137:00820000:3e1c:013f:1:0
-TFX
-p:Eutelsat
 0c37:00820000:1e78:0071:1:0
 Polsat Doku HD
 p:Cyfrowy Polsat SA
@@ -1268,9 +1232,6 @@ p:SCP2100
 0038:00c00000:000f:0085:1:0
 .
 p:BetaDigital
-0138:00820000:3e1c:013f:1:0
-NOVO 19
-p:Eutelsat
 1138:00820000:2af8:013e:1:0
 TVP HD
 p:CANAL+
@@ -1292,9 +1253,6 @@ p:Telespazio
 7738:00c00000:0416:0001:1:0
 24 HORAS
 p:24H
-0139:00820000:3e1c:013f:1:0
-LCP
-p:Eutelsat
 0139:00820000:157c:013e:1:0
 ERT World Europe
 p:NOVA
@@ -1310,9 +1268,6 @@ p:Telewizja Polska S.A.
 7739:00c00000:0416:0001:1:0
 M+DEPORTES2
 p:Digital+
-013a:00820000:3e1c:013f:1:0
-FRANCE 4
-p:Eutelsat
 013a:00820000:157c:013e:1:0
 Nickelodeon
 p:NOVA
@@ -1349,9 +1304,6 @@ p:Telespazio
 003c:00c00000:0007:0085:1:0
 .
 p:.
-013c:00820000:3e1c:013f:1:0
-CNEWS
-p:Eutelsat
 113c:00820000:2af8:013e:1:0
 Viasat True Crime
 p:CANAL+
@@ -1409,9 +1361,6 @@ p:Telespazio
 0040:00820000:1964:013e:1:0
 VOD 206
 p:Cyfrowy Polsat S.A.
-0140:00820000:3e1c:013f:1:0
-TF1 SERIES FILMS
-p:Eutelsat
 2340:00820000:2328:013e:1:0
 Silk Way
 p:STN
@@ -1430,9 +1379,6 @@ p:BetaDigital
 0041:00820000:1964:013e:1:0
 VOD 207
 p:Cyfrowy Polsat S.A.
-0141:00820000:3e1c:013f:1:0
-L'EQUIPE
-p:Eutelsat
 2941:00c00000:0458:0001:1:0
 ALT_Crime Time
 p:SES
@@ -1445,9 +1391,6 @@ p:SES
 0042:00820000:1964:013e:1:0
 VOD 208
 p:Cyfrowy Polsat S.A.
-0142:00820000:3e1c:013f:1:0
-6TER
-p:Eutelsat
 2342:00820000:2328:013e:1:0
 SMTV
 p:IKOMG
@@ -1460,9 +1403,6 @@ p:Telespazio
 6e42:00c00000:0431:0001:1:0
 Deluxe Dance by Kontor
 p:SES
-0143:00820000:3e1c:013f:1:0
-RMC STORY
-p:Eutelsat
 0143:00820000:157c:013e:1:0
 Novasports5HD
 p:NOVA
@@ -1478,9 +1418,6 @@ p:Telespazio
 6e43:00c00000:0431:0001:1:0
 Just Cooking
 p:SES
-0144:00820000:3e1c:013f:1:0
-RMC DECOUVERTE
-p:Eutelsat
 1644:00c00000:042c:0001:1:0
 DW English HD
 p:Deutsche Welle
@@ -1496,9 +1433,6 @@ p:SES
 0045:00820000:1964:013e:1:0
 Nicktoons HD
 p:Cyfrowy Polsat S.A.
-0145:00820000:3e1c:013f:1:0
-RMC LIFE
-p:Eutelsat
 0145:00820000:157c:013e:1:0
 M1_TEST4
 p:NOVA
@@ -1511,9 +1445,6 @@ p:SES
 0046:00c00000:0007:0085:1:0
 .
 p:BetaDigital
-0146:00820000:3e1c:013f:1:0
-LCI
-p:Eutelsat
 4246:00820000:3db8:013e:1:0
 Radio Italia Live
 p:Telespazio
@@ -1640,9 +1571,6 @@ p:Telespazio
 0654:00820000:2454:013e:1:0
 Noursat English
 p:ViewMedia
-0655:00820000:2454:013e:1:0
-SRS - TV
-p:
 1155:00820000:2af8:013e:1:0
 TVC SUPER
 p:CANAL+
@@ -1799,9 +1727,6 @@ p:BetaDigital
 1362:00820000:33f4:013e:1:0
 Canale Italia 84
 p:Telespazio
-3162:00c00000:0459:0001:1:0
-Steiermark TV
-p:SES
 3d62:00820000:2c88:013e:1:0
 FilmBox Family
 p:CANAL+
@@ -2645,9 +2570,6 @@ p:CANAL+
 3c9b:00820000:1bbc:013e:1:0
 Novasports3HD Cy
 p:NOVA
-429b:eeee0000:4072:2114:1:0
-538000 SID 0x429b
-p:
 769b:00c00000:041e:0001:1:0
 M+DEPORTES6
 p:Movistar+
@@ -2702,9 +2624,6 @@ p:Digital+
 019f:00820000:1518:013e:1:0
 Novasports Premier League
 p:NOVA
-019f:00820000:26ac:013f:1:0
-BFM TV
-p:Eutelsat
 3a9f:00820000:0514:013e:1:0
 Cinemax HD
 p:CANAL+
@@ -2732,9 +2651,6 @@ p:BARNA
 01a1:00820000:1518:013e:1:0
 Disney Channel
 p:NOVA
-01a1:00820000:26ac:013f:1:0
-CSTAR
-p:Eutelsat
 33a1:00820000:3390:0071:1:0
 Polsat HD
 p:Cyfrowy Polsat S.A.
@@ -2744,9 +2660,6 @@ p:CANAL+
 01a2:00820000:1518:013e:1:0
 Animal Planet HD
 p:NOVA
-01a2:00820000:26ac:013f:1:0
-GULLI
-p:Eutelsat
 1ca2:00820000:1ce8:0071:1:0
 RMF FM
 p:Cyfrowy Polsat S.A.
@@ -2756,9 +2669,6 @@ p:Cyfrowy Polsat S.A.
 01a3:00820000:1518:013e:1:0
 Disney Channel
 p:NOVA
-01a3:00820000:26ac:013f:1:0
-FRANCEINFO:
-p:Eutelsat
 33a3:00820000:3390:0071:1:0
 TV4 HD 
 p:Cyfrowy Polsat S.A.
@@ -2768,9 +2678,6 @@ p:DIGITAL+
 01a4:00820000:1518:013e:1:0
 Novasports Prime HD
 p:NOVA
-01a4:00820000:26ac:013f:1:0
-Ushuaia
-p:
 1ca4:00820000:1ce8:0071:1:0
 RMF Classic
 p:Cyfrowy Polsat S.A.
@@ -2780,9 +2687,6 @@ p:Movistar+
 01a5:00820000:1518:013e:1:0
 Novasports Prime HD CY
 p:NOVA
-01a5:00820000:26ac:013f:1:0
-Equidia
-p:
 06a5:00820000:3138:013e:1:0
 TV CORAN
 p:GLOBECAST
@@ -3143,9 +3047,6 @@ p:TVE 1
 77c2:00c00000:040a:0001:1:0
 M+DEPORTES3
 p:Digital +
-01c3:00820000:26ac:013f:1:0
-RTL9
-p:AB Sat
 02c3:00820000:14b4:013e:1:0
 Sports First
 p:MuxIP
@@ -3158,9 +3059,6 @@ p:MOVISTAR+
 77c3:00c00000:040a:0001:1:0
 M+LCAMPEON2
 p:Movistar+
-01c4:00820000:26ac:013f:1:0
-AB1
-p:AB Sat
 02c4:00820000:14b4:013e:1:0
 Bare Knuckles Fighting Championship
 p:MuxIP
@@ -3176,9 +3074,6 @@ p:MOVISTAR+
 77c4:00c00000:040a:0001:1:0
 M+LCAMPEON5
 p:Movistar+
-01c5:00820000:26ac:013f:1:0
-AUTOMOTO la chaine
-p:AB Sat
 02c5:00820000:14b4:013e:1:0
 MVMT Movement of Culture
 p:MuxIP
@@ -3194,9 +3089,6 @@ p:
 76c5:00c00000:040e:0001:1:0
 LALIGA TV BAR 2
 p:Movistar
-01c6:00820000:26ac:013f:1:0
-ANIMAUX
-p:AB Sat
 02c6:00820000:14b4:013e:1:0
 AWE
 p:MuxIP
@@ -3209,9 +3101,6 @@ p:DIGITAL+
 77c6:00c00000:040a:0001:1:0
 M+ CLÁSICOS
 p:Movistar+
-01c7:00820000:26ac:013f:1:0
-CHASSE et PECHE
-p:AB Sat
 02c7:00820000:14b4:013e:1:0
 WildTV
 p:MuxIP
@@ -3224,9 +3113,6 @@ p:TCM
 77c7:00c00000:040a:0001:1:0
 DreamWorks
 p:Movistar+
-01c8:00820000:26ac:013f:1:0
-TV Breizh
-p:AB Sat
 02c8:00820000:14b4:013e:1:0
 World Fishing Network
 p:MuxIP
@@ -3242,9 +3128,6 @@ p:NC
 77c8:00c00000:040a:0001:1:0
 M+DEPORTES5
 p:Digital+
-01c9:00820000:26ac:013f:1:0
-Crime District
-p:AB Sat
 02c9:00820000:1b58:013e:1:0
 RTP International
 p:Telespazio
@@ -3269,9 +3152,6 @@ p:Movistar+
 77c9:00c00000:040a:0001:1:0
 M+DEPORTES8
 p:Movistar+
-01ca:00820000:26ac:013f:1:0
-TREK
-p:AB Sat
 1bca:00820000:17d4:013e:1:0
 Novacinema2HD
 p:NOVA
@@ -3287,9 +3167,6 @@ p:DIGITAL+
 76ca:00c00000:040e:0001:1:0
 M+ HITS
 p:Movistar+
-01cb:00820000:26ac:013f:1:0
-TOUTE L'HISTOIRE
-p:AB Sat
 1bcb:00820000:17d4:013e:1:0
 COSMOTESport4HD
 p:NOVA
@@ -3317,9 +3194,6 @@ p:CANAL+
 76cc:00c00000:040e:0001:1:0
 TELEDEPORTE
 p:TDEP
-01cd:00820000:26ac:013f:1:0
-ACTION
-p:AB Sat
 29cd:00820000:1c20:013e:1:0
 TELE CONGO
 p:GLOBECAST
@@ -3329,9 +3203,6 @@ p:CANAL+
 3acd:00820000:0514:013e:1:0
 teleTOON+ HD
 p:CANAL+
-01ce:00820000:26ac:013f:1:0
-MANGAS
-p:AB Sat
 1bce:00820000:17d4:013e:1:0
 COSMOTESport6HD
 p:NOVA
@@ -3341,9 +3212,6 @@ p:
 76ce:00c00000:040e:0001:1:0
 BBC FOOD
 p:Movistar+
-01cf:00820000:26ac:013f:1:0
-Science et Vie
-p:AB Sat
 22cf:00c00000:0434:0001:1:0
 F3 CHAMP ARDENNE
 p:CSAT
@@ -3374,9 +3242,6 @@ p:GLOBECAST
 3ad1:00820000:0514:013e:1:0
 Cinemax HD
 p:CANAL+
-01d2:00820000:26ac:013f:1:0
-Téva
-p:AB Sat
 1bd2:00820000:17d4:013e:1:0
 Cartoonito HD
 p:NOVA
@@ -3398,9 +3263,6 @@ p:NOVA
 3ad3:00820000:0514:013e:1:0
 CANAL+ SPORT 4 HD
 p:CANAL+
-01d4:00820000:26ac:013f:1:0
-XXL
-p:AB Sat
 1bd4:00820000:17d4:013e:1:0
 Adult Pack Info
 p:NOVA
@@ -3410,9 +3272,6 @@ p:SES ASTRA
 1bd5:00820000:17d4:013e:1:0
 Novacinema2HD Cy
 p:NOVA
-01d6:00820000:26ac:013f:1:0
-Padel Time TV
-p:AB Sat
 1bd6:00820000:17d4:013e:1:0
 Novacinema3HD Cy
 p:NOVA
@@ -5767,7 +5626,7 @@ p:VIVACOM
 p:VIVACOM
 6dd1:00c00000:044d:0001:22:0
 Genius Family
-p:TV.2000plus
+p:WISI
 00d2:00820000:25e4:00d5:22:0
 7/8 TV
 p:VIVACOM
@@ -6798,7 +6657,7 @@ p:KABELIO.CH
 Kabelio Puls acht
 p:KABELIO.CH
 106c:00820000:2260:fbff:25:0
-Jason Bourne Collection
+Men in Black Collection
 p:SkyItalia
 296c:00c00000:045a:0001:25:0
 Deluxe Flashback HD
@@ -7965,7 +7824,7 @@ p:
 Kabelio Film 4
 p:KABELIO.CH
 07e7:00820000:22c4:013e:25:0
-BBC PERSIAN
+BBC PERSIAN HD
 p:BBC World Service
 0de7:00820000:1838:fbff:25:0
 Sky Sport Tennis
@@ -8414,6 +8273,9 @@ p:MEDIA BROADCAST
 429a:eeee0000:4072:2114:31:0
 kabel eins Doku (connect)
 p:MEDIA BROADCAST
+429b:eeee0000:4072:2114:31:0
+ShopLC HD (connect)
+p:MEDIA BROADCAST
 06b1:eeee0000:6b00:2114:31:0
 rbb Berlin HD (Internet)
 p:ARD
@@ -8496,7 +8358,7 @@ p:SES ASTRA
 SWR RLP HD
 p:ARD
 11fb:00820000:2b5c:013e:31:0
-TRAVELXP 4K
+TravelXP 4K
 p:TravelXP
 08b5:00820000:01f4:00fc:32:0
 Love Nature 4K

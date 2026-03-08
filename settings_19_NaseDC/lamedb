@@ -701,9 +701,6 @@ p:ProSiebenSat.1
 1262:00c00000:03f7:0001:1:0
 SES 07
 p:BetaDigital
-3162:00c00000:0459:0001:1:0
-Steiermark TV
-p:SES
 4462:00c00000:0453:0001:1:0
 sixx
 p:ProSiebenSat.1
@@ -1088,9 +1085,6 @@ p:SES
 769a:00c00000:041e:0001:1:0
 LALIGA TV BAR 3
 p:Movistar+
-429b:eeee0000:4072:2114:1:0
-538000 SID 0x429b
-p:
 769b:00c00000:041e:0001:1:0
 M+DEPORTES6
 p:Movistar+
@@ -2188,7 +2182,7 @@ volksmusik.tv
 p:
 6dd1:00c00000:044d:0001:22:0
 Genius Family
-p:TV.2000plus
+p:WISI
 33ff:00c00000:03ed:0001:22:0
 Aristo TV
 p:ORF
@@ -3644,6 +3638,9 @@ p:MEDIA BROADCAST
 429a:eeee0000:4072:2114:31:0
 kabel eins Doku (connect)
 p:MEDIA BROADCAST
+429b:eeee0000:4072:2114:31:0
+ShopLC HD (connect)
+p:MEDIA BROADCAST
 06b1:eeee0000:6b00:2114:31:0
 rbb Berlin HD (Internet)
 p:ARD
@@ -4053,4 +4050,4 @@ p:CSAT
 EPG Nagraguide
 p:M7 Group
 end
-Edited with dreamboxEDIT 7.2.1.0 on 03Mrz2026 18:32:03
+Edited with dreamboxEDIT 7.2.1.0 on 08Mrz2026 11:37:13
