@@ -2,7 +2,7 @@
 <!-- 
 ################################################
 ### satellites.xml by NaseDC VTi Kanallisten ###
-###             date: 23.03.2025            ###
+###             date: 29.04.2026            ###
 ################################################
 
 # <sat name="Astra 1KR/1L/1M/1N (19.2E)" flags="5" position="192">
@@ -62,7 +62,6 @@ fec_inner=15: None
 		<transponder frequency="10992000" symbol_rate="27500000" polarization="1" fec_inner="2" system="0" modulation="1"/><!-- TP 124 -->
 		<transponder frequency="11013000" symbol_rate="29900000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 125 -->
 		<transponder frequency="11034000" symbol_rate="27500000" polarization="1" fec_inner="3" system="0" modulation="1"/><!-- TP 126 -->
-		<transponder frequency="11075000" symbol_rate="30000000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 128 -->
 		<transponder frequency="11096000" symbol_rate="30000000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 129 -->
 		<transponder frequency="11117000" symbol_rate="27500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 130 -->
 		<transponder frequency="11137000" symbol_rate="27500000" polarization="0" fec_inner="3" system="0" modulation="1"/><!-- TP 131 -->
@@ -82,7 +81,6 @@ fec_inner=15: None
 		<transponder frequency="11566000" symbol_rate="29900000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 153 -->
 		<transponder frequency="11585000" symbol_rate="27500000" polarization="1" fec_inner="4" system="1" modulation="2"/><!-- TP 154 -->
 		<transponder frequency="11662000" symbol_rate="27500000" polarization="1" fec_inner="2" system="1" modulation="2"/><!-- TP 158 -->
-		<transponder frequency="11681000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 159 -->
 		<transponder frequency="11727000" symbol_rate="29900000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 50 -->
 		<transponder frequency="11747000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 51 -->
 		<transponder frequency="11766000" symbol_rate="29900000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 52 -->
@@ -122,11 +120,11 @@ fec_inner=15: None
 		<transponder frequency="12635000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="2"/><!-- TP 96 -->
 		<transponder frequency="12654000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2"/><!-- TP 97 -->
 		<transponder frequency="12673000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="2"/><!-- TP 98 -->
-		<transponder frequency="12692000" symbol_rate="27500000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 99 -->
 		<transponder frequency="12713000" symbol_rate="30000000" polarization="1" fec_inner="4" system="1" modulation="2"/><!-- TP 100 -->
 		<transponder frequency="12731000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2"/><!-- TP 101 -->
 	</sat>
 	<sat name="Astra 1KR/1L/1M/1N (19.2E)" flags="5" position="192">
+		<transponder frequency="10729000" symbol_rate="23500000" polarization="1" fec_inner="3" system="1" modulation="2"/><!-- TP 50 -->
 		<transponder frequency="10758000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1"/><!-- TP 52 -->
 		<transponder frequency="10773000" symbol_rate="22000000" polarization="0" fec_inner="3" system="1" modulation="2"/><!-- TP 53 -->
 		<transponder frequency="10788000" symbol_rate="22000000" polarization="1" fec_inner="4" system="0" modulation="1"/><!-- TP 54 -->
